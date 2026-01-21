@@ -1,0 +1,363 @@
+title: Phenomenal Gems
+description: Optical phenomena in gemstones including asterism, chatoyancy, adularescence, labradorescence, play of colour, colour change, and aventurescence.
+order: 8
+category: advanced
+difficulty: intermediate
+icon: sparkles
+related:
+  - optical-properties
+  - inclusions
+  - grading-valuation
+tags:
+  - asterism
+  - chatoyancy
+  - opal
+  - moonstone
+  - alexandrite
+  - phenomena
+
+sections:
+  - title: Introduction
+    content: |
+      Phenomenal gems display special optical effects caused by their internal structure,
+      inclusions, or interference of light. These phenomena are highly prized and can
+      significantly increase a gem's value.
+
+      Understanding the causes of each phenomenon helps in identification, quality
+      assessment, and distinguishing natural from synthetic or treated stones.
+
+  - title: Asterism (Star Effect)
+    content: |
+      Asterism is the appearance of a star pattern on the surface of a cabochon-cut gem.
+      It is caused by light reflecting from oriented needle-like inclusions (usually
+      rutile silk) arranged parallel to crystallographic directions.
+    subsections:
+      - title: How Stars Form
+        content: |
+          - Needle inclusions must be oriented along **specific crystal directions**
+          - Light reflects from each set of needles, creating a bright band
+          - Multiple intersecting needle orientations create multiple rays
+          - The stone must be cut **en cabochon** with the base parallel to needle planes
+          - Proper orientation during cutting is critical for centred stars
+
+      - title: Types of Stars
+        table:
+          headers:
+            - Type
+            - Ray Count
+            - Cause
+            - Examples
+          rows:
+            - ["Six-ray star", "6", "Three sets of needles at 60°", "Star ruby, star sapphire"]
+            - ["Four-ray star", "4", "Two sets of needles at 90°", "Star diopside, some garnets"]
+            - ["Twelve-ray star", "12", "Two overlapping 6-ray patterns", "Rare star corundum, star beryl"]
+
+      - title: Star Ruby and Star Sapphire
+        content: |
+          Corundum is the most important source of star gems. The rutile silk (TiO₂ needles)
+          forms along the hexagonal crystal structure, creating three intersecting sets of
+          needles at 120° angles.
+
+          **Quality factors:**
+          - **Sharpness**: Crisp, well-defined rays
+          - **Centering**: Star centred on the dome
+          - **Body colour**: Colour saturation of the host gem
+          - **Transparency**: Semi-translucent to opaque
+          - **Star mobility**: Moves smoothly with light source
+
+  - title: Star Quality Assessment
+    comparison:
+      items:
+        - title: High Quality Stars
+          variant: success
+          points:
+            - Sharp, well-defined rays
+            - Complete rays from girdle to girdle
+            - Centred on cabochon apex
+            - Smooth, fluid movement
+            - Attractive body colour
+            - Good dome height
+        - title: Low Quality Stars
+          variant: warning
+          points:
+            - Fuzzy or diffuse rays
+            - Incomplete or broken rays
+            - Off-centre star position
+            - Jerky or patchy movement
+            - Poor body colour
+            - Flat or overly high dome
+
+  - title: Synthetic and Diffusion Stars
+    callout:
+      type: warning
+      title: Synthetic and Treated Stars
+      text: |
+        **Synthetic star corundum** (Linde stars) show very sharp, perfectly straight rays
+        and often have gas bubbles. Natural stars have slightly softer rays due to natural
+        silk irregularity.
+
+        **Diffusion-treated stars** have star effect only in a thin surface layer. Immersion
+        in methylene iodide reveals colour and silk concentrated at the surface.
+
+  - title: Chatoyancy (Cat's Eye Effect)
+    content: |
+      Chatoyancy is a single band of light that moves across a cabochon surface, resembling
+      a cat's eye. It requires parallel needle or tube inclusions oriented in one direction.
+    subsections:
+      - title: Mechanism
+        content: |
+          - Parallel fibrous or tubular inclusions
+          - Must be cut en cabochon **perpendicular** to inclusion direction
+          - Light reflects from the sides of inclusions
+          - Creates a single bright band (chatoyant band)
+
+      - title: Chrysoberyl Cat's Eye
+        content: |
+          Chrysoberyl cat's eye (cymophane) is the finest and most valuable chatoyant gem.
+          Only chrysoberyl may be called simply "cat's eye"; all others require qualification
+          (e.g., "quartz cat's eye").
+
+          **Key characteristics:**
+          - Strong, sharp chatoyant band
+          - Honey yellow to green body colour
+          - "Milk and honey" effect: band separates lighter and darker zones when lit from side
+          - Fine, dense silk creates superior cats' eyes
+
+      - title: Other Cat's Eye Gems
+        table:
+          headers:
+            - Gem
+            - Typical Colour
+            - Inclusion Type
+          rows:
+            - ["Chrysoberyl", "Honey yellow, green", "Silk needles"]
+            - ["Quartz (tiger's eye)", "Golden brown", "Fibrous crocidolite replaced by quartz"]
+            - ["Tourmaline", "Various", "Growth tubes"]
+            - ["Apatite", "Yellow-green", "Needle inclusions"]
+            - ["Sillimanite", "Grey-green", "Fibrous habit"]
+            - ["Scapolite", "Yellow, pink", "Needle inclusions"]
+
+  - title: Milk and Honey Effect
+    callout:
+      type: info
+      title: Milk and Honey Effect
+      text: |
+        In fine chrysoberyl cat's eye, when lit from one side, the chatoyant band divides
+        the stone into a "milk" (lighter, opaque) zone and "honey" (darker, transparent) zone.
+        This effect indicates dense, even silk distribution and is a sign of quality.
+
+  - title: Adularescence
+    content: |
+      Adularescence is the soft, billowy, bluish-white glow that moves across moonstone.
+      It appears to float just below the surface and has a distinctly ethereal quality.
+    subsections:
+      - title: Cause
+        content: |
+          Moonstone is a feldspar with alternating layers of orthoclase and albite created
+          during cooling. When these layers are thin enough (approaching the wavelength of
+          light), they scatter light through interference.
+
+          - Layer thickness determines colour: thin layers produce blue; thicker layers produce white
+          - Best adularescence requires layers ~0.1 μm thick
+          - The effect is best seen on properly oriented cabochons
+
+      - title: Types of Moonstone
+        table:
+          headers:
+            - Type
+            - Feldspar
+            - Adularescence
+            - Body Colour
+          rows:
+            - ["Classical moonstone", "Orthoclase", "Blue-white schiller", "Colourless to grey"]
+            - ["Rainbow moonstone", "Labradorite", "Multicoloured flashes", "Translucent white"]
+            - ["Peach moonstone", "Orthoclase", "White schiller", "Peach to orange"]
+
+      - title: Quality Factors
+        content: |
+          - **Colour of schiller**: Blue is most prized, then white
+          - **Intensity**: Strong, visible adularescence
+          - **Body colour**: Colourless preferred; grey or yellow less desirable
+          - **Transparency**: More transparent = higher value
+          - **Centred effect**: Adularescence centred on dome
+
+  - title: Labradorescence
+    content: |
+      Labradorescence is the striking play of colours seen in labradorite feldspar.
+      Unlike adularescence, it displays a full spectrum of colours including blue, green,
+      gold, orange, and purple.
+    subsections:
+      - title: Mechanism
+        content: |
+          Caused by light interference from lamellar twinning (repeated thin twin layers)
+          within the feldspar structure. The twin lamellae vary in thickness, producing
+          different interference colours.
+
+          - Most prominent on specific crystal planes (001 cleavage)
+          - Requires proper cutting orientation to display effect
+          - Colours appear in patches or broad flashes
+
+      - title: Spectrolite
+        content: |
+          Finnish labradorite showing the full colour spectrum is called **spectrolite**.
+          It typically displays vivid blues, greens, oranges, and purples in the same stone.
+          Spectrolite commands premium prices.
+
+  - title: Play of Colour
+    content: |
+      Play of colour is the flashing spectral colours seen in precious opal. It is opal's
+      defining characteristic and distinguishes precious opal from common opal.
+    subsections:
+      - title: Cause
+        content: |
+          Opal is composed of orderly stacked spheres of hydrated silica (SiO₂·nH₂O).
+          When spheres are uniform in size (150–400 nm) and regularly arranged, they
+          diffract light like a three-dimensional grating.
+
+          - Sphere size determines colours: larger spheres produce red; smaller produce blue/violet
+          - Regularity of arrangement affects brightness
+          - Random sphere sizes produce common (potch) opal with no play of colour
+
+      - title: Pattern Types
+        table:
+          headers:
+            - Pattern
+            - Description
+            - Relative Value
+          rows:
+            - ["Harlequin", "Large, angular, mosaic-like patches", "Most valuable"]
+            - ["Flagstone", "Large irregular patches", "High"]
+            - ["Floral", "Flower-like patterns", "High"]
+            - ["Rolling flash", "Large colour areas that shift", "Medium-high"]
+            - ["Broad flash", "Single large colour area", "Medium"]
+            - ["Pinfire", "Small, dense points of colour", "Medium"]
+            - ["Flame", "Sweeping streaks of colour", "Medium"]
+
+      - title: Opal Body Tone and Transparency
+        content: |
+          - **Black opal**: Dark grey to black body; colours appear most vivid
+          - **White opal**: Light body tone; common, lower value
+          - **Crystal opal**: Transparent; can show play from both surfaces
+          - **Fire opal**: Orange to red body; may lack play of colour
+          - **Boulder opal**: Ironstone matrix with opal veins
+
+      - title: Precious vs Common Opal
+        content: |
+          - **Precious opal**: Shows play of colour; spheres regularly arranged
+          - **Common opal (potch)**: No play of colour; irregular sphere arrangement
+          - **Fire opal**: Valued for body colour (orange/red); play of colour optional
+
+  - title: Colour Change
+    content: |
+      Colour-change gems display different colours under different light sources
+      (typically daylight vs incandescent). The most famous is alexandrite, which appears
+      green in daylight and red in incandescent light.
+    subsections:
+      - title: Mechanism
+        content: |
+          Colour change occurs when a gem's absorption spectrum has a transmission window
+          that straddles two spectral regions. The different spectral compositions of light
+          sources cause different colours to be perceived.
+
+          - Daylight: Balanced spectrum → reveals one colour
+          - Incandescent: Rich in red, poor in blue → reveals another colour
+          - LED/fluorescent: Variable results depending on spectrum
+
+      - title: Alexandrite
+        content: |
+          Alexandrite is colour-change chrysoberyl, coloured by chromium. It shows:
+
+          - **Daylight**: Green to blue-green
+          - **Incandescent**: Red to purple-red
+          - **Percentage change**: Quality measure (100% = complete colour shift)
+
+          Fine alexandrite with strong colour change is extremely rare and valuable.
+          Russian (Ural) alexandrite historically set the standard.
+
+      - title: Other Colour-Change Gems
+        table:
+          headers:
+            - Gem
+            - Daylight
+            - Incandescent
+            - Cause
+          rows:
+            - ["Alexandrite", "Green", "Red", "Chromium"]
+            - ["Colour-change sapphire", "Blue/violet", "Purple/pink", "Vanadium"]
+            - ["Colour-change garnet", "Blue-green", "Red-purple", "Vanadium + chromium"]
+            - ["Colour-change spinel", "Blue", "Violet", "Cobalt or iron"]
+            - ["Colour-change diaspore", "Yellow-green", "Pink-red", "Manganese"]
+
+      - title: Grading Colour Change
+        content: |
+          Colour change is graded by the percentage shift between colours:
+
+          - **100%**: Complete colour change (green ↔ red with no overlap)
+          - **75–99%**: Strong colour change
+          - **50–74%**: Moderate colour change
+          - **<50%**: Weak colour change
+
+          Both colours should be attractive for maximum value.
+
+  - title: Aventurescence
+    content: |
+      Aventurescence is a glittery, metallic reflection from flat, reflective inclusions
+      within a gem. The effect is named after aventurine glass (from Italian "avventura"
+      meaning chance).
+    subsections:
+      - title: Sunstone
+        content: |
+          Sunstone is feldspar with metallic schiller from oriented platelets:
+
+          - **Oregon sunstone**: Copper platelets; unique to Oregon
+          - **Indian sunstone**: Hematite or goethite platelets
+          - **Norwegian sunstone**: Hematite platelets
+
+          Oregon sunstone may show both aventurescence and transparent areas, sometimes
+          with copper "schiller" creating localised colour.
+
+      - title: Aventurine Quartz
+        content: |
+          Green aventurine contains fuchsite mica (Cr-mica) platelets that create green
+          colour and sparkle. Less commonly, hematite inclusions create orange-red
+          aventurine quartz.
+
+  - title: Iridescence
+    content: |
+      Iridescence is a display of spectral colours caused by light interference from
+      thin layers or structures near the surface.
+    subsections:
+      - title: Surface vs Internal Iridescence
+        content: |
+          - **Surface iridescence**: Thin film on surface (treated topaz coatings)
+          - **Internal iridescence**: Within the stone (fire agate, ammolite)
+
+      - title: Fire Agate
+        content: |
+          Fire agate shows iridescent "flames" from thin layers of iron oxide (goethite/
+          limonite) deposited during formation. The botryoidal (grape-like) surface creates
+          unique three-dimensional colour patterns.
+
+      - title: Ammolite
+        content: |
+          Ammolite is fossilised ammonite shell (aragonite) from Alberta, Canada. The
+          nacre layers create brilliant iridescent colours across the entire spectrum.
+          It is cut thin and often backed or capped for durability.
+
+  - title: Phenomena Comparison
+    table:
+      caption: Optical Phenomena Summary
+      headers:
+        - Phenomenon
+        - Cause
+        - Key Gems
+        - Effect Appearance
+      rows:
+        - ["Asterism", "Oriented needle inclusions", "Star ruby, star sapphire", "4-, 6-, or 12-ray star"]
+        - ["Chatoyancy", "Parallel needle/tube inclusions", "Chrysoberyl cat's eye", "Single moving band"]
+        - ["Adularescence", "Feldspar layer interference", "Moonstone", "Floating blue-white glow"]
+        - ["Labradorescence", "Lamellar twinning interference", "Labradorite, spectrolite", "Multicoloured flashes"]
+        - ["Play of colour", "Silica sphere diffraction", "Precious opal", "Shifting spectral colours"]
+        - ["Colour change", "Selective absorption spectrum", "Alexandrite", "Different colour in daylight/incandescent"]
+        - ["Aventurescence", "Reflective platy inclusions", "Sunstone, aventurine", "Metallic sparkle"]
+        - ["Iridescence", "Thin film interference", "Fire agate, ammolite", "Rainbow colours"]

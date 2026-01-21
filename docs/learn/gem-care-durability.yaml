@@ -1,0 +1,352 @@
+title: Gem Care and Durability
+description: Gemstone stability, cleaning methods, setting recommendations, storage guidelines, and jewellery suitability for different gem species.
+order: 11
+category: advanced
+difficulty: beginner
+icon: shield
+related:
+  - physical-properties
+  - treatments
+  - grading-valuation
+tags:
+  - durability
+  - care
+  - cleaning
+  - stability
+  - settings
+  - jewellery
+
+sections:
+  - title: Introduction
+    content: |
+      Understanding gemstone durability is essential for recommending appropriate settings,
+      cleaning methods, and care instructions. Durability encompasses three factors:
+      hardness, toughness, and stability.
+
+      A gem suitable for everyday ring wear must score well in all three areas. Many
+      beautiful gems are better suited for occasional wear or protected settings.
+
+  - title: The Three Durability Factors
+    comparison:
+      items:
+        - title: Hardness
+          points:
+            - Resistance to scratching
+            - Measured on Mohs scale (1-10)
+            - Important for wear resistance
+            - Gems below 7 scratch easily
+            - Dust contains quartz (H 7)
+        - title: Toughness
+          points:
+            - Resistance to breaking/chipping
+            - Related to crystal structure
+            - Cleavage reduces toughness
+            - Jade is tougher than diamond
+            - Important for impact resistance
+        - title: Stability
+          points:
+            - Resistance to chemicals/light/heat
+            - Fading from light exposure
+            - Damage from heat or acids
+            - Some gems are temperature sensitive
+            - Important for long-term care
+
+  - title: Hardness Considerations
+    content: |
+      The Mohs scale is ordinal, not linear—the jump from 9 to 10 is enormous. Household
+      dust contains quartz particles (H 7), so gems below 7 will gradually accumulate
+      scratches during normal wear.
+    table:
+      caption: Hardness Categories for Jewellery
+      headers:
+        - Category
+        - Hardness
+        - Suitability
+        - Examples
+      rows:
+        - ["Excellent", "8-10", "Daily ring wear", "Diamond, ruby, sapphire, chrysoberyl"]
+        - ["Good", "7-7.5", "Everyday with care", "Quartz, tourmaline, garnet, beryl"]
+        - ["Fair", "6-7", "Occasional wear; protective settings", "Peridot, tanzanite, moonstone"]
+        - ["Poor", "5-6", "Earrings/pendants; very careful ring", "Opal, turquoise, apatite"]
+        - ["Fragile", "<5", "Display or very protected wear", "Pearl, coral, amber, fluorite"]
+
+  - title: Toughness and Cleavage
+    content: |
+      Cleavage—the tendency to break along crystallographic planes—significantly affects
+      toughness. Even hard gems can be brittle.
+    subsections:
+      - title: High-Risk Cleavage Gems
+        table:
+          headers:
+            - Gem
+            - Cleavage
+            - Risk
+          rows:
+            - ["Diamond", "Perfect octahedral {111}", "Can cleave with sharp blow"]
+            - ["Topaz", "Perfect basal {001}", "Very prone to chipping"]
+            - ["Kunzite", "Perfect prismatic", "Extremely fragile for setting"]
+            - ["Fluorite", "Perfect octahedral {111}", "Very brittle"]
+            - ["Tanzanite", "Perfect {010}", "Easily damaged in setting"]
+            - ["Feldspar (moonstone)", "Perfect two directions", "Prone to chipping"]
+
+      - title: Tough Gems
+        content: |
+          Some gems have exceptional toughness despite moderate hardness:
+
+          - **Nephrite jade** (H 6-6.5): Interlocking fibrous structure
+          - **Jadeite** (H 6.5-7): Granular interlocking structure
+          - **Chalcedony** (H 7): Microcrystalline aggregate
+
+          These gems resist chipping better than single-crystal gems of higher hardness.
+
+  - title: Stability Factors
+    content: |
+      Many gems are sensitive to environmental conditions that can cause fading,
+      colour change, or physical damage.
+    subsections:
+      - title: Light Sensitivity
+        table:
+          headers:
+            - Gem
+            - Risk
+            - Notes
+          rows:
+            - ["Kunzite", "High", "Fades significantly; store in dark"]
+            - ["Amethyst", "Moderate", "Can fade with prolonged exposure"]
+            - ["Rose quartz", "Low to moderate", "May fade slightly"]
+            - ["Brown topaz", "High", "Natural brown fades; irradiated stable"]
+            - ["Chrysoprase", "Moderate", "Can fade and dry out"]
+            - ["Turquoise", "Moderate", "Can fade and dehydrate"]
+
+      - title: Heat Sensitivity
+        table:
+          headers:
+            - Gem
+            - Risk
+            - Damage Type
+          rows:
+            - ["Opal", "Very high", "Crazing from dehydration"]
+            - ["Pearl", "High", "Nacre damage, peeling"]
+            - ["Emerald (oiled)", "High", "Oil can exude"]
+            - ["Tanzanite", "High", "Colour may change; cleavage risk"]
+            - ["Tourmaline", "Moderate", "Some colours may change"]
+            - ["Kunzite", "High", "Can lose colour"]
+
+      - title: Chemical Sensitivity
+        table:
+          headers:
+            - Gem
+            - Sensitive To
+            - Effect
+          rows:
+            - ["Pearl", "Acids, perfume, hairspray", "Nacre dissolution"]
+            - ["Coral", "Acids", "Surface etching"]
+            - ["Turquoise", "Oils, cosmetics", "Discolouration"]
+            - ["Malachite", "Acids", "Surface damage"]
+            - ["Lapis lazuli", "Acids", "Pyrite tarnish, surface damage"]
+            - ["Amber", "Solvents, alcohol", "Surface damage"]
+
+  - title: Cleaning Methods
+    content: |
+      Different gems require different cleaning approaches. Using the wrong method can
+      cause permanent damage.
+    subsections:
+      - title: Safe Cleaning Methods
+        table:
+          headers:
+            - Method
+            - Description
+            - Safe For
+            - Never Use For
+          rows:
+            - ["Warm soapy water", "Mild dish soap, soft brush", "Most gems", "Porous gems (turquoise)"]
+            - ["Ultrasonic", "Sound waves agitate cleaning solution", "Diamond, ruby, sapphire (untreated)", "Emerald, tanzanite, opal, pearl"]
+            - ["Steam", "High-pressure steam jet", "Diamond, ruby, sapphire (untreated)", "Filled gems, porous gems, soft gems"]
+            - ["Dry brush", "Soft brush, no liquid", "Porous gems", "N/A (gentle method)"]
+
+      - title: Ultrasonic Cleaning Safety
+        content: |
+          Ultrasonic cleaners use vibration to remove dirt but can cause damage to:
+
+          - **Filled gems**: Can remove or damage fillers (emerald, ruby)
+          - **Gems with cleavage**: Vibration can propagate fractures
+          - **Fragile inclusions**: Can cause expansion/damage
+          - **Organic gems**: Can damage pearl nacre, amber
+          - **Treated gems**: May affect surface treatments
+
+      - title: Steam Cleaning Safety
+        content: |
+          Steam cleaning combines heat and moisture, dangerous for:
+
+          - **Oiled emeralds**: Heat can remove oil
+          - **Heat-sensitive gems**: Thermal shock risk
+          - **Filled gems**: Heat damages many fillers
+          - **Opal**: Rapid temperature change causes crazing
+
+  - title: Cleaning Safety Chart
+    table:
+      caption: Cleaning Method Safety by Gem
+      headers:
+        - Gem
+        - Warm Soapy Water
+        - Ultrasonic
+        - Steam
+      rows:
+        - ["Diamond (natural)", "Safe", "Usually safe", "Usually safe"]
+        - ["Ruby/Sapphire (untreated)", "Safe", "Usually safe", "Usually safe"]
+        - ["Ruby/Sapphire (heated)", "Safe", "Caution", "Caution"]
+        - ["Emerald (oiled)", "Safe", "Never", "Never"]
+        - ["Aquamarine", "Safe", "Usually safe", "Usually safe"]
+        - ["Tanzanite", "Safe", "Never", "Never"]
+        - ["Tourmaline", "Safe", "Caution", "Caution"]
+        - ["Opal", "Caution", "Never", "Never"]
+        - ["Pearl", "Safe (brief)", "Never", "Never"]
+        - ["Turquoise", "Never (dry brush)", "Never", "Never"]
+
+  - title: Setting Recommendations
+    content: |
+      The choice of setting can protect vulnerable gems or expose durable gems to show
+      their beauty.
+    subsections:
+      - title: Protective Settings
+        table:
+          headers:
+            - Setting Type
+            - Protection Level
+            - Best For
+          rows:
+            - ["Bezel", "High", "Soft gems, cleavage-prone gems"]
+            - ["Half-bezel", "Moderate", "Balance of protection and light"]
+            - ["Flush/gypsy", "Very high", "Rings for active wearers"]
+            - ["Halo", "Moderate", "Central stone protected by smaller stones"]
+
+      - title: Exposed Settings
+        table:
+          headers:
+            - Setting Type
+            - Protection Level
+            - Requires
+          rows:
+            - ["Prong/claw", "Low", "Hardness 7+ for rings"]
+            - ["Tension", "Low", "Very hard, tough gems only"]
+            - ["Bar", "Low to moderate", "Harder gems preferred"]
+
+      - title: Setting by Gem Type
+        content: |
+          **Recommended for prong settings (rings):**
+          Diamond, ruby, sapphire, chrysoberyl, spinel
+
+          **Recommend bezel or protective settings:**
+          Emerald, tanzanite, opal, moonstone, tourmaline, peridot
+
+          **Best avoided in rings:**
+          Kunzite, fluorite, apatite, pearl (unless protective setting)
+
+  - title: Storage Guidelines
+    subsections:
+      - title: Separation
+        content: |
+          Store gems separately to prevent harder gems from scratching softer ones:
+
+          - Individual pouches or compartments
+          - Soft fabric lining
+          - Never loose in a box together
+          - Diamond will scratch everything else
+
+      - title: Environment
+        content: |
+          - **Humidity**: Some gems need moisture (opal, pearl); others need dry (iron pyrite)
+          - **Light**: Store light-sensitive gems in dark containers
+          - **Temperature**: Avoid extreme temperatures; room temperature ideal
+          - **Air**: Some gems need ventilation; airtight can trap moisture
+
+      - title: Special Storage Needs
+        table:
+          headers:
+            - Gem
+            - Special Requirements
+          rows:
+            - ["Opal", "Damp cotton nearby; avoid airtight; stable temperature"]
+            - ["Pearl", "Breathable container; occasional wear maintains moisture"]
+            - ["Amber", "Away from solvents and heat"]
+            - ["Kunzite", "Complete darkness"]
+            - ["Turquoise", "Away from oils and cosmetics"]
+
+  - title: Jewellery Suitability Chart
+    table:
+      caption: Gem Suitability by Jewellery Type
+      headers:
+        - Gem
+        - Daily Ring
+        - Occasional Ring
+        - Earrings
+        - Pendant
+        - Bracelet
+      rows:
+        - ["Diamond", "Excellent", "Excellent", "Excellent", "Excellent", "Excellent"]
+        - ["Ruby/Sapphire", "Excellent", "Excellent", "Excellent", "Excellent", "Excellent"]
+        - ["Emerald", "Caution", "Good", "Excellent", "Excellent", "Caution"]
+        - ["Aquamarine", "Good", "Excellent", "Excellent", "Excellent", "Good"]
+        - ["Tanzanite", "Poor", "Caution", "Good", "Good", "Poor"]
+        - ["Tourmaline", "Good", "Excellent", "Excellent", "Excellent", "Good"]
+        - ["Opal", "Poor", "Caution", "Good", "Good", "Poor"]
+        - ["Pearl", "Caution", "Good", "Excellent", "Excellent", "Caution"]
+        - ["Moonstone", "Caution", "Good", "Excellent", "Excellent", "Caution"]
+        - ["Peridot", "Caution", "Good", "Good", "Good", "Caution"]
+        - ["Kunzite", "Poor", "Poor", "Good", "Good", "Poor"]
+        - ["Topaz", "Good", "Excellent", "Excellent", "Excellent", "Good"]
+
+  - title: Special Care Gems
+    subsections:
+      - title: Opal
+        content: |
+          Opal contains 3-21% water and is prone to "crazing" (network of fine cracks):
+
+          - Avoid rapid temperature changes
+          - Store with damp cotton (not wet)
+          - Never use ultrasonic or steam
+          - Keep away from direct sunlight and heat
+          - Doublets and triplets are especially vulnerable to water
+
+      - title: Pearl
+        content: |
+          Pearls are sensitive to acids, cosmetics, and drying:
+
+          - Apply perfume and hairspray before putting on pearls
+          - Wipe with soft cloth after wearing
+          - Store in breathable fabric, not plastic
+          - Restring regularly (silk stretches and weakens)
+          - Occasional wearing maintains moisture balance
+
+      - title: Emerald
+        content: |
+          Nearly all emeralds are oiled to improve apparent clarity:
+
+          - Oil can dry out or exude over time
+          - Avoid ultrasonic and steam cleaning
+          - Avoid heat (jeweller's torch is dangerous)
+          - May need periodic re-oiling
+          - Store away from heat sources
+
+      - title: Tanzanite
+        content: |
+          Tanzanite has perfect cleavage and is heat-sensitive:
+
+          - Extremely vulnerable during setting (cleavage)
+          - Never use ultrasonic or steam
+          - Avoid sudden temperature changes
+          - Not recommended for daily ring wear
+          - Excellent for earrings and pendants
+
+  - title: Care Summary
+    callout:
+      type: tip
+      title: Universal Care Rules
+      text: |
+        1. **Remove rings** during physical work, gardening, sports
+        2. **Put jewellery on last** after cosmetics, perfume, hairspray
+        3. **Remove jewellery first** before showering, swimming, sleeping
+        4. **Clean gently** with appropriate methods for each gem
+        5. **Store separately** in soft, individual compartments
+        6. **Inspect regularly** for loose settings, worn prongs
+        7. **Know your gem** and its specific vulnerabilities

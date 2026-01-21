@@ -1,0 +1,351 @@
+title: Gem Testing Instruments
+description: Standard gemmological instruments including refractometer, polariscope, dichroscope, spectroscope, Chelsea filter, UV lamp, and microscope.
+order: 7
+category: identification
+difficulty: beginner
+icon: microscope
+related:
+  - optical-properties
+  - physical-properties
+  - inclusions
+tags:
+  - refractometer
+  - polariscope
+  - dichroscope
+  - spectroscope
+  - microscopy
+  - identification
+
+sections:
+  - title: Introduction
+    content: |
+      Gemmological testing relies on a suite of standard instruments that measure optical and
+      physical properties. Mastering these tools is fundamental to gem identification and
+      forms the core practical skills tested in the FGA Foundation examination.
+
+      A systematic approach using multiple instruments provides the most reliable identification.
+      No single test is definitive—results should be correlated across several methods.
+
+  - title: The Refractometer
+    content: |
+      The refractometer is the most important gemmological instrument. It measures refractive
+      index (RI) by observing the critical angle of total internal reflection at the
+      gem-to-glass interface.
+    subsections:
+      - title: How It Works
+        content: |
+          Light enters through the gemstone placed on a high-RI glass hemisphere. At angles
+          greater than the critical angle, light is totally internally reflected, creating
+          a shadow edge on the scale. This edge corresponds to the gem's RI.
+
+          - **Contact liquid** (RI ~1.81) bridges the gap between gem and glass
+          - **Scale range** typically 1.35–1.81
+          - **Monochromatic light** (sodium yellow, 589nm) provides accurate readings
+
+      - title: Faceted Stone Technique
+        content: |
+          1. Place a small drop of contact liquid on the hemisphere
+          2. Position the stone table-down on the liquid
+          3. Look through the eyepiece at the scale
+          4. Rotate the stone to find maximum and minimum RI readings
+          5. For uniaxial stones: two readings (ω and ε)
+          6. For biaxial stones: three readings (α, β, γ) but only two visible at once
+
+      - title: Cabochon (Spot Reading) Technique
+        content: |
+          For curved surfaces, use the spot method:
+
+          1. Use minimum contact liquid
+          2. Look for a spot of light rather than a shadow edge
+          3. The spot's position on the scale indicates approximate RI
+          4. Less accurate than faceted readings (±0.01)
+          5. Useful for rough assessment of cabochons and beads
+
+      - title: Troubleshooting
+        content: |
+          - **No reading**: Stone may have RI above contact liquid limit (>1.81)
+          - **Fuzzy edge**: Birefringent stone, dirty contact, or poor polish
+          - **Moving readings**: High birefringence; rotate and record both values
+          - **Very faint reading**: Improve lighting or check stone position
+
+  - title: High-RI Stones
+    callout:
+      type: warning
+      title: Stones Above Refractometer Limits
+      text: |
+        Stones with RI above 1.81 cannot be measured on standard refractometers:
+
+        - **Diamond** (RI 2.417) - Use thermal probe or specific gravity
+        - **Zircon** (RI 1.93–1.98) - May show partial reading
+        - **Demantoid** (RI 1.88) - SG and spectrum for identification
+        - **Sphene** (RI 1.90–2.02) - Identify by high dispersion and birefringence
+
+  - title: The Polariscope
+    content: |
+      The polariscope uses two polarising filters to determine a gem's optical character
+      (isotropic vs. anisotropic) and can reveal strain, twinning, and anomalous double
+      refraction (ADR).
+    subsections:
+      - title: Components and Setup
+        content: |
+          - **Polariser**: Lower filter, fixed position
+          - **Analyser**: Upper filter, can rotate
+          - **Light source**: Below the polariser
+          - **Crossed polars**: Filters at 90° (dark field)
+
+          Place the gem between crossed polars and rotate it 360°.
+
+      - title: Isotropic vs Anisotropic Test
+        table:
+          headers:
+            - Observation
+            - Interpretation
+          rows:
+            - ["Remains dark during rotation", "Isotropic (cubic system or amorphous)"]
+            - ["Light and dark every 90° (4× blink)", "Anisotropic (crystalline, non-cubic)"]
+            - ["Remains light (never dark)", "Aggregate or microcrystalline material"]
+            - ["Patchy light/dark (tabby extinction)", "ADR or strain birefringence"]
+
+      - title: Anomalous Double Refraction (ADR)
+        content: |
+          Some isotropic materials show strain birefringence due to internal stress:
+
+          - **Garnet**: Often shows ADR (especially almandine)
+          - **Spinel**: May show ADR, particularly synthetic
+          - **Diamond**: Can show strain patterns
+
+          ADR appears as irregular light patches that don't follow the normal 4× blink pattern.
+
+  - title: The Dichroscope
+    content: |
+      The dichroscope reveals pleochroism by showing two polarised images side by side.
+      It's essential for identifying coloured anisotropic gems.
+    subsections:
+      - title: Types
+        content: |
+          - **Calcite dichroscope**: Uses calcite rhomb to split image; more accurate
+          - **Polaroid dichroscope**: Uses polarising film; more affordable
+
+      - title: Usage Technique
+        content: |
+          1. View the gem through the dichroscope with strong transmitted light
+          2. Rotate the dichroscope (not the gem) while observing
+          3. Look for colour differences between the two images
+          4. Rotate the gem to find the direction of maximum colour difference
+          5. Record both colours seen
+
+      - title: Interpreting Results
+        table:
+          headers:
+            - Observation
+            - Interpretation
+          rows:
+            - ["Two identical colours", "Isotropic or viewing down optic axis"]
+            - ["Two different colours", "Dichroic (uniaxial) gem"]
+            - ["Three colours (rotate gem)", "Trichroic (biaxial) gem"]
+            - ["No colour", "Colourless or very pale stone"]
+
+  - title: Diagnostic Pleochroism
+    table:
+      caption: Pleochroism by Gemstone
+      headers:
+        - Gemstone
+        - Strength
+        - Colours
+      rows:
+        - ["Ruby", "Strong", "Purple-red / orange-red"]
+        - ["Blue sapphire", "Strong", "Violet-blue / greenish-blue"]
+        - ["Emerald", "Distinct", "Blue-green / yellow-green"]
+        - ["Tanzanite", "Strong (trichroic)", "Blue / purple / brown"]
+        - ["Tourmaline", "Strong", "Variable, often dark / light"]
+        - ["Alexandrite", "Strong (trichroic)", "Green / orange / purple-red"]
+        - ["Kunzite", "Strong", "Pink / colourless"]
+        - ["Iolite", "Very strong (trichroic)", "Violet / blue / pale yellow"]
+        - ["Peridot", "Weak", "Yellow-green / green"]
+        - ["Aquamarine", "Weak", "Colourless / pale blue"]
+
+  - title: The Spectroscope
+    content: |
+      The spectroscope displays the absorption spectrum of a gem, showing which wavelengths
+      of light are absorbed. Certain absorption patterns are diagnostic for specific gems
+      and treatments.
+    subsections:
+      - title: Types
+        content: |
+          - **Prism spectroscope**: Spreads red end more; better resolution in red
+          - **Diffraction grating**: Even spread across spectrum; easier wavelength estimation
+
+      - title: Setup and Technique
+        content: |
+          1. Use strong white light transmitted through the gem
+          2. Position slit close to the stone
+          3. Focus on the spectrum (adjust eyepiece)
+          4. Look for dark lines or bands against the coloured spectrum
+          5. Note position (wavelength in nm) and width of features
+
+      - title: Recording Spectra
+        content: |
+          Record observations systematically:
+
+          - **Lines**: Sharp, narrow features (atomic absorption)
+          - **Bands**: Broader absorption regions
+          - **Cut-off**: Absorption of entire spectral region (e.g., blue cut-off)
+          - **Position**: Wavelength in nanometres (nm)
+
+  - title: Diagnostic Absorption Spectra
+    table:
+      caption: Key Absorption Features
+      headers:
+        - Gemstone
+        - Key Features
+        - Wavelength (nm)
+      rows:
+        - ["Ruby/red spinel", "Cr doublet in red", "694 (doublet)"]
+        - ["Ruby", "Additional Cr lines", "668, 659, fluorescent glow"]
+        - ["Emerald (natural)", "Cr line + Fe bands", "683 + bands in red/yellow"]
+        - ["Blue sapphire", "Fe bands", "450, 460, 470 (three-band)"]
+        - ["Almandine garnet", "Fe bands", "505, 520, 575"]
+        - ["Zircon (high)", "Uranium lines", "Many fine lines throughout"]
+        - ["Demantoid", "Cr line", "443 (horse line)"]
+        - ["Peridot", "Fe bands", "493, 473, 453 (three evenly spaced)"]
+
+  - title: The Chelsea Filter
+    content: |
+      The Chelsea filter transmits only deep red and yellow-green light. It was designed
+      to distinguish Colombian emerald (appears red) from its simulants.
+    subsections:
+      - title: How It Works
+        content: |
+          - Chromium-coloured gems transmit red light → appear **pink to red**
+          - Non-chromium green gems absorb red → appear **green or grey**
+          - The filter is named after the Chelsea Polytechnic where it was developed
+
+      - title: Results and Limitations
+        table:
+          headers:
+            - Stone
+            - Chelsea Filter Reaction
+          rows:
+            - ["Colombian emerald", "Pink to red (Cr content)"]
+            - ["Zambian emerald", "May appear greenish (Fe content)"]
+            - ["Green glass", "Green or grey"]
+            - ["Green tourmaline", "Remains green"]
+            - ["Synthetic emerald", "Strong red (high Cr)"]
+            - ["Blue aquamarine", "Green"]
+            - ["Blue cobalt glass", "Red (cobalt)"]
+            - ["Blue synthetic spinel", "Red (cobalt)"]
+
+  - title: Chelsea Filter Warning
+    callout:
+      type: warning
+      title: Limitations
+      text: |
+        The Chelsea filter is NOT diagnostic for emerald! Synthetic emeralds also appear red,
+        and some natural emeralds (especially Zambian) may not show strong red. Always use
+        additional tests including RI, inclusions, and spectrum.
+
+  - title: The UV Lamp
+    content: |
+      Ultraviolet fluorescence can be diagnostic for certain gems and treatments.
+      Two wavelengths are used: long-wave (LWUV, 365nm) and short-wave (SWUV, 254nm).
+    subsections:
+      - title: LWUV vs SWUV
+        content: |
+          - **LWUV (365nm)**: Safer, penetrates deeper, often stronger reactions
+          - **SWUV (254nm)**: More diagnostic reactions, requires eye protection
+          - Different gems may react differently to each wavelength
+          - Always test in complete darkness for accurate observation
+
+      - title: Safety Considerations
+        content: |
+          - Never look directly at UV light source
+          - Wear UV-blocking glasses, especially with SWUV
+          - Limit exposure time
+          - Keep children away from UV equipment
+
+  - title: Diagnostic Fluorescence Reactions
+    table:
+      caption: UV Fluorescence by Gemstone
+      headers:
+        - Gemstone
+        - LWUV
+        - SWUV
+      rows:
+        - ["Diamond (most)", "Blue", "Blue (may differ)"]
+        - ["Ruby (natural)", "Strong red", "Moderate red"]
+        - ["Ruby (synthetic)", "Very strong red", "Strong red"]
+        - ["Emerald (natural)", "Usually inert", "Inert"]
+        - ["Emerald (synthetic)", "Often red", "Red"]
+        - ["Natural pearl", "Usually inert", "Inert or weak"]
+        - ["Cultured pearl", "Often bluish", "Variable"]
+        - ["Kunzite", "Orange/pink", "Orange/pink (phosphorescence)"]
+        - ["Amber", "Blue-white", "Variable"]
+
+  - title: The Microscope
+    content: |
+      The gemmological microscope is essential for studying inclusions, growth features,
+      and signs of treatment. Magnifications from 10× to 60× are typically used.
+    subsections:
+      - title: Magnification Ranges
+        content: |
+          - **10×**: Standard loupe magnification; overview examination
+          - **20–40×**: Detailed inclusion study
+          - **60×+**: Fine details, surface features
+
+      - title: Illumination Techniques
+        table:
+          headers:
+            - Technique
+            - Best For
+            - Description
+          rows:
+            - ["Darkfield", "Most inclusions", "Light from sides; inclusions bright against dark"]
+            - ["Brightfield", "Colour zoning, growth patterns", "Light from below; transmitted through gem"]
+            - ["Fibre-optic", "Specific features, pinpoint", "Directed light for individual inclusions"]
+            - ["Overhead", "Surface features", "Reflected light from above"]
+            - ["Polarised", "Strain, twinning", "Crossed polars reveal birefringence"]
+
+      - title: Immersion Technique
+        content: |
+          Immersing the gem in a liquid of similar RI reduces surface reflections and reveals
+          internal features more clearly.
+
+          - **Methylene iodide** (RI 1.74): Good for corundum, spinel
+          - **Benzyl benzoate** (RI 1.57): Good for quartz, beryl
+          - **Water** (RI 1.33): Basic immersion, safe for all gems
+
+          *Note*: Some immersion liquids are toxic; use appropriate safety measures.
+
+  - title: Instrument Selection Guide
+    table:
+      caption: Which Instrument to Use
+      headers:
+        - Question
+        - Primary Instrument
+        - Supporting Tests
+      rows:
+        - ["What is the RI?", "Refractometer", "SG measurement"]
+        - ["Is it isotropic or anisotropic?", "Polariscope", "Refractometer (two readings?)"]
+        - ["What causes the colour?", "Spectroscope", "Dichroscope, Chelsea filter"]
+        - ["Is it natural or synthetic?", "Microscope", "UV lamp, spectroscope"]
+        - ["Is it treated?", "Microscope", "UV lamp, spectroscope"]
+        - ["What is the origin?", "Microscope", "Spectroscope, chemistry"]
+
+  - title: Testing Workflow
+    callout:
+      type: tip
+      title: Systematic Testing Approach
+      text: |
+        For unknown gems, follow this sequence:
+
+        1. **Visual examination**: Colour, transparency, lustre, cut style
+        2. **Refractometer**: RI and birefringence
+        3. **Polariscope**: Optic character (SR/DR)
+        4. **Dichroscope**: Pleochroism (if coloured and DR)
+        5. **Microscope**: Inclusions, growth features
+        6. **Spectroscope**: Absorption spectrum
+        7. **UV lamp**: Fluorescence reactions
+        8. **Chelsea filter**: If green stone
+        9. **SG**: If refractometer inconclusive or OTL
+
+        Document all results before reaching a conclusion.

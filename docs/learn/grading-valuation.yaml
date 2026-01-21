@@ -1,0 +1,324 @@
+title: Grading and Valuation
+description: Colour grading (hue, tone, saturation), clarity assessment, cut quality, carat weight, and value factors for coloured gemstones.
+order: 10
+category: advanced
+difficulty: intermediate
+icon: chart-bar
+related:
+  - origin-determination
+  - phenomenal-gems
+  - gem-care-durability
+tags:
+  - grading
+  - colour
+  - clarity
+  - cut
+  - valuation
+  - pricing
+
+sections:
+  - title: Introduction
+    content: |
+      Grading coloured gemstones is more complex than grading diamonds because there is no
+      universal standard system. The "4 Cs" (Colour, Clarity, Cut, Carat weight) apply, but
+      colour is overwhelmingly the most important factor—often accounting for 50-70% of
+      a coloured stone's value.
+
+      Professional grading requires controlled lighting conditions, master stones for
+      comparison (where available), and extensive experience with each gem species.
+
+  - title: Colour Grading
+    content: |
+      Colour is described using three components: hue, tone, and saturation. Understanding
+      these components is essential for accurate colour communication and grading.
+    subsections:
+      - title: Hue
+        content: |
+          Hue is the basic spectral colour (red, orange, yellow, green, blue, violet) or a
+          combination of adjacent hues. In grading, hue is described by:
+
+          - **Primary hue**: The dominant colour seen
+          - **Secondary hue**: Modifying colour (e.g., "slightly purplish red")
+          - **Tertiary modifiers**: Subtle additional colours in complex stones
+
+          A pure, unmodified hue is generally most desirable for the "big three" gems.
+
+      - title: Tone
+        content: |
+          Tone describes the lightness or darkness of a colour on a scale from colourless
+          (0) to black (10). Ideal tones vary by species:
+
+          - **Very light (2-3)**: Often too pale, lacks presence
+          - **Light (3-4)**: Acceptable for some species (aquamarine)
+          - **Medium (5-6)**: Often ideal for most coloured gems
+          - **Medium-dark (6-7)**: Can be excellent if saturation is maintained
+          - **Dark (7-8)**: May appear blackish, lose colour visibility
+          - **Very dark (8-9)**: Generally too dark, colour not visible
+
+      - title: Saturation
+        content: |
+          Saturation describes the intensity or purity of the colour, from grey (low
+          saturation) to vivid (high saturation). Saturation is the key differentiator
+          between fine and commercial goods.
+
+          - **Greyish**: Low saturation, washed out
+          - **Slightly greyish**: Moderate saturation
+          - **Moderately strong**: Good saturation
+          - **Strong**: High saturation
+          - **Vivid**: Maximum saturation (most valuable)
+
+  - title: Ideal Colours by Species
+    table:
+      caption: Target Colour Profiles
+      headers:
+        - Gem
+        - Ideal Hue
+        - Ideal Tone
+        - Key Notes
+      rows:
+        - ["Ruby", "Slightly purplish red", "Medium to medium-dark (6)", "Vivid saturation; 'pigeon blood'"]
+        - ["Blue sapphire", "Violetish blue to blue", "Medium to medium-dark (5-6)", "Kashmir 'velvety' most prized"]
+        - ["Emerald", "Bluish green to green", "Medium (5-6)", "Vivid saturation; 'jardin' tolerated"]
+        - ["Padparadscha", "Pink-orange (balanced)", "Light to medium (4-5)", "Neither pink nor orange dominant"]
+        - ["Tanzanite", "Violetish blue to blue", "Medium (5-6)", "Strong saturation"]
+        - ["Paraíba tourmaline", "Greenish blue to blue", "Light to medium (4-5)", "Neon, electric appearance"]
+        - ["Tsavorite", "Green", "Medium (5-6)", "Vivid, no yellow modifier"]
+        - ["Spinel", "Varies by colour", "Medium (5-6)", "Pinkish red most valuable"]
+
+  - title: Colour Grading Conditions
+    callout:
+      type: tip
+      title: Standardised Lighting
+      text: |
+        Professional colour grading should be performed under:
+
+        - **D65 daylight equivalent** lighting (6500K colour temperature)
+        - **Neutral grey** background
+        - **North-facing window** light (natural daylight) or calibrated lamps
+        - **Consistent viewing distance** and angle
+
+        Grading in incandescent light will make stones appear more red/orange; fluorescent
+        lighting can emphasise blue/green. Always note lighting conditions in any assessment.
+
+  - title: Clarity Grading
+    content: |
+      Unlike diamonds, coloured gemstones have no universal clarity grading system. The GIA
+      developed a clarity type system that sets expectations based on how each species
+      typically forms.
+    subsections:
+      - title: GIA Clarity Types
+        table:
+          headers:
+            - Type
+            - Description
+            - Examples
+          rows:
+            - ["Type I", "Usually eye-clean", "Aquamarine, topaz, tanzanite, citrine"]
+            - ["Type II", "Usually included", "Ruby, sapphire, garnet, spinel, peridot"]
+            - ["Type III", "Almost always included", "Emerald, red tourmaline, alexandrite"]
+
+      - title: Clarity Terminology
+        content: |
+          Common clarity descriptors for coloured stones:
+
+          - **Loupe-clean**: No inclusions visible under 10× magnification
+          - **Eye-clean**: No inclusions visible to naked eye (most common standard)
+          - **Slightly included**: Minor inclusions visible to naked eye
+          - **Moderately included**: Noticeable inclusions but acceptable
+          - **Heavily included**: Significant inclusions affecting beauty or durability
+
+      - title: Clarity Factors
+        content: |
+          When assessing clarity impact, consider:
+
+          - **Size**: Larger inclusions have more impact
+          - **Number**: Many small inclusions can be worse than one large one
+          - **Position**: Central inclusions more distracting than peripheral
+          - **Relief**: High-contrast inclusions more visible
+          - **Nature**: Some inclusions affect durability (fractures, cleavages)
+
+  - title: Emerald Clarity Exception
+    callout:
+      type: info
+      title: Emerald Clarity Standards
+      text: |
+        Emerald is the only major gemstone where visible inclusions are widely accepted.
+        The French term "jardin" (garden) describes the internal world of inclusions.
+        Eye-clean emeralds are extremely rare and command extraordinary premiums.
+
+        A slightly included emerald with excellent colour will typically outvalue a clean
+        emerald with poor colour.
+
+  - title: Cut Quality Assessment
+    content: |
+      Cut quality affects brilliance, colour display, and face-up appearance. Unlike diamonds,
+      coloured stone cutting prioritises colour retention and window avoidance over strict
+      proportions.
+    subsections:
+      - title: Proportions
+        content: |
+          Key proportion factors:
+
+          - **Crown height**: Affects brilliance and colour modification
+          - **Pavilion depth**: Critical for light return and colour
+          - **Table size**: Affects brilliance vs. colour depth
+          - **Length-to-width ratio**: Personal preference; affects face-up size
+          - **Symmetry**: Facet alignment and overall balance
+
+      - title: Common Cut Problems
+        table:
+          headers:
+            - Problem
+            - Cause
+            - Effect
+          rows:
+            - ["Windowing", "Pavilion too shallow", "See-through area in centre"]
+            - ["Extinction", "Pavilion too deep", "Dark, lifeless areas"]
+            - ["Bowtie", "Poor symmetry in ovals/marquises", "Dark band across stone"]
+            - ["Fish-eye", "Crown too shallow", "Ring visible in table"]
+            - ["Off-centre culet", "Asymmetric cutting", "Uneven light return"]
+
+      - title: Native Cut vs Precision Cut
+        content: |
+          - **Native cut**: Cut at origin to maximise weight; often has windows/extinction
+          - **Precision cut**: Cut to ideal proportions; sacrifices weight for beauty
+          - **Recut potential**: Native cuts may be improved by recutting (with weight loss)
+
+  - title: Weight Retention
+    callout:
+      type: warning
+      title: Weight vs Beauty Trade-off
+      text: |
+        Most coloured stones are cut to retain maximum weight rather than optimise beauty.
+        Rough gemstones are priced per carat, incentivising cutters to keep weight even at
+        the expense of brilliance. Precision-cut stones typically show 20-30% more brilliance
+        but sacrifice 20-40% of potential weight.
+
+  - title: Face-Up Appearance
+    content: |
+      The most important assessment is how the stone looks face-up (table facing viewer).
+      This evaluates:
+    subsections:
+      - title: Brilliance
+        content: |
+          The amount of light returned to the viewer. Well-cut stones show bright flashes
+          across the face; poorly cut stones have dark or see-through areas.
+
+      - title: Colour Distribution
+        content: |
+          How evenly colour is distributed across the face. Zoning (colour concentrated in
+          areas) is common but reduces value if visible face-up.
+
+      - title: Scintillation
+        content: |
+          The pattern of light and dark areas when the stone moves. Pleasing scintillation
+          shows balanced, lively movement; poor scintillation appears static or blotchy.
+
+  - title: Carat Weight
+    content: |
+      Weight is measured in carats (1 carat = 0.200 grams). Price per carat typically
+      increases at certain weight thresholds.
+    subsections:
+      - title: Weight-Size Relationship
+        content: |
+          Different specific gravities mean equal weights look different sizes:
+
+          - **Low SG** (opal 2.15): Looks larger for same weight
+          - **Medium SG** (quartz 2.65): Standard reference
+          - **High SG** (zircon 4.69): Looks smaller for same weight
+
+          A 1-carat opal appears larger than a 1-carat diamond; a 1-carat zircon appears
+          smaller.
+
+      - title: Price Jumps
+        content: |
+          Prices per carat often jump at key thresholds:
+
+          - **1 carat**: First major threshold
+          - **2 carats**: Significant premium
+          - **3 carats**: Begins "important stone" territory
+          - **5 carats**: Rare size for most gems
+          - **10+ carats**: Exceptional; auction-level
+
+          A 0.99 ct stone may cost significantly less than a 1.01 ct stone of equal quality.
+
+  - title: Additional Value Factors
+    content: |
+      Beyond the basic quality factors, several other elements affect coloured gemstone value.
+    subsections:
+      - title: Treatment Status
+        content: |
+          Untreated stones command premiums over treated equivalents:
+
+          - **No heat** (ruby, sapphire): 20-50%+ premium over heated
+          - **No oil** (emerald): 30-100%+ premium over oiled
+          - **No treatment**: Maximum premium for fine quality
+
+          Treatment must always be disclosed; undisclosed treatment is fraud.
+
+      - title: Origin
+        content: |
+          Geographic origin affects value through:
+
+          - **Historical prestige**: Kashmir, Burma, Colombia
+          - **Quality association**: Certain origins produce consistently finer goods
+          - **Rarity**: Some deposits are exhausted or limited
+
+          See Origin Determination for detailed premiums.
+
+      - title: Certification
+        content: |
+          Laboratory reports from recognised labs add value by:
+
+          - Confirming identity and natural status
+          - Documenting treatments (or lack thereof)
+          - Providing origin determination
+          - Establishing provenance for insurance/resale
+
+          Major labs: GIA, Gübelin, SSEF, AGL, GRS
+
+      - title: Provenance
+        content: |
+          Historical ownership can significantly increase value:
+
+          - Royal or noble ownership
+          - Celebrity provenance
+          - Historical significance
+          - Previous auction records
+
+  - title: Market Considerations
+    comparison:
+      items:
+        - title: Factors Increasing Value
+          variant: success
+          points:
+            - Vivid, saturated colour
+            - Eye-clean clarity
+            - Premium origin (documented)
+            - Untreated status
+            - Well-proportioned cut
+            - Important size (3+ carats)
+            - Lab certification
+        - title: Factors Decreasing Value
+          variant: warning
+          points:
+            - Pale or dark colour
+            - Visible inclusions affecting beauty
+            - Unknown or commercial origin
+            - Heavy treatment
+            - Poorly proportioned cut
+            - Small size
+            - No documentation
+
+  - title: Practical Grading Tips
+    callout:
+      type: tip
+      title: Grading Best Practices
+      text: |
+        1. **Assess colour first**: It dominates value; don't be distracted by clarity
+        2. **Use standardised lighting**: D65 daylight equivalent
+        3. **Compare to master stones**: When available for the species
+        4. **Document systematically**: Same format for every stone
+        5. **Consider market context**: Grading relates to value; understand the market
+        6. **Acknowledge limitations**: Grading is subjective; state assumptions
+        7. **Request lab reports**: For significant purchases

@@ -5,8 +5,10 @@ category: fundamentals
 difficulty: beginner
 icon: cube
 related:
+  - crystallography-advanced
   - physical-properties
   - optical-properties
+  - chemical-properties
 tags:
   - crystallography
   - symmetry
@@ -35,6 +37,8 @@ sections:
   - title: The Seven Systems
     subsections:
       - title: Cubic (Isometric)
+        system: cubic
+        cdl: "cubic[m3m]:{111}@1.0+{100}@1.3"
         content: The highest symmetry system with four threefold axes.
         items:
           - name: Axes
@@ -54,6 +58,8 @@ sections:
               - Fluorite
 
       - title: Hexagonal
+        system: hexagonal
+        cdl: "hexagonal[6/mmm]:{10-10}@1.0+{0001}@0.5"
         content: Characterized by one sixfold axis.
         items:
           - name: Axes
@@ -73,6 +79,8 @@ sections:
               - Apatite
 
       - title: Trigonal (Rhombohedral)
+        system: trigonal
+        cdl: "trigonal[-3m]:{10-10}@1.0+{10-11}@0.8"
         content: Characterized by one threefold axis.
         items:
           - name: Axes
@@ -92,6 +100,8 @@ sections:
               - Tourmaline
 
       - title: Tetragonal
+        system: tetragonal
+        cdl: "tetragonal[4/mmm]:{110}@1.0+{001}@0.7"
         content: Characterized by one fourfold axis.
         items:
           - name: Axes
@@ -109,6 +119,8 @@ sections:
               - Rutile
 
       - title: Orthorhombic
+        system: orthorhombic
+        cdl: "orthorhombic[mmm]:{110}@1.0+{010}@1.2+{001}@0.8"
         content: Three twofold axes or two mirror planes.
         items:
           - name: Axes
@@ -128,6 +140,8 @@ sections:
               - Tanzanite
 
       - title: Monoclinic
+        system: monoclinic
+        cdl: "monoclinic[2/m]:{110}@1.0+{001}@0.6"
         content: One twofold axis or one mirror plane.
         items:
           - name: Axes
@@ -146,6 +160,8 @@ sections:
               - Jadeite
 
       - title: Triclinic
+        system: triclinic
+        cdl: "triclinic[-1]:{100}@1.0+{010}@1.1+{001}@0.9"
         content: Lowest symmetry - no rotational symmetry.
         items:
           - name: Axes

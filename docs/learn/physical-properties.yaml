@@ -7,6 +7,8 @@ icon: scale
 related:
   - crystal-systems
   - optical-properties
+  - gem-care-durability
+  - chemical-properties
 tags:
   - hardness
   - specific-gravity
@@ -142,3 +144,127 @@ sections:
         Nephrite jade (H: 6-6.5) is tougher than diamond (H: 10) because its interlocking
         fibrous structure resists fracture. This makes jade ideal for carving despite
         its lower hardness.
+
+  - title: Specific Gravity Measurement Techniques
+    content: |
+      Specific gravity (SG) is one of the most reliable diagnostic properties and can be
+      measured without damaging the stone. Two main methods are used in gemmology.
+    subsections:
+      - title: Hydrostatic Weighing
+        content: |
+          The most accurate method for loose stones:
+
+          1. Weigh stone in air (W₁)
+          2. Suspend stone in water on a wire bridge
+          3. Weigh stone in water (W₂)
+          4. Calculate: SG = W₁ / (W₁ - W₂)
+
+          **Accuracy considerations:**
+          - Use distilled water at 4°C for best accuracy
+          - Account for surface tension on small stones
+          - Wire bridge weight must be tared
+          - Ensure no air bubbles trapped on stone
+          - Multiple measurements improve reliability
+
+      - title: Heavy Liquids Method
+        content: |
+          Liquids of known SG can quickly estimate stone density:
+
+          - **Methylene iodide** (SG 3.32): Good for many gems
+          - **Clerici solution** (SG up to 4.2): For denser stones
+          - **Diluted solutions**: Create intermediate densities
+
+          If stone **floats**, SG < liquid; if **sinks**, SG > liquid; if **suspends**, SG = liquid
+
+          *Note*: Many heavy liquids are toxic; follow safety protocols.
+
+      - title: SG Accuracy and Limitations
+        table:
+          headers:
+            - Factor
+            - Effect on SG
+          rows:
+            - ["Inclusions", "May raise or lower SG depending on inclusion type"]
+            - ["Fractures", "May trap air, lowering apparent SG"]
+            - ["Porosity", "Porous stones absorb water, affecting result"]
+            - ["Temperature", "Water density changes with temperature"]
+            - ["Stone size", "Very small stones harder to measure accurately"]
+
+  - title: Directional Hardness
+    content: |
+      Some minerals have significantly different hardness depending on crystal direction.
+      This property, called directional hardness or anisotropic hardness, has important
+      practical implications.
+    subsections:
+      - title: Kyanite
+        content: |
+          Kyanite is the classic example of extreme directional hardness:
+
+          - **Parallel to c-axis** (length): H 4-4.5
+          - **Perpendicular to c-axis**: H 6-7
+
+          This 3-point variation affects cutting and polishing—different directions
+          require different approaches.
+
+      - title: Diamond
+        content: |
+          Diamond's hardness varies by crystal direction:
+
+          - **Octahedral faces {111}**: Hardest direction
+          - **Cube faces {100}**: Slightly softer
+          - **Dodecahedral faces {110}**: Softest
+
+          Diamond cutters exploit these differences. Sawing is done parallel to
+          cubic planes; polishing uses the harder octahedral direction.
+
+      - title: Practical Implications
+        content: |
+          Directional hardness affects:
+
+          - Polishing quality (some directions polish better)
+          - Wear patterns (soft directions wear faster)
+          - Cutting approach (orient for best finish)
+          - Durability assessment (softest direction matters)
+
+  - title: Thermal Conductivity
+    content: |
+      Thermal conductivity measures how quickly heat flows through a material. This
+      property is particularly useful for diamond testing and identification.
+    subsections:
+      - title: Diamond vs Simulants
+        table:
+          headers:
+            - Material
+            - Thermal Conductivity
+            - Thermal Probe Result
+          rows:
+            - ["Diamond", "Very high (2000+ W/m·K)", "Positive (conducts heat rapidly)"]
+            - ["Moissanite", "High (490 W/m·K)", "Positive (may test as diamond)"]
+            - ["CZ", "Low (2 W/m·K)", "Negative"]
+            - ["Glass", "Very low (1 W/m·K)", "Negative"]
+            - ["Other gems", "Low to moderate", "Negative"]
+
+      - title: Thermal Probe Testing
+        content: |
+          Thermal testers work by measuring heat dissipation from a heated probe tip:
+
+          - Probe touches stone surface
+          - Heat flows from probe into stone
+          - Faster cooling = higher thermal conductivity
+
+          **Limitations:**
+          - Moissanite also conducts heat well (false positive)
+          - Metal mountings can affect readings
+          - Stone must be room temperature
+          - Small stones may give unreliable results
+
+      - title: Combined Thermal-Electrical Testing
+        content: |
+          Modern testers combine thermal and electrical conductivity:
+
+          - Diamond: High thermal, no electrical conductivity
+          - Moissanite: High thermal, *electrical* conductivity
+          - This distinguishes diamond from moissanite reliably
+
+          Most synthetic moissanite (SiC) is an electrical semiconductor, while
+          natural diamond (except rare Type IIb blue) is an insulator.

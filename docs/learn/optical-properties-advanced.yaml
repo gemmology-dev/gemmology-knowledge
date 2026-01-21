@@ -1,0 +1,327 @@
+title: Advanced Optical Properties
+description: Interference figures, optic sign determination, complete absorption spectra, luminescence, and anomalous double refraction.
+order: 3.5
+category: fundamentals
+difficulty: advanced
+icon: prism
+related:
+  - optical-properties
+  - gem-testing-instruments
+  - crystal-systems
+tags:
+  - conoscopy
+  - interference-figures
+  - optic-sign
+  - luminescence
+  - spectroscopy
+
+sections:
+  - title: Introduction
+    content: |
+      Advanced optical properties go beyond basic RI and birefringence measurements to
+      provide detailed information about crystal orientation, optic character, and
+      diagnostic spectroscopic features.
+
+      These techniques are essential for accurate gem identification, particularly when
+      standard tests give ambiguous results or when working with unusual specimens.
+
+  - title: Interference Figures
+    content: |
+      Interference figures are observed using a polariscope with a conoscope (converging
+      lens) or equivalent setup. They reveal the optic character and sign of anisotropic
+      gems.
+    subsections:
+      - title: How to Obtain Interference Figures
+        content: |
+          1. Place gem between crossed polars (dark position)
+          2. Insert conoscope lens (or use high magnification)
+          3. View the interference figure in the gem
+          4. Rotate gem to find clearest figure (viewing down optic axis)
+
+          Best results require:
+          - Clean, well-polished stone
+          - Reasonably transparent material
+          - Appropriate viewing direction relative to optic axis
+
+      - title: Uniaxial Interference Figures
+        content: |
+          Uniaxial crystals (hexagonal, trigonal, tetragonal) have one optic axis.
+          When viewed down the optic axis, they show the "bull's eye" pattern:
+
+          - **Concentric isochromatic rings**: Circles of colour
+          - **Black cross (isogyres)**: Arms parallel to polariser directions
+          - **Melatope**: Central dark point (exit point of optic axis)
+
+          As the stone rotates off the optic axis, the cross moves outward but
+          remains visible in the field of view.
+
+      - title: Biaxial Interference Figures
+        content: |
+          Biaxial crystals (orthorhombic, monoclinic, triclinic) have two optic axes.
+          Viewed down the acute bisectrix, they show:
+
+          - **Two melatopes**: Emerging points of optic axes
+          - **Curved isogyres**: Dark bands that change shape with rotation
+          - **2V angle**: Angle between optic axes (diagnostic)
+
+          When rotating the stone 45°:
+          - Small 2V: Isogyres stay close, barely separate
+          - Large 2V: Isogyres separate widely, may leave field of view
+
+  - title: Interference Figure Patterns
+    table:
+      caption: Interference Figure Characteristics
+      headers:
+        - Character
+        - Down Optic Axis
+        - Off-Axis
+      rows:
+        - ["Uniaxial", "Bull's eye with centred cross", "Cross moves but remains intact"]
+        - ["Biaxial (small 2V)", "Fuzzy cross, may look uniaxial", "Cross splits into two curved bars"]
+        - ["Biaxial (large 2V)", "Curved bars, two melatopes visible", "Bars separate widely"]
+        - ["Isotropic", "No figure; remains dark", "Remains dark or shows strain"]
+
+  - title: Optic Sign Determination
+    content: |
+      The optic sign (positive or negative) provides additional diagnostic information.
+      It is determined using accessory plates (compensators) with interference figures.
+    subsections:
+      - title: Uniaxial Optic Sign
+        content: |
+          Uniaxial positive (+): ε > ω (extraordinary ray has higher RI)
+          Uniaxial negative (-): ε < ω (extraordinary ray has lower RI)
+
+          **Using a compensator plate:**
+          1. Obtain centred uniaxial figure
+          2. Insert compensator (e.g., gypsum plate) at 45°
+          3. Observe colour changes in quadrants:
+             - **Positive**: Blue in NE/SW quadrants, yellow in NW/SE
+             - **Negative**: Yellow in NE/SW quadrants, blue in NW/SE
+
+      - title: Common Uniaxial Gems
+        table:
+          headers:
+            - Sign
+            - Gems
+          rows:
+            - ["Uniaxial +", "Quartz, zircon, rutile"]
+            - ["Uniaxial -", "Corundum, tourmaline, beryl, apatite, calcite"]
+
+      - title: Biaxial Optic Sign
+        content: |
+          Biaxial positive (+): β closer to α (lower RI)
+          Biaxial negative (-): β closer to γ (higher RI)
+
+          Alternatively: positive = acute bisectrix is Bxa; negative = acute bisectrix is Bxo
+
+          **Using compensator plate:**
+          1. Obtain biaxial figure with visible isogyres
+          2. Insert compensator at 45°
+          3. Observe colour changes along isogyres
+
+      - title: Common Biaxial Gems
+        table:
+          headers:
+            - Sign
+            - Gems
+          rows:
+            - ["Biaxial +", "Topaz, peridot, alexandrite"]
+            - ["Biaxial -", "Orthoclase, tanzanite, kunzite"]
+
+  - title: Compensator Plates
+    callout:
+      type: info
+      title: Accessory Plates
+      text: |
+        Common compensator plates:
+
+        - **Gypsum plate** (full-wave, 550nm): Adds or subtracts one wavelength
+        - **Mica plate** (quarter-wave, 147nm): More sensitive
+        - **Quartz wedge**: Variable compensation
+
+        Colour changes indicate whether birefringence adds to or subtracts from the plate's
+        retardation, revealing optic sign.
+
+  - title: Absorption Spectra Reference
+    content: |
+      The absorption spectrum is one of the most diagnostic optical properties.
+      Understanding spectral features helps identify gems and detect treatments.
+    subsections:
+      - title: Spectral Regions
+        table:
+          headers:
+            - Region
+            - Wavelength (nm)
+            - Colour Absorbed
+            - Transmitted Colour
+          rows:
+            - ["Violet", "380-450", "Violet/blue", "Yellow/orange"]
+            - ["Blue", "450-495", "Blue", "Orange"]
+            - ["Green", "495-570", "Green", "Red/magenta"]
+            - ["Yellow", "570-590", "Yellow", "Blue/violet"]
+            - ["Orange", "590-620", "Orange", "Blue"]
+            - ["Red", "620-750", "Red", "Cyan/green"]
+
+      - title: Chromium Spectra
+        content: |
+          Chromium produces characteristic spectra in many gems:
+
+          - **694nm doublet**: Sharp lines in red (ruby, red spinel, emerald)
+          - **Red fluorescence**: Often accompanies Cr absorption
+          - **Broad bands in yellow-green**: General absorption creating red colour
+
+          Cr-coloured gems: ruby, red spinel, emerald, alexandrite, chrome tourmaline
+
+      - title: Iron Spectra
+        content: |
+          Iron produces varied spectra depending on oxidation state:
+
+          - **Fe²⁺**: Bands in blue-green region
+          - **Fe³⁺**: Sharp lines, bands in violet-blue
+          - **Fe²⁺/Fe³⁺ charge transfer**: Broad absorption (blue sapphire)
+
+          Iron is the most common colouring agent and appears in many gems.
+
+  - title: Diagnostic Spectra
+    table:
+      caption: Key Absorption Features by Gem
+      headers:
+        - Gem
+        - Cause
+        - Key Wavelengths (nm)
+        - Appearance
+      rows:
+        - ["Ruby", "Cr³⁺", "694 (doublet), 668, 659, 476", "Sharp lines in red, broad band blue-green"]
+        - ["Blue sapphire", "Fe²⁺/Ti⁴⁺, Fe²⁺/Fe³⁺", "450, 460, 470", "Three bands in blue"]
+        - ["Emerald", "Cr³⁺, (Fe²⁺)", "683, 680, 637, red/yellow bands", "Cr line + Fe bands"]
+        - ["Almandine garnet", "Fe²⁺", "505, 520, 575", "Three strong bands"]
+        - ["Demantoid", "Cr³⁺, Fe", "443", "Sharp line (horse/cutoff)"]
+        - ["Peridot", "Fe²⁺", "493, 473, 453", "Three evenly spaced bands"]
+        - ["Zircon", "Uranium", "Many fine lines throughout", "Uranium spectrum"]
+        - ["Spessartine", "Mn²⁺", "432, 424, 412", "Bands in violet"]
+        - ["Blue spinel", "Fe²⁺, Co", "459 series", "Bands in blue"]
+        - ["Chrome tourmaline", "Cr³⁺", "Red/violet region", "Cr spectrum + tourmaline bands"]
+
+  - title: Luminescence
+    content: |
+      Luminescence is the emission of light from a substance that has absorbed energy.
+      The two main types relevant to gemmology are fluorescence and phosphorescence.
+    subsections:
+      - title: Fluorescence vs Phosphorescence
+        comparison:
+          items:
+            - title: Fluorescence
+              points:
+                - Immediate emission when illuminated
+                - Stops when light source removed
+                - Most common in gem testing
+                - Tested with UV lamps
+            - title: Phosphorescence
+              points:
+                - Delayed emission
+                - Continues after light removed
+                - Less common but diagnostic
+                - "Example: kunzite, some diamonds"
+
+      - title: Activators and Quenchers
+        content: |
+          Luminescence depends on trace elements:
+
+          - **Activators**: Cause luminescence (Cr³⁺ → red; Mn²⁺ → orange)
+          - **Quenchers**: Suppress luminescence (Fe → often quenches)
+          - **Sensitisers**: Enhance other activators' effects
+
+          Example: Burmese ruby fluoresces strongly (low iron); Thai ruby
+          fluoresces weakly (high iron quenches).
+
+      - title: Diagnostic Fluorescence Reactions
+        table:
+          headers:
+            - Material
+            - LWUV (365nm)
+            - SWUV (254nm)
+            - Notes
+          rows:
+            - ["Natural diamond", "Blue (most)", "Blue (may differ)", "Strong in Type IaA"]
+            - ["Synthetic diamond (HPHT)", "Orange-yellow", "Orange-yellow", "Different from natural"]
+            - ["Natural ruby", "Strong red", "Moderate red", "Cr-induced"]
+            - ["Synthetic ruby (flame fusion)", "Very strong red", "Strong red", "Purer Cr"]
+            - ["Natural emerald", "Usually inert", "Inert", "Fe quenches"]
+            - ["Synthetic emerald", "Often red", "Red", "Low iron"]
+            - ["Kunzite", "Orange-pink", "Orange-pink", "May phosphoresce"]
+            - ["Willemite", "Vivid green", "Strong green", "Mn activation"]
+
+  - title: Anomalous Double Refraction (ADR)
+    content: |
+      ADR occurs when isotropic materials show birefringence under polarised light due
+      to internal strain rather than crystal structure.
+    subsections:
+      - title: Causes of ADR
+        content: |
+          - **Growth strain**: Irregular growth creates internal stress
+          - **Thermal stress**: Cooling creates tension
+          - **Radiation damage**: Creates local strain fields
+          - **Inclusion pressure**: Inclusions create surrounding strain
+
+      - title: ADR Appearance
+        content: |
+          Under crossed polars, ADR appears as:
+
+          - **Tabby extinction**: Irregular light/dark patches
+          - **Strain birefringence**: Patchy, doesn't follow crystal directions
+          - **"Tatami" pattern**: Cross-hatched appearance (some garnets)
+
+          Unlike true birefringence, ADR doesn't show normal 4× blink pattern.
+
+      - title: ADR in Specific Gems
+        table:
+          headers:
+            - Gem
+            - ADR Frequency
+            - Appearance
+          rows:
+            - ["Almandine garnet", "Very common", "Tabby extinction, tatami pattern"]
+            - ["Grossular garnet", "Common", "Patchy birefringence"]
+            - ["Spinel", "Common (especially synthetic)", "Irregular strain patterns"]
+            - ["Diamond", "Occasional", "Strain patterns around inclusions"]
+            - ["Glass", "Common", "Flow patterns, cooling strain"]
+
+  - title: ADR Diagnostic Value
+    callout:
+      type: warning
+      title: ADR vs True Double Refraction
+      text: |
+        ADR can cause confusion in identification:
+
+        - Don't mistake ADR for true anisotropic character
+        - Check RI: isotropic minerals give single reading despite ADR
+        - ADR doesn't produce interference figures
+        - ADR patterns are irregular; true birefringence follows crystal symmetry
+
+        If a stone shows patchy polariscope response but gives a single RI reading,
+        suspect ADR.
+
+  - title: Practical Applications
+    content: |
+      Advanced optical testing is most valuable when standard tests are inconclusive.
+    subsections:
+      - title: When to Use Advanced Tests
+        content: |
+          - **Similar RI values**: Need optic sign to distinguish
+          - **Possible treatment**: Spectroscopy may reveal heating signs
+          - **Origin determination**: Spectral features may be origin-related
+          - **Natural vs synthetic**: Fluorescence patterns differ
+          - **Unusual specimens**: May require full optical characterisation
+
+      - title: Combined Testing Approach
+        content: |
+          For complete optical characterisation:
+
+          1. **RI and birefringence**: Refractometer
+          2. **Optic character**: Polariscope (isotropic/uniaxial/biaxial)
+          3. **Optic sign**: Conoscope with compensator
+          4. **Pleochroism**: Dichroscope
+          5. **Absorption spectrum**: Spectroscope
+          6. **Fluorescence**: UV lamp (LWUV and SWUV)
+
+          Document all results before reaching identification conclusion.

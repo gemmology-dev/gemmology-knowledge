@@ -1,0 +1,441 @@
+title: Origin Determination
+description: Geographic origin determination for gemstones including inclusion suites, trace element signatures, and the impact of origin on value.
+order: 9
+category: advanced
+difficulty: advanced
+icon: map-pin
+related:
+  - inclusions
+  - grading-valuation
+  - treatments
+tags:
+  - origin
+  - provenance
+  - inclusions
+  - kashmir
+  - burma
+  - colombia
+  - certification
+
+sections:
+  - title: Introduction
+    content: |
+      Geographic origin determination identifies the locality where a gemstone formed.
+      Origin can significantly affect value, with certain sources commanding substantial
+      premiums due to historical significance, quality associations, or rarity.
+
+      Origin is determined through careful analysis of inclusion suites, trace element
+      chemistry, and growth characteristics. Major gemmological laboratories (GIA,
+      Gübelin, SSEF, AGL) issue origin reports for high-value coloured stones.
+
+  - title: Why Origin Matters
+    comparison:
+      items:
+        - title: Premium Factors
+          points:
+            - Historical prestige (Kashmir, Burma, Colombia)
+            - Consistent quality association
+            - Rarity of production
+            - Market perception and demand
+            - Collector interest
+        - title: Practical Considerations
+          points:
+            - Treatment likelihood varies by origin
+            - Ethical sourcing concerns
+            - Investment and resale value
+            - Insurance and documentation
+            - Trade and customs regulations
+
+  - title: Origin Determination Methods
+    subsections:
+      - title: Inclusion Analysis
+        content: |
+          The primary method for origin determination. Characteristic inclusions form
+          fingerprints unique to specific geological environments:
+
+          - **Mineral inclusions**: Identify host rock and formation conditions
+          - **Fluid inclusions**: Reveal formation fluids and temperatures
+          - **Growth patterns**: Record crystallization history
+          - **Solid inclusion assemblages**: Diagnostic for specific localities
+
+      - title: Trace Element Chemistry
+        content: |
+          Advanced spectroscopic techniques measure trace elements that vary by deposit:
+
+          - **LA-ICP-MS**: Laser ablation inductively coupled plasma mass spectrometry
+          - **LIBS**: Laser-induced breakdown spectroscopy
+          - **ED-XRF**: Energy-dispersive X-ray fluorescence
+
+          Ratios of elements like Fe, Ti, Ga, V, and Cr help distinguish origins.
+
+      - title: Spectroscopic Features
+        content: |
+          - UV-Vis-NIR absorption spectra
+          - Photoluminescence characteristics
+          - Infrared spectroscopy
+          - Raman spectroscopy for inclusion identification
+
+  - title: Kashmir Sapphire
+    content: |
+      Kashmir sapphires are the most prized blue sapphires, known for their unique
+      "velvety" or "sleepy" appearance. The deposit was discovered in 1881 and largely
+      exhausted by the early 1900s.
+    subsections:
+      - title: Characteristic Appearance
+        content: |
+          - **Velvety lustre**: Soft, sleepy appearance from micro-inclusions
+          - **Cornflower blue**: Medium-toned, slightly violet-blue
+          - **Zoning**: Often shows colour zoning, lighter and darker areas
+          - **Haze**: Fine particulate inclusions scatter light internally
+
+      - title: Diagnostic Inclusions
+        table:
+          headers:
+            - Inclusion
+            - Description
+          rows:
+            - ["Tourmaline crystals", "Black, prismatic crystals (schorl)"]
+            - ["Zircon with halos", "Zircon crystals with tension fractures"]
+            - ["Pargasite", "Amphibole needles"]
+            - ["Fine particulates", "Microscopic particles causing haziness"]
+            - ["Colour zoning", "Irregular blue/colourless zones"]
+            - ["Fingerprints", "Healed fractures with fluid remnants"]
+
+      - title: Market Position
+        content: |
+          Kashmir sapphires command the highest prices of any sapphire origin. Premiums
+          of 50–100% or more over comparable Ceylon sapphires are common. The limited
+          historical supply and distinctive appearance maintain exceptional demand.
+
+  - title: Kashmir Premium
+    callout:
+      type: info
+      title: Kashmir Premium
+      text: |
+        A fine Kashmir sapphire can sell for $100,000–200,000+ per carat at auction.
+        The combination of historical prestige, unique appearance, and extreme rarity
+        makes Kashmir origin the most valuable designation for blue sapphire.
+
+  - title: Burmese Ruby (Mogok)
+    content: |
+      Mogok, Myanmar (formerly Burma) produces the world's finest rubies. The term
+      "pigeon blood" originated here to describe the ideal red colour.
+    subsections:
+      - title: Characteristic Appearance
+        content: |
+          - **Pigeon blood red**: Vivid, slightly bluish-red with medium-dark tone
+          - **Strong fluorescence**: Glows in daylight due to low iron content
+          - **Silk**: Short rutile needles create soft appearance when present
+          - **Transparency**: High-clarity stones possible
+
+      - title: Diagnostic Inclusions
+        table:
+          headers:
+            - Inclusion
+            - Description
+          rows:
+            - ["Short rutile silk", "Fine, short needles (may be dissolved if heated)"]
+            - ["Calcite crystals", "Rhombohedral crystals, sometimes dissolved"]
+            - ["Apatite", "Hexagonal prisms"]
+            - ["Swirl patterns", "Flow-like growth patterns (treacle)"]
+            - ["Sphene", "Small, elongated crystals"]
+            - ["Negative crystals", "Angular voids with fluid"]
+
+      - title: Pigeon Blood Terminology
+        content: |
+          "Pigeon blood" describes the ideal ruby colour: vivid red with a slight blue
+          modifier, medium-dark tone, and strong saturation. The term is subjective and
+          used loosely in trade; major labs have their own criteria for applying it.
+
+          Only Burmese rubies historically received this designation, though exceptional
+          rubies from other origins may now qualify at some laboratories.
+
+  - title: Thai and Cambodian Ruby
+    content: |
+      Thailand and Cambodia (Pailin) produce rubies with distinct characteristics from
+      their iron-rich geological environment.
+    subsections:
+      - title: Characteristics
+        content: |
+          - **Darker tone**: Often darker than Burmese rubies
+          - **Brownish modifier**: Higher iron content creates brownish tint
+          - **Less fluorescence**: Iron quenches fluorescence
+          - **Dense silk**: Extensive rutile networks common
+
+      - title: Diagnostic Features
+        table:
+          headers:
+            - Feature
+            - Description
+          rows:
+            - ["Dense rutile silk", "Extensive networks of fine needles"]
+            - ["Iron-stained fractures", "Brownish staining in healed fractures"]
+            - ["Dark crystals", "Iron-rich mineral inclusions"]
+            - ["Lower fluorescence", "Weak to moderate red under UV"]
+
+  - title: Mozambique Ruby
+    content: |
+      Mozambique has emerged as a major ruby source since 2009, producing large volumes
+      of quality material that now dominates the market.
+    subsections:
+      - title: Characteristics
+        content: |
+          - **Vivid red to slightly purplish**: Good colour saturation
+          - **Variable fluorescence**: Generally moderate
+          - **Large sizes available**: Significant production of larger stones
+          - **Often heated**: Much material undergoes heat treatment
+
+      - title: Diagnostic Inclusions
+        table:
+          headers:
+            - Inclusion
+            - Description
+          rows:
+            - ["Amphibole needles", "Elongated prismatic crystals"]
+            - ["Mica flakes", "Platy, reflective inclusions"]
+            - ["Orange-yellow zircon", "Characteristic colour for Mozambique"]
+            - ["Apatite", "Prismatic crystals"]
+            - ["Graphite", "Black, metallic flakes"]
+
+      - title: Market Position
+        content: |
+          Mozambique rubies offer excellent value compared to Burmese material. While
+          lacking the historical prestige, fine unheated Mozambican rubies are increasingly
+          appreciated and collected.
+
+  - title: Sri Lankan (Ceylon) Sapphire
+    content: |
+      Sri Lanka (Ceylon) is one of the oldest and most prolific sapphire sources,
+      producing stones in all colours but especially renowned for blue and padparadscha.
+    subsections:
+      - title: Characteristic Appearance
+        content: |
+          - **Light to medium tone**: Generally lighter than Kashmir or Burma
+          - **High brilliance**: Good transparency and light return
+          - **Colour range**: All sapphire colours including rare padparadscha
+          - **Large sizes**: Notable for producing very large crystals
+
+      - title: Diagnostic Inclusions
+        table:
+          headers:
+            - Inclusion
+            - Description
+          rows:
+            - ["Long rutile silk", "Distinctive long, slender needles"]
+            - ["Zircon haloes", "Zircon with radiation damage halos"]
+            - ["Hexagonal colour zoning", "Follows crystal growth directions"]
+            - ["Negative crystals", "Well-formed angular voids"]
+            - ["Fingerprints", "Characteristic healed fracture patterns"]
+            - ["Biotite", "Platy dark inclusions"]
+
+      - title: Padparadscha
+        content: |
+          The padparadscha sapphire—a delicate pinkish-orange to orange-pink—is Sri Lanka's
+          signature stone. The name derives from the Sinhalese word for lotus blossom.
+          True padparadscha must show both pink and orange with neither colour dominant.
+
+  - title: Colombian Emerald
+    content: |
+      Colombia produces the world's finest emeralds, with Muzo, Chivor, and Coscuez
+      being the most famous mines. Colombian emeralds are distinguished by their pure
+      green colour and characteristic inclusions.
+    subsections:
+      - title: Characteristic Appearance
+        content: |
+          - **Pure green**: Minimal blue or yellow modifiers
+          - **Medium to medium-dark tone**: Rich, saturated colour
+          - **High saturation**: Vivid green colour
+          - **"Jardín"**: Garden of inclusions considered acceptable
+
+      - title: Diagnostic Inclusions
+        table:
+          headers:
+            - Inclusion
+            - Description
+          rows:
+            - ["Three-phase inclusions", "Liquid + gas + halite cube (diagnostic)"]
+            - ["Calcite rhombs", "Rhombohedral calcite crystals"]
+            - ["Pyrite", "Metallic cubic crystals"]
+            - ["Albite crystals", "White mineral inclusions"]
+            - ["Jagged growth tubes", "Irregular channels"]
+            - ["Fingerprints", "Characteristic feathery patterns"]
+
+      - title: Muzo vs Chivor
+        content: |
+          - **Muzo**: Darker, more saturated green; more inclusions; warmer tone
+          - **Chivor**: Lighter, often with slight bluish tint; fewer inclusions
+
+  - title: Three-Phase Inclusions
+    callout:
+      type: info
+      title: Colombian Emerald Signature
+      text: |
+        The three-phase inclusion (liquid + gas bubble + halite crystal) is virtually
+        diagnostic for Colombian origin. The halite cube can sometimes be observed to
+        dissolve when heated and recrystallize on cooling.
+
+  - title: Zambian Emerald
+    content: |
+      Zambia is now the second-largest emerald producer. Zambian emeralds have distinct
+      characteristics from their host rock (talc-magnetite schist).
+    subsections:
+      - title: Characteristics
+        content: |
+          - **Bluish-green**: Cooler colour than Colombian
+          - **Higher clarity**: Often cleaner than Colombian material
+          - **Good transparency**: Fine quality is very transparent
+          - **Moderate saturation**: Rich but rarely matches top Colombian
+
+      - title: Diagnostic Inclusions
+        table:
+          headers:
+            - Inclusion
+            - Description
+          rows:
+            - ["Actinolite needles", "Amphibole needles and rods"]
+            - ["Phlogopite mica", "Bronze-coloured platy flakes"]
+            - ["Magnetite", "Opaque black crystals"]
+            - ["Two-phase inclusions", "Liquid + gas (no halite)"]
+            - ["Blocky crystals", "Various mineral crystals"]
+
+  - title: Brazilian Emerald
+    content: |
+      Brazil produces emeralds from several deposits with varying characteristics.
+      Quality ranges widely from commercial to fine goods.
+    subsections:
+      - title: Characteristics
+        content: |
+          - **Variable green**: Ranges from yellowish to bluish-green
+          - **Often lighter tone**: Generally not as saturated as Colombian
+          - **Good clarity possible**: Some material is quite clean
+          - **Often heat-treated**: To improve clarity
+
+      - title: Diagnostic Inclusions
+        table:
+          headers:
+            - Inclusion
+            - Description
+          rows:
+            - ["Biotite mica", "Brown to black platy inclusions"]
+            - ["Pyrite", "Metallic crystals"]
+            - ["Two-phase inclusions", "Liquid-gas without halite"]
+            - ["Chromite", "Small dark crystals"]
+            - ["Talc", "Soft, platy inclusions"]
+
+  - title: Madagascar Sapphire
+    content: |
+      Madagascar has emerged as a significant sapphire source since the late 1990s,
+      producing material in all colours from multiple deposits.
+    subsections:
+      - title: Key Deposits
+        content: |
+          - **Ilakaka**: Large-scale alluvial deposits; varied colours
+          - **Andranondambo**: Blue sapphires; some fine quality
+          - **Ambondromifehy**: Mainly yellow and orange sapphires
+          - **Diego Suarez**: Blue sapphires with distinct characteristics
+
+      - title: Diagnostic Features
+        table:
+          headers:
+            - Feature
+            - Description
+          rows:
+            - ["Zircon with halos", "Common but less distinctive than Ceylon"]
+            - ["Rutile silk", "Variable amounts"]
+            - ["Colour zoning", "Often irregular patterns"]
+            - ["Negative crystals", "Angular voids"]
+            - ["Variable fluorescence", "Depends on iron content"]
+
+  - title: Paraíba Tourmaline
+    content: |
+      Copper-bearing tourmaline (Paraíba) is among the most valuable coloured gemstones.
+      Originally from Brazil, similar material now comes from Mozambique and Nigeria.
+    subsections:
+      - title: Characteristics
+        content: |
+          - **Neon colours**: Electric blue, green, violet due to copper
+          - **Glow effect**: Appears to glow from within
+          - **Small sizes**: Brazilian material typically under 3 carats
+          - **High value**: Commands exceptional prices per carat
+
+      - title: Origin Distinction
+        table:
+          headers:
+            - Origin
+            - Characteristics
+            - Typical Size
+          rows:
+            - ["Brazilian (Paraíba state)", "Most saturated neon blue; highest value", "Usually <3 ct"]
+            - ["Nigerian", "Good colour; larger sizes available", "1–10+ ct"]
+            - ["Mozambican", "Often lighter; large sizes possible", "1–20+ ct"]
+
+      - title: Testing Requirements
+        content: |
+          Paraíba tourmaline must contain copper (detected by chemical analysis).
+          Geographic origin determination requires trace element analysis (Cu/Mn ratios,
+          Ga, Pb content) as inclusions are not always diagnostic.
+
+  - title: Origin Premium Economics
+    table:
+      caption: Approximate Origin Premiums (Fine Quality, Untreated)
+      headers:
+        - Gem
+        - Premium Origin
+        - Premium Range
+      rows:
+        - ["Blue Sapphire", "Kashmir", "+50-100% vs Ceylon"]
+        - ["Blue Sapphire", "Burma (Mogok)", "+20-40% vs Ceylon"]
+        - ["Ruby", "Burma (Mogok)", "+30-100% vs Mozambique"]
+        - ["Emerald", "Colombia", "+20-50% vs Zambia"]
+        - ["Paraíba Tourmaline", "Brazil", "+100-300% vs Mozambique"]
+
+  - title: Origin Premium Variability
+    callout:
+      type: warning
+      title: Premium Variability
+      text: |
+        Origin premiums are highly variable and depend on:
+
+        - Stone quality (colour, clarity, size)
+        - Treatment status (unheated commands more premium)
+        - Market conditions and demand
+        - Individual stone characteristics
+
+        A fine Ceylon sapphire will always be worth more than a poor Kashmir sapphire.
+        Origin alone does not guarantee value.
+
+  - title: Laboratory Origin Reports
+    content: |
+      Major gemmological laboratories provide origin determination services for high-value
+      coloured stones. Understanding report terminology and limitations is essential.
+    subsections:
+      - title: Major Laboratories
+        table:
+          headers:
+            - Laboratory
+            - Location
+            - Known For
+          rows:
+            - ["Gübelin", "Switzerland", "Pioneering inclusion research"]
+            - ["SSEF", "Switzerland", "Origin determination expertise"]
+            - ["GIA", "USA/Worldwide", "Comprehensive testing"]
+            - ["AGL", "USA", "Coloured stone expertise"]
+            - ["GRS", "Switzerland/Asia", "Origin and quality reports"]
+            - ["Lotus Gemology", "Thailand", "Independent origin analysis"]
+
+      - title: Report Terminology
+        content: |
+          - **"Consistent with..."**: Inclusions match known characteristics
+          - **"Origin undeterminable"**: Insufficient diagnostic features
+          - **"Heat treatment: None"**: No evidence of heating detected
+          - **"Heat treatment: Evidence of..."**: Signs of thermal treatment present
+
+      - title: Limitations
+        content: |
+          Origin determination has inherent limitations:
+
+          - Some deposits produce material with overlapping characteristics
+          - Heavily included or treated stones may be difficult to assess
+          - New deposits may initially lack reference samples
+          - Different labs may reach different conclusions
+          - Origin reports represent the laboratory's opinion based on current knowledge

@@ -1,0 +1,294 @@
+title: Chemical Properties
+description: Gem chemistry, chromophores and colour causes, allochromatic vs idiochromatic minerals, charge transfer, and colour centres.
+order: 3
+category: fundamentals
+difficulty: intermediate
+icon: flask
+related:
+  - optical-properties
+  - crystal-systems
+  - treatments
+tags:
+  - chemistry
+  - chromophores
+  - colour
+  - formulas
+  - composition
+
+sections:
+  - title: Introduction
+    content: |
+      Understanding gem chemistry explains why gems have their colours, what makes
+      one variety of a species different from another, and how treatments work.
+      Chemical composition determines many physical and optical properties.
+
+      The study of chromophores (colour-causing agents) is particularly important
+      for gem identification, treatment detection, and understanding colour stability.
+
+  - title: Allochromatic vs Idiochromatic Minerals
+    content: |
+      Minerals are classified by how they obtain their colour.
+    comparison:
+      items:
+        - title: Allochromatic (Other-Coloured)
+          points:
+            - Colour from trace impurities
+            - Pure form is colourless
+            - Same mineral can be many colours
+            - Impurity not part of ideal formula
+            - "Examples: corundum, beryl, quartz"
+        - title: Idiochromatic (Self-Coloured)
+          points:
+            - Colour from essential elements
+            - Colour intrinsic to formula
+            - Always the same general colour
+            - Colour-causing element required
+            - "Examples: peridot (Fe), malachite (Cu)"
+
+  - title: Allochromatic and Idiochromatic Examples
+    table:
+      caption: Colour Origin Classification
+      headers:
+        - Mineral
+        - Classification
+        - Colour Cause
+        - Resulting Colours
+      rows:
+        - ["Corundum", "Allochromatic", "Pure Al₂O₃ is colourless", "Ruby (Cr), sapphire (Fe/Ti)"]
+        - ["Beryl", "Allochromatic", "Pure Be₃Al₂Si₆O₁₈ is colourless", "Emerald (Cr), aquamarine (Fe)"]
+        - ["Quartz", "Allochromatic", "Pure SiO₂ is colourless", "Amethyst (Fe), citrine (Fe)"]
+        - ["Tourmaline", "Allochromatic", "Complex borosilicate", "Many colours (various)"]
+        - ["Peridot", "Idiochromatic", "Fe in formula (Mg,Fe)₂SiO₄", "Always green"]
+        - ["Malachite", "Idiochromatic", "Cu in formula Cu₂CO₃(OH)₂", "Always green"]
+        - ["Turquoise", "Idiochromatic", "Cu in formula", "Always blue-green"]
+
+  - title: Transition Metal Chromophores
+    content: |
+      Transition metals are the primary colour-causing agents in gems. Their partially
+      filled d-orbitals can absorb specific wavelengths of light.
+    subsections:
+      - title: Chromium (Cr³⁺)
+        content: |
+          Chromium is responsible for some of the most prized gem colours:
+
+          - **Ruby**: Red corundum (Cr in Al₂O₃)
+          - **Emerald**: Green beryl (Cr in Be₃Al₂Si₆O₁₈)
+          - **Alexandrite**: Colour-change chrysoberyl
+          - **Red spinel**: Cr-coloured MgAl₂O₄
+          - **Chrome tourmaline**: Green tourmaline
+          - **Tsavorite**: Green grossular garnet
+
+          Chromium typically produces red in oxide minerals and green in silicates,
+          though the host mineral structure affects the exact colour.
+
+      - title: Iron (Fe²⁺ and Fe³⁺)
+        content: |
+          Iron is the most common colouring agent in gems:
+
+          - **Fe²⁺**: Blue-green colours (aquamarine, blue tourmaline)
+          - **Fe³⁺**: Yellow-brown colours (citrine, yellow sapphire)
+          - **Fe²⁺/Fe³⁺ combination**: Can produce various colours
+
+          Iron content often affects other properties:
+          - Quenches fluorescence (Thai ruby vs Burmese ruby)
+          - Affects response to heat treatment
+          - Can be modified by HPHT treatment
+
+      - title: Other Transition Metals
+        table:
+          headers:
+            - Element
+            - Ion
+            - Typical Colour
+            - Example Gems
+          rows:
+            - ["Vanadium", "V³⁺", "Green or colour-change", "Tsavorite, colour-change sapphire"]
+            - ["Manganese", "Mn²⁺", "Pink to orange", "Rhodonite, spessartine, kunzite"]
+            - ["Manganese", "Mn³⁺", "Purple to red", "Piemontite"]
+            - ["Copper", "Cu²⁺", "Blue to green", "Turquoise, malachite, Paraíba"]
+            - ["Cobalt", "Co²⁺", "Blue", "Cobalt blue spinel, blue glass"]
+            - ["Titanium", "Ti³⁺/Ti⁴⁺", "Blue (with Fe)", "Blue sapphire (charge transfer)"]
+            - ["Nickel", "Ni²⁺", "Green", "Chrysoprase"]
+
+  - title: Chromophore Colour Chart
+    table:
+      caption: Major Chromophores and Their Colours
+      headers:
+        - Chromophore
+        - Colour
+        - Host Minerals
+        - Example Gems
+      rows:
+        - ["Cr³⁺", "Red", "Oxides (corundum, spinel)", "Ruby, red spinel"]
+        - ["Cr³⁺", "Green", "Silicates (beryl, garnet)", "Emerald, tsavorite"]
+        - ["Fe²⁺", "Blue-green", "Various", "Aquamarine, blue tourmaline"]
+        - ["Fe³⁺", "Yellow-brown", "Various", "Citrine, yellow sapphire"]
+        - ["Fe²⁺-Ti⁴⁺", "Blue", "Corundum", "Blue sapphire"]
+        - ["Cu²⁺", "Blue-green", "Phosphates, carbonates", "Turquoise, Paraíba tourmaline"]
+        - ["Mn²⁺", "Pink-orange", "Silicates", "Kunzite, morganite, rhodonite"]
+        - ["V³⁺", "Green", "Beryl, grossular", "Some emerald, tsavorite"]
+        - ["Co²⁺", "Blue", "Spinel, glass", "Cobalt spinel"]
+
+  - title: Charge Transfer Mechanisms
+    content: |
+      Some colours result from electron transfer between adjacent ions rather than
+      absorption by a single ion.
+    subsections:
+      - title: Fe²⁺ → Ti⁴⁺ Intervalence Charge Transfer
+        content: |
+          The classic example of charge transfer colours blue sapphire:
+
+          - Electron transfers from Fe²⁺ to Ti⁴⁺
+          - Absorbs red/yellow light → appears blue
+          - Requires both iron and titanium present
+          - Neither alone would produce blue
+
+          This mechanism explains why blue sapphire shows characteristic three-band
+          absorption spectrum at 450, 460, 470 nm.
+
+      - title: Fe²⁺ → Fe³⁺ Intervalence Charge Transfer
+        content: |
+          Iron-iron charge transfer affects colour in several gems:
+
+          - Contributes to blue in some sapphires
+          - Affects colour in aquamarine
+          - Can create greenish-blue tints
+
+      - title: Other Charge Transfer
+        content: |
+          - **O²⁻ → Fe³⁺**: Contributes to yellow in some minerals
+          - **O²⁻ → Cr⁶⁺**: Yellow (chromate compounds)
+
+          Charge transfer absorptions are typically broad bands rather than sharp
+          lines in the absorption spectrum.
+
+  - title: Colour Centres
+    content: |
+      Colour centres are crystal defects that can absorb light. They can be created
+      or destroyed by radiation and heating.
+    subsections:
+      - title: Types of Colour Centres
+        content: |
+          - **F-centres**: Electron trapped at anion vacancy (Farbzentrum = colour centre)
+          - **H-centres**: Hole trapped at cation site
+          - **Electron-hole pairs**: Various defect combinations
+
+          Colour centres are responsible for:
+          - Smoky quartz (irradiated rock crystal)
+          - Blue topaz (irradiated colourless topaz)
+          - Some fancy colour diamonds
+
+      - title: Radiation-Induced Colour
+        table:
+          headers:
+            - Starting Material
+            - Treatment
+            - Result
+            - Stability
+          rows:
+            - ["Colourless quartz", "Gamma irradiation", "Smoky quartz", "Stable"]
+            - ["Colourless topaz", "Irradiation + heat", "Blue topaz", "Stable"]
+            - ["Colourless beryl", "Irradiation", "Yellow (Maxixe)", "Fades in light"]
+            - ["Diamond", "Irradiation", "Green/blue surface", "Permanent"]
+            - ["Pearl", "Gamma irradiation", "Grey/black", "Stable"]
+
+      - title: Colour Centre Stability
+        content: |
+          Colour centre stability varies:
+
+          - **Stable**: Smoky quartz, treated blue topaz
+          - **Unstable**: Maxixe beryl (fades in light), some kunzite
+          - **Heat-sensitive**: Many can be bleached by heating
+
+          Understanding stability is important for predicting colour permanence.
+
+  - title: Chemical Formulas Reference
+    content: |
+      Chemical formulas help understand gem composition and elemental substitutions.
+    subsections:
+      - title: Major Gem Species
+        table:
+          headers:
+            - Gem
+            - Mineral
+            - Formula
+          rows:
+            - ["Diamond", "Diamond", "C"]
+            - ["Ruby/Sapphire", "Corundum", "Al₂O₃"]
+            - ["Emerald/Aquamarine", "Beryl", "Be₃Al₂Si₆O₁₈"]
+            - ["Alexandrite/Cat's eye", "Chrysoberyl", "BeAl₂O₄"]
+            - ["Spinel", "Spinel", "MgAl₂O₄"]
+            - ["Peridot", "Olivine", "(Mg,Fe)₂SiO₄"]
+            - ["Tanzanite", "Zoisite", "Ca₂Al₃(SiO₄)₃(OH)"]
+            - ["Tourmaline", "Tourmaline", "Complex borosilicate"]
+            - ["Topaz", "Topaz", "Al₂SiO₄(F,OH)₂"]
+            - ["Quartz", "Quartz", "SiO₂"]
+            - ["Zircon", "Zircon", "ZrSiO₄"]
+
+      - title: Garnet Group
+        table:
+          headers:
+            - Variety
+            - Species
+            - Formula
+          rows:
+            - ["Pyrope", "Pyrope", "Mg₃Al₂(SiO₄)₃"]
+            - ["Almandine", "Almandine", "Fe₃Al₂(SiO₄)₃"]
+            - ["Spessartine", "Spessartine", "Mn₃Al₂(SiO₄)₃"]
+            - ["Grossular", "Grossular", "Ca₃Al₂(SiO₄)₃"]
+            - ["Andradite", "Andradite", "Ca₃Fe₂(SiO₄)₃"]
+            - ["Uvarovite", "Uvarovite", "Ca₃Cr₂(SiO₄)₃"]
+
+      - title: Feldspar Group
+        table:
+          headers:
+            - Variety
+            - Species
+            - Formula
+          rows:
+            - ["Moonstone", "Orthoclase/Albite", "KAlSi₃O₈ / NaAlSi₃O₈"]
+            - ["Labradorite", "Labradorite", "(Ca,Na)(Al,Si)₄O₈"]
+            - ["Amazonite", "Microcline", "KAlSi₃O₈"]
+            - ["Sunstone", "Oligoclase", "(Na,Ca)(Al,Si)₄O₈"]
+
+  - title: Trace Element Effects
+    content: |
+      Minor and trace elements significantly affect gem properties beyond colour.
+    subsections:
+      - title: Property Modifications
+        content: |
+          Trace elements can affect:
+
+          - **Fluorescence**: Cr activates; Fe quenches
+          - **Hardness**: Some substitutions affect durability
+          - **Specific gravity**: Heavier elements increase SG
+          - **Refractive index**: Affects RI slightly
+          - **Treatment response**: Determines if treatment works
+
+      - title: Origin Indicators
+        content: |
+          Trace element ratios can indicate geographic origin:
+
+          - **Ga/Fe ratio**: Distinguishes some sapphire origins
+          - **Cr/V ratio**: Helps with emerald origin
+          - **Cu concentration**: Paraíba tourmaline identification
+          - **Li content**: Can distinguish some deposits
+
+          Advanced testing (LA-ICP-MS, LIBS) measures trace elements for origin
+          determination.
+
+  - title: Practical Applications
+    callout:
+      type: tip
+      title: Why Chemistry Matters
+      text: |
+        Understanding gem chemistry helps with:
+
+        1. **Colour prediction**: Know what causes colour
+        2. **Treatment understanding**: Why treatments work
+        3. **Stability assessment**: Will colour fade?
+        4. **Origin clues**: Trace elements indicate source
+        5. **Quality factors**: Why some colours are better
+        6. **Spectroscopy interpretation**: Connect spectra to chemistry
+
+        Chemistry forms the foundation for advanced gemmological understanding.

@@ -7,6 +7,8 @@ icon: beaker
 related:
   - inclusions
   - treatments
+  - diamond
+  - gem-testing-instruments
 tags:
   - laboratory
   - detection
@@ -167,3 +169,169 @@ sections:
         While many synthetics can be identified with standard gemmological equipment,
         some high-quality synthetics and lab-grown diamonds require advanced laboratory
         testing (spectroscopy, photoluminescence imaging) for definitive identification.
+
+  - title: Historical Timeline
+    content: |
+      The development of synthetic gems spans over a century, with continuous advances
+      in quality and variety.
+    table:
+      caption: Key Milestones in Synthetic Gem Development
+      headers:
+        - Year
+        - Development
+        - Significance
+      rows:
+        - ["1902", "Verneuil (flame fusion) process", "First commercial synthetic ruby"]
+        - ["1917", "Czochralski pulling method", "Single crystals from melt"]
+        - ["1928", "Flux-grown emerald (IG Farben)", "First synthetic emerald"]
+        - ["1953", "HPHT diamond (GE)", "First reproducible synthetic diamond"]
+        - ["1963", "Chatham flux-grown ruby", "Commercial flux synthetics"]
+        - ["1965", "Linde star sapphire", "Synthetic star corundum"]
+        - ["1970s", "Hydrothermal emerald", "Emeralds with natural-like inclusions"]
+        - ["1980s", "CVD diamond", "Low-pressure diamond synthesis"]
+        - ["1990s", "Tairus/Biron emerald", "High-quality hydrothermal emerald"]
+        - ["2000s", "Gem-quality HPHT diamond", "Large, colourless diamonds"]
+        - ["2010s", "Commercial CVD diamond", "Widespread availability"]
+        - ["2020s", "Affordable large lab diamonds", "Market transformation"]
+
+  - title: Synthetic Moissanite
+    content: |
+      Synthetic moissanite (SiC, silicon carbide) is an important diamond simulant
+      discovered to have gem potential in the 1990s.
+    subsections:
+      - title: Properties
+        table:
+          headers:
+            - Property
+            - Moissanite
+            - Diamond
+          rows:
+            - ["Chemical formula", "SiC", "C"]
+            - ["Crystal system", "Hexagonal", "Cubic"]
+            - ["Refractive index", "2.65-2.69", "2.417"]
+            - ["Birefringence", "0.043 (high)", "None (isotropic)"]
+            - ["Dispersion", "0.104", "0.044"]
+            - ["Hardness", "9.25-9.5", "10"]
+            - ["Specific gravity", "3.21", "3.52"]
+            - ["Thermal conductivity", "High (490 W/m·K)", "Very high (2000+ W/m·K)"]
+
+      - title: Detection Methods
+        content: |
+          Moissanite can be distinguished from diamond by:
+
+          - **Doubling**: Strong birefringence shows facet doubling under magnification
+          - **Electrical conductivity**: Moissanite conducts; diamond doesn't (except Type IIb)
+          - **Specific gravity**: Lower than diamond (floats in 3.32 heavy liquid)
+          - **Needle-like inclusions**: White, parallel needles common
+          - **Thermal-electrical testers**: Dual-function testers identify moissanite
+
+      - title: Market Position
+        content: |
+          Moissanite occupies a niche market:
+
+          - Marketed as alternative to diamond, not simulant
+          - Priced below diamond but above CZ
+          - Ethical/environmental positioning
+          - Own identity rather than diamond imitation
+
+  - title: Synthetic Alexandrite
+    content: |
+      Synthetic alexandrite (colour-change chrysoberyl) is produced primarily by the
+      Czochralski pulling method and flux growth.
+    subsections:
+      - title: Production Methods
+        table:
+          headers:
+            - Method
+            - Characteristics
+            - Detection Features
+          rows:
+            - ["Czochralski", "Clean crystals, strong colour change", "Very clean; may have curved striae"]
+            - ["Floating zone", "Similar to Czochralski", "Exceptionally clean"]
+            - ["Flux growth", "Natural-looking inclusions", "Flux veils, metallic platelets"]
+
+      - title: Comparison with Natural
+        content: |
+          Natural alexandrite is extremely rare; most "alexandrite" in the market is synthetic
+          or colour-change sapphire.
+
+          **Natural alexandrite features:**
+          - Chrysoberyl inclusions
+          - Three-phase inclusions
+          - Irregular colour distribution
+
+          **Synthetic alexandrite features:**
+          - Very clean (Czochralski)
+          - Flux inclusions if flux-grown
+          - Strong, consistent colour change
+
+  - title: Lab-Grown Diamond Market Evolution
+    content: |
+      The lab-grown diamond market has transformed dramatically, affecting both pricing
+      and consumer perception.
+    subsections:
+      - title: Market Trends
+        content: |
+          **Price evolution:**
+          - 2015: Lab-grown ~30-40% below mined equivalent
+          - 2020: ~50-70% below mined equivalent
+          - 2024: ~80-90% below mined equivalent (some sizes/qualities)
+
+          **Market share:**
+          - Growing rapidly in engagement ring market
+          - Dominant in industrial applications
+          - Increasing acceptance for fashion jewellery
+
+      - title: Consumer Considerations
+        comparison:
+          items:
+            - title: Lab-Grown Advantages
+              points:
+                - Lower price point
+                - Known origin
+                - Perceived environmental benefit
+                - Chemically identical to natural
+                - No mining impact
+            - title: Natural Diamond Advantages
+              points:
+                - Value retention (currently)
+                - Rarity and uniqueness
+                - Traditional significance
+                - Established resale market
+                - Geological interest
+
+      - title: Disclosure Requirements
+        content: |
+          Lab-grown diamonds must be disclosed at every transaction:
+
+          - **FTC (USA)**: "Laboratory-grown," "laboratory-created," or "[manufacturer name]-created"
+          - **CIBJO**: "Synthetic" or "laboratory-grown" with material name
+          - **ISO 18323**: Standard terminology for diamond industry
+
+          Terms like "cultured diamond" are discouraged to avoid pearl confusion.
+
+  - title: Emerging Synthetics
+    content: |
+      New synthetic materials continue to enter the market.
+    subsections:
+      - title: Recent Developments
+        table:
+          headers:
+            - Material
+            - Status
+            - Notes
+          rows:
+            - ["Lab-grown padparadscha", "Commercial", "Flux and Czochralski methods"]
+            - ["Synthetic Paraíba tourmaline", "Limited", "Copper-bearing tourmaline"]
+            - ["Lab-grown spinel", "Increasing", "Flame fusion and flux"]
+            - ["Synthetic demantoid", "Research", "Limited commercial availability"]
+
+      - title: Future Considerations
+        content: |
+          Gemmologists should anticipate:
+
+          - Continued improvement in synthetic quality
+          - New materials entering the market
+          - Evolution of detection methods
+          - Changing market dynamics and pricing
+          - Updated disclosure regulations

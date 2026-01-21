@@ -1,0 +1,347 @@
+title: Diamond
+description: Diamond type classification, the 4Cs grading system, fancy colours, natural vs lab-grown identification, and diamond verification instruments.
+order: 13
+category: advanced
+difficulty: intermediate
+icon: gem
+related:
+  - physical-properties
+  - synthetics
+  - grading-valuation
+tags:
+  - diamond
+  - 4Cs
+  - grading
+  - lab-grown
+  - HPHT
+  - CVD
+
+sections:
+  - title: Introduction
+    content: |
+      Diamond is the hardest natural material and one of the most valued gemstones.
+      Its unique combination of hardness, brilliance, and dispersion makes it ideal
+      for jewellery, while its structure and formation provide fascinating scientific
+      study.
+
+      Understanding diamond requires knowledge of its type classification (based on
+      nitrogen content), the 4Cs grading system, fancy colour assessment, and methods
+      to distinguish natural from laboratory-grown stones.
+
+  - title: Diamond Type Classification
+    content: |
+      Diamonds are classified into types based on nitrogen content and its arrangement
+      in the crystal lattice. Type affects colour, physical properties, and response
+      to treatments.
+    subsections:
+      - title: Type System Overview
+        table:
+          headers:
+            - Type
+            - Nitrogen Content
+            - Characteristics
+            - Frequency
+          rows:
+            - ["Type Ia", "Aggregated nitrogen (A and B centres)", "Cape series yellow tint; most common", "~98% of natural"]
+            - ["Type IaA", "Paired nitrogen (A centres)", "Near-colourless to light yellow", "Common"]
+            - ["Type IaB", "Clustered nitrogen (B centres)", "Less yellow; may show H3/H4 centres", "Less common"]
+            - ["Type Ib", "Isolated nitrogen", "Intense yellow or brown", "~0.1% natural; common synthetic"]
+            - ["Type IIa", "No nitrogen", "Colourless or brown; often finest quality", "~1-2% natural"]
+            - ["Type IIb", "Boron (no nitrogen)", "Blue; electrically conductive", "Very rare"]
+
+      - title: Type Significance
+        content: |
+          Understanding diamond type is important because:
+
+          - **Treatment response**: Type IIa brown diamonds can be HPHT-treated to colourless
+          - **Colour origin**: Type determines cause of colour
+          - **Value**: Type IIa diamonds are often exceptional
+          - **Synthetic identification**: Type Ib common in HPHT synthetics
+          - **Scientific interest**: Type reveals formation conditions
+
+      - title: Testing for Type
+        content: |
+          Diamond type is determined by:
+
+          - **Infrared spectroscopy**: Nitrogen absorption patterns
+          - **UV-Vis absorption**: Colour centres
+          - **Photoluminescence**: Characteristic emissions
+
+          Standard gemmological tools cannot determine type; laboratory analysis is required.
+
+  - title: The 4Cs for Diamond
+    content: |
+      The GIA 4Cs system (Colour, Clarity, Cut, Carat weight) is the universal standard
+      for diamond grading. Understanding this system is essential for any gemmologist.
+
+  - title: Colour Grading
+    subsections:
+      - title: D-Z Colour Scale
+        content: |
+          The GIA colour scale grades diamonds from D (colourless) to Z (light yellow/brown):
+
+          - **D, E, F**: Colourless (most valuable)
+          - **G, H, I, J**: Near-colourless
+          - **K, L, M**: Faint yellow
+          - **N, O, P, Q, R**: Very light yellow
+          - **S, T, U, V, W, X, Y, Z**: Light yellow
+
+          Beyond Z, stones enter the "fancy colour" category where yellow is desirable.
+
+      - title: Colour Grading Conditions
+        content: |
+          Accurate colour grading requires:
+
+          - **Master stones**: Comparison set of known grades
+          - **Standard lighting**: D65 daylight equivalent
+          - **Neutral background**: White or grey grading tray
+          - **Controlled viewing**: Table-down, pavilion up
+          - **Multiple observations**: Check from different angles
+
+      - title: Colour Price Impact
+        table:
+          headers:
+            - Colour Range
+            - Price Impact
+            - Notes
+          rows:
+            - ["D-F", "Premium", "Colourless; highest value"]
+            - ["G-H", "Good value", "Face-up appear colourless"]
+            - ["I-J", "Budget friendly", "Slight warmth; good value"]
+            - ["K+", "Discounted", "Visible tint; value option"]
+
+  - title: Clarity Grading
+    subsections:
+      - title: GIA Clarity Scale
+        table:
+          headers:
+            - Grade
+            - Name
+            - Description
+          rows:
+            - ["FL", "Flawless", "No inclusions/blemishes at 10×"]
+            - ["IF", "Internally Flawless", "No inclusions; minor blemishes at 10×"]
+            - ["VVS1, VVS2", "Very Very Slightly Included", "Minute inclusions; very difficult to see at 10×"]
+            - ["VS1, VS2", "Very Slightly Included", "Minor inclusions; difficult to see at 10×"]
+            - ["SI1, SI2", "Slightly Included", "Noticeable inclusions at 10×; may be eye-visible"]
+            - ["I1, I2, I3", "Included", "Obvious inclusions; may affect durability/beauty"]
+
+      - title: Clarity Factors
+        content: |
+          Five factors determine clarity grade:
+
+          1. **Size**: Larger inclusions have more impact
+          2. **Number**: Multiple inclusions reduce grade
+          3. **Position**: Central inclusions more visible
+          4. **Nature**: Type of inclusion (feather vs crystal)
+          5. **Relief**: Contrast with surrounding diamond
+
+      - title: Eye-Clean Concept
+        content: |
+          Many buyers seek "eye-clean" diamonds:
+
+          - No inclusions visible to unaided eye
+          - Typically SI1 and above
+          - Depends on stone size (larger = more visible)
+          - Personal perception varies
+
+  - title: Cut Grading
+    subsections:
+      - title: GIA Cut Grade (Round Brilliant)
+        content: |
+          GIA grades round brilliant cut on five levels:
+
+          - **Excellent**: Maximum brilliance and fire
+          - **Very Good**: High performance
+          - **Good**: Standard appearance
+          - **Fair**: Below standard
+          - **Poor**: Significant performance issues
+
+      - title: Cut Quality Factors
+        table:
+          headers:
+            - Factor
+            - Excellent Range
+            - Effect
+          rows:
+            - ["Table %", "54-57%", "Balance of brilliance and fire"]
+            - ["Depth %", "59-62.3%", "Light return and face-up size"]
+            - ["Crown angle", "34-35°", "Fire and brilliance balance"]
+            - ["Pavilion angle", "40.6-41°", "Critical for light return"]
+            - ["Girdle", "Thin to slightly thick", "Durability and face-up size"]
+
+      - title: Light Performance
+        content: |
+          Well-cut diamonds maximise:
+
+          - **Brilliance**: White light return
+          - **Fire**: Spectral dispersion
+          - **Scintillation**: Sparkle pattern when moved
+
+          Poor cuts show:
+          - **Windowing**: Light passes through
+          - **Extinction**: Dark areas
+          - **Fish-eye**: Girdle reflection visible
+
+  - title: Carat Weight
+    content: |
+      Carat is the metric unit for gemstone weight: 1 carat = 0.200 grams = 200 milligrams.
+    subsections:
+      - title: Weight-Size Relationship
+        content: |
+          Standard round brilliant approximate dimensions by weight:
+
+          - 0.25 ct: ~4.1mm diameter
+          - 0.50 ct: ~5.1mm diameter
+          - 1.00 ct: ~6.5mm diameter
+          - 2.00 ct: ~8.2mm diameter
+
+          Actual dimensions vary based on cut proportions.
+
+      - title: Price Per Carat Jumps
+        content: |
+          Price per carat increases at threshold weights:
+
+          - 0.30, 0.40, 0.50, 0.70, 0.90 ct: Minor jumps
+          - 1.00 ct: Major threshold (20-40% jump)
+          - 1.50, 2.00, 3.00 ct: Significant premiums
+          - 5.00+ ct: Exceptional premiums
+
+          A 0.99 ct diamond costs significantly less per carat than a 1.01 ct stone.
+
+  - title: Fancy Colour Diamonds
+    content: |
+      Diamonds with colour beyond Z, or with colours other than yellow/brown, are graded
+      as fancy colours with different criteria.
+    subsections:
+      - title: Fancy Colour Grading
+        table:
+          headers:
+            - Grade
+            - Description
+          rows:
+            - ["Faint", "Very light colour presence"]
+            - ["Very Light", "Light colour visible"]
+            - ["Light", "Easily seen colour"]
+            - ["Fancy Light", "Entry to fancy grades"]
+            - ["Fancy", "Moderate saturation"]
+            - ["Fancy Intense", "Strong saturation"]
+            - ["Fancy Vivid", "Maximum saturation (most valuable)"]
+            - ["Fancy Deep", "Dark tone; saturation varies"]
+            - ["Fancy Dark", "Very dark tone"]
+
+      - title: Colour Causes
+        table:
+          headers:
+            - Colour
+            - Cause
+            - Rarity
+          rows:
+            - ["Yellow", "Nitrogen (isolated)", "Common fancy colour"]
+            - ["Brown", "Plastic deformation", "Most common"]
+            - ["Blue", "Boron", "Very rare"]
+            - ["Green", "Radiation exposure", "Rare"]
+            - ["Pink/Red", "Plastic deformation", "Very rare; most valuable"]
+            - ["Orange", "Nitrogen + deformation", "Rare"]
+            - ["Black", "Graphite inclusions", "Relatively common"]
+            - ["White", "Milky inclusions", "Uncommon"]
+
+      - title: Value Hierarchy
+        content: |
+          Fancy colour value (generally, for equivalent saturation):
+
+          1. **Red**: Rarest and most valuable
+          2. **Blue**: Very rare; high value
+          3. **Pink**: Extremely desirable
+          4. **Green**: Rare; valuable
+          5. **Orange**: Relatively rare
+          6. **Yellow**: Most common fancy; value varies
+          7. **Brown**: Most abundant; lowest fancy value
+
+  - title: Natural vs Lab-Grown Diamonds
+    content: |
+      Distinguishing natural from laboratory-grown diamonds is increasingly important
+      as lab-grown quality and availability increase.
+    subsections:
+      - title: HPHT Diamond Characteristics
+        content: |
+          High Pressure High Temperature synthetics show:
+
+          - **Metallic inclusions**: Iron/nickel flux catalyst
+          - **Colour zoning**: May show cross-shaped zones
+          - **Fluorescence patterns**: Different from natural
+          - **Magnetic**: Metal inclusions attracted to magnet
+          - **Type**: Often Type Ib (isolated nitrogen)
+
+      - title: CVD Diamond Characteristics
+        content: |
+          Chemical Vapour Deposition synthetics show:
+
+          - **Striated growth**: Parallel growth lines
+          - **Brown tint**: Often HPHT post-treated
+          - **Unusual fluorescence**: Orange or other colours
+          - **Very clean**: Few inclusions typically
+          - **Type**: Usually Type IIa
+
+      - title: Detection Methods
+        table:
+          headers:
+            - Method
+            - Detects
+            - Limitation
+          rows:
+            - ["DiamondView", "Growth patterns, fluorescence", "Expensive equipment"]
+            - ["Photoluminescence", "Defect centres", "Laboratory required"]
+            - ["UV-Vis absorption", "Colour centres", "Laboratory required"]
+            - ["Infrared spectroscopy", "Nitrogen type", "Laboratory required"]
+            - ["Magnetic testing", "HPHT metal inclusions", "Not all HPHT magnetic"]
+
+  - title: Diamond Verification Instruments
+    subsections:
+      - title: Screening Devices
+        content: |
+          Various instruments help identify potential synthetics or simulants:
+
+          - **Thermal probes**: Distinguish diamond from most simulants
+          - **Combined thermal/electrical**: Separate diamond from moissanite
+          - **Type screening devices**: Identify stones needing further testing
+          - **UV screening devices**: Detect unusual fluorescence patterns
+
+      - title: Laboratory Instruments
+        table:
+          headers:
+            - Instrument
+            - Purpose
+          rows:
+            - ["DiamondView", "Fluorescence imaging of growth structures"]
+            - ["FTIR spectrometer", "Diamond type and treatment detection"]
+            - ["UV-Vis-NIR spectrometer", "Colour origin analysis"]
+            - ["PL spectrometer", "Defect centre identification"]
+            - ["Raman spectrometer", "Material verification"]
+
+      - title: When to Test
+        content: |
+          Consider laboratory testing for:
+
+          - Large, high-value diamonds
+          - Unusually clean stones
+          - Unusual fluorescence
+          - Stones without documentation
+          - Type II diamonds (more likely treated or synthetic)
+          - Any stone with atypical features
+
+  - title: Famous Diamonds
+    callout:
+      type: info
+      title: Notable Examples
+      text: |
+        **Cullinan** (3,106 ct rough): Largest gem diamond found; cut into multiple
+        stones including the 530 ct Great Star of Africa.
+
+        **Hope Diamond** (45.52 ct): Famous blue Type IIb; exhibits red phosphorescence.
+
+        **Koh-i-Noor** (105.6 ct): Historic Indian diamond; now in British Crown Jewels.
+
+        **Pink Star** (59.60 ct): Fancy Vivid Pink; sold for $71.2M in 2017.
+
+        **Blue Moon** (12.03 ct): Fancy Vivid Blue; sold for $48.5M in 2015.

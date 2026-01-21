@@ -1,0 +1,345 @@
+title: Advanced Crystallography
+description: Twinning, Miller indices, crystal habits, crystal forms, point groups, and crystal growth mechanisms.
+order: 1.5
+category: fundamentals
+difficulty: advanced
+icon: gem
+related:
+  - crystal-systems
+  - optical-properties
+  - inclusions
+tags:
+  - crystallography
+  - twinning
+  - miller-indices
+  - point-groups
+  - crystal-habit
+
+sections:
+  - title: Introduction
+    content: |
+      Advanced crystallography builds on the foundation of crystal systems to explore
+      how crystals grow, twin, and develop their characteristic forms. Understanding
+      these concepts is essential for interpreting inclusion patterns, growth features,
+      and crystal morphology.
+
+      The FGA Diploma requires ability to draw common crystal habits and understand
+      twinning patterns—these visual skills are tested in examinations.
+
+  - title: Miller Indices
+    content: |
+      Miller indices describe the orientation of crystal faces relative to crystallographic
+      axes. They are fundamental to describing crystal forms and understanding
+      morphology.
+    subsections:
+      - title: Three-Index Notation {hkl}
+        content: |
+          For cubic, tetragonal, orthorhombic, monoclinic, and triclinic systems:
+
+          1. Determine where face intercepts each axis (a, b, c)
+          2. Take reciprocals of these intercepts
+          3. Clear fractions to get smallest integers
+          4. Enclose in braces {hkl} for a form (set of symmetrically equivalent faces)
+          5. Use parentheses (hkl) for a single specific face
+
+          **Example**: Face intercepts a at 1, b at 2, c at ∞
+          - Reciprocals: 1/1, 1/2, 1/∞ = 1, 0.5, 0
+          - Clear fractions: multiply by 2 → 2, 1, 0
+          - Miller index: (210)
+
+      - title: Common Cubic Forms
+        table:
+          headers:
+            - Form
+            - Miller Index
+            - Face Count
+            - Shape
+          rows:
+            - ["Cube", "{100}", "6", "Square faces"]
+            - ["Octahedron", "{111}", "8", "Triangular faces"]
+            - ["Dodecahedron", "{110}", "12", "Rhombic faces"]
+            - ["Trapezohedron", "{211}", "24", "Kite-shaped faces"]
+            - ["Hexoctahedron", "{321}", "48", "Scalene triangles"]
+
+      - title: Four-Index Notation {hkil}
+        content: |
+          For hexagonal and trigonal systems, four-index (Miller-Bravais) notation uses
+          three horizontal axes (a₁, a₂, a₃) at 120° plus vertical c-axis:
+
+          - h + k + i = 0 (always; i is redundant but clarifies symmetry)
+          - Negative indices shown with bar: 1̄ or written as -1
+
+          **Example**: {10-10} = {101̄0} = hexagonal prism faces
+
+          Common hexagonal/trigonal forms:
+          - {0001} - Basal pinacoid (top and bottom)
+          - {10-10} - Hexagonal prism
+          - {10-11} - Hexagonal dipyramid
+          - {11-20} - Second-order prism
+
+  - title: Crystal Forms
+    content: |
+      A crystal form is a set of faces that are equivalent by symmetry. Forms can be
+      open (don't enclose space alone) or closed (can exist independently).
+    subsections:
+      - title: Open vs Closed Forms
+        comparison:
+          items:
+            - title: Open Forms
+              points:
+                - Cannot exist alone
+                - Must combine with other forms
+                - "Examples: prisms, pinacoids"
+                - Require top/bottom faces
+            - title: Closed Forms
+              points:
+                - Can exist independently
+                - Enclose space completely
+                - "Examples: cube, octahedron"
+                - All faces equivalent
+
+      - title: Form Combinations
+        content: |
+          Real crystals typically show multiple forms in combination:
+
+          - **Dominant form**: Largest faces, determines overall shape
+          - **Modifying forms**: Smaller faces, truncate edges/corners
+          - **CDL notation**: `{111}@1.0 + {100}@1.3` describes relative development
+
+          Example: Diamond often shows {111} octahedron with {100} cube faces
+          truncating corners.
+
+  - title: Twinning
+    content: |
+      Twinning occurs when two or more crystals share some lattice points but have
+      different orientations. Twins can form during growth, transformation, or
+      mechanical stress.
+    subsections:
+      - title: Types of Twins
+        table:
+          headers:
+            - Type
+            - Description
+            - Examples
+          rows:
+            - ["Contact twins", "Share a plane; mirror reflection", "Spinel twin, quartz Brazil twin"]
+            - ["Penetration twins", "Interpenetrate; share a line/point", "Fluorite, staurolite cross"]
+            - ["Polysynthetic (lamellar)", "Multiple parallel thin twins", "Plagioclase, labradorite"]
+            - ["Cyclic twins", "Three or more parts around axis", "Chrysoberyl trillings, rutile"]
+
+      - title: Twin Laws
+        content: |
+          A twin law describes the geometric relationship between twin parts:
+
+          - **Twin plane**: Mirror plane relating the parts
+          - **Twin axis**: Rotation axis (typically 180°)
+          - **Contact vs penetration**: Whether parts share plane or interpenetrate
+
+          Common twin laws include spinel law {111}, Brazil law in quartz, and
+          Carlsbad law in orthoclase.
+
+  - title: Important Twins in Gemmology
+    table:
+      caption: Diagnostic Twins by Species
+      headers:
+        - Mineral
+        - Twin Type
+        - Appearance
+        - Significance
+      rows:
+        - ["Spinel", "Contact octahedral", "Flattened triangular plates", "Characteristic habit"]
+        - ["Chrysoberyl", "Cyclic (trillings)", "Six-rayed star shape", "Common; pseudohexagonal"]
+        - ["Quartz", "Brazil law", "Alternating right/left zones", "Optical effects"]
+        - ["Quartz", "Dauphiné law", "No visible twin plane", "Detected by etch figures"]
+        - ["Rutile", "Cyclic (geniculae)", "Knee-shaped twins", "Common at 60° or 90°"]
+        - ["Fluorite", "Penetration", "Interpenetrating cubes", "Characteristic"]
+        - ["Staurolite", "Cross penetration", "60° or 90° crosses", "Fairy crosses"]
+        - ["Feldspar", "Polysynthetic", "Parallel striations", "Twinning lamellae"]
+
+  - title: Twinning Effects
+    callout:
+      type: info
+      title: Twinning and Optical Properties
+      text: |
+        Twinning affects optical properties and can complicate identification:
+
+        - Polysynthetic twinning causes labradorescence in labradorite
+        - Brazil twinning in quartz creates optical irregularities
+        - Twin planes can be mistaken for cleavage
+        - Twinning may cause anomalous optical behaviour under polariscope
+
+  - title: Crystal Habits
+    content: |
+      Crystal habit describes the overall shape a mineral typically assumes. The same
+      mineral can show different habits depending on growth conditions.
+    subsections:
+      - title: Common Habit Terms
+        table:
+          headers:
+            - Term
+            - Description
+            - Examples
+          rows:
+            - ["Prismatic", "Elongated parallel to c-axis", "Tourmaline, beryl"]
+            - ["Tabular", "Flat, plate-like", "Mica, topaz"]
+            - ["Equant", "Roughly equal dimensions", "Garnet, diamond"]
+            - ["Acicular", "Needle-like", "Rutile, actinolite"]
+            - ["Bladed", "Flat, elongated like knife blade", "Kyanite"]
+            - ["Fibrous", "Thread-like aggregates", "Asbestos, tiger's eye"]
+            - ["Massive", "No visible crystal faces", "Jadeite, nephrite"]
+            - ["Botryoidal", "Grape-like rounded masses", "Malachite, chalcedony"]
+
+      - title: Habit Variations
+        content: |
+          The same mineral may show different habits due to:
+
+          - **Growth rate**: Fast growth → elongated; slow growth → equant
+          - **Temperature**: Higher temperatures often favour specific faces
+          - **Impurities**: Can block growth on certain faces
+          - **Available space**: Constrained environments modify shape
+          - **Supersaturation**: Affects relative face development
+
+  - title: Species-Specific Habits
+    comparison:
+      items:
+        - title: Typical Crystal Shapes
+          points:
+            - "Diamond: octahedron, dodecahedron"
+            - "Corundum: barrel-shaped, tabular hexagonal"
+            - "Beryl: hexagonal prism with flat termination"
+            - "Quartz: hexagonal prism with pyramid"
+            - "Tourmaline: triangular prism"
+            - "Topaz: orthorhombic prism with dome"
+            - "Spinel: octahedron (often twinned)"
+            - "Garnet: dodecahedron or trapezohedron"
+        - title: Atypical Habits
+          points:
+            - "Diamond: cube (rare), flat triangular macles"
+            - "Corundum: bipyramidal, prismatic"
+            - "Beryl: etched, tapered"
+            - "Quartz: sceptre, skeletal, Japan twin"
+            - "Tourmaline: slender prismatic, massive"
+            - "Spinel: cube (rare)"
+            - "Garnet: massive, granular"
+
+  - title: The 32 Point Groups
+    content: |
+      Point groups (crystal classes) describe the symmetry elements present at a point.
+      Each crystal system contains multiple point groups.
+    subsections:
+      - title: Point Group Notation
+        content: |
+          Hermann-Mauguin notation describes symmetry elements:
+
+          - **Numbers** (2, 3, 4, 6): Rotation axes (fold symmetry)
+          - **m**: Mirror plane
+          - **Bar notation** (-1, -3, -4, -6): Rotoinversion axes
+          - **Combination** (4/m): Axis perpendicular to mirror
+
+      - title: Cubic System Point Groups
+        table:
+          headers:
+            - Symbol
+            - Elements
+            - Example Minerals
+          rows:
+            - ["m3m", "Full cubic symmetry", "Diamond, garnet, spinel"]
+            - ["432", "No mirrors", "Rare"]
+            - ["-43m", "Tetrahedral", "Sphalerite"]
+            - ["m3", "Pyritohedral", "Pyrite"]
+            - ["23", "Tetrahedral", "Rare"]
+
+      - title: Hexagonal and Trigonal Point Groups
+        table:
+          headers:
+            - System
+            - Symbol
+            - Example Minerals
+          rows:
+            - ["Hexagonal", "6/mmm", "Beryl"]
+            - ["Hexagonal", "6mm", "Wurtzite"]
+            - ["Hexagonal", "6/m", "Apatite"]
+            - ["Trigonal", "-3m", "Corundum, tourmaline"]
+            - ["Trigonal", "32", "Quartz"]
+            - ["Trigonal", "3m", "Dioptase"]
+
+  - title: Crystal Growth
+    content: |
+      Understanding crystal growth explains many inclusion patterns, zoning features,
+      and quality characteristics observed in gems.
+    subsections:
+      - title: Growth Mechanisms
+        content: |
+          Crystals grow by atoms/molecules attaching to energetically favourable sites:
+
+          - **Layer growth**: Atoms add to stepped surfaces
+          - **Screw dislocation growth**: Spiral growth patterns
+          - **Dendritic growth**: Fast growth → branching patterns
+          - **Skeletal growth**: Edges grow faster than faces
+
+      - title: Growth Features
+        table:
+          headers:
+            - Feature
+            - Cause
+            - Example
+          rows:
+            - ["Colour zoning", "Changing conditions during growth", "Sapphire, tourmaline"]
+            - ["Phantom crystals", "Growth interruption and resumption", "Quartz phantoms"]
+            - ["Growth tubes", "Inclusions elongated by growth", "Tourmaline, beryl"]
+            - ["Negative crystals", "Fluid-filled voids with crystal shape", "Spinel, quartz"]
+            - ["Hourglass zoning", "Different impurity uptake on faces", "Synthetic corundum"]
+            - ["Striae", "Subtle parallel growth lines", "Tourmaline, beryl"]
+
+      - title: Natural vs Synthetic Growth
+        content: |
+          Growth features help distinguish natural from synthetic gems:
+
+          - **Natural**: Irregular zoning, varied inclusion suites, geological timeframe
+          - **Flame fusion**: Curved striae from rotating growth
+          - **Flux growth**: Flux inclusions, metallic platelets
+          - **Hydrothermal**: Chevron zoning, seed plates
+
+  - title: Crystal Drawing
+    callout:
+      type: tip
+      title: FGA Examination Skills
+      text: |
+        The FGA Diploma requires ability to draw basic crystal shapes. Practice drawing:
+
+        1. Cube (6 square faces)
+        2. Octahedron (8 triangular faces)
+        3. Hexagonal prism (6 rectangular + 2 hexagonal faces)
+        4. Rhombohedron (6 rhombic faces)
+        5. Orthorhombic prism with dome
+
+        Use proper perspective and indicate symmetry elements where relevant.
+
+  - title: CDL Crystal Examples
+    content: |
+      The Crystal Description Language (CDL) provides a notation for describing crystal
+      morphology. These examples show common gem crystal shapes.
+    subsections:
+      - title: Cubic Examples
+        content: |
+          Diamond octahedron with cube truncations:
+        crystal:
+          cdl: "cubic[m3m]:{111}@1.0+{100}@1.3"
+          caption: "Diamond-type crystal showing octahedron {111} truncated by cube {100}"
+          interactive: true
+
+      - title: Trigonal Examples
+        content: |
+          Quartz prism with rhombohedral terminations:
+        crystal:
+          cdl: "trigonal[32]:{10-10}@1.0+{10-11}@0.8"
+          caption: "Quartz crystal with prism {10-10} and rhombohedron {10-11}"
+          interactive: true
+
+      - title: Hexagonal Examples
+        content: |
+          Beryl (emerald) hexagonal prism with pinacoid:
+        crystal:
+          cdl: "hexagonal[6/mmm]:{10-10}@1.0+{0001}@0.5"
+          caption: "Beryl crystal with prism {10-10} and basal pinacoid {0001}"
+          interactive: true

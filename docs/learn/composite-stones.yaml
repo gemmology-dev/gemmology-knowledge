@@ -1,0 +1,287 @@
+title: Composite Stones
+description: Doublets, triplets, assembled stones, and their detection including opal doublets, garnet-topped doublets, and soudé emeralds.
+order: 14
+category: identification
+difficulty: intermediate
+icon: layers
+related:
+  - inclusions
+  - gem-testing-instruments
+  - treatments
+tags:
+  - doublet
+  - triplet
+  - assembled
+  - detection
+  - identification
+
+sections:
+  - title: Introduction
+    content: |
+      Composite stones (also called assembled stones) are made by joining two or more
+      pieces of material together. Some composites are legitimate products (opal doublets
+      for protection), while others are created to deceive buyers into thinking they
+      have a solid, more valuable stone.
+
+      Understanding composite construction and detection methods is essential for
+      accurate gem identification and proper disclosure.
+
+  - title: Types of Composite Stones
+    comparison:
+      items:
+        - title: Doublets
+          points:
+            - Two pieces joined together
+            - Crown and pavilion may differ
+            - Glued or fused at junction
+            - May have coloured cement
+            - "Examples: opal doublet, garnet-top"
+        - title: Triplets
+          points:
+            - Three pieces joined together
+            - Thin slice between crown and pavilion
+            - Protective cap on top
+            - Base for support
+            - "Examples: opal triplet, emerald triplet"
+
+  - title: Doublets
+    content: |
+      Doublets consist of two pieces joined at a plane, typically at or near the girdle.
+      The two parts may be different materials or the same material of different qualities.
+    subsections:
+      - title: Garnet-Topped Doublets
+        content: |
+          Historically common and often deceptive:
+
+          - **Crown**: Thin slice of almandine garnet (hard, durable)
+          - **Pavilion**: Coloured glass of any desired colour
+          - **Join**: Fused together at high temperature
+
+          Used to imitate ruby, sapphire, emerald, and other gems. The garnet provides
+          hardness and natural RI while glass provides colour.
+
+      - title: Opal Doublets
+        content: |
+          Legitimate products that protect thin opal and make it usable:
+
+          - **Crown**: Thin slice of precious opal with play of colour
+          - **Base**: Dark backing (potch, ironstone, or black glass)
+          - **Purpose**: Makes thin opal usable; enhances colour contrast
+
+          Properly disclosed opal doublets are acceptable commercial products.
+
+      - title: Sapphire Doublets
+        content: |
+          - **Crown**: Colourless sapphire or synthetic sapphire
+          - **Pavilion**: Blue synthetic sapphire or coloured material
+          - **Join**: May contain coloured cement layer
+
+          Creates appearance of fine blue sapphire using less valuable materials.
+
+      - title: Other Doublets
+        table:
+          headers:
+            - Type
+            - Crown
+            - Pavilion
+            - Purpose
+          rows:
+            - ["Star doublet", "Natural star sapphire", "Synthetic star sapphire", "Create larger star stone"]
+            - ["Diamond doublet", "Diamond crown", "Glass or CZ pavilion", "Simulate larger diamond"]
+            - ["Jadeite doublet", "Thin jadeite slice", "Glass or plastic", "Enhance colour/size"]
+
+  - title: Triplets
+    content: |
+      Triplets add a third component, often a protective cap or a thin coloured layer.
+    subsections:
+      - title: Opal Triplets
+        content: |
+          Most common triplet type:
+
+          - **Cap**: Clear quartz or glass dome (protection)
+          - **Middle**: Very thin slice of precious opal
+          - **Base**: Dark backing (ironstone, black glass)
+
+          The cap protects the delicate opal from damage and water. Properly disclosed
+          opal triplets are legitimate products.
+
+      - title: Emerald Triplets (Soudé)
+        content: |
+          "Soudé" (French for "soldered") emerald triplets:
+
+          - **Crown**: Colourless beryl, quartz, or synthetic spinel
+          - **Middle**: Green cement layer (creates colour)
+          - **Pavilion**: Same as crown
+
+          The only green is in the thin cement layer. Very deceptive when not disclosed.
+
+      - title: Other Triplets
+        table:
+          headers:
+            - Type
+            - Structure
+            - Notes
+          rows:
+            - ["Ruby triplet", "Colourless material + red cement + base", "Creates red appearance"]
+            - ["Sapphire triplet", "Clear crown + blue layer + clear base", "Simulates blue sapphire"]
+            - ["Turquoise triplet", "Cap + thin turquoise + backing", "Protects fragile material"]
+
+  - title: Soudé Emerald Warning
+    callout:
+      type: warning
+      title: Soudé Emeralds
+      text: |
+        Soudé emerald triplets are particularly deceptive because:
+
+        - They may show beryl RI readings
+        - The green cement is only visible at the junction
+        - When set, the join plane is hidden by the setting
+        - Immersion is essential for detection
+
+        Always examine green stones carefully in immersion before concluding they
+        are natural emerald.
+
+  - title: Detection Methods
+    content: |
+      Several techniques reveal composite stone structure.
+    subsections:
+      - title: Visual Examination
+        content: |
+          Look for:
+
+          - **Junction line**: May be visible at girdle or under table
+          - **Bubble layer**: Air bubbles trapped in cement
+          - **Lustre difference**: Two parts may polish differently
+          - **Colour concentration**: Colour only in one layer
+          - **Transparency difference**: Parts may differ in clarity
+
+      - title: Immersion Examination
+        content: |
+          Immersion in liquid (water, benzyl benzoate, or methylene iodide) reduces
+          surface reflections and reveals internal structure:
+
+          - **Join plane becomes visible**: Different RI materials show distinct boundary
+          - **Colour distribution**: Shows if colour is only in cement
+          - **Bubble plane**: Trapped air bubbles often visible
+          - **RI differences**: Different parts refract differently
+
+          Immersion is the most reliable method for detecting composites.
+
+      - title: Profile Examination
+        content: |
+          View the stone from the side (profile view):
+
+          - Join plane often visible at girdle level
+          - Different materials may show different transparency
+          - Colour concentration may be visible
+          - Gap or cement layer may be apparent
+
+      - title: Other Detection Methods
+        table:
+          headers:
+            - Method
+            - Detects
+            - Limitations
+          rows:
+            - ["Hot needle (careful)", "Cement softening", "May damage stone"]
+            - ["Polariscope", "Different optic characters", "Not always conclusive"]
+            - ["Refractometer", "Different RI readings on parts", "Need access to both"]
+            - ["UV fluorescence", "Different reactions", "Not always diagnostic"]
+            - ["Microscopy", "Junction features, bubbles", "Requires magnification"]
+
+  - title: Immersion Detection
+    callout:
+      type: tip
+      title: Immersion Best Practice
+      text: |
+        For composite detection:
+
+        1. Use liquid with RI similar to the material (~1.54 for beryl/quartz)
+        2. View stone from multiple angles
+        3. Look for flat plane of colour or bubbles
+        4. Check profile view for separation line
+        5. Note any colour concentration differences
+
+        Water (RI 1.33) works for initial screening; higher RI liquids provide clearer view.
+
+  - title: Commercial Context
+    content: |
+      Understanding when composites are legitimate vs deceptive is important.
+    subsections:
+      - title: Legitimate Uses
+        content: |
+          Composites are acceptable when:
+
+          - **Properly disclosed**: Customer knows it's assembled
+          - **Priced accordingly**: Reflects composite nature
+          - **Serves purpose**: Protection (opal), extends use of material
+          - **Clearly marked**: Documentation states "doublet" or "triplet"
+
+      - title: Deceptive Practices
+        content: |
+          Composites are fraudulent when:
+
+          - Sold as solid natural stones
+          - Not disclosed at point of sale
+          - Priced as natural equivalent
+          - Concealed by mounting
+
+          Non-disclosure of composite nature is fraud in most jurisdictions.
+
+      - title: Disclosure Requirements
+        content: |
+          Composites must be identified as:
+
+          - "Opal doublet" (not just "opal")
+          - "Assembled stone"
+          - "Composite stone"
+          - With clear statement of construction
+
+          CIBJO and FTC guidelines require disclosure of assembled nature.
+
+  - title: Mounted Stone Examination
+    content: |
+      Composites in settings present challenges for detection.
+    subsections:
+      - title: Examination Challenges
+        content: |
+          Settings can hide:
+
+          - Junction plane at girdle (covered by prongs)
+          - Colour layer (closed back settings)
+          - Backing material (bezel settings)
+
+      - title: Examination Techniques
+        content: |
+          For mounted stones:
+
+          - **Examine through table**: Look for bubble plane
+          - **View pavilion**: If accessible, check for backing
+          - **Side light**: Reveals internal planes
+          - **Strong transmitted light**: May show structure
+          - **Request removal**: For valuable stones, unmounting allows proper exam
+
+      - title: Documentation
+        content: |
+          When composite status cannot be confirmed:
+
+          - State "examination limited by mounting"
+          - Recommend removal for complete testing
+          - Note any suspicious features observed
+          - Do not assume solid stone without verification
+
+  - title: Composite Stone Summary
+    table:
+      caption: Common Composite Stones and Detection
+      headers:
+        - Type
+        - Construction
+        - Key Detection
+        - Disclosure
+      rows:
+        - ["Opal doublet", "Opal + dark backing", "Profile view, immersion", "Required; legitimate product"]
+        - ["Opal triplet", "Cap + opal + backing", "Domed cap, profile, immersion", "Required; legitimate product"]
+        - ["Garnet-top doublet", "Garnet crown + glass", "Immersion, bubble plane", "Required; often deceptive"]
+        - ["Soudé emerald", "Clear + green cement + clear", "Immersion shows colour plane", "Required; often deceptive"]
+        - ["Sapphire doublet", "Sapphire + coloured material", "Immersion, profile examination", "Required"]
+        - ["Star doublets", "Natural crown + synthetic base", "Examine from back", "Required"]

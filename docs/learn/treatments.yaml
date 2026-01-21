@@ -7,6 +7,9 @@ icon: fire
 related:
   - inclusions
   - synthetics
+  - professional-practice
+  - gem-care-durability
+  - diamond
 tags:
   - heat-treatment
   - disclosure
@@ -155,3 +158,172 @@ sections:
             - Lead glass filling
             - Surface diffusion
             - Coatings
+
+  - title: HPHT Diamond Treatment
+    content: |
+      High Pressure High Temperature (HPHT) treatment can permanently alter diamond colour.
+      Originally developed for industrial applications, it's now used to improve gem-quality
+      diamonds.
+    subsections:
+      - title: Type IIa Diamonds
+        content: |
+          Type IIa diamonds (nitrogen-free) can be decolourised by HPHT treatment:
+
+          - **Starting material**: Brown Type IIa diamonds
+          - **Result**: Near-colourless (D-F colour possible)
+          - **Mechanism**: Removes plastic deformation that causes brown colour
+          - **Stability**: Permanent; colour won't revert
+
+      - title: Fancy Colour Creation
+        table:
+          headers:
+            - Starting Type
+            - HPHT Result
+            - Mechanism
+          rows:
+            - ["Type Ia (cape series)", "Intense yellow or green-yellow", "Modifies nitrogen centres"]
+            - ["Type IaB", "Yellow or green", "Creates H3/H4 centres"]
+            - ["Type Ib", "Orange or brownish-orange", "Modifies isolated nitrogen"]
+            - ["Type IIa (brown)", "Colourless or pink", "Removes deformation"]
+            - ["Type IIb", "Enhanced blue", "Possible but uncommon"]
+
+      - title: Detection Methods
+        content: |
+          HPHT-treated diamonds can be identified by:
+
+          - **Photoluminescence spectroscopy**: Characteristic centres
+          - **Infrared spectroscopy**: Modified nitrogen aggregation
+          - **DiamondView imaging**: Unusual fluorescence patterns
+          - **Graining patterns**: May show altered internal structure
+          - **Laboratory testing required**: Cannot be detected with standard tools
+
+  - title: Cobalt Diffusion
+    content: |
+      Cobalt can be diffused into gems during high-temperature treatment, most commonly
+      in lead glass-filled rubies where it creates artificial blue colour in the glass.
+    subsections:
+      - title: Cobalt in Glass-Filled Stones
+        content: |
+          Some lead glass fillings contain cobalt to add blue colour:
+
+          - Creates bluish tinge that masks brown/orange body colours
+          - Concentrated in fractures and surface areas
+          - Can be mistaken for better quality material
+          - Flash effect may show blue rather than typical orange
+
+      - title: Detection
+        content: |
+          - **Blue flash effect**: Unusual blue colour in fractures under magnification
+          - **Chelsea filter**: Strong red reaction from cobalt
+          - **Spectroscopy**: Cobalt absorption bands (around 550nm)
+          - **Chemical analysis**: LIBS or LA-ICP-MS confirms cobalt presence
+
+  - title: Treatment Stability Chart
+    table:
+      caption: Treatment Stability and Care Requirements
+      headers:
+        - Treatment
+        - Stability
+        - Sensitive To
+        - Care Notes
+      rows:
+        - ["Heat (corundum)", "Permanent", "N/A", "No special care needed"]
+        - ["Heat (zircon)", "Stable", "Extreme heat may affect", "Avoid jeweller's torch"]
+        - ["Oil (emerald)", "Temporary", "Heat, solvents, time", "Re-oil periodically; avoid ultrasonic"]
+        - ["Resin (emerald)", "Semi-permanent", "Heat, strong solvents", "Avoid ultrasonic and steam"]
+        - ["Lead glass (ruby)", "Fragile", "Heat, acids, ultrasonic", "Extreme care required"]
+        - ["Beryllium diffusion", "Permanent", "N/A", "No special care needed"]
+        - ["Surface diffusion", "Shallow only", "Repolishing removes", "Avoid recutting"]
+        - ["Irradiation (topaz)", "Usually stable", "Some may fade", "Stable once processed"]
+        - ["Coating", "Fragile", "Abrasion, solvents", "Will wear off over time"]
+        - ["HPHT (diamond)", "Permanent", "N/A", "No special care needed"]
+
+  - title: Treatment Stability Warning
+    callout:
+      type: warning
+      title: Unstable Treatments
+      text: |
+        Some treatments require ongoing care or will degrade:
+
+        - **Oil in emerald**: May dry out; requires periodic re-oiling
+        - **Lead glass filling**: Extremely fragile; damaged by heat, acids, even lemon juice
+        - **Coatings**: Will wear off; cannot be cleaned aggressively
+        - **Some irradiation**: Certain colours may fade in light
+
+        Always advise customers about care requirements for treated gems.
+
+  - title: Laboratory Report Terminology
+    content: |
+      Understanding laboratory report terminology is essential for interpreting treatment
+      status and communicating accurately.
+    subsections:
+      - title: Treatment Codes
+        table:
+          headers:
+            - Code
+            - Meaning
+            - Details
+          rows:
+            - ["N or NTE", "No treatment evidence", "No indication of any treatment"]
+            - ["H", "Heat treatment", "Evidence of heating detected"]
+            - ["H(a)", "Heat with foreign residue", "Borax or similar flux present"]
+            - ["H(b) or H(Be)", "Beryllium diffusion", "Lattice diffusion treatment"]
+            - ["O(minor)", "Minor oil", "Light oiling; typical for emerald"]
+            - ["O(moderate)", "Moderate oil", "Moderate enhancement"]
+            - ["O(significant)", "Significant oil", "Heavy treatment"]
+            - ["R", "Resin", "Polymer-filled fractures"]
+            - ["F", "Filled", "Fracture or cavity filling"]
+            - ["C", "Coated", "Surface coating present"]
+
+      - title: Interpreting Reports
+        content: |
+          Key phrases on laboratory reports:
+
+          - **"No indication of heat treatment"**: Stone appears unheated
+          - **"Evidence of heat treatment"**: Heating detected
+          - **"Filler detected"**: Fracture filling present
+          - **"Clarity enhanced"**: Treatment improved apparent clarity
+          - **"Colour possibly enhanced"**: Colour may not be natural
+          - **"Origin undeterminable"**: Insufficient evidence for origin
+
+  - title: Trade Organisation Standards
+    content: |
+      Industry organisations establish treatment disclosure standards.
+    subsections:
+      - title: CIBJO Blue Books
+        content: |
+          CIBJO (World Jewellery Confederation) publishes standardised terminology:
+
+          - **Natural**: Formed in nature without human intervention
+          - **Treated**: Natural material altered beyond cutting/polishing
+          - **Synthetic**: Man-made, same properties as natural
+          - **Imitation**: Any material resembling another
+
+          Full disclosure of treatments is required under CIBJO standards.
+
+      - title: AGTA Enhancement Codes
+        table:
+          headers:
+            - Code
+            - Enhancement
+          rows:
+            - ["N", "Not enhanced"]
+            - ["H", "Heating"]
+            - ["O", "Oiling/resin infusion"]
+            - ["F", "Filling"]
+            - ["D", "Dyeing"]
+            - ["B", "Bleaching"]
+            - ["C", "Coating"]
+            - ["U", "Diffusion"]
+            - ["R", "Irradiation"]
+            - ["ASBL", "Assembled (composite)"]
+
+      - title: Disclosure Chain
+        content: |
+          Treatment information must pass through the supply chain:
+
+          1. Treater → dealer (must disclose)
+          2. Dealer → retailer (must disclose)
+          3. Retailer → consumer (must disclose)
+
+          Failure at any point constitutes fraud or misrepresentation in most jurisdictions.

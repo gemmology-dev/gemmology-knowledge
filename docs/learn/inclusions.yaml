@@ -7,6 +7,9 @@ icon: search
 related:
   - optical-properties
   - treatments
+  - origin-determination
+  - gem-testing-instruments
+  - synthetics
 tags:
   - microscopy
   - identification
@@ -145,3 +148,168 @@ sections:
         Always examine gems under magnification (10x minimum, 40-60x preferred)
         using multiple lighting techniques. Document findings with photographs
         when possible for comparison and records.
+
+  - title: Diamond Inclusions
+    content: |
+      Diamond inclusions provide information about clarity grading, formation conditions,
+      and natural vs synthetic status. Understanding diamond inclusions is essential for
+      accurate grading.
+    subsections:
+      - title: Crystal Inclusions
+        table:
+          headers:
+            - Inclusion
+            - Appearance
+            - Significance
+          rows:
+            - ["Garnet", "Red or orange crystals", "Syngenetic with diamond"]
+            - ["Olivine", "Green crystals", "Common mantle mineral"]
+            - ["Chrome diopside", "Green crystals", "Peridotitic environment"]
+            - ["Chromite", "Black, opaque", "Common in diamonds"]
+            - ["Graphite", "Black, metallic", "Same carbon, different form"]
+            - ["Diamond", "Colourless crystal in diamond", "Growth interruption"]
+
+      - title: Internal Features
+        content: |
+          - **Feathers**: Healed fractures with feathery appearance
+          - **Clouds**: Clusters of tiny pinpoints creating hazy areas
+          - **Pinpoints**: Minute crystals appearing as dots
+          - **Needles**: Elongated crystal inclusions
+          - **Twinning wisps**: Associated with twin planes
+          - **Internal graining**: Growth lines and strain patterns
+
+      - title: Surface Features
+        content: |
+          - **Naturals**: Remnants of original crystal surface on girdle
+          - **Extra facets**: Small additional facets not part of cut plan
+          - **Surface graining**: Growth lines reaching surface
+          - **Bearding**: Tiny fractures along girdle from cutting
+          - **Etch channels**: Tube-like dissolution features
+
+  - title: Garnet Inclusions by Species
+    content: |
+      Different garnet species show characteristic inclusion suites that aid identification.
+    subsections:
+      - title: Demantoid Garnet
+        content: |
+          Demantoid (andradite) from Russia shows the diagnostic "horsetail" inclusion:
+
+          - **Horsetail**: Radiating fibres of byssolite (actinolite)
+          - Fibres curve outward from central point
+          - Diagnostic for Russian (Ural) demantoid
+          - Namibian demantoid may lack horsetails
+
+      - title: Hessonite Garnet
+        content: |
+          Hessonite (grossular) shows characteristic "roiled" or "treacle" appearance:
+
+          - **Roiled effect**: Swirled, oily-looking internal texture
+          - Caused by tiny inclusions and growth features
+          - Heat-wave or treacle-like distortion
+          - Diagnostic for hessonite
+
+      - title: Tsavorite Garnet
+        content: |
+          Tsavorite (green grossular) from East Africa shows:
+
+          - **Graphite plates**: Flat, dark inclusions
+          - **Actinolite needles**: Elongated crystals
+          - **Growth tubes**: Hollow channels
+          - Generally cleaner than hessonite
+
+      - title: Rhodolite and Almandine
+        table:
+          headers:
+            - Species
+            - Common Inclusions
+          rows:
+            - ["Rhodolite", "Rutile needles, apatite crystals, zircon"]
+            - ["Almandine", "Rutile silk, quartz, apatite, stress fractures"]
+            - ["Pyrope", "Often eye-clean; chrome diopside, olivine"]
+            - ["Spessartine", "Two-phase inclusions, liquid feathers"]
+
+  - title: Spinel Inclusions
+    content: |
+      Natural spinel has distinctive inclusions that help distinguish it from synthetic
+      spinel and from ruby/sapphire.
+    subsections:
+      - title: Characteristic Inclusions
+        table:
+          headers:
+            - Inclusion
+            - Description
+          rows:
+            - ["Octahedral negative crystals", "Angular voids with spinel crystal shape"]
+            - ["Fingerprint inclusions", "Healed fractures with fluid remnants"]
+            - ["Zircon with halos", "Radiation damage halos around zircon"]
+            - ["Spinel crystals", "Small spinel crystals within host"]
+            - ["Calcite", "Rhombohedral crystals"]
+            - ["Apatite", "Hexagonal prisms"]
+
+      - title: Natural vs Synthetic Indicators
+        comparison:
+          items:
+            - title: Natural Spinel
+              variant: success
+              points:
+                - Octahedral negative crystals
+                - Fingerprint patterns
+                - Zircon haloes
+                - Mineral crystal inclusions
+                - Irregular colour zoning
+            - title: Synthetic Spinel
+              variant: warning
+              points:
+                - Gas bubbles
+                - Curved striae (flame fusion)
+                - Flux inclusions (flux growth)
+                - Very high clarity
+                - Often shows strong ADR
+
+  - title: Additional Species
+    subsections:
+      - title: Topaz Inclusions
+        content: |
+          - **Two-phase inclusions**: Liquid with gas bubble
+          - **Cleavage cracks**: Fractures along perfect {001} cleavage
+          - **Fluid inclusions**: Elongated cavities
+          - **Etched channels**: Surface features continuing internally
+
+      - title: Tourmaline Inclusions
+        content: |
+          - **Growth tubes**: Hollow channels parallel to c-axis
+          - **Trichites**: Hair-like thread inclusions
+          - **Liquid inclusions**: Sometimes with moving bubbles
+          - **Colour zoning**: Strong growth-related colour banding
+          - **Fractures**: Common due to growth stresses
+
+      - title: Peridot Inclusions
+        content: |
+          - **Lily pad inclusions**: Discoid fractures around chromite crystals
+          - **Chromite crystals**: Black, octahedral inclusions
+          - **Ludwigite needles**: Brown needle-like crystals
+          - **Negative crystals**: Angular cavities
+          - **Healed fractures**: "Waterlily" patterns
+
+      - title: Zircon Inclusions
+        content: |
+          - **Parallel cracks**: Due to metamict damage
+          - **"Angular" zoning**: Step-like colour zoning
+          - **Metamict halos**: Radiation damage patterns
+          - **Healed fractures**: Common in heat-treated stones
+
+  - title: Inclusion Documentation
+    callout:
+      type: info
+      title: Recording Inclusions
+      text: |
+        When documenting inclusions:
+
+        1. **Describe location**: Crown, pavilion, near girdle, etc.
+        2. **Note visibility**: Visible to naked eye or only under magnification
+        3. **Identify type**: Crystal, feather, cloud, needle, etc.
+        4. **Record effect**: Impact on transparency, durability, beauty
+        5. **Photograph**: Multiple magnifications and lighting angles
+
+        Systematic documentation creates valuable reference material for future
+        comparisons and supports identification conclusions.

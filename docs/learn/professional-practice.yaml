@@ -1,0 +1,360 @@
+title: Professional Practice
+description: Report writing, disclosure requirements, legal aspects, professional ethics, and laboratory certification for gemmologists.
+order: 15
+category: advanced
+difficulty: advanced
+icon: clipboard-check
+related:
+  - grading-valuation
+  - treatments
+  - origin-determination
+tags:
+  - ethics
+  - disclosure
+  - reports
+  - certification
+  - legal
+  - CIBJO
+
+sections:
+  - title: Introduction
+    content: |
+      Professional gemmology extends beyond identification skills to encompass ethical
+      practice, accurate communication, and legal responsibilities. A professional
+      gemmologist must balance technical accuracy with clear communication, maintaining
+      integrity while serving clients, trade, and public trust.
+
+      This module covers the professional standards, documentation practices, and
+      ethical frameworks that define quality gemmological practice.
+
+  - title: Report Writing
+    content: |
+      Gemmological reports must be accurate, clear, and legally defensible. Whether
+      a brief identification note or comprehensive laboratory report, certain standards
+      apply.
+    subsections:
+      - title: Report Structure
+        content: |
+          A comprehensive gemmological report typically includes:
+
+          1. **Header**: Laboratory name, report number, date
+          2. **Item description**: Weight, dimensions, shape, cut
+          3. **Identification**: Species, variety, natural/synthetic
+          4. **Properties measured**: RI, SG, optic character
+          5. **Inclusions/features**: Brief description of significant features
+          6. **Treatment status**: Detected treatments or "none detected"
+          7. **Origin** (if determined): Geographic origin
+          8. **Comments**: Additional relevant information
+          9. **Photographs**: Scaled image of the item
+          10. **Limitations**: Scope of examination stated
+
+      - title: Report Language
+        content: |
+          Use precise, standardised terminology:
+
+          - **CIBJO Blue Books**: International nomenclature standards
+          - **ISO standards**: Where applicable
+          - **Avoid subjective terms**: "Beautiful" is not scientific
+          - **Qualify opinions**: "Consistent with...", "Evidence suggests..."
+          - **State uncertainty**: If results are inconclusive, say so
+
+      - title: Description vs Opinion
+        content: |
+          Distinguish clearly between:
+
+          - **Observations**: Objective measurements and features
+          - **Interpretations**: What observations mean
+          - **Opinions**: Professional judgements
+
+          Example:
+          - Observation: "RI 1.544-1.553, uniaxial positive"
+          - Interpretation: "Consistent with natural quartz"
+          - Opinion: "Stone identified as natural amethyst"
+
+  - title: Standard Terminology (CIBJO)
+    content: |
+      CIBJO (Confédération Internationale de la Bijouterie, Joaillerie, Orfèvrerie des
+      Diamants, Perles et Pierres) sets international nomenclature standards.
+    subsections:
+      - title: Key CIBJO Terms
+        table:
+          headers:
+            - Term
+            - Definition
+            - Notes
+          rows:
+            - ["Natural", "Formed in nature without human intervention", "Excludes cultured pearls"]
+            - ["Synthetic", "Man-made, same composition as natural", "Must be disclosed"]
+            - ["Imitation/Simulant", "Resembles but different composition", "Must be disclosed"]
+            - ["Treated", "Natural material that has been enhanced", "Specifics must be disclosed"]
+            - ["Composite/Assembled", "Multiple parts joined together", "Must be disclosed"]
+
+      - title: Treatment Terminology
+        table:
+          headers:
+            - Abbreviation
+            - Meaning
+            - Gems
+          rows:
+            - ["H", "Heat treated", "Corundum, tanzanite, zircon"]
+            - ["H(a)", "Heat with residual foreign substances", "Heated with borax"]
+            - ["H(b)", "Beryllium diffusion treated", "Sapphire (lattice diffusion)"]
+            - ["O", "Oiling/resin", "Emerald"]
+            - ["F", "Fissure/fracture filled", "Ruby, diamond"]
+            - ["D", "Dyed", "Coral, jade, agate"]
+            - ["C", "Coated", "Topaz, quartz"]
+            - ["I", "Impregnated", "Turquoise, opal"]
+            - ["R", "Irradiated", "Topaz, diamond"]
+
+  - title: Disclosure Requirements
+    content: |
+      Disclosure of treatments, synthetics, and simulants is both an ethical obligation
+      and often a legal requirement.
+    subsections:
+      - title: What Must Be Disclosed
+        content: |
+          **Always disclose:**
+          - Synthetic or laboratory-grown status
+          - All treatments that affect durability (filling, coating)
+          - All treatments that affect appearance (heating, diffusion)
+          - Composite or assembled nature
+
+          **Disclosure timing:**
+          - Before sale is completed
+          - In writing for significant transactions
+          - On any laboratory report
+
+      - title: How to Disclose
+        content: |
+          Disclosure should be:
+
+          - **Clear**: Use plain language the buyer understands
+          - **Prominent**: Not hidden in fine print
+          - **Documented**: Written record for significant sales
+          - **Complete**: Include all relevant treatments
+          - **Accurate**: Based on testing, not assumptions
+
+      - title: Non-Disclosure Consequences
+        content: |
+          Failure to disclose can result in:
+
+          - Consumer protection violations
+          - Trade descriptions act breaches
+          - Professional sanctions
+          - Civil liability (rescission, damages)
+          - Criminal prosecution in serious cases
+          - Reputation damage
+
+  - title: Disclosure Obligations
+    callout:
+      type: warning
+      title: Legal Requirement
+      text: |
+        In most jurisdictions, non-disclosure of material treatments or synthetic status
+        constitutes fraud or misrepresentation. "The seller didn't ask" is not a defence.
+        Professional gemmologists have a duty to disclose even when not specifically asked.
+
+  - title: Legal Aspects
+    content: |
+      Gemmologists may face legal responsibilities in various contexts including sales,
+      valuations, expert testimony, and professional liability.
+    subsections:
+      - title: Trade Descriptions Legislation
+        content: |
+          Most countries have laws prohibiting false or misleading descriptions:
+
+          - **UK**: Consumer Rights Act 2015, Consumer Protection from Unfair Trading
+          - **EU**: Unfair Commercial Practices Directive
+          - **US**: FTC Guides for Jewelry Industry
+          - **Australia**: Australian Consumer Law
+
+          False descriptions of gem identity, origin, or treatment status violate these laws.
+
+      - title: Liability Considerations
+        content: |
+          **Professional liability** can arise from:
+          - Misidentification of stones
+          - Failure to detect treatments
+          - Incorrect valuations
+          - Negligent advice
+
+          **Protection measures:**
+          - Professional indemnity insurance
+          - Clear limitation statements on reports
+          - Documented testing procedures
+          - Continuing professional development
+
+      - title: Valuation Standards
+        content: |
+          Insurance and estate valuations carry legal weight:
+
+          - Must reflect appropriate market value
+          - Purpose of valuation affects methodology
+          - Replacement value vs. fair market value
+          - Must be defensible if challenged
+          - May be used in legal proceedings
+
+      - title: Expert Witness Responsibilities
+        content: |
+          Gemmologists serving as expert witnesses must:
+
+          - Provide independent, unbiased opinions
+          - Base opinions on established methodology
+          - Stay within area of competence
+          - Disclose limitations of analysis
+          - Be prepared for cross-examination
+
+  - title: Professional Ethics
+    content: |
+      Ethical practice underpins the trust that clients, trade, and public place in
+      professional gemmologists.
+    subsections:
+      - title: Core Ethical Principles
+        comparison:
+          items:
+            - title: Integrity
+              points:
+                - Honest in all communications
+                - Accurate reporting of findings
+                - No falsification of results
+                - Admit limitations and uncertainty
+            - title: Competence
+              points:
+                - Work within expertise
+                - Maintain current knowledge
+                - Use appropriate equipment
+                - Refer when appropriate
+            - title: Objectivity
+              points:
+                - Independent judgement
+                - No bias from client pressure
+                - Consistent standards
+                - Evidence-based conclusions
+            - title: Confidentiality
+              points:
+                - Protect client information
+                - Secure storage of records
+                - Discretion in discussions
+                - Appropriate data handling
+
+      - title: Conflicts of Interest
+        content: |
+          Potential conflicts must be identified and managed:
+
+          - **Financial interest**: Ownership of items being appraised
+          - **Commercial pressure**: Pressure to provide favourable reports
+          - **Relationship bias**: Friends, family, regular clients
+          - **Referral fees**: Payments for directing business
+
+          Disclose conflicts and decline work where objectivity cannot be maintained.
+
+      - title: Professional Body Codes
+        content: |
+          Professional organisations maintain codes of conduct:
+
+          - **Gem-A**: Code of Ethics for members
+          - **GIA**: Alumni Code of Ethics
+          - **AGTA**: Member Standards
+          - **National associations**: Jurisdiction-specific codes
+
+          Violation may result in sanctions including membership revocation.
+
+  - title: Laboratory Certification
+    content: |
+      Major gemmological laboratories provide authoritative identification and grading
+      reports. Understanding laboratory services and limitations is essential.
+    subsections:
+      - title: Major Laboratories
+        table:
+          headers:
+            - Laboratory
+            - Headquarters
+            - Specialties
+          rows:
+            - ["GIA (Gemological Institute of America)", "USA", "Diamond grading, education"]
+            - ["Gübelin Gem Lab", "Switzerland", "Coloured stones, inclusions research"]
+            - ["SSEF", "Switzerland", "Origin determination, pearls"]
+            - ["AGL (American Gemological Laboratories)", "USA", "Coloured stones"]
+            - ["GRS (GemResearch Swisslab)", "Switzerland", "Origin, quality reports"]
+            - ["Lotus Gemology", "Thailand", "Coloured stones, treatments"]
+            - ["DSEF German Foundation", "Germany", "Coloured stones, pearls"]
+
+      - title: Report Types
+        content: |
+          Laboratories offer various report levels:
+
+          - **Identification report**: Basic species/variety identification
+          - **Origin report**: Geographic origin determination
+          - **Quality/grading report**: Colour, clarity, cut assessment
+          - **Treatment report**: Detailed treatment analysis
+          - **Melee services**: Screening for synthetics/simulants
+
+      - title: Interpreting Laboratory Reports
+        content: |
+          When reading laboratory reports:
+
+          - Check report date (treatments may have occurred since)
+          - Understand terminology used
+          - Note any qualifications or limitations
+          - Verify authenticity (online verification services)
+          - Recognise that labs may disagree
+
+      - title: When to Recommend Laboratory Testing
+        content: |
+          Refer to laboratories for:
+
+          - High-value stones where certification adds value
+          - Suspected treatments requiring advanced testing
+          - Origin determination (trace element analysis)
+          - Natural vs synthetic confirmation for diamonds
+          - Legal disputes requiring authoritative documentation
+
+  - title: Continuing Professional Development
+    callout:
+      type: tip
+      title: CPD Requirement
+      text: |
+        The gem trade evolves continuously with new treatments, synthetics, and sources.
+        Professional gemmologists must:
+
+        - Attend conferences and seminars
+        - Read trade publications and research
+        - Participate in professional associations
+        - Update equipment and techniques
+        - Network with peers for knowledge sharing
+
+        Many professional bodies require documented CPD for membership maintenance.
+
+  - title: Documentation Best Practices
+    subsections:
+      - title: Record Keeping
+        content: |
+          Maintain thorough records:
+
+          - Test results and observations
+          - Equipment calibration records
+          - Client information (confidential)
+          - Copies of issued reports
+          - Photographs of examined items
+
+          Retain records according to legal requirements (typically 6+ years).
+
+      - title: Photographic Documentation
+        content: |
+          Photographic records should include:
+
+          - Standard orientation views
+          - Scale reference in image
+          - Consistent lighting
+          - Inclusion photography through microscope
+          - Date and item reference
+
+      - title: Quality Assurance
+        content: |
+          Implement quality controls:
+
+          - Regular equipment calibration
+          - Reference stone verification
+          - Peer review of difficult cases
+          - Procedure documentation
+          - Error tracking and correction
