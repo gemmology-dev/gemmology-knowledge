@@ -1,0 +1,214 @@
+title: Crystal Systems
+description: The seven crystal systems and their characteristic symmetry elements.
+order: 1
+category: fundamentals
+difficulty: beginner
+icon: cube
+related:
+  - physical-properties
+  - optical-properties
+tags:
+  - crystallography
+  - symmetry
+  - identification
+
+sections:
+  - title: Overview
+    content: |
+      All crystals belong to one of seven crystal systems, classified by their unit cell
+      geometry and symmetry elements. Understanding these systems is fundamental to
+      crystallography and gem identification.
+
+      Crystal systems are defined by the relationship between crystallographic axes
+      (a, b, c) and the angles between them (α, β, γ). Each system has characteristic
+      symmetry elements that determine possible crystal forms.
+
+  - title: Symmetry Elements
+    items:
+      - name: Rotation Axes
+        description: 2-fold, 3-fold, 4-fold, 6-fold rotational symmetry
+      - name: Mirror Planes
+        description: Reflection symmetry planes
+      - name: Center of Symmetry
+        description: Inversion through a point
+
+  - title: The Seven Systems
+    subsections:
+      - title: Cubic (Isometric)
+        content: The highest symmetry system with four threefold axes.
+        items:
+          - name: Axes
+            value: "a = b = c"
+          - name: Angles
+            value: "α = β = γ = 90°"
+          - name: Minimum Symmetry
+            value: "4 threefold axes"
+          - name: Point Groups
+            value: "m3m, 432, -43m, m3, 23"
+          - name: Example Gems
+            description: Diamond, Spinel, Garnet
+            examples:
+              - Diamond
+              - Spinel
+              - Garnet
+              - Fluorite
+
+      - title: Hexagonal
+        content: Characterized by one sixfold axis.
+        items:
+          - name: Axes
+            value: "a₁ = a₂ = a₃ ≠ c"
+          - name: Angles
+            value: "α = β = 90°, γ = 120°"
+          - name: Minimum Symmetry
+            value: "1 sixfold axis"
+          - name: Point Groups
+            value: "6/mmm, 622, 6mm, -62m, 6/m, 6, -6"
+          - name: Example Gems
+            description: Beryl, Apatite
+            examples:
+              - Emerald
+              - Aquamarine
+              - Morganite
+              - Apatite
+
+      - title: Trigonal (Rhombohedral)
+        content: Characterized by one threefold axis.
+        items:
+          - name: Axes
+            value: "a₁ = a₂ = a₃ ≠ c"
+          - name: Angles
+            value: "α = β = 90°, γ = 120°"
+          - name: Minimum Symmetry
+            value: "1 threefold axis"
+          - name: Point Groups
+            value: "-3m, 32, 3m, -3, 3"
+          - name: Example Gems
+            description: Quartz, Corundum, Tourmaline
+            examples:
+              - Quartz
+              - Ruby
+              - Sapphire
+              - Tourmaline
+
+      - title: Tetragonal
+        content: Characterized by one fourfold axis.
+        items:
+          - name: Axes
+            value: "a = b ≠ c"
+          - name: Angles
+            value: "α = β = γ = 90°"
+          - name: Minimum Symmetry
+            value: "1 fourfold axis"
+          - name: Point Groups
+            value: "4/mmm, 422, 4mm, -42m, 4/m, 4, -4"
+          - name: Example Gems
+            description: Zircon, Rutile
+            examples:
+              - Zircon
+              - Rutile
+
+      - title: Orthorhombic
+        content: Three twofold axes or two mirror planes.
+        items:
+          - name: Axes
+            value: "a ≠ b ≠ c"
+          - name: Angles
+            value: "α = β = γ = 90°"
+          - name: Minimum Symmetry
+            value: "3 twofold axes or 2 planes"
+          - name: Point Groups
+            value: "mmm, 222, mm2"
+          - name: Example Gems
+            description: Topaz, Peridot, Chrysoberyl
+            examples:
+              - Topaz
+              - Peridot
+              - Chrysoberyl
+              - Tanzanite
+
+      - title: Monoclinic
+        content: One twofold axis or one mirror plane.
+        items:
+          - name: Axes
+            value: "a ≠ b ≠ c"
+          - name: Angles
+            value: "α = γ = 90°, β ≠ 90°"
+          - name: Minimum Symmetry
+            value: "1 twofold axis or 1 plane"
+          - name: Point Groups
+            value: "2/m, 2, m"
+          - name: Example Gems
+            description: Orthoclase, Jadeite, Spodumene
+            examples:
+              - Kunzite
+              - Orthoclase
+              - Jadeite
+
+      - title: Triclinic
+        content: Lowest symmetry - no rotational symmetry.
+        items:
+          - name: Axes
+            value: "a ≠ b ≠ c"
+          - name: Angles
+            value: "α ≠ β ≠ γ ≠ 90°"
+          - name: Minimum Symmetry
+            value: "No rotational symmetry"
+          - name: Point Groups
+            value: "-1, 1"
+          - name: Example Gems
+            description: Plagioclase, Rhodonite
+            examples:
+              - Turquoise
+              - Labradorite
+              - Rhodonite
+
+  - title: Identifying Crystal Systems
+    content: |
+      When examining a crystal or gemstone, you can often determine its crystal system
+      by observing:
+
+      - **Crystal habit** - The external shape and face arrangement
+      - **Optic character** - Isotropic (cubic) vs. uniaxial vs. biaxial
+      - **Interference figure** - Under polarized light microscopy
+      - **Cleavage directions** - Related to internal symmetry
+
+  - title: Quick Reference
+    table:
+      caption: Crystal Systems and Optic Character
+      headers:
+        - System
+        - Optic Character
+        - RI Values
+      rows:
+        - ["Cubic", "Isotropic", "Single RI (n)"]
+        - ["Hexagonal, Trigonal, Tetragonal", "Uniaxial", "Two RI values (ω, ε)"]
+        - ["Orthorhombic, Monoclinic, Triclinic", "Biaxial", "Three RI values (α, β, γ)"]
+
+  - title: Common Gemstones by System
+    comparison:
+      items:
+        - title: Cubic
+          points:
+            - Diamond
+            - Spinel
+            - "Garnet (almandine, pyrope, grossular)"
+            - Fluorite
+        - title: Trigonal
+          points:
+            - "Quartz (amethyst, citrine)"
+            - Ruby
+            - Sapphire
+            - Tourmaline
+        - title: Hexagonal
+          points:
+            - Emerald
+            - Aquamarine
+            - Morganite
+            - Apatite
+        - title: Orthorhombic
+          points:
+            - Topaz
+            - Peridot
+            - Chrysoberyl
+            - Tanzanite

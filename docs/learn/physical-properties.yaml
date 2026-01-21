@@ -1,0 +1,144 @@
+title: Physical Properties
+description: Hardness, specific gravity, cleavage, fracture, and lustre.
+order: 2
+category: fundamentals
+difficulty: beginner
+icon: scale
+related:
+  - crystal-systems
+  - optical-properties
+tags:
+  - hardness
+  - specific-gravity
+  - identification
+  - durability
+
+sections:
+  - title: Introduction
+    content: |
+      Physical properties are essential for gem identification and determining
+      suitability for different types of jewellery. These properties depend on
+      the crystal structure and chemical composition.
+
+  - title: Hardness
+    content: |
+      Hardness measures a mineral's resistance to scratching. The **Mohs scale**
+      ranks minerals from 1 (talc) to 10 (diamond), but the scale is not linear—diamond
+      is approximately 140 times harder than corundum.
+    table:
+      caption: Mohs Scale Reference
+      headers:
+        - Hardness
+        - Mineral Standard
+        - Common Gemstones
+      rows:
+        - ["10", "Diamond", "Diamond"]
+        - ["9", "Corundum", "Ruby, Sapphire"]
+        - ["8", "Topaz", "Topaz, Spinel, Chrysoberyl"]
+        - ["7", "Quartz", "Amethyst, Citrine, Tourmaline"]
+        - ["6-7", "Feldspar", "Peridot, Jadeite"]
+        - ["5-6", "Apatite", "Opal, Turquoise"]
+
+  - title: Hardness Considerations
+    callout:
+      type: warning
+      title: Practical Considerations
+      text: |
+        - Gems with hardness <7 can be scratched by dust (quartz particles)
+        - Ring stones should ideally be hardness 7 or above
+        - Hardness can vary by direction (kyanite: 4-7)
+
+  - title: Specific Gravity (SG)
+    content: |
+      Specific gravity is the ratio of a gem's density to that of water. It's a
+      diagnostic property that can be measured without damaging the stone using
+      hydrostatic weighing.
+
+      **Formula:** `SG = Weight in air / (Weight in air - Weight in water)`
+    table:
+      caption: SG Ranges by Gemstone
+      headers:
+        - Range
+        - Gemstones
+      rows:
+        - ["2.0-2.5", "Opal (2.15), Amber (1.08)"]
+        - ["2.5-3.0", "Quartz (2.65), Feldspar (2.56-2.76)"]
+        - ["3.0-3.5", "Tourmaline (3.06), Jadeite (3.34)"]
+        - ["3.5-4.0", "Diamond (3.52), Topaz (3.53), Spinel (3.60)"]
+        - ["4.0-4.5", "Corundum (4.00), Zircon (4.69)"]
+        - [">5.0", "High zircon (4.69), Cassiterite (7.0)"]
+
+  - title: Cleavage
+    content: |
+      Cleavage is the tendency of a mineral to break along flat planes related to
+      its crystal structure. These planes are directions of weaker atomic bonding.
+    table:
+      caption: Cleavage Quality
+      headers:
+        - Quality
+        - Description
+        - Examples
+      rows:
+        - ["Perfect", "Very smooth, flat surfaces", "Topaz {001}, Fluorite {111}"]
+        - ["Good", "Relatively flat but may be stepped", "Feldspar, Spodumene"]
+        - ["Distinct", "Recognizable but not dominant", "Beryl (imperfect)"]
+        - ["Poor/None", "No preferred break direction", "Quartz, Garnet"]
+
+  - title: Cleavage Hazards
+    callout:
+      type: error
+      title: Cleavage Hazards
+      text: |
+        Gems with perfect cleavage require careful handling during cutting and setting.
+        Diamond has perfect octahedral cleavage {111}, which is used in cleaving
+        but makes it vulnerable to sharp blows in certain directions.
+
+  - title: Fracture
+    content: |
+      Fracture describes how a mineral breaks in directions other than cleavage planes.
+    table:
+      headers:
+        - Type
+        - Appearance
+        - Examples
+      rows:
+        - ["Conchoidal", "Curved, shell-like surfaces", "Quartz, Glass, Obsidian"]
+        - ["Uneven", "Rough, irregular surface", "Jadeite"]
+        - ["Splintery", "Fibrous or needle-like", "Nephrite"]
+        - ["Hackly", "Jagged, sharp edges", "Native metals"]
+
+  - title: Lustre
+    content: |
+      Lustre describes how light interacts with a mineral's surface. It depends on
+      the refractive index and surface quality.
+    table:
+      headers:
+        - Lustre
+        - Description
+        - Examples
+      rows:
+        - ["Adamantine", "Brilliant, diamond-like (RI >1.9)", "Diamond, Zircon"]
+        - ["Vitreous", "Glass-like (most common)", "Quartz, Beryl, Tourmaline"]
+        - ["Resinous", "Like resin or plastic", "Amber, Sphalerite"]
+        - ["Waxy", "Like candle wax", "Turquoise, Chalcedony"]
+        - ["Pearly", "Iridescent, like pearl", "Moonstone, some feldspar"]
+        - ["Silky", "Like silk fabric", "Tiger's eye, Satin spar"]
+
+  - title: Tenacity
+    content: |
+      Tenacity describes a mineral's resistance to breaking, bending, or crushing:
+
+      - **Brittle** - Shatters when struck (most gemstones)
+      - **Tough** - Resists breaking despite lower hardness (nephrite, jadeite)
+      - **Sectile** - Can be cut with a knife
+      - **Flexible** - Bends but doesn't return (mica)
+      - **Elastic** - Bends and returns to shape
+
+  - title: Toughness vs Hardness
+    callout:
+      type: info
+      title: Toughness vs. Hardness
+      text: |
+        Nephrite jade (H: 6-6.5) is tougher than diamond (H: 10) because its interlocking
+        fibrous structure resists fracture. This makes jade ideal for carving despite
+        its lower hardness.

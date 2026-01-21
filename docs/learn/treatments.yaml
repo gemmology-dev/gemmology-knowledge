@@ -1,0 +1,157 @@
+title: Gemstone Treatments
+description: Heat treatment, filling, diffusion, coating, and detection methods for treated gemstones.
+order: 5
+category: identification
+difficulty: intermediate
+icon: fire
+related:
+  - inclusions
+  - synthetics
+tags:
+  - heat-treatment
+  - disclosure
+  - detection
+  - laboratory
+
+sections:
+  - title: Introduction
+    content: |
+      Most coloured gemstones on the market today have undergone some form of treatment
+      to enhance their appearance. Understanding treatments is essential for accurate
+      identification and proper disclosure.
+    callout:
+      type: warning
+      title: Disclosure Requirement
+      text: |
+        All gemstone treatments must be disclosed at the point of sale. Major laboratories
+        (GIA, Gubelin, SSEF) provide treatment reports. Undisclosed treatments are
+        considered fraudulent.
+
+  - title: Heat Treatment
+    content: |
+      The most common treatment, heat treatment permanently alters colour and clarity
+      by modifying the chemical state of chromophores or dissolving silk inclusions.
+    table:
+      caption: Common Heat Treatments
+      headers:
+        - Gemstone
+        - Effect
+        - Temperature Range
+      rows:
+        - ["Blue sapphire", "Improves blue colour, dissolves silk", "1400-1800°C"]
+        - ["Ruby", "Improves red colour, dissolves silk", "1200-1800°C"]
+        - ["Tanzanite", "Changes brown to blue-violet", "450-650°C"]
+        - ["Aquamarine", "Removes green tint (yellow component)", "400-450°C"]
+        - ["Citrine", "Heat-treated amethyst", "450-500°C"]
+        - ["Zircon", "Creates blue colour from brown", "900-1000°C"]
+    subsections:
+      - title: Detection Signs
+        content: |
+          - Dissolved or partially dissolved silk (dotted lines)
+          - Stress fractures around solid inclusions
+          - Altered/melted inclusions
+          - "Halo" fractures around zircon crystals
+          - Colour concentrations along fractures
+          - Altered absorption spectrum
+
+  - title: Fracture Filling
+    content: |
+      Surface-reaching fractures are filled with glass, oil, or resin to improve
+      apparent clarity. This treatment requires special care in handling.
+    table:
+      caption: Types of Fillers
+      headers:
+        - Filler Type
+        - Gemstone
+        - Stability
+      rows:
+        - ["Oil (cedar oil)", "Emerald", "Can dry out over time"]
+        - ["Opticon/resin", "Emerald", "More stable than oil"]
+        - ["Lead glass", "Ruby, Sapphire", "Damaged by heat, acids"]
+        - ["Polymer resins", "Various", "Variable"]
+    subsections:
+      - title: Detection Signs
+        content: |
+          - Flash effect (orange/blue flashes in fractures)
+          - Gas bubbles in filler
+          - Flow structures
+          - Different RI in filled areas
+          - Blue glow under UV (some resins)
+
+  - title: Lead Glass-Filled Rubies
+    callout:
+      type: error
+      title: Lead Glass-Filled Rubies
+      text: |
+        Heavily fractured, low-quality ruby is sometimes filled with high-RI lead glass.
+        These stones can contain more glass than ruby and are extremely fragile. They
+        are damaged by heat, ultrasonic cleaning, and even lemon juice.
+
+  - title: Diffusion Treatment
+    content: |
+      Elements are diffused into the stone at high temperatures to alter colour.
+      This can be shallow (surface) or deep (lattice diffusion).
+    table:
+      caption: Types of Diffusion
+      headers:
+        - Type
+        - Element
+        - Result
+      rows:
+        - ["Surface diffusion", "Titanium (Ti)", "Blue colour in sapphire (shallow)"]
+        - ["Lattice diffusion", "Beryllium (Be)", "Orange/yellow/pink sapphire (deep)"]
+        - ["Lattice diffusion", "Cobalt (Co)", "Blue glass-filled stones"]
+    subsections:
+      - title: Detection Methods
+        content: |
+          - **Surface diffusion**: Immersion reveals colour concentration along facet edges and girdle
+          - **Beryllium diffusion**: LIBS or LA-ICP-MS analysis required for definitive detection
+          - Colour distribution patterns may indicate treatment
+
+  - title: Coating and Surface Treatments
+    table:
+      headers:
+        - Treatment
+        - Description
+        - Detection
+      rows:
+        - ["Thin-film coating", "Metallic oxide layer for colour", "Wear marks, different colour in scratches"]
+        - ["Backing", "Foil or paint behind stone", "Visible in mounted stones, immersion"]
+        - ["Waxing", "Surface wax for lustre", "Hot needle test, solvent test"]
+        - ["Dyeing", "Colour added to porous stones", "Colour concentrations, swab test"]
+
+  - title: Irradiation
+    content: |
+      Exposure to radiation (gamma rays, electrons, neutrons) can create or modify colour.
+    table:
+      headers:
+        - Gemstone
+        - Starting Colour
+        - Result
+      rows:
+        - ["Blue topaz", "Colourless", "Blue (followed by heat)"]
+        - ["Fancy diamond", "Various", "Green, blue, yellow, pink"]
+        - ["Kunzite", "Pink", "Deeper pink (may fade)"]
+        - ["Smoky quartz", "Colourless", "Brown/smoky"]
+
+  - title: Treatment Acceptance
+    comparison:
+      items:
+        - title: Widely Accepted
+          variant: success
+          points:
+            - Heat treatment (corundum)
+            - Oil in emerald (cedar oil)
+            - Waxing (turquoise, jade)
+        - title: Accepted with Disclosure
+          variant: warning
+          points:
+            - Resin filling
+            - Beryllium diffusion
+            - Irradiation
+        - title: Controversial
+          variant: danger
+          points:
+            - Lead glass filling
+            - Surface diffusion
+            - Coatings

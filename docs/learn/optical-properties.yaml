@@ -1,0 +1,139 @@
+title: Optical Properties
+description: Refractive index, birefringence, pleochroism, dispersion, and other optical properties of gemstones.
+order: 3
+category: fundamentals
+difficulty: intermediate
+icon: eye
+related:
+  - crystal-systems
+  - physical-properties
+tags:
+  - refractometer
+  - identification
+  - optics
+  - pleochroism
+
+sections:
+  - title: Introduction
+    content: |
+      Optical properties are the most important diagnostic features for gem identification.
+      The refractometer, polariscope, and dichroscope are essential tools for measuring
+      these properties.
+
+  - title: Refractive Index (RI)
+    content: |
+      The refractive index measures how much light slows down when entering a gemstone.
+      It's calculated as the ratio of light speed in vacuum to speed in the material.
+
+      A standard gemmological refractometer can measure RI values from approximately
+      1.35 to 1.81 (limited by the contact liquid). Gems with higher RI require
+      alternative methods.
+    table:
+      caption: RI Values by Gemstone
+      headers:
+        - Gemstone
+        - RI Range
+        - Optic Character
+      rows:
+        - ["Diamond", "2.417", "Isotropic"]
+        - ["Corundum", "1.762-1.770", "Uniaxial -"]
+        - ["Spinel", "1.712-1.736", "Isotropic"]
+        - ["Tourmaline", "1.624-1.644", "Uniaxial -"]
+        - ["Topaz", "1.609-1.617", "Biaxial +"]
+        - ["Quartz", "1.544-1.553", "Uniaxial +"]
+        - ["Beryl", "1.570-1.590", "Uniaxial -"]
+
+  - title: Birefringence
+    content: |
+      Birefringence is the difference between maximum and minimum RI values in
+      anisotropic (non-cubic) crystals. Light entering the stone splits into two
+      rays traveling at different speeds.
+
+      **Formula:** `Birefringence = RI(max) - RI(min)`
+
+      **Example (Quartz):** `1.553 - 1.544 = 0.009`
+    table:
+      caption: Diagnostic Birefringence Values
+      headers:
+        - Birefringence
+        - Gemstones
+      rows:
+        - ["None (0.000)", "Diamond, Spinel, Garnet (isotropic)"]
+        - ["Low (0.004-0.010)", "Quartz (0.009), Beryl (0.006)"]
+        - ["Medium (0.010-0.020)", "Topaz (0.010), Tourmaline (0.018)"]
+        - ["High (0.020-0.050)", "Peridot (0.036), Zircon (0.059)"]
+        - ["Very High (>0.050)", "Calcite (0.172), Sphene (0.134)"]
+
+  - title: Doubling Effect
+    callout:
+      type: info
+      title: Doubling Effect
+      text: |
+        High birefringence causes visible "doubling" of back facet edges when viewed
+        through the table. This is diagnostic for zircon, sphene, and peridot.
+
+  - title: Optic Character and Sign
+    content: |
+      The polariscope and conoscope reveal a gem's optic character.
+    table:
+      headers:
+        - Character
+        - Crystal Systems
+        - RI Values
+      rows:
+        - ["Isotropic", "Cubic", "Single RI (n)"]
+        - ["Uniaxial", "Hexagonal, Trigonal, Tetragonal", "Two values (ω, ε)"]
+        - ["Biaxial", "Orthorhombic, Monoclinic, Triclinic", "Three values (α, β, γ)"]
+    subsections:
+      - title: Optic Sign
+        content: |
+          - **Uniaxial +**: ε > ω (quartz, zircon)
+          - **Uniaxial -**: ε < ω (corundum, tourmaline, beryl)
+          - **Biaxial +**: β closer to α (topaz)
+          - **Biaxial -**: β closer to γ (peridot)
+
+  - title: Pleochroism
+    content: |
+      Pleochroism is the absorption of different colours in different crystal directions.
+      Viewed with a dichroscope, anisotropic coloured gems show different colours.
+    table:
+      headers:
+        - Gemstone
+        - Pleochroism
+        - Colours
+      rows:
+        - ["Ruby", "Strong", "Purple-red / Orange-red"]
+        - ["Sapphire (blue)", "Strong", "Violet-blue / Green-blue"]
+        - ["Tourmaline", "Strong", "Variable (often dark/light)"]
+        - ["Tanzanite", "Strong (trichroic)", "Blue / Purple / Bronze"]
+        - ["Peridot", "Weak", "Yellow-green / Green"]
+        - ["Aquamarine", "Weak", "Near colourless / Blue"]
+
+  - title: Dispersion
+    content: |
+      Dispersion is the separation of white light into spectral colours ("fire").
+      It's measured as the difference in RI between red (B) and violet (G) wavelengths.
+    table:
+      headers:
+        - Gemstone
+        - Dispersion (B-G)
+        - Fire Quality
+      rows:
+        - ["Diamond", "0.044", "Strong"]
+        - ["Sphene", "0.051", "Very strong"]
+        - ["Demantoid garnet", "0.057", "Very strong"]
+        - ["Zircon", "0.039", "Strong"]
+        - ["Spinel", "0.020", "Moderate"]
+        - ["Quartz", "0.013", "Low"]
+
+  - title: Absorption Spectrum
+    content: |
+      The absorption spectrum shows which wavelengths of light are absorbed by a gem.
+      Viewed through a spectroscope, absorption bands appear as dark lines or bands.
+
+      **Diagnostic Spectra:**
+      - **Ruby**: Lines at 694nm (doublet), 668nm, 659nm
+      - **Emerald**: Line at 683nm (Cr), bands in red/yellow
+      - **Blue sapphire**: Bands at 450nm, 460nm, 470nm
+      - **Almandine garnet**: Bands at 505nm, 520nm, 575nm
+      - **Zircon**: Fine lines throughout spectrum (uranium)

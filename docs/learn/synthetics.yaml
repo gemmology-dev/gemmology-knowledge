@@ -1,0 +1,169 @@
+title: Synthetic Gemstones
+description: Synthetic gem production methods including flame fusion, hydrothermal, flux growth, and detection techniques.
+order: 6
+category: advanced
+difficulty: advanced
+icon: beaker
+related:
+  - inclusions
+  - treatments
+tags:
+  - laboratory
+  - detection
+  - simulants
+  - CVD
+  - HPHT
+
+sections:
+  - title: Introduction
+    content: |
+      Synthetic gems have the same chemical composition, crystal structure, and physical
+      properties as their natural counterparts. They are created in laboratories using
+      various growth methods.
+    callout:
+      type: info
+      title: Terminology
+      text: |
+        **Synthetic** - Same composition and structure as natural (lab-grown ruby is synthetic corundum)
+
+        **Simulant** - Different material that resembles another (CZ simulates diamond)
+
+        **Imitation** - Any material used to imitate another (glass "ruby")
+
+  - title: Flame Fusion (Verneuil Process)
+    content: |
+      Invented in 1902, this is the oldest and most economical method. Powdered chemicals
+      are dropped through a high-temperature flame, melting and crystallizing on a
+      rotating pedestal.
+    table:
+      caption: Flame Fusion Characteristics
+      headers:
+        - Feature
+        - Description
+      rows:
+        - ["Curved striae", "Diagnostic curved growth lines (vs. straight in natural)"]
+        - ["Gas bubbles", "Spherical or elongated bubbles"]
+        - ["Colour", "Often more uniform than natural"]
+        - ["Growth rate", "Fast (hours to days)"]
+    subsections:
+      - title: Materials Produced
+        content: |
+          - Ruby and sapphire (all colours)
+          - Star ruby and star sapphire
+          - Spinel (various colours)
+          - Rutile (diamond simulant, now rare)
+          - Strontium titanate (diamond simulant)
+
+  - title: Flux Growth
+    content: |
+      Crystals grow slowly from a molten flux solution at high temperatures. This produces
+      high-quality crystals with natural-looking inclusions.
+    table:
+      caption: Flux Growth Characteristics
+      headers:
+        - Feature
+        - Description
+      rows:
+        - ["Flux inclusions", "Wispy veils, fingerprints, flux \"pools\""]
+        - ["Metallic platelets", "Platinum or gold from crucible"]
+        - ["Colour zoning", "May be present but different pattern from natural"]
+        - ["Growth rate", "Slow (months)"]
+    subsections:
+      - title: Notable Producers
+        content: |
+          - **Chatham** - Emerald, ruby, sapphire, alexandrite
+          - **Ramaura** - Ruby (very natural-looking)
+          - **Kashan** - Ruby
+          - **Kyocera (Inamori)** - Emerald, ruby
+
+  - title: Hydrothermal Growth
+    content: |
+      Crystals grow in high-pressure aqueous solutions, mimicking natural conditions.
+      Used primarily for quartz and emerald.
+    table:
+      caption: Hydrothermal Characteristics
+      headers:
+        - Feature
+        - Description
+      rows:
+        - ["Seed plate", "Visible seed crystal or growth boundary"]
+        - ["Chevron zoning", "Zigzag or V-shaped colour patterns"]
+        - ["Nail-head spicules", "Characteristic pointed inclusions"]
+        - ["Two-phase inclusions", "Different appearance from natural"]
+    subsections:
+      - title: Materials Produced
+        content: |
+          - Quartz (amethyst, citrine, ametrine)
+          - Emerald (Biron, Regency, Tairus)
+          - Ruby and sapphire (some producers)
+
+  - title: Czochralski (Pulling) Method
+    content: |
+      A seed crystal is dipped into molten material and slowly pulled upward, growing
+      a single crystal. Used mainly for technical applications and some gem materials.
+
+      - YAG (yttrium aluminium garnet) - diamond simulant
+      - GGG (gadolinium gallium garnet) - diamond simulant
+      - Alexandrite (Czochralski and floating zone)
+
+  - title: CVD and HPHT Diamond
+    content: |
+      Lab-grown diamonds are produced by two main methods.
+    comparison:
+      items:
+        - title: HPHT (High Pressure High Temperature)
+          points:
+            - Mimics natural diamond formation
+            - Metallic flux catalyst
+            - Often yellow tint (nitrogen)
+            - Metallic inclusions possible
+            - Strong magnetic under UV
+        - title: CVD (Chemical Vapour Deposition)
+          points:
+            - Carbon deposited from gas
+            - Lower pressure process
+            - Often brown (can be HPHT treated)
+            - Striated growth patterns
+            - May show weak fluorescence
+    subsections:
+      - title: Lab Diamond Detection
+        content: |
+          - DiamondView imaging (growth patterns)
+          - Photoluminescence spectroscopy
+          - UV-Vis-NIR spectroscopy
+          - Infrared spectroscopy (nitrogen patterns)
+          - Magnetic testing (HPHT metallic inclusions)
+
+  - title: Detection Summary by Method
+    table:
+      headers:
+        - Method
+        - Key Detection Features
+      rows:
+        - ["Flame Fusion", "Curved striae, gas bubbles, uniform colour"]
+        - ["Flux", "Flux inclusions, metallic platelets, flux fingerprints"]
+        - ["Hydrothermal", "Seed plate, chevron zoning, nail-head spicules"]
+        - ["Czochralski", "Clean crystals, striae parallel to growth direction"]
+        - ["HPHT Diamond", "Metallic inclusions, strong fluorescence patterns"]
+        - ["CVD Diamond", "Striated growth, weak fluorescence, spectral features"]
+
+  - title: Common Simulants
+    table:
+      headers:
+        - Simulated Gem
+        - Common Simulants
+        - Detection
+      rows:
+        - ["Diamond", "CZ, moissanite, white sapphire", "Thermal/electrical conductivity, doubling (moissanite)"]
+        - ["Ruby", "Red glass, garnet, red spinel", "RI, spectrum, inclusions"]
+        - ["Emerald", "Green glass, green tourmaline, tsavorite", "RI, spectrum, Chelsea filter reaction"]
+        - ["Sapphire", "Blue glass, blue spinel, tanzanite", "RI, spectrum, pleochroism"]
+
+  - title: Professional Testing
+    callout:
+      type: warning
+      title: Professional Testing
+      text: |
+        While many synthetics can be identified with standard gemmological equipment,
+        some high-quality synthetics and lab-grown diamonds require advanced laboratory
+        testing (spectroscopy, photoluminescence imaging) for definitive identification.

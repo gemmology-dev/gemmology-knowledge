@@ -1,0 +1,147 @@
+title: Inclusions
+description: Diagnostic inclusions and fingerprinting techniques for gem identification.
+order: 4
+category: identification
+difficulty: intermediate
+icon: search
+related:
+  - optical-properties
+  - treatments
+tags:
+  - microscopy
+  - identification
+  - origin
+  - fingerprinting
+
+sections:
+  - title: Introduction
+    content: |
+      Inclusions are internal features that provide valuable information about a gem's
+      identity, origin, and natural vs. synthetic status. They are a gem's "fingerprint."
+
+  - title: Types of Inclusions
+    subsections:
+      - title: Solid Inclusions
+        content: Crystals of other minerals trapped during growth.
+        table:
+          headers:
+            - Host Gem
+            - Common Solid Inclusions
+          rows:
+            - ["Ruby/Sapphire", "Rutile silk, zircon halos, calcite, apatite"]
+            - ["Emerald", "Pyrite, calcite, tremolite, mica, chromite"]
+            - ["Diamond", "Garnet, olivine, chromite, graphite"]
+            - ["Peridot", "Chromite (black crystals), \"lily pad\" inclusions"]
+            - ["Garnet", "Rutile, apatite, rounded crystals"]
+
+      - title: Fluid Inclusions
+        content: |
+          Trapped liquids, often with gas bubbles:
+
+          - **Two-phase** - Liquid + gas bubble
+          - **Three-phase** - Liquid + gas + solid crystal (diagnostic for Colombian emerald)
+          - **Fingerprint inclusions** - Healed fractures with fluid remnants
+          - **Negative crystals** - Fluid-filled cavities with crystal shape
+
+      - title: Growth Features
+        content: |
+          Patterns formed during crystallization:
+
+          - **Colour zoning** - Bands of different colour intensity
+          - **Growth tubes** - Hollow channels parallel to c-axis
+          - **Twinning** - Internal reflection planes
+          - **Phantoms** - Earlier growth stages visible inside
+
+  - title: Corundum Inclusions by Origin
+    comparison:
+      items:
+        - title: Burmese Ruby
+          points:
+            - Short rutile silk (fine needles)
+            - Calcite crystals
+            - '"Swirl" growth patterns'
+            - Flux fingerprints (if heated)
+        - title: Kashmir Sapphire
+          points:
+            - Tourmaline crystals
+            - Zircon with tension halos
+            - '"Milky" zones (fine particles)'
+            - Colour zoning
+        - title: Thai/Cambodian Ruby
+          points:
+            - Dense rutile silk networks
+            - Iron-stained fractures
+            - Dark iron-rich crystals
+        - title: Sri Lankan Sapphire
+          points:
+            - Long rutile silk
+            - Zircon halos
+            - Colour zoning (hexagonal)
+            - Negative crystals
+
+  - title: Emerald Origins
+    table:
+      caption: Emerald Inclusions by Origin
+      headers:
+        - Origin
+        - Characteristic Inclusions
+      rows:
+        - ["Colombia", "Three-phase inclusions (liquid + gas + halite cube), calcite rhombs"]
+        - ["Zambia", "Black mica flakes, amphibole needles, blocky crystals"]
+        - ["Brazil", "Biotite mica, pyrite, two-phase inclusions"]
+        - ["Afghanistan", "Mica books, actinolite needles"]
+
+  - title: Other Gemstones
+    table:
+      caption: Diagnostic Inclusions
+      headers:
+        - Gemstone
+        - Diagnostic Inclusions
+      rows:
+        - ["Peridot", "\"Lily pad\" discoid fractures, black chromite crystals"]
+        - ["Spinel", "Octahedral negative crystals, \"fingerprint\" inclusions"]
+        - ["Aquamarine", "Rain-like parallel tubes, two-phase inclusions"]
+        - ["Tourmaline", "Growth tubes parallel to c-axis, trichites"]
+        - ["Topaz", "Two-phase inclusions, cleavage cracks"]
+        - ["Amethyst", "Zebra stripes (colour zoning), tiger stripes"]
+
+  - title: Natural vs Synthetic Indicators
+    comparison:
+      items:
+        - title: Natural Indicators
+          variant: success
+          points:
+            - Mineral crystal inclusions
+            - Three-phase inclusions
+            - Fingerprint patterns
+            - Irregular colour zoning
+            - Natural growth patterns
+            - Stress fractures around crystals
+        - title: Synthetic Indicators
+          variant: warning
+          points:
+            - Curved striae (flame fusion)
+            - Gas bubbles (flame fusion)
+            - Flux inclusions (flux growth)
+            - Chevron/zigzag zoning (hydrothermal)
+            - Seed plates (hydrothermal)
+            - Platinum/gold flakes (flux)
+
+  - title: Microscopy Techniques
+    content: |
+      Different lighting techniques reveal different inclusion types:
+
+      - **Darkfield** - Best for seeing inclusions against dark background
+      - **Brightfield** - Good for colour zoning and growth patterns
+      - **Fibre-optic** - Pinpoint light for specific features
+      - **Immersion** - Reduces surface reflections, reveals internal features
+      - **Polarized light** - Shows strain patterns and twinning
+
+  - title: Best Practice
+    callout:
+      type: tip
+      title: Best Practice
+      text: |
+        Always examine gems under magnification (10x minimum, 40-60x preferred)
+        using multiple lighting techniques. Document findings with photographs
+        when possible for comparison and records.

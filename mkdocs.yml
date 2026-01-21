@@ -37,6 +37,14 @@ plugins:
 
 nav:
   - Home: index.md
+  - Learn:
+      - Overview: learn/index.md
+      - Crystal Systems: learn/crystal-systems.md
+      - Physical Properties: learn/physical-properties.md
+      - Optical Properties: learn/optical-properties.md
+      - Inclusions: learn/inclusions.md
+      - Treatments: learn/treatments.md
+      - Synthetics: learn/synthetics.md
   - Knowledge Modules: modules.md
   - Quick Reference:
       - Overview: quick-reference/index.md
