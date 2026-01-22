@@ -1,0 +1,162 @@
+title: Colombian Emerald
+description: Colombian emerald from Muzo, Chivor, and Coscuez with three-phase inclusions, characteristics, and market position.
+order: 5
+category: origin
+difficulty: advanced
+icon: gem
+related:
+  - index
+  - zambia
+  - beryl
+tags:
+  - colombia
+  - emerald
+  - muzo
+  - chivor
+  - three-phase
+
+sections:
+  - title: Introduction
+    content: |
+      Colombia produces the world's finest emeralds, with Muzo, Chivor, and Coscuez
+      being the most famous mines. Colombian emeralds are distinguished by their
+      pure green colour and characteristic three-phase inclusions.
+
+      The Colombian emerald trade dates to Spanish colonial times, and the country
+      remains the premier source for top-quality emeralds.
+
+  - title: Major Mining Areas
+    content: |
+      Colombia's three main emerald regions:
+    subsections:
+      - title: Muzo
+        content: |
+          - **Location**: Boyacá Department
+          - **Character**: Darker, more saturated green
+          - **Inclusions**: More included than Chivor
+          - **Colour**: Warmer tone; pure green
+          - **Reputation**: Often considered finest colour
+
+      - title: Chivor
+        content: |
+          - **Location**: Boyacá Department (different zone)
+          - **Character**: Lighter, often bluish tint
+          - **Inclusions**: Generally cleaner than Muzo
+          - **Colour**: Cooler tone; slightly bluish-green
+          - **Market**: Premium for clean stones
+
+      - title: Coscuez
+        content: |
+          - **Location**: Near Muzo
+          - **Character**: Similar to Muzo
+          - **Quality**: Can produce fine material
+          - **Volume**: Significant production
+
+  - title: Characteristic Appearance
+    content: |
+      What makes Colombian emeralds distinctive:
+    subsections:
+      - title: Colour
+        content: |
+          - **Hue**: Pure green with minimal blue modifier
+          - **Saturation**: Medium to highly saturated
+          - **Tone**: Medium to medium-dark
+          - **Chromophore**: Chromium (with some vanadium)
+
+      - title: The Jardín
+        content: |
+          Colombian emeralds typically have visible inclusions—the French
+          word "jardín" (garden) describes this internal landscape:
+
+          - Inclusions more accepted than in other gems
+          - "Eye-clean" emeralds command significant premiums
+          - Heavy inclusions can affect durability
+          - Inclusions help confirm natural origin
+
+  - title: Three-Phase Inclusions
+    callout:
+      type: info
+      title: Diagnostic for Colombia
+      text: |
+        The three-phase inclusion is virtually diagnostic for Colombian origin:
+
+        - **Liquid** (brine): Fills the cavity
+        - **Gas bubble**: Trapped vapour
+        - **Halite crystal**: Cubic salt crystal
+
+        The halite cube may dissolve when gently heated and recrystallize
+        on cooling. Two-phase inclusions (liquid + gas without halite) occur
+        in emeralds from other origins.
+
+  - title: Colombian Emerald Inclusions
+    table:
+      headers:
+        - Inclusion
+        - Description
+      rows:
+        - ["Three-phase inclusions", "Liquid + gas + halite cube (diagnostic)"]
+        - ["Calcite rhombs", "Rhombohedral calcite crystals"]
+        - ["Pyrite", "Metallic cubic crystals"]
+        - ["Albite crystals", "White mineral inclusions"]
+        - ["Jagged growth tubes", "Irregular channels"]
+        - ["Fingerprints", "Characteristic feathery patterns"]
+
+  - title: Treatments
+    content: |
+      Understanding Colombian emerald treatments:
+    subsections:
+      - title: Oiling
+        content: |
+          - Traditional treatment (centuries old)
+          - Oil fills surface-reaching fractures
+          - Improves apparent clarity
+          - **Cedar oil**: Traditional; accepted
+          - **Degree matters**: Minor vs significant
+
+      - title: Treatment Grading
+        table:
+          headers:
+            - Level
+            - Lab Term
+            - Value Impact
+          rows:
+            - ["None", "None/No oil", "Highest premium"]
+            - ["Minor/Insignificant", "Minor", "Slight reduction"]
+            - ["Moderate", "Moderate", "Noticeable reduction"]
+            - ["Significant", "Significant", "Substantial reduction"]
+
+      - title: Other Treatments
+        content: |
+          - **Polymer/resin filling**: More stable than oil; must disclose
+          - **Surface coating**: Rare; unacceptable
+          - **Composite**: Filled fractures become problematic
+
+  - title: Muzo vs Chivor
+    comparison:
+      items:
+        - title: Muzo
+          variant: default
+          points:
+            - Darker, more saturated green
+            - Warmer tone
+            - More inclusions typical
+            - Classic "Colombian green"
+            - Highest premiums for fine quality
+        - title: Chivor
+          variant: default
+          points:
+            - Lighter, cooler green
+            - Slight bluish tint possible
+            - Often cleaner
+            - Elegant appearance
+            - Premium for clarity
+
+  - title: Historical Significance
+    content: |
+      Colombian emeralds in history:
+
+      - **Pre-Columbian**: Revered by indigenous peoples
+      - **Spanish Conquest**: 16th century; flooded Europe with emeralds
+      - **Mogul Empire**: Treasured in India; carved emeralds
+      - **Famous stones**: Many historic emeralds are Colombian
+      - **Modern market**: Remains benchmark for quality

@@ -1,0 +1,162 @@
+title: Aventurescence
+description: Aventurescence in gemstones including sunstone and aventurine quartz with causes, types, and quality factors.
+order: 8
+category: phenomena
+difficulty: intermediate
+icon: sparkle
+related:
+  - index
+  - feldspar
+  - quartz
+tags:
+  - aventurescence
+  - sunstone
+  - aventurine
+  - schiller
+
+sections:
+  - title: Introduction
+    content: |
+      Aventurescence is a glittery, metallic reflection from flat, reflective inclusions
+      within a gem. The effect is named after aventurine glass (from Italian "avventura"
+      meaning chance), which was discovered accidentally when copper filings fell into
+      molten glass.
+
+      The sparkle comes from light reflecting off platy inclusions—typically metallic
+      or reflective mineral flakes oriented within the host crystal.
+
+  - title: Mechanism
+    content: |
+      How aventurescence forms:
+    subsections:
+      - title: Requirements
+        content: |
+          - Flat, platy, reflective inclusions
+          - Inclusions oriented parallel or sub-parallel
+          - Sufficient inclusion density for visible effect
+          - Transparent to translucent host material
+
+      - title: Inclusion Types
+        content: |
+          Different minerals create aventurescence:
+
+          - **Copper** (Oregon sunstone): Metallic orange-red sparkle
+          - **Hematite/goethite** (Indian sunstone): Red-brown sparkle
+          - **Fuchsite mica** (aventurine quartz): Green sparkle
+          - **Pyrite/mica** (other gems): Variable sparkle
+
+  - title: Sunstone
+    content: |
+      Sunstone is feldspar with metallic schiller from oriented platelets:
+    subsections:
+      - title: Oregon Sunstone
+        content: |
+          Unique copper-bearing feldspar:
+
+          - **Inclusions**: Copper metal platelets
+          - **Effect**: Metallic orange-red to golden sparkle
+          - **Colours**: Colourless to green to red body
+          - **Unique**: Only copper sunstone in the world
+          - **Varieties**: Some transparent without schiller
+
+      - title: Indian/Norwegian Sunstone
+        content: |
+          - **Inclusions**: Hematite or goethite platelets
+          - **Effect**: Red-brown metallic sparkle
+          - **Character**: Often more orange-brown
+          - **Sources**: India, Norway, Tanzania
+
+      - title: Oregon Sunstone Features
+        table:
+          headers:
+            - Feature
+            - Description
+          rows:
+            - ["Copper schiller", "Distinct metallic sparkle"]
+            - ["Bicolour", "Green and red zoning"]
+            - ["Tricolour", "Multiple distinct colours"]
+            - ["Transparent", "Clear with no schiller"]
+            - ["Dichroism", "Strong colour variation"]
+
+  - title: Oregon Sunstone Uniqueness
+    callout:
+      type: info
+      title: The Only Copper Sunstone
+      text: |
+        Oregon sunstone is the only gem feldspar with native copper inclusions.
+        This creates unique features:
+
+        - Metallic copper-coloured sparkle
+        - Some stones show red colour from copper
+        - Can be bicoloured (green + red)
+        - Transparent examples without schiller also valued
+        - State gem of Oregon
+
+  - title: Aventurine Quartz
+    content: |
+      Aventurine is quartz with platy inclusions creating sparkle:
+    subsections:
+      - title: Green Aventurine
+        content: |
+          The most common type:
+
+          - **Inclusions**: Fuchsite (chrome mica) flakes
+          - **Colour**: Green from the fuchsite
+          - **Character**: Translucent with sparkle
+          - **Uses**: Cabochons, carvings, beads
+
+      - title: Other Colours
+        table:
+          headers:
+            - Colour
+            - Inclusions
+            - Characteristics
+          rows:
+            - ["Green", "Fuchsite mica", "Most common; chrome green"]
+            - ["Orange-red", "Hematite/goethite", "Warmer colour"]
+            - ["Blue", "Dumortierite", "Rare; often misidentified"]
+            - ["Peach/pink", "Mica + iron oxides", "Less common"]
+
+  - title: Quality Factors
+    content: |
+      Assessing aventurescent gems:
+    table:
+      headers:
+        - Factor
+        - Premium Quality
+      rows:
+        - ["Schiller intensity", "Strong, visible sparkle"]
+        - ["Schiller distribution", "Even across stone"]
+        - ["Body colour", "Attractive (Oregon red valued)"]
+        - ["Transparency", "Translucent preferred for some"]
+        - ["Inclusion quality", "Clean platelets, not cloudy"]
+
+  - title: Aventurine Glass
+    content: |
+      The phenomenon's namesake:
+    subsections:
+      - title: History
+        content: |
+          - Discovered accidentally in Murano, Italy (~17th century)
+          - Copper filings fell into molten glass
+          - Created sparkly decorative glass
+          - Name transferred to natural materials
+
+      - title: Identification
+        content: |
+          Distinguishing natural from glass aventurine:
+
+          - Glass may have more uniform sparkle
+          - Glass often shows gas bubbles
+          - Glass SG differs from quartz (2.5 vs 2.65)
+          - Glass often has different colour quality
+
+  - title: Market Notes
+    content: |
+      Aventurescent gems in the market:
+
+      - **Oregon sunstone**: Premium for copper stones; collector interest
+      - **Green aventurine**: Common; affordable
+      - **Sunstone general**: Popular for unique effect
+      - **Treatment**: Not common; natural phenomenon
+      - **Value**: Determined by strength of effect and body colour

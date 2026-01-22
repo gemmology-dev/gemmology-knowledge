@@ -1,0 +1,184 @@
+title: The Polariscope
+description: Using the polariscope to determine optic character (isotropic vs anisotropic), detect anomalous double refraction, and observe interference figures.
+order: 3
+category: equipment
+difficulty: beginner
+icon: filter
+related:
+  - optical-properties
+  - index
+  - refractometer
+tags:
+  - polariscope
+  - optic-character
+  - birefringence
+  - interference-figures
+
+sections:
+  - title: Introduction
+    content: |
+      The polariscope uses two polarising filters to determine a gem's optical character
+      (isotropic vs. anisotropic) and can reveal strain, twinning, and anomalous double
+      refraction (ADR).
+
+      This simple but powerful instrument quickly sorts gems into fundamental optical
+      categories, guiding further testing.
+
+  - title: Components and Setup
+    content: |
+      A polariscope consists of:
+    subsections:
+      - title: Basic Components
+        content: |
+          - **Polariser**: Lower filter, fixed position
+          - **Analyser**: Upper filter, can rotate
+          - **Light source**: Below the polariser
+          - **Stone platform**: Between the two filters
+
+      - title: Crossed Polars Position
+        content: |
+          When the polariser and analyser are at 90° to each other, light cannot
+          pass through—the field appears dark. This is the "crossed polars" position
+          used for most tests.
+
+          When aligned parallel, maximum light passes through (bright field).
+
+  - title: Basic Optic Character Test
+    content: |
+      Place the gem between crossed polars and rotate it 360°:
+    table:
+      headers:
+        - Observation
+        - Interpretation
+        - Examples
+      rows:
+        - ["Remains dark during rotation", "Isotropic (cubic system or amorphous)", "Diamond, spinel, garnet, glass"]
+        - ["Light and dark every 90° (4× blink)", "Anisotropic (crystalline, non-cubic)", "Quartz, tourmaline, corundum, beryl"]
+        - ["Remains light (never dark)", "Aggregate or microcrystalline material", "Jade (jadeite/nephrite), chalcedony"]
+        - ["Patchy light/dark (tabby extinction)", "ADR or strain birefringence", "Strained garnet, synthetic spinel"]
+
+  - title: Anomalous Double Refraction (ADR)
+    content: |
+      Some isotropic materials show strain birefringence due to internal stress:
+    subsections:
+      - title: What Is ADR?
+        content: |
+          Anomalous double refraction appears as irregular light patches that don't follow
+          the normal 4× blink pattern. The stone may show:
+
+          - **Tabby extinction**: Cross-hatched or patchy pattern
+          - **Roiled effect**: Swirling patterns
+          - **Partial extinction**: Some areas dark, others light
+
+      - title: Gems Showing ADR
+        table:
+          headers:
+            - Gem
+            - ADR Character
+            - Notes
+          rows:
+            - ["Garnet (especially almandine)", "Common, often strong", "Due to rapid growth or thermal stress"]
+            - ["Spinel", "Occasional", "More common in synthetics"]
+            - ["Diamond", "Can show strain patterns", "May indicate Type IIa"]
+            - ["Glass", "Often shows strain", "From cooling stresses"]
+            - ["Synthetic spinel", "Very common", "Diagnostic feature"]
+
+      - title: Distinguishing ADR from True DR
+        content: |
+          True double refraction (anisotropic):
+          - Regular 4× extinction pattern
+          - Consistent across the stone
+          - Shows on refractometer as two readings
+
+          Anomalous double refraction:
+          - Irregular, patchy extinction
+          - Often localised areas
+          - Single reading on refractometer
+
+  - title: Conoscopic Observation (Interference Figures)
+    content: |
+      With magnification and proper technique, the polariscope can reveal
+      interference figures that indicate uniaxial or biaxial character.
+    subsections:
+      - title: Setting Up
+        content: |
+          1. Use a converging light source (add condensing lens)
+          2. Position the stone with optic axis vertical
+          3. View through magnifying lens above analyser
+          4. Look for characteristic interference patterns
+
+      - title: Uniaxial Figure
+        content: |
+          Uniaxial crystals (trigonal, tetragonal, hexagonal) show:
+
+          - **Cross pattern**: Dark cross (isogyres) on coloured rings
+          - **Centred optic axis**: Cross stays stationary during rotation
+          - **Off-centre**: Cross arms sweep through field
+
+          The cross indicates viewing down or near the optic axis.
+
+      - title: Biaxial Figure
+        content: |
+          Biaxial crystals (orthorhombic, monoclinic, triclinic) show:
+
+          - **Two melatopes**: Points where optic axes emerge
+          - **Curved isogyres**: Dark bands curve as stone rotates
+          - **2V angle**: Separation indicates biaxial character
+
+      - title: Practical Limitations
+        content: |
+          Obtaining clear interference figures can be difficult:
+
+          - Requires specific orientation
+          - Stone must be relatively clean
+          - Takes practice to interpret
+          - Not always achievable in cut stones
+
+  - title: Twinning Detection
+    content: |
+      The polariscope can reveal crystal twinning:
+    subsections:
+      - title: How Twins Appear
+        content: |
+          Twinned crystals have domains with different optical orientations:
+
+          - **Lamellar twinning**: Parallel striations that blink at different positions
+          - **Contact twins**: Sharp boundary between regions
+          - **Penetration twins**: Interpenetrating domains
+
+      - title: Diagnostic Twinning
+        table:
+          headers:
+            - Gem
+            - Twinning Type
+            - Appearance
+          rows:
+            - ["Corundum", "Polysynthetic", "Fine parallel lamellae; rhombohedral"]
+            - ["Quartz", "Brazil/Dauphiné", "Sectors may show differently"]
+            - ["Feldspar", "Albite twinning", "Parallel striations"]
+            - ["Calcite", "Polysynthetic", "Parallel lamellae"]
+            - ["Spinel", "Contact twins", "Octahedral habit"]
+
+  - title: Strain in Gemstones
+    callout:
+      type: info
+      title: What Strain Indicates
+      text: |
+        Strain patterns visible in the polariscope can indicate:
+
+        - **Natural formation stress**: Common in many gems
+        - **Heat treatment evidence**: May show altered strain patterns
+        - **Synthetic origin**: Different strain from natural growth
+        - **Structural weakness**: Heavy strain may affect durability
+
+        While strain alone is rarely diagnostic, it provides useful supporting evidence.
+
+  - title: Maintenance and Care
+    content: |
+      Polariscope maintenance is straightforward:
+
+      - Keep polarising filters clean and scratch-free
+      - Store in dust-free environment
+      - Check light source regularly
+      - Handle filters by edges only
+      - Avoid exposing filters to extreme heat

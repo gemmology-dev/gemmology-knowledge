@@ -1,0 +1,111 @@
+title: Optical Phenomena Overview
+description: Introduction to optical phenomena in gemstones including light interaction principles and summary of major phenomena.
+order: 1
+category: phenomena
+difficulty: intermediate
+icon: sparkles
+related:
+  - asterism
+  - chatoyancy
+  - adularescence
+  - play-of-colour
+  - colour-change
+tags:
+  - phenomena
+  - optical-effects
+  - light
+
+sections:
+  - title: Introduction
+    content: |
+      Phenomenal gems display special optical effects caused by their internal structure,
+      inclusions, or interference of light. These phenomena are highly prized and can
+      significantly increase a gem's value.
+
+      Understanding the causes of each phenomenon helps in identification, quality
+      assessment, and distinguishing natural from synthetic or treated stones.
+
+  - title: Types of Optical Phenomena
+    content: |
+      Gem phenomena can be grouped by their physical causes:
+    subsections:
+      - title: Reflection Effects
+        content: |
+          Caused by light reflecting from internal features:
+
+          - **Asterism**: Star patterns from oriented needle inclusions
+          - **Chatoyancy**: Cat's eye band from parallel inclusions
+          - **Aventurescence**: Metallic sparkle from platy inclusions
+
+      - title: Interference Effects
+        content: |
+          Caused by light interference between thin layers:
+
+          - **Adularescence**: Soft glow in moonstone (feldspar layers)
+          - **Labradorescence**: Colour flashes from twinning (labradorite)
+          - **Iridescence**: Rainbow colours from thin films
+
+      - title: Diffraction Effects
+        content: |
+          Caused by light diffraction from regular structures:
+
+          - **Play of colour**: Spectral colours in opal (silica spheres)
+
+      - title: Absorption Effects
+        content: |
+          Caused by selective absorption of light:
+
+          - **Colour change**: Different colours under different lights
+
+  - title: Phenomena Summary
+    table:
+      caption: Optical Phenomena Quick Reference
+      headers:
+        - Phenomenon
+        - Cause
+        - Key Gems
+        - Effect Appearance
+      rows:
+        - ["Asterism", "Oriented needle inclusions", "Star ruby, star sapphire", "4-, 6-, or 12-ray star"]
+        - ["Chatoyancy", "Parallel needle/tube inclusions", "Chrysoberyl cat's eye", "Single moving band"]
+        - ["Adularescence", "Feldspar layer interference", "Moonstone", "Floating blue-white glow"]
+        - ["Labradorescence", "Lamellar twinning interference", "Labradorite, spectrolite", "Multicoloured flashes"]
+        - ["Play of colour", "Silica sphere diffraction", "Precious opal", "Shifting spectral colours"]
+        - ["Colour change", "Selective absorption spectrum", "Alexandrite", "Different colour in daylight/incandescent"]
+        - ["Aventurescence", "Reflective platy inclusions", "Sunstone, aventurine", "Metallic sparkle"]
+        - ["Iridescence", "Thin film interference", "Fire agate, ammolite", "Rainbow colours"]
+
+  - title: Value Impact
+    content: |
+      Phenomena can significantly affect gem value:
+    subsections:
+      - title: Premium Factors
+        content: |
+          - **Strength**: More pronounced effects command higher prices
+          - **Quality**: Sharp, centred, complete effects preferred
+          - **Rarity**: Uncommon phenomena in unusual gems valued
+          - **Body colour**: Attractive underlying colour adds value
+
+      - title: Quality Assessment
+        content: |
+          For phenomenal gems, assess:
+
+          - Is the effect sharp and well-defined?
+          - Is it centred and complete?
+          - Does it move smoothly?
+          - Is the body colour attractive?
+          - Is the stone well cut to display the effect?
+
+  - title: Cutting for Phenomena
+    callout:
+      type: tip
+      title: Critical Orientation
+      text: |
+        Phenomenal gems require precise cutting orientation:
+
+        - **Stars**: Base parallel to needle planes; dome centred
+        - **Cat's eyes**: Cut perpendicular to needle direction
+        - **Moonstone**: Oriented to show schiller through dome
+        - **Opal**: Cut to display play of colour face-up
+
+        Poor orientation can completely ruin a phenomenal stone's effect.

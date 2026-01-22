@@ -1,0 +1,180 @@
+title: The Spectroscope
+description: Using the spectroscope to observe absorption spectra, identifying characteristic patterns for gem species and detecting treatments.
+order: 5
+category: equipment
+difficulty: intermediate
+icon: chart-bar
+related:
+  - optical-properties
+  - index
+  - chemical-properties
+tags:
+  - spectroscope
+  - absorption-spectrum
+  - chromophores
+  - identification
+
+sections:
+  - title: Introduction
+    content: |
+      The spectroscope displays the absorption spectrum of a gem, showing which wavelengths
+      of light are absorbed. Certain absorption patterns are diagnostic for specific gems
+      and treatments, making this an essential identification tool.
+
+      While requiring more skill than basic instruments, the spectroscope provides
+      information unavailable from any other portable tool.
+
+  - title: Types of Spectroscope
+    content: |
+      Two main types are used in gemmology:
+    subsections:
+      - title: Prism Spectroscope
+        content: |
+          Uses a prism to disperse light into its spectrum:
+
+          - **Better resolution in red**: Red end of spectrum spread more
+          - **Compressed blue end**: Blue/violet more difficult to read
+          - **Traditional choice**: Many gemmologists prefer prism type
+          - **Wavelength scale**: May be non-linear due to prism dispersion
+
+      - title: Diffraction Grating Spectroscope
+        content: |
+          Uses a diffraction grating to create the spectrum:
+
+          - **Even spread**: Spectrum evenly distributed
+          - **Easier wavelength estimation**: More linear scale
+          - **Good for learning**: Easier to correlate with reference charts
+          - **May have multiple orders**: Secondary spectra visible
+
+  - title: Setup and Technique
+    content: |
+      Proper setup is critical for useful observations:
+    subsections:
+      - title: Light Source Requirements
+        content: |
+          - Strong white light (incandescent preferred)
+          - Light transmitted through the gem
+          - Position slit close to the stone
+          - Avoid ambient light interference
+
+      - title: Viewing Procedure
+        content: |
+          1. Illuminate the gem with strong transmitted light
+          2. Position the spectroscope slit close to the stone
+          3. Focus the eyepiece on the spectrum
+          4. Allow eyes to adapt (30 seconds to 1 minute)
+          5. Look for dark lines or bands against the coloured spectrum
+          6. Note position (wavelength in nm) and width of features
+
+      - title: Recording Observations
+        content: |
+          Document findings systematically:
+
+          - **Lines**: Sharp, narrow features (atomic absorption)
+          - **Bands**: Broader absorption regions
+          - **Cut-off**: Absorption of entire spectral region (e.g., blue cut-off)
+          - **Position**: Wavelength in nanometres (nm)
+          - **Intensity**: Weak, moderate, strong
+
+  - title: Diagnostic Absorption Spectra
+    table:
+      caption: Key Absorption Features by Gemstone
+      headers:
+        - Gemstone
+        - Key Features
+        - Wavelength (nm)
+      rows:
+        - ["Ruby/red spinel", "Cr doublet in red", "694 (close doublet)"]
+        - ["Ruby", "Additional Cr lines + fluorescent glow", "668, 659, plus organ pipe lines"]
+        - ["Emerald (natural)", "Cr line + Fe bands", "683 + bands in red/yellow"]
+        - ["Blue sapphire", "Fe bands", "450, 460, 470 (three-band)"]
+        - ["Almandine garnet", "Fe bands", "505, 520, 575 (diagnostic trio)"]
+        - ["Zircon (high)", "Uranium lines", "Many fine lines throughout spectrum"]
+        - ["Demantoid garnet", "Cr line", "443 (horse line; diagnostic)"]
+        - ["Peridot", "Fe bands", "493, 473, 453 (three evenly spaced)"]
+        - ["Yellow sapphire", "Fe bands", "450 band region"]
+        - ["Yellow apatite", "Rare earth lines", "Multiple fine lines in yellow-green"]
+
+  - title: Chromophore Absorption Patterns
+    content: |
+      Different colour-causing elements produce characteristic spectra:
+    subsections:
+      - title: Chromium (Cr³⁺)
+        content: |
+          Produces red colour with characteristic features:
+
+          - **Doublet at 694nm**: Very close pair of lines in deep red
+          - **Lines at 668, 659nm**: Additional absorption in red
+          - **Broad absorption in yellow-green**: Creates red colour
+          - **Found in**: Ruby, emerald, red spinel, alexandrite, chrome tourmaline
+
+      - title: Iron (Fe)
+        content: |
+          Most common chromophore in gems:
+
+          - **Fe²⁺**: Produces blue-green colours; broad bands
+          - **Fe³⁺**: Produces yellow-brown colours; sharp lines
+          - **Fe²⁺-Fe³⁺ charge transfer**: Intense blue (sapphire)
+          - **Found in**: Sapphire, peridot, aquamarine, almandine, most gems
+
+      - title: Copper (Cu)
+        content: |
+          Unusual chromophore in gems:
+
+          - **Cu²⁺**: Broad absorption in red region
+          - **Creates blue-green to blue colours**
+          - **Found in**: Turquoise, Paraíba tourmaline, malachite
+
+      - title: Rare Earth Elements
+        content: |
+          Produce sharp, narrow absorption lines:
+
+          - **Didymium (Nd + Pr)**: Yellow-green lines
+          - **Found in**: Apatite, sphene, some zircons
+          - **Useful for distinguishing species**
+
+  - title: Spectrum Reading Tips
+    callout:
+      type: tip
+      title: Improving Your Technique
+      text: |
+        To see spectra more clearly:
+
+        - **Dark adapt your eyes** before observing
+        - **Start with strongly coloured stones** to learn patterns
+        - **Use reference spectra** for comparison
+        - **Practice with known materials** before unknowns
+        - **Note both presence AND absence** of expected features
+        - **Compare with similar species** to note differences
+
+  - title: Treatment Detection
+    content: |
+      The spectroscope can reveal certain treatments:
+    subsections:
+      - title: Heat Treatment Signs
+        content: |
+          - **Modified absorption patterns** in some treated stones
+          - **Reduced Fe bands** in heated sapphires
+          - **Changed colour centre absorption**
+
+      - title: Diffusion Treatment
+        content: |
+          - **Surface-related absorption** (best seen immersed)
+          - **Unusual colour distribution**
+
+      - title: Dyed Materials
+        content: |
+          - **Atypical absorption patterns**
+          - **Absorption inconsistent with body colour**
+          - **Unusual dye bands**
+
+  - title: Limitations
+    content: |
+      Be aware of spectroscope limitations:
+
+      - Requires adequate light transmission
+      - Very pale stones show weak spectra
+      - Small stones are difficult to examine
+      - Takes practice to interpret patterns
+      - Some gem species show no diagnostic spectrum
+      - Laboratory spectrometers provide more detailed analysis

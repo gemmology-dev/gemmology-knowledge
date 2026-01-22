@@ -1,0 +1,167 @@
+title: The Dichroscope
+description: Using the dichroscope to observe pleochroism in coloured gemstones, distinguishing dichroic from trichroic materials.
+order: 4
+category: equipment
+difficulty: beginner
+icon: palette
+related:
+  - optical-properties
+  - index
+  - polariscope
+tags:
+  - dichroscope
+  - pleochroism
+  - colour
+  - identification
+
+sections:
+  - title: Introduction
+    content: |
+      The dichroscope reveals pleochroism by showing two polarised images side by side.
+      It's essential for identifying coloured anisotropic gems and can help distinguish
+      natural from synthetic materials.
+
+      Pleochroism—the property of showing different colours in different crystallographic
+      directions—is diagnostic for many coloured gemstones.
+
+  - title: Types of Dichroscope
+    content: |
+      Two main types are available:
+    subsections:
+      - title: Calcite Dichroscope
+        content: |
+          Uses a calcite rhomb (Iceland spar) to split the image:
+
+          - **More accurate**: Clear separation of colours
+          - **Traditional choice**: Preferred by professionals
+          - **Higher cost**: More expensive than polaroid type
+          - **Fragile**: Calcite can cleave if dropped
+
+      - title: Polaroid Dichroscope
+        content: |
+          Uses polarising film to create two windows:
+
+          - **More affordable**: Lower cost option
+          - **Durable**: Less fragile than calcite
+          - **Good for field use**: Compact and rugged
+          - **Slightly less clear**: Colours may be slightly muted
+
+  - title: Usage Technique
+    content: |
+      Proper technique is essential for accurate results:
+    subsections:
+      - title: Basic Procedure
+        content: |
+          1. View the gem through the dichroscope with strong transmitted light
+          2. Rotate the dichroscope (not the gem) while observing
+          3. Look for colour differences between the two images
+          4. Rotate the gem to find the direction of maximum colour difference
+          5. Record both colours seen
+
+      - title: Tips for Best Results
+        content: |
+          - Use a strong, white light source
+          - View through the body of the stone, not the surface
+          - Check multiple directions (rotate the gem 90°)
+          - Compare colours side by side in the two windows
+          - Work with good eye relief (don't press against eyepiece)
+
+  - title: Interpreting Results
+    table:
+      headers:
+        - Observation
+        - Interpretation
+        - Example Gems
+      rows:
+        - ["Two identical colours", "Isotropic or viewing down optic axis", "Spinel, garnet, glass"]
+        - ["Two different colours (dichroism)", "Uniaxial gem (trigonal, tetragonal, hexagonal)", "Ruby, sapphire, tourmaline"]
+        - ["Three colours visible (trichroism)", "Biaxial gem (orthorhombic, monoclinic, triclinic)", "Tanzanite, alexandrite, iolite"]
+        - ["No colour visible", "Colourless or very pale stone", "Colourless topaz, pale beryl"]
+
+  - title: Pleochroism Strength
+    content: |
+      Pleochroism varies from very weak to very strong:
+    subsections:
+      - title: Strength Scale
+        content: |
+          - **None**: Isotropic materials (no pleochroism)
+          - **Weak**: Slight colour variation, difficult to see
+          - **Distinct**: Clear difference but moderate
+          - **Strong**: Obvious colour difference
+          - **Very strong**: Dramatic colour change between directions
+
+      - title: Factors Affecting Visibility
+        content: |
+          - **Colour saturation**: Pale stones show less pleochroism
+          - **Viewing direction**: Maximum difference perpendicular to optic axis
+          - **Light quality**: Strong, white light shows colours best
+          - **Stone size**: Larger stones show colours more clearly
+
+  - title: Diagnostic Pleochroism
+    table:
+      caption: Characteristic Pleochroism by Gemstone
+      headers:
+        - Gemstone
+        - Strength
+        - Colours
+      rows:
+        - ["Ruby", "Strong", "Purple-red / orange-red"]
+        - ["Blue sapphire", "Strong", "Violet-blue / greenish-blue"]
+        - ["Emerald", "Distinct", "Blue-green / yellow-green"]
+        - ["Tanzanite", "Strong (trichroic)", "Blue / purple / brown"]
+        - ["Tourmaline", "Strong", "Variable, often dark / light of same hue"]
+        - ["Alexandrite", "Strong (trichroic)", "Green / orange / purple-red"]
+        - ["Kunzite", "Strong", "Pink / colourless"]
+        - ["Iolite", "Very strong (trichroic)", "Violet / blue / pale yellow"]
+        - ["Peridot", "Weak", "Yellow-green / green"]
+        - ["Aquamarine", "Weak", "Colourless / pale blue"]
+        - ["Andalusite", "Strong (trichroic)", "Yellow-green / brown / red"]
+        - ["Hiddenite", "Distinct", "Yellow-green / blue-green"]
+        - ["Zircon (blue)", "Weak", "Blue / colourless"]
+
+  - title: Dichroism vs Trichroism
+    content: |
+      Understanding the distinction:
+    subsections:
+      - title: Dichroic Gems (Uniaxial)
+        content: |
+          Uniaxial crystals have two principal optical directions and show
+          two pleochroic colours. These belong to:
+
+          - Trigonal system (corundum, tourmaline, quartz)
+          - Tetragonal system (zircon, scapolite)
+          - Hexagonal system (beryl, apatite)
+
+      - title: Trichroic Gems (Biaxial)
+        content: |
+          Biaxial crystals have three principal optical directions and can
+          show three distinct pleochroic colours. These belong to:
+
+          - Orthorhombic system (topaz, peridot, tanzanite)
+          - Monoclinic system (kunzite, diopside)
+          - Triclinic system (kyanite)
+
+          To see all three colours, rotate the gem to view along different axes.
+
+  - title: Practical Applications
+    callout:
+      type: tip
+      title: When Pleochroism Matters
+      text: |
+        The dichroscope is particularly useful for:
+
+        - **Separating ruby from garnet**: Ruby shows strong pleochroism; garnet shows none
+        - **Confirming corundum identity**: Characteristic pleochroic colours
+        - **Identifying iolite**: Very strong trichroism is diagnostic
+        - **Detecting synthetics**: Some synthetics show atypical pleochroism
+        - **Assessing cutting orientation**: Colour face-up depends on cut direction
+
+  - title: Common Mistakes
+    content: |
+      Avoid these errors when using the dichroscope:
+
+      - **Rotating the gem instead of the dichroscope** initially
+      - **Using reflected light** instead of transmitted light
+      - **Not checking multiple directions** in the stone
+      - **Confusing colour zoning** with pleochroism
+      - **Testing opaque or heavily included stones** (no light transmission)

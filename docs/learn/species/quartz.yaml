@@ -1,0 +1,220 @@
+title: Quartz
+description: Quartz species including amethyst, citrine, rose quartz, smoky quartz, rock crystal, and chalcedony varieties with properties and identification.
+order: 7
+category: species
+difficulty: beginner
+icon: gem
+related:
+  - physical-properties
+  - optical-properties
+  - treatments
+tags:
+  - quartz
+  - amethyst
+  - citrine
+  - chalcedony
+  - agate
+
+sections:
+  - title: Introduction
+    content: |
+      Quartz (SiO₂) is the most abundant mineral in Earth's crust and one of the
+      most versatile gem materials. It occurs in two main forms: macrocrystalline
+      (visible crystals) and cryptocrystalline (chalcedony varieties).
+
+      Despite its commonality, fine quartz specimens—particularly amethyst and
+      well-coloured citrine—remain popular and valuable.
+
+  - title: Mineralogy
+    subsections:
+      - title: Crystal System and Structure
+        content: |
+          - **Crystal system**: Trigonal (low quartz, stable below 573°C)
+          - **Chemical formula**: SiO₂
+          - **Habit**: Hexagonal prisms with pointed terminations
+          - **Cleavage**: None (conchoidal fracture)
+          - **Twinning**: Common (Brazil, Dauphiné, Japan laws)
+
+      - title: Physical Properties
+        table:
+          headers:
+            - Property
+            - Value
+          rows:
+            - ["Hardness", "7 Mohs"]
+            - ["Specific gravity", "2.65"]
+            - ["Refractive index", "1.544-1.553"]
+            - ["Birefringence", "0.009"]
+            - ["Optic character", "Uniaxial positive"]
+            - ["Pleochroism", "Weak (in coloured varieties)"]
+            - ["Lustre", "Vitreous"]
+
+  - title: Macrocrystalline Quartz
+    subsections:
+      - title: Amethyst
+        content: |
+          Purple to violet quartz:
+
+          - **Colour cause**: Iron + irradiation (Fe³⁺ → Fe⁴⁺)
+          - **Range**: Pale lilac to deep purple
+          - **Best colour**: Deep "Siberian" purple with red flashes
+          - **Sources**: Brazil (major), Uruguay, Zambia, Madagascar
+          - **Zoning**: Often shows angular colour zoning
+
+      - title: Citrine
+        content: |
+          Yellow to orange quartz:
+
+          - **Natural citrine**: Rare; pale yellow
+          - **Heat-treated**: Most commercial citrine is heated amethyst
+          - **Colour cause**: Fe³⁺ and irradiation-induced colour centres
+          - **Treated appearance**: Often orangey-brown (from heated amethyst)
+          - **Note**: "Madeira citrine" refers to brownish-orange colour
+
+      - title: Rose Quartz
+        content: |
+          Pink quartz:
+
+          - **Colour cause**: Dumortierite inclusions or Al/P substitution
+          - **Character**: Usually translucent, rarely transparent
+          - **Asterism**: Rare star rose quartz exists
+          - **Sources**: Brazil, Madagascar, South Dakota
+
+      - title: Smoky Quartz
+        content: |
+          Brown to black quartz:
+
+          - **Colour cause**: Aluminium + natural irradiation
+          - **Range**: Pale brown ("cairngorm") to nearly black ("morion")
+          - **Artificial**: Can be created by irradiating colourless quartz
+          - **Sources**: Worldwide; Scotland (historic), Brazil, Switzerland
+
+      - title: Other Varieties
+        table:
+          headers:
+            - Variety
+            - Description
+          rows:
+            - ["Rock crystal", "Colourless; pure SiO₂"]
+            - ["Ametrine", "Bicoloured amethyst-citrine; Bolivia"]
+            - ["Prasiolite", "Green quartz (usually heated amethyst)"]
+            - ["Milky quartz", "White, translucent; fluid inclusions"]
+            - ["Rutilated quartz", "Golden rutile needle inclusions"]
+            - ["Tourmalinated quartz", "Black tourmaline inclusions"]
+
+  - title: Ametrine
+    callout:
+      type: info
+      title: Natural Bicolour
+      text: |
+        Ametrine displays both amethyst purple and citrine yellow in the same
+        crystal. Virtually all commercial ametrine comes from the Anahí mine
+        in Bolivia, where unique geological conditions create this bicolour effect.
+
+        Synthetic ametrine exists, so certification may be valuable for fine pieces.
+
+  - title: Chalcedony Varieties
+    content: |
+      Cryptocrystalline quartz (fine-grained, often translucent):
+    subsections:
+      - title: Plain Chalcedony
+        content: |
+          - **Appearance**: Translucent, waxy lustre
+          - **Colours**: Grey, blue, white, pale colours
+          - **Blue chalcedony**: Prized; Turkey, Namibia
+          - **Chrysoprase**: Apple-green (nickel-coloured); finest chalcedony
+
+      - title: Agate
+        content: |
+          Banded chalcedony:
+
+          - **Characteristic**: Curved, concentric bands
+          - **Colours**: Any colour; often dyed
+          - **Types**: Moss agate, dendritic agate, fire agate
+          - **Sources**: Brazil, Uruguay, India, Madagascar
+
+      - title: Carnelian and Sard
+        content: |
+          Orange to reddish-brown chalcedony:
+
+          - **Carnelian**: Orange to red-orange
+          - **Sard**: Brownish-red (darker than carnelian)
+          - **Colour cause**: Iron oxide
+          - **Treatment**: Often heat-enhanced
+
+      - title: Onyx and Sardonyx
+        content: |
+          - **Onyx**: Black and white banded chalcedony
+          - **Sardonyx**: Sard (reddish-brown) with white bands
+          - **Note**: Much "black onyx" is dyed grey chalcedony
+          - **Uses**: Cameos, intaglios (carved gems)
+
+      - title: Jasper
+        content: |
+          Opaque, fine-grained quartz:
+
+          - **Character**: Opaque with various colours and patterns
+          - **Types**: Red jasper, picture jasper, bloodstone
+          - **Bloodstone**: Dark green with red spots (heliotrope)
+          - **Uses**: Carvings, cabochons, decorative objects
+
+  - title: Inclusions and Features
+    content: |
+      Quartz hosts many interesting inclusions:
+    subsections:
+      - title: Common Inclusions
+        table:
+          headers:
+            - Inclusion
+            - Appearance
+            - Creates
+          rows:
+            - ["Rutile needles", "Golden, needle-like", "Rutilated quartz"]
+            - ["Tourmaline", "Black rods", "Tourmalinated quartz"]
+            - ["Goethite/hematite", "Red-brown plates", "Strawberry quartz"]
+            - ["Dumortierite", "Blue-violet fibres", "Some rose quartz colour"]
+            - ["Fluid inclusions", "Two-phase negative crystals", "Common in all quartz"]
+
+      - title: Special Effects
+        content: |
+          - **Asterism**: Star effect in rose quartz (rare)
+          - **Chatoyancy**: Cat's eye quartz (sillimanite inclusions)
+          - **Tiger's eye**: Chatoyant from replaced crocidolite
+
+  - title: Treatments
+    content: |
+      Quartz undergoes various treatments:
+
+      - **Heat treatment**: Amethyst → citrine (common, permanent)
+      - **Irradiation**: Colourless → smoky (common)
+      - **Dyeing**: Agate commonly dyed vibrant colours
+      - **Coating**: Surface coatings for iridescence
+      - **Diffusion**: Not applicable to quartz
+
+  - title: Synthetic Quartz
+    callout:
+      type: tip
+      title: Hydrothermal Synthesis
+      text: |
+        Synthetic quartz is grown hydrothermally for electronics (oscillators).
+        Gem-quality synthetic quartz exists, including synthetic amethyst and
+        citrine. Distinguishing features:
+
+        - Unusual colour uniformity
+        - Lack of natural inclusions
+        - Specific growth patterns (chevron zoning)
+        - Very clean compared to natural
+
+        Natural Brazilian amethyst often has Angola-law twinning visible
+        in the polariscope, absent in synthetics.
+
+  - title: Identification Summary
+    content: |
+      Key features for quartz identification:
+
+      - **RI**: 1.544-1.553 (distinctive)
+      - **SG**: 2.65 (constant)
+      - **Birefringence**: 0.009
+      - **Hardness**: 7 (scratches glass easily)
+      - **No cleavage**: Conchoidal fracture
+      - **Bull's eye**: Interference figure with cross and rings

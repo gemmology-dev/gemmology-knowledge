@@ -1,0 +1,128 @@
+title: Gem Testing Equipment Overview
+description: Introduction to gemmological instruments, testing workflow, and which tool to use for different identification tasks.
+order: 1
+category: equipment
+difficulty: beginner
+icon: microscope
+related:
+  - refractometer
+  - polariscope
+  - dichroscope
+  - spectroscope
+  - microscope
+  - uv-lamp
+tags:
+  - equipment
+  - identification
+  - workflow
+  - testing
+
+sections:
+  - title: Introduction
+    content: |
+      Gemmological testing relies on a suite of standard instruments that measure optical and
+      physical properties. Mastering these tools is fundamental to gem identification and
+      forms the core practical skills tested in the FGA Foundation examination.
+
+      A systematic approach using multiple instruments provides the most reliable identification.
+      No single test is definitive—results should be correlated across several methods.
+
+  - title: The Gemmological Toolkit
+    content: |
+      A well-equipped gemmological laboratory includes the following core instruments:
+    subsections:
+      - title: Essential Instruments
+        table:
+          headers:
+            - Instrument
+            - Primary Function
+            - Difficulty
+          rows:
+            - ["Refractometer", "Measure refractive index and birefringence", "Moderate"]
+            - ["Polariscope", "Determine optic character (SR/DR)", "Easy"]
+            - ["Dichroscope", "Observe pleochroism in coloured stones", "Easy"]
+            - ["Spectroscope", "View absorption spectrum", "Moderate"]
+            - ["UV Lamp", "Observe fluorescence reactions", "Easy"]
+            - ["Microscope", "Examine inclusions and features", "Moderate"]
+            - ["Chelsea Filter", "Quick screening for emeralds", "Easy"]
+
+      - title: Supporting Equipment
+        content: |
+          Beyond the core instruments, a complete toolkit includes:
+
+          - **Specific gravity balance**: For density measurement
+          - **Thermal conductivity probe**: Diamond screening
+          - **Loupe (10×)**: Field examination standard
+          - **Tweezers and stone holders**: Safe manipulation
+          - **Cleaning supplies**: Cloth, brushes, solvents
+          - **Reference materials**: Master stones, comparison samples
+
+  - title: Instrument Selection Guide
+    table:
+      caption: Which Instrument to Use
+      headers:
+        - Question
+        - Primary Instrument
+        - Supporting Tests
+      rows:
+        - ["What is the RI?", "Refractometer", "SG measurement"]
+        - ["Is it isotropic or anisotropic?", "Polariscope", "Refractometer (two readings?)"]
+        - ["What causes the colour?", "Spectroscope", "Dichroscope, Chelsea filter"]
+        - ["Is it natural or synthetic?", "Microscope", "UV lamp, spectroscope"]
+        - ["Is it treated?", "Microscope", "UV lamp, spectroscope"]
+        - ["What is the origin?", "Microscope", "Spectroscope, chemistry"]
+
+  - title: Testing Workflow
+    callout:
+      type: tip
+      title: Systematic Testing Approach
+      text: |
+        For unknown gems, follow this sequence:
+
+        1. **Visual examination**: Colour, transparency, lustre, cut style
+        2. **Refractometer**: RI and birefringence
+        3. **Polariscope**: Optic character (SR/DR)
+        4. **Dichroscope**: Pleochroism (if coloured and DR)
+        5. **Microscope**: Inclusions, growth features
+        6. **Spectroscope**: Absorption spectrum
+        7. **UV lamp**: Fluorescence reactions
+        8. **Chelsea filter**: If green stone
+        9. **SG**: If refractometer inconclusive or OTL
+
+        Document all results before reaching a conclusion.
+
+  - title: High-RI Stones
+    callout:
+      type: warning
+      title: Stones Above Refractometer Limits
+      text: |
+        Stones with RI above 1.81 cannot be measured on standard refractometers:
+
+        - **Diamond** (RI 2.417) - Use thermal probe or specific gravity
+        - **Zircon** (RI 1.93–1.98) - May show partial reading
+        - **Demantoid** (RI 1.88) - SG and spectrum for identification
+        - **Sphene** (RI 1.90–2.02) - Identify by high dispersion and birefringence
+
+  - title: Recording and Documentation
+    content: |
+      Accurate documentation is essential for professional practice:
+    subsections:
+      - title: What to Record
+        content: |
+          For each stone examined, document:
+
+          - **Date and reference number**
+          - **Description**: Weight, dimensions, cut style, colour
+          - **All test results**: RI, optic character, pleochroism, spectrum, fluorescence
+          - **Inclusions observed**: With photomicrographs if possible
+          - **Conclusion**: Identification with confidence level
+
+      - title: Professional Standards
+        content: |
+          Follow these documentation principles:
+
+          - Record observations objectively, without interpretation bias
+          - Note any limitations or uncertainties
+          - Keep equipment calibration records
+          - Maintain chain of custody for valuable items
+          - Store records securely with appropriate confidentiality

@@ -1,0 +1,133 @@
+title: Asterism (Star Effect)
+description: Asterism in gemstones including star ruby, star sapphire, and other star stones with formation, quality factors, and identification.
+order: 2
+category: phenomena
+difficulty: intermediate
+icon: star
+related:
+  - index
+  - corundum
+  - chatoyancy
+tags:
+  - asterism
+  - star-ruby
+  - star-sapphire
+  - silk
+
+sections:
+  - title: Introduction
+    content: |
+      Asterism is the appearance of a star pattern on the surface of a cabochon-cut gem.
+      It is caused by light reflecting from oriented needle-like inclusions (usually
+      rutile silk) arranged parallel to crystallographic directions.
+
+      Star rubies and star sapphires are the most important asteriated gems, though
+      stars also occur in garnet, diopside, quartz, and other minerals.
+
+  - title: How Stars Form
+    content: |
+      The formation of asterism requires specific conditions:
+    subsections:
+      - title: Requirements
+        content: |
+          - Needle inclusions oriented along **specific crystal directions**
+          - Light reflects from each set of needles, creating a bright band
+          - Multiple intersecting needle orientations create multiple rays
+          - The stone must be cut **en cabochon** with base parallel to needle planes
+          - Proper orientation during cutting is critical for centred stars
+
+      - title: Types of Stars
+        table:
+          headers:
+            - Type
+            - Ray Count
+            - Cause
+            - Examples
+          rows:
+            - ["Six-ray star", "6", "Three sets of needles at 60°", "Star ruby, star sapphire"]
+            - ["Four-ray star", "4", "Two sets of needles at 90°", "Star diopside, some garnets"]
+            - ["Twelve-ray star", "12", "Two overlapping 6-ray patterns", "Rare star corundum"]
+
+  - title: Star Ruby and Star Sapphire
+    content: |
+      Corundum is the most important source of star gems:
+    subsections:
+      - title: The Silk
+        content: |
+          - **Rutile (TiO₂)**: Tiny needle-like crystals
+          - **Orientation**: Forms along hexagonal crystal axes
+          - **Three sets**: At 120° angles to each other
+          - **Creates**: Classic six-ray star
+
+      - title: Sources
+        table:
+          headers:
+            - Origin
+            - Characteristics
+          rows:
+            - ["Myanmar (Mogok)", "Fine red body; sharp stars"]
+            - ["Sri Lanka", "Good stars; various colours"]
+            - ["India", "Black star sapphire"]
+            - ["Thailand", "Dark body; often heated"]
+            - ["Madagascar", "Various qualities"]
+
+  - title: Star Quality Assessment
+    comparison:
+      items:
+        - title: High Quality Stars
+          variant: success
+          points:
+            - Sharp, well-defined rays
+            - Complete rays from girdle to girdle
+            - Centred on cabochon apex
+            - Smooth, fluid movement
+            - Attractive body colour
+            - Good dome height
+        - title: Low Quality Stars
+          variant: warning
+          points:
+            - Fuzzy or diffuse rays
+            - Incomplete or broken rays
+            - Off-centre star position
+            - Jerky or patchy movement
+            - Poor body colour
+            - Flat or overly high dome
+
+  - title: Synthetic and Treated Stars
+    callout:
+      type: warning
+      title: Identification Concerns
+      text: |
+        **Synthetic star corundum** (Linde stars):
+        - Very sharp, perfectly straight rays
+        - Often have gas bubbles
+        - Rays may appear "too perfect"
+        - Natural stars have slightly softer rays
+
+        **Diffusion-treated stars**:
+        - Star effect in thin surface layer only
+        - Immersion reveals colour/silk at surface
+        - Check for uneven colour distribution
+
+  - title: Other Star Gems
+    table:
+      headers:
+        - Gem
+        - Star Type
+        - Characteristics
+      rows:
+        - ["Star diopside", "4-ray", "Black body; distinct white cross"]
+        - ["Star garnet", "4 or 6-ray", "Almandine; Idaho famous source"]
+        - ["Star quartz", "6-ray", "Rose quartz; often weak"]
+        - ["Star spinel", "6-ray", "Rare; collector interest"]
+        - ["Star sunstone", "4-ray", "Oregon copper sunstone"]
+
+  - title: Cutting Considerations
+    content: |
+      Proper cutting is essential for star quality:
+
+      - **Base orientation**: Parallel to needle plane
+      - **Dome height**: Adequate dome shows star better
+      - **Centering**: Star should be centred on dome apex
+      - **Symmetry**: Even cabochon shape
+      - **Surface quality**: Good polish without scratches

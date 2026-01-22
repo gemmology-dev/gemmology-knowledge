@@ -1,0 +1,202 @@
+title: Topaz
+description: Topaz species including imperial, blue, sherry, and colourless varieties with properties, treatments, and identification.
+order: 6
+category: species
+difficulty: intermediate
+icon: gem
+related:
+  - physical-properties
+  - optical-properties
+  - treatments
+tags:
+  - topaz
+  - imperial-topaz
+  - blue-topaz
+  - sherry-topaz
+
+sections:
+  - title: Introduction
+    content: |
+      Topaz (Al₂SiO₄(F,OH)₂) is an aluminium fluorosilicate prized for its excellent
+      hardness, brilliance, and variety of colours. While blue topaz dominates the
+      commercial market, the rare imperial topaz from Brazil commands premium prices.
+
+      Topaz has been known since antiquity, though historically the name was applied
+      to various yellow gems including peridot and citrine.
+
+  - title: Mineralogy
+    subsections:
+      - title: Crystal System and Structure
+        content: |
+          - **Crystal system**: Orthorhombic
+          - **Chemical formula**: Al₂SiO₄(F,OH)₂
+          - **Habit**: Prismatic crystals, often striated
+          - **Cleavage**: Perfect basal (one direction)
+          - **Fracture**: Conchoidal
+
+      - title: Physical Properties
+        table:
+          headers:
+            - Property
+            - Value
+          rows:
+            - ["Hardness", "8 Mohs"]
+            - ["Specific gravity", "3.50-3.57"]
+            - ["Refractive index", "1.619-1.627"]
+            - ["Birefringence", "0.008-0.010"]
+            - ["Optic character", "Biaxial positive"]
+            - ["Pleochroism", "Weak to distinct (varies by colour)"]
+            - ["Lustre", "Vitreous"]
+
+  - title: Cleavage Warning
+    callout:
+      type: warning
+      title: Perfect Basal Cleavage
+      text: |
+        Topaz has perfect cleavage in one direction, making it vulnerable to
+        chipping if struck. This requires care in:
+
+        - Cutting and polishing
+        - Setting (protective settings recommended)
+        - Daily wear (avoid hard impacts)
+        - Cleaning (avoid ultrasonic)
+
+        Despite H8 hardness, this cleavage makes topaz more fragile than corundum.
+
+  - title: Colour Varieties
+    subsections:
+      - title: Imperial Topaz
+        content: |
+          The most valuable topaz variety:
+
+          - **Colour**: Orange to pink-orange to reddish-orange
+          - **Source**: Primarily Ouro Preto, Brazil
+          - **Cause**: Chromium in some; colour centres
+          - **Rarity**: True imperial colour is rare
+          - **Value**: Commands significant premiums
+
+          The term "imperial" should be reserved for the finest orange to
+          pinkish-orange colours, not ordinary yellow or golden topaz.
+
+      - title: Sherry Topaz
+        content: |
+          Yellowish-brown to orange-brown:
+
+          - **Colour**: Named for sherry wine colour
+          - **Sources**: Brazil, Sri Lanka, Pakistan
+          - **Note**: May fade with light exposure
+          - **Value**: Lower than imperial; higher than colourless
+
+      - title: Blue Topaz
+        content: |
+          The most common market topaz today:
+
+          - **Natural**: Rare and typically pale
+          - **Treated**: Virtually all commercial blue topaz
+          - **Treatment**: Irradiation + heat
+          - **Trade names**: Sky Blue (light), Swiss Blue (medium), London Blue (dark)
+
+      - title: Pink Topaz
+        content: |
+          - **Natural**: Extremely rare
+          - **Treated**: Heat-treated from brownish or yellowish material
+          - **Source**: Brazil, Pakistan (natural pink rare)
+          - **Value**: High for natural; moderate for treated
+
+      - title: Colourless Topaz
+        content: |
+          - **Abundance**: Common; often treated to blue
+          - **Historic**: Used as diamond simulant
+          - **Value**: Lowest of topaz varieties
+          - **Uses**: Starting material for treatment
+
+  - title: Blue Topaz Treatments
+    content: |
+      Understanding treated blue topaz:
+    subsections:
+      - title: Treatment Process
+        content: |
+          Virtually all blue topaz on the market is treated:
+
+          1. Start with colourless topaz (abundant)
+          2. Irradiate (various methods produce different blues)
+          3. Heat to stabilize and develop colour
+          4. Hold for radiation decay (if neutron-irradiated)
+
+      - title: Blue Topaz Types
+        table:
+          headers:
+            - Trade Name
+            - Colour
+            - Treatment
+          rows:
+            - ["Sky Blue", "Light, clear blue", "Electron or gamma irradiation"]
+            - ["Swiss Blue", "Medium saturated blue", "Combination irradiation"]
+            - ["London Blue", "Deep greyish-blue", "Neutron irradiation + heat"]
+
+      - title: Safety Note
+        content: |
+          Neutron-irradiated topaz (London Blue) must be held for radiation
+          decay before sale. Reputable suppliers ensure this, but the delay
+          period can be months.
+
+  - title: Major Sources
+    table:
+      headers:
+        - Origin
+        - Characteristics
+      rows:
+        - ["Brazil (Ouro Preto)", "Imperial topaz; finest orange to pink-orange"]
+        - ["Brazil (general)", "Blue treatment material; various colours"]
+        - ["Pakistan", "Pink, golden, some fine imperial"]
+        - ["Sri Lanka", "Various colours; colourless"]
+        - ["Russia (Urals)", "Historic; blue and pink"]
+        - ["USA (Utah, Texas)", "Collector specimens; some gem quality"]
+
+  - title: Characteristic Inclusions
+    content: |
+      Topaz typically has good clarity; when inclusions occur:
+
+      - **Two-phase inclusions**: Liquid with gas bubble
+      - **Growth tubes**: Parallel to c-axis
+      - **Cleavage planes**: May show iridescence
+      - **Needle inclusions**: Fine parallel needles
+      - **Crystal inclusions**: Various minerals
+
+  - title: Historical Notes
+    callout:
+      type: info
+      title: Nomenclature History
+      text: |
+        Historical "topaz" often referred to other gems:
+
+        - **"Oriental topaz"**: Actually yellow sapphire (deprecated)
+        - **"Spanish topaz"**: Actually citrine
+        - **"Smoky topaz"**: Actually smoky quartz
+
+        Modern nomenclature reserves "topaz" strictly for Al₂SiO₄(F,OH)₂.
+        The island of Topazios (now Zabargad) in the Red Sea, once thought
+        to be the name source, actually produced peridot, not topaz.
+
+  - title: Identification Summary
+    content: |
+      Key features for topaz identification:
+
+      - **RI**: 1.619-1.627 (useful range)
+      - **SG**: 3.53 (overlaps diamond!)
+      - **Birefringence**: 0.008-0.010
+      - **Optic sign**: Biaxial positive
+      - **Cleavage**: Perfect basal (visible under magnification)
+      - **Spectrum**: Often no diagnostic features
+
+  - title: Distinguishing Similar Gems
+    table:
+      headers:
+        - Gem
+        - Key Distinction from Topaz
+      rows:
+        - ["Citrine", "Lower RI (1.544-1.553), lower SG (2.65)"]
+        - ["Aquamarine", "Lower RI (~1.58), lower SG (2.72)"]
+        - ["Yellow sapphire", "Higher RI (1.76-1.77), higher SG (4.00)"]
+        - ["Danburite", "Lower SG (3.00), different crystal system"]
+        - ["Heliodor", "Lower RI (~1.58), lower SG (~2.72)"]

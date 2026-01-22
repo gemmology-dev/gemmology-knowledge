@@ -1,0 +1,152 @@
+title: Olivine (Peridot)
+description: Olivine species and its gem variety peridot with properties, characteristic inclusions, sources, and identification.
+order: 11
+category: species
+difficulty: beginner
+icon: gem
+related:
+  - physical-properties
+  - optical-properties
+tags:
+  - peridot
+  - olivine
+  - chrysolite
+  - august-birthstone
+
+sections:
+  - title: Introduction
+    content: |
+      Olivine ((Mg,Fe)₂SiO₄) is an iron-magnesium silicate, and its gem-quality
+      variety is known as peridot. One of the few gems that occur in only one
+      colour, peridot has been treasured since antiquity for its distinctive
+      yellow-green to olive green colour.
+
+      Peridot is the birthstone for August and has been found in meteorites,
+      making it one of the few extraterrestrial gems.
+
+  - title: Mineralogy
+    subsections:
+      - title: Crystal System and Structure
+        content: |
+          - **Crystal system**: Orthorhombic
+          - **Chemical formula**: (Mg,Fe)₂SiO₄
+          - **Series**: Forsterite (Mg) to Fayalite (Fe)
+          - **Gem composition**: Usually ~88-92% forsterite
+          - **Cleavage**: Poor (rarely seen)
+
+      - title: Physical Properties
+        table:
+          headers:
+            - Property
+            - Value
+          rows:
+            - ["Hardness", "6.5-7 Mohs"]
+            - ["Specific gravity", "3.27-3.37"]
+            - ["Refractive index", "1.654-1.690"]
+            - ["Birefringence", "0.035-0.038 (high)"]
+            - ["Optic character", "Biaxial positive"]
+            - ["Pleochroism", "Weak (yellowish-green to green)"]
+            - ["Lustre", "Vitreous to oily"]
+
+  - title: Colour
+    content: |
+      Peridot occurs in a single hue family:
+
+      - **Chromophore**: Iron (Fe²⁺)
+      - **Colour range**: Yellow-green to olive green to brownish-green
+      - **Ideal**: Vivid lime green without brown
+      - **No treatment**: Peridot is never heat-treated for colour
+
+      The finest colour is a vivid lime green without yellow or brown modifiers.
+      Iron content determines the depth of colour.
+
+  - title: Lily Pad Inclusions
+    callout:
+      type: info
+      title: Diagnostic Inclusion
+      text: |
+        Peridot is famous for "lily pad" inclusions—disc-shaped stress fractures
+        surrounding tiny chromite crystals. These appear as small round
+        "explosions" when viewed under magnification.
+
+        Lily pads are virtually diagnostic for peridot and help separate it
+        from similar green gems.
+
+  - title: Major Sources
+    table:
+      headers:
+        - Origin
+        - Characteristics
+      rows:
+        - ["Myanmar (Mogok)", "Finest colour; limited availability"]
+        - ["Pakistan (Kashmir)", "Large, fine crystals"]
+        - ["China (Changbai)", "Major current producer"]
+        - ["Arizona (San Carlos)", "Smaller stones; Native American jewellery"]
+        - ["Zabargad (Egypt)", "Historic source; now exhausted"]
+        - ["Vietnam", "Good quality material"]
+        - ["Ethiopia", "Emerging source"]
+
+  - title: Zabargad Island
+    callout:
+      type: info
+      title: Historic Source
+      text: |
+        The island of Zabargad (St. John's Island) in the Red Sea was the
+        primary peridot source for over 3,500 years. Ancient Egyptians called
+        it "the gem of the sun." The mines are now exhausted.
+
+        Interestingly, "Topazios," the Greek name for this island, is where
+        the word "topaz" originated—though the island produced peridot, not topaz.
+
+  - title: Characteristic Inclusions
+    content: |
+      Peridot shows distinctive internal features:
+
+      - **Lily pads**: Stress discs around chromite crystals (diagnostic)
+      - **Chromite crystals**: Small black octahedra
+      - **Needle inclusions**: Fine, oriented needles
+      - **Negative crystals**: Angular voids
+      - **Healing feathers**: Plane fractures with fluid
+
+  - title: High Birefringence Effect
+    content: |
+      Peridot's high birefringence (0.035-0.038) causes visible doubling:
+
+      - Back facet edges appear doubled
+      - More obvious in larger stones
+      - Viewing direction affects visibility
+      - Helps distinguish from similar gems (demantoid is SR)
+
+  - title: Identification Summary
+    content: |
+      Key features for peridot identification:
+
+      - **RI**: 1.654-1.690 (distinctive range)
+      - **SG**: 3.34 (characteristic)
+      - **Birefringence**: 0.035-0.038 (high; visible doubling)
+      - **Colour**: Yellow-green to olive green only
+      - **Spectrum**: Three Fe bands at 493, 473, 453nm
+      - **Inclusions**: Lily pads diagnostic
+
+  - title: Distinguishing Similar Gems
+    table:
+      headers:
+        - Gem
+        - Key Distinction from Peridot
+      rows:
+        - ["Demantoid garnet", "Garnet is SR (no doubling); higher RI"]
+        - ["Green tourmaline", "Different RI range; different spectrum"]
+        - ["Chrome diopside", "Lower birefringence; different RI"]
+        - ["Green zircon", "Higher RI (1.93+); higher SG"]
+        - ["Moldavite", "Much lower RI (1.48); glass"]
+
+  - title: Care and Durability
+    content: |
+      Peridot requires some care in jewellery:
+
+      - Hardness 6.5-7 means it can scratch
+      - Sensitive to acids (even weak ones)
+      - Avoid ultrasonic and steam cleaning
+      - Warm soapy water is safe
+      - Best for earrings, pendants, occasional ring wear
+      - Protect from hard impacts

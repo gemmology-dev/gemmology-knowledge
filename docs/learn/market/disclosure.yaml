@@ -1,0 +1,309 @@
+title: Treatment Disclosure & Ethics
+description: Treatment disclosure requirements, ethical standards, trade practices, and consumer protection in the gemstone industry.
+order: 4
+category: market
+difficulty: advanced
+icon: scale
+related:
+  - grading-valuation
+  - professional-practice
+  - lab-reports
+  - treatments
+tags:
+  - disclosure
+  - ethics
+  - treatments
+  - trade-practice
+  - consumer-protection
+
+sections:
+  - title: Introduction
+    content: |
+      Treatment disclosure is a fundamental ethical and often legal requirement in
+      the gem trade. Proper disclosure protects consumers, maintains trade integrity,
+      and ensures fair market pricing. Understanding disclosure standards is essential
+      for professionals and collectors.
+
+      Standards have evolved significantly, with increasing emphasis on transparency.
+
+  - title: Why Disclosure Matters
+    content: |
+      The importance of treatment disclosure:
+    subsections:
+      - title: Consumer Protection
+        content: |
+          - Informed purchasing decisions
+          - Fair value for money paid
+          - Understanding durability implications
+          - Accurate collection documentation
+
+      - title: Market Integrity
+        content: |
+          - Fair competition among sellers
+          - Maintains consumer confidence
+          - Supports legitimate trade
+          - Prevents market manipulation
+
+      - title: Legal Requirements
+        content: |
+          - FTC guidelines (US)
+          - Consumer protection laws (various jurisdictions)
+          - Industry self-regulation (CIBJO, ICA)
+          - Misrepresentation liability
+
+  - title: Disclosure Standards
+    content: |
+      International and industry standards:
+    subsections:
+      - title: CIBJO Blue Books
+        content: |
+          - **Organisation**: World Jewellery Confederation
+          - **Standards**: Comprehensive treatment disclosure rules
+          - **Acceptance**: Widely adopted industry standard
+          - **Updates**: Regularly revised for new treatments
+
+      - title: ICA Guidelines
+        content: |
+          - **Organisation**: International Colored Gemstone Association
+          - **Focus**: Coloured stone specific standards
+          - **Coverage**: Treatment types and disclosure levels
+          - **Enforcement**: Member adherence expected
+
+      - title: FTC Guidelines (US)
+        content: |
+          - **Authority**: Federal Trade Commission
+          - **Scope**: Consumer protection law
+          - **Requirement**: Material facts must be disclosed
+          - **Enforcement**: Legal penalties possible
+
+  - title: What Must Be Disclosed
+    content: |
+      Treatments requiring disclosure:
+    subsections:
+      - title: Always Disclose
+        table:
+          headers:
+            - Treatment
+            - Why Disclosure Essential
+          rows:
+            - ["Heat treatment", "Alters natural characteristics; affects value"]
+            - ["Fracture filling (emerald)", "May be unstable; affects care/value"]
+            - ["Lead glass filling (ruby)", "Significant durability concerns"]
+            - ["Diffusion treatment", "Colour may be surface-only"]
+            - ["Irradiation", "Colour artificially induced"]
+            - ["Coating", "Temporary; affects care"]
+            - ["Dyeing", "Colour not natural; may fade"]
+
+      - title: Disclosure Terminology
+        content: |
+          - **"Natural"**: No treatment of any kind
+          - **"Heated"**: Heat treatment applied
+          - **"Oiled/Enhanced"**: Clarity enhancement (emerald)
+          - **"Filled"**: Fracture/cavity filling
+          - **"Diffused"**: Surface or lattice diffusion
+          - **"Treated"**: General term; specifics should follow
+
+  - title: Accepted vs Unaccepted Treatments
+    callout:
+      type: info
+      title: Market Acceptance Varies
+      text: |
+        Some treatments are widely accepted (still require disclosure):
+        - Heat treatment of sapphire, ruby, aquamarine, zircon
+        - Minor oiling of emerald (traditional, accepted for centuries)
+
+        Other treatments are less accepted or rejected:
+        - Lead glass filling (significant durability concerns)
+        - Heavy resin filling (stability questions)
+        - Surface coating (temporary nature)
+
+        Acceptance affects value but doesn't eliminate disclosure requirements.
+
+  - title: Level of Disclosure
+    content: |
+      How detailed must disclosure be:
+    subsections:
+      - title: At Point of Sale
+        content: |
+          - Written on invoice or receipt
+          - Verbal disclosure insufficient alone
+          - Clear, understandable language
+          - Treatment type and extent if known
+
+      - title: In Advertising
+        content: |
+          - Online listings must disclose
+          - Print advertisements must include
+          - Photographs cannot misrepresent
+          - "Natural" claims require accuracy
+
+      - title: Documentation
+        content: |
+          - Lab reports recommended for significant purchases
+          - Written guarantees/warranties
+          - Return policies for misrepresentation
+          - Chain of custody where possible
+
+  - title: Disclosure Failure Consequences
+    content: |
+      What happens when disclosure fails:
+    subsections:
+      - title: Legal Consequences
+        content: |
+          - Consumer fraud charges possible
+          - FTC enforcement actions
+          - Civil lawsuits for misrepresentation
+          - Return/refund obligations
+
+      - title: Professional Consequences
+        content: |
+          - Industry association sanctions
+          - Loss of professional certifications
+          - Reputation damage
+          - Business relationship termination
+
+      - title: Market Consequences
+        content: |
+          - Consumer distrust
+          - Price discovery problems
+          - Legitimate sellers undercut
+          - Long-term market damage
+
+  - title: Undisclosed Treatment Warning
+    callout:
+      type: warning
+      title: Buyer Beware
+      text: |
+        Failure to disclose treatments is unfortunately common in some market
+        segments. Buyers should:
+
+        - Request written treatment disclosure
+        - Obtain laboratory reports for valuable purchases
+        - Buy from reputable sources
+        - Understand "too good to be true" pricing
+        - Have valuable purchases independently verified
+
+  - title: Ethical Trade Practices
+    content: |
+      Beyond minimum disclosure requirements:
+    subsections:
+      - title: Seller Responsibilities
+        content: |
+          - Know your product (due diligence)
+          - Disclose all known treatments
+          - Don't make claims you can't support
+          - Provide appropriate documentation
+          - Honour return policies for misrepresentation
+
+      - title: Buyer Responsibilities
+        content: |
+          - Ask questions about treatments
+          - Request documentation
+          - Verify claims independently
+          - Understand what you're buying
+          - Report misrepresentation when found
+
+      - title: Industry Responsibilities
+        content: |
+          - Maintain clear standards
+          - Educate members and public
+          - Enforce among members
+          - Adapt to new treatments
+          - Support consumer protection
+
+  - title: Origin Disclosure
+    content: |
+      Geographic origin claims:
+    subsections:
+      - title: When Origin Is Claimed
+        content: |
+          - Must be supportable and accurate
+          - Lab certification recommended for premium claims
+          - "Kashmir," "Burma," "Colombia" add significant value
+          - Misrepresentation is fraud
+
+      - title: Terminology Care
+        content: |
+          - "Kashmir-like" vs "Kashmir origin"
+          - "Paraíba-type" vs "Brazilian Paraíba"
+          - Generic descriptions vs specific claims
+          - Lab-certified vs seller opinion
+
+  - title: Synthetic & Imitation Disclosure
+    content: |
+      Non-natural materials:
+    subsections:
+      - title: Synthetics
+        content: |
+          - **Must be disclosed**: Always, prominently
+          - **Terminology**: "Lab-grown," "synthetic," "created"
+          - **Never acceptable**: Selling synthetic as natural
+          - **Penalties**: Fraud; legal consequences
+
+      - title: Simulants
+        content: |
+          - **Must be disclosed**: Always
+          - **Examples**: Glass, CZ, doublets, triplets
+          - **Terminology**: "Imitation," "simulant," specific material
+          - **Composite stones**: Special disclosure requirements
+
+  - title: Special Cases
+    content: |
+      Situations requiring particular care:
+    subsections:
+      - title: Estate & Antique Jewellery
+        content: |
+          - Original documentation may not exist
+          - Treatments may be unknown
+          - "Sold as is" insufficient alone
+          - Testing recommended before claims
+
+      - title: Online Sales
+        content: |
+          - Same disclosure requirements apply
+          - Photography shouldn't misrepresent
+          - Written disclosure in listing
+          - Clear return policies
+
+      - title: Auctions
+        content: |
+          - Catalog descriptions bind seller
+          - "As is" limited by consumer law
+          - Lab reports typically required for high values
+          - Buyer has verification period
+
+  - title: Emerging Issues
+    content: |
+      New challenges in disclosure:
+    subsections:
+      - title: New Treatment Detection
+        content: |
+          - Treatments may precede detection methods
+          - Low-temperature heat increasingly undetectable
+          - Need for ongoing research
+          - Lab capability variations
+
+      - title: Lab-Grown Diamonds & Gems
+        content: |
+          - Growing production volumes
+          - Detection methods evolving
+          - Clear terminology needed
+          - Consumer education essential
+
+      - title: Blockchain & Traceability
+        content: |
+          - Emerging provenance systems
+          - "Mine to market" tracking
+          - Verification challenges remain
+          - Future disclosure standards evolving
+
+  - title: Best Practice Summary
+    content: |
+      Guidelines for ethical gem trade:
+
+      - **Disclose everything**: When in doubt, disclose
+      - **Put it in writing**: Verbal isn't sufficient
+      - **Get documentation**: Lab reports for valuable items
+      - **Know your product**: Due diligence on sourcing
+      - **Stay current**: Standards evolve; education ongoing
+      - **Support transparency**: Industry and consumer benefit

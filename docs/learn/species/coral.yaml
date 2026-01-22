@@ -1,0 +1,197 @@
+title: Coral
+description: Precious coral species including red (ox blood), pink (angel skin), and related varieties with identification, treatments, and conservation.
+order: 17
+category: species
+difficulty: beginner
+icon: shell
+related:
+  - care
+  - treatments
+tags:
+  - coral
+  - precious-coral
+  - ox-blood
+  - angel-skin
+  - organic
+
+sections:
+  - title: Introduction
+    content: |
+      Precious coral is the calcified skeleton of colonial marine animals (genus
+      Corallium). Prized for millennia, particularly in the Mediterranean cultures,
+      fine red coral remains valuable despite conservation concerns.
+
+      Unlike reef-building corals (which are not used in jewellery), precious
+      coral grows in deep water and has a solid, polishable structure.
+
+  - title: Biology and Formation
+    content: |
+      Understanding precious coral:
+    subsections:
+      - title: What Is Coral?
+        content: |
+          - Colonial marine organisms (polyps)
+          - Secrete calcium carbonate skeleton
+          - Deep water (100-300+ metres)
+          - Slow growing (1mm per year or less)
+          - Tree-like branching structure
+
+      - title: Composition
+        content: |
+          - **Material**: Calcium carbonate (calcite form)
+          - **Colour agents**: Carotenoid pigments
+          - **Structure**: Concentric growth layers
+          - **Grain**: Wood-like growth pattern visible when polished
+
+  - title: Physical Properties
+    table:
+      headers:
+        - Property
+        - Value
+      rows:
+        - ["Hardness", "3-4 Mohs (soft)"]
+        - ["Specific gravity", "2.60-2.70"]
+        - ["Refractive index", "1.486-1.658 (spot)"]
+        - ["Character", "Aggregate; often shows grain"]
+        - ["Lustre", "Waxy to vitreous when polished"]
+        - ["Composition", "Calcium carbonate (calcite)"]
+
+  - title: Precious Coral Types
+    table:
+      headers:
+        - Species
+        - Common Name
+        - Colour
+        - Source
+      rows:
+        - ["Corallium rubrum", "Mediterranean coral", "Red to pink", "Mediterranean Sea"]
+        - ["Corallium japonicum", "Japanese coral", "Deep red (ox blood)", "Japan, Taiwan"]
+        - ["Corallium elatius", "Angel skin coral", "Pale pink", "Japan"]
+        - ["Corallium secundum", "Midway coral", "Pale pink", "Hawaii, Midway"]
+        - ["Corallium konojoi", "White coral", "White", "Japan"]
+
+  - title: Colour Hierarchy
+    content: |
+      Coral value by colour:
+    subsections:
+      - title: Ox Blood Red
+        content: |
+          The most valuable coral colour:
+
+          - Deep, saturated red
+          - Even colour distribution
+          - Minimal white core
+          - Japanese (Corallium japonicum) origin
+          - Commands highest prices
+
+      - title: Angel Skin Pink
+        content: |
+          Delicate pale pink:
+
+          - Subtle, feminine colour
+          - Even, translucent quality
+          - Popular in Victorian era
+          - Japanese origin prized
+          - Second highest value
+
+      - title: Other Colours
+        content: |
+          - **Salmon/orange**: Common Mediterranean
+          - **White**: Used in jewellery; lower value
+          - **Mottled**: Uneven colour; lower value
+
+  - title: Coral Identification
+    content: |
+      Distinguishing genuine from imitation coral:
+    subsections:
+      - title: Natural Features
+        content: |
+          - **Grain pattern**: Wood-like growth lines
+          - **Colour variation**: Subtle natural variation
+          - **White core**: May show in cross-section
+          - **Weight**: Heavier than most plastic
+
+      - title: Tests
+        table:
+          headers:
+            - Test
+            - Coral
+            - Imitation
+          rows:
+            - ["Acid test (HCl)", "Effervesces", "No reaction (usually)"]
+            - ["Hot needle", "Calcite smell", "Plastic/acrid smell"]
+            - ["Magnification", "Growth structure", "Mold marks, bubbles"]
+            - ["Weight", "Substantial", "Often lighter"]
+
+  - title: Treatments
+    content: |
+      Common coral treatments:
+    subsections:
+      - title: Dyeing
+        content: |
+          - Pale coral dyed to improve colour
+          - Detection: Colour in crevices; acetone test
+          - Very common in commercial material
+          - Should be disclosed
+
+      - title: Other Treatments
+        content: |
+          - **Bleaching**: Lightens orange to pink
+          - **Waxing/oiling**: Improves lustre
+          - **Impregnation**: Stabilises porous material
+          - **Coating**: Surface enhancement
+
+  - title: CITES and Conservation
+    callout:
+      type: warning
+      title: Conservation Status
+      text: |
+        Many coral species are protected under CITES (Convention on International
+        Trade in Endangered Species):
+
+        - Trade regulations vary by species and country
+        - Documentation required for international trade
+        - Some species banned from commercial harvest
+        - Ethical alternatives available
+
+        Always verify legality before purchase. Consider:
+        - Vintage/antique coral (pre-ban)
+        - Certified sustainable sources
+        - Bamboo coral (different species, dyed)
+        - Fossil coral (ancient, mineralised)
+
+  - title: Imitations and Alternatives
+    content: |
+      Common coral substitutes:
+    subsections:
+      - title: Imitations
+        table:
+          headers:
+            - Material
+            - Distinction
+          rows:
+            - ["Dyed howlite", "Different structure; lighter; no effervescence"]
+            - ["Plastic", "Warmer feel; lighter; no grain"]
+            - ["Glass (paste)", "Heavier; may show bubbles"]
+            - ["Pressed coral", "Reconstituted; grainy appearance"]
+
+      - title: Ethical Alternatives
+        content: |
+          - **Bamboo coral**: Different species; often dyed
+          - **Fossil coral**: Agatised ancient coral
+          - **Synthetic coral**: Man-made alternatives
+          - **Sponge coral**: Different structure
+
+  - title: Care and Durability
+    callout:
+      type: warning
+      title: Gentle Care Required
+      text: |
+        Coral is soft and sensitive:
+
+        - **Hardness**: 3-4 (easily scratched)
+        - **Acids**: Reacts with acids (including perspiration)
+        - **Heat**: Can be damaged by heat
+        - **Cleaning**: Warm water, soft cloth only
+        - **Storage**: Separate from harder gems
+        - **Wear**: Avoid contact with cosmetics, chemicals

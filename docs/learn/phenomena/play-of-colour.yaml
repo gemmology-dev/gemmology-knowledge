@@ -1,0 +1,163 @@
+title: Play of Colour
+description: Play of colour in precious opal including cause, pattern types, body tones, and quality assessment.
+order: 6
+category: phenomena
+difficulty: intermediate
+icon: palette
+related:
+  - index
+  - opal
+  - iridescence
+tags:
+  - play-of-colour
+  - opal
+  - diffraction
+  - patterns
+
+sections:
+  - title: Introduction
+    content: |
+      Play of colour is the flashing spectral colours seen in precious opal. It is
+      opal's defining characteristic and distinguishes precious opal from common
+      opal (potch). The effect results from light diffraction by regularly arranged
+      silica spheres within the opal structure.
+
+      Unlike interference effects (adularescence, labradorescence), play of colour
+      is a diffraction phenomenon, producing pure spectral colours that shift
+      with viewing angle.
+
+  - title: Cause
+    content: |
+      The physics of play of colour:
+    subsections:
+      - title: Silica Sphere Structure
+        content: |
+          - Opal is composed of tiny silica spheres (SiO₂)
+          - Spheres must be uniform in size (150-400nm)
+          - Spheres must be regularly arranged in 3D array
+          - Acts as a diffraction grating for light
+
+      - title: Colour Determination
+        content: |
+          - **Sphere size determines colour**: Larger spheres = longer wavelengths
+          - Spheres >350nm: Produce red (most valuable)
+          - Spheres ~250nm: Produce green
+          - Spheres ~150nm: Produce blue/violet
+          - Regularity of arrangement determines brightness
+
+  - title: Precious vs Common Opal
+    comparison:
+      items:
+        - title: Precious Opal
+          variant: success
+          points:
+            - Shows play of colour
+            - Uniform sphere size
+            - Regularly stacked spheres
+            - 3D ordered structure
+            - Gem quality
+        - title: Common Opal (Potch)
+          variant: warning
+          points:
+            - No play of colour
+            - Variable sphere sizes
+            - Randomly arranged spheres
+            - Disordered structure
+            - Not gem quality
+
+  - title: Pattern Types
+    content: |
+      Opal patterns significantly affect value:
+    table:
+      caption: Opal Pattern Hierarchy
+      headers:
+        - Pattern
+        - Description
+        - Relative Value
+      rows:
+        - ["Harlequin", "Large angular mosaic patches", "Most valuable"]
+        - ["Flagstone", "Large irregular patches", "High"]
+        - ["Floral", "Flower-like patterns", "High"]
+        - ["Rolling flash", "Large colour areas that shift", "Medium-high"]
+        - ["Broad flash", "Single large colour area", "Medium"]
+        - ["Pinfire", "Small dense points of colour", "Medium"]
+        - ["Flame", "Sweeping streaks of colour", "Medium"]
+        - ["Straw/grass", "Thin parallel lines", "Lower"]
+
+  - title: Harlequin Pattern
+    callout:
+      type: info
+      title: Most Valuable Pattern
+      text: |
+        Harlequin pattern shows angular, mosaic-like patches of colour—
+        similar to a clown's costume. Requirements:
+
+        - Large, distinct colour patches
+        - Angular or geometric shapes
+        - Multiple colours present
+        - Even distribution
+
+        True harlequin is extremely rare and commands extraordinary premiums.
+
+  - title: Colour Value Hierarchy
+    content: |
+      Not all colours are equally valued:
+    subsections:
+      - title: Colour Rankings
+        content: |
+          1. **Red**: Rarest (requires largest spheres); most valuable
+          2. **Orange**: Second rarest
+          3. **Green**: Middle value
+          4. **Blue**: Most common play of colour; lower value
+
+          An opal showing red (especially with other colours) is more
+          valuable than one showing only blue.
+
+      - title: Colour Range
+        content: |
+          - **Full spectrum**: Shows all colours; highly valued
+          - **Partial spectrum**: Missing some colours; moderate
+          - **Single colour**: Only one colour; lower value (usually blue)
+
+  - title: Body Tone Impact
+    content: |
+      Background colour affects value:
+    table:
+      headers:
+        - Body Tone
+        - Effect on Play of Colour
+        - Value Impact
+      rows:
+        - ["Black (N1-N4)", "Colours appear most vivid", "Highest value"]
+        - ["Dark (N5-N6)", "Good colour contrast", "High value"]
+        - ["Light (N7-N9)", "Softer appearance", "Moderate value"]
+        - ["Crystal", "Transparent; colours from both sides", "Variable; can be high"]
+
+  - title: Quality Assessment
+    content: |
+      Evaluating play of colour quality:
+
+      - **Brightness**: How vivid are the colours?
+      - **Colour range**: How many colours present?
+      - **Pattern**: What type and how distinct?
+      - **Distribution**: Even or concentrated?
+      - **Directionality**: Visible from multiple angles?
+      - **Dead spots**: Areas without colour?
+
+  - title: Play of Colour vs Other Phenomena
+    content: |
+      Distinguishing play of colour from similar effects:
+    subsections:
+      - title: Key Differences
+        content: |
+          - **Play of colour** (opal): Diffraction; pure spectral colours
+          - **Labradorescence**: Interference; colours in patches
+          - **Iridescence**: Thin-film; rainbow sequence
+          - **Adularescence**: Interference; single colour glow
+
+      - title: Physical Cause
+        content: |
+          - Opal: 3D sphere array (diffraction)
+          - Labradorite: Twin lamellae (interference)
+          - Iridescent gems: Surface layers (interference)
+          - Moonstone: Exsolution layers (interference)

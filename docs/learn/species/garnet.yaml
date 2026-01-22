@@ -1,0 +1,238 @@
+title: Garnet Group
+description: The garnet group minerals including almandine, pyrope, spessartine, grossular, andradite, and their gem varieties like demantoid and tsavorite.
+order: 3
+category: species
+difficulty: intermediate
+icon: gem
+related:
+  - physical-properties
+  - optical-properties
+  - chemical-properties
+tags:
+  - garnet
+  - demantoid
+  - tsavorite
+  - rhodolite
+  - spessartine
+
+sections:
+  - title: Introduction
+    content: |
+      Garnets are a group of silicate minerals sharing a common crystal structure but
+      varying in chemical composition. The group produces gems in virtually every colour
+      except blue, from the common red almandine to the rare and valuable demantoid.
+
+      Understanding garnet requires recognizing it as a mineral group, not a single species.
+      Most gem garnets are solid solutions between end-member compositions.
+
+  - title: The Garnet Group
+    content: |
+      Garnets divide into two main series that can intergrade:
+    subsections:
+      - title: Pyralspite Series (Aluminium Garnets)
+        table:
+          headers:
+            - Species
+            - Formula
+            - Colour
+          rows:
+            - ["Pyrope", "Mg₃Al₂(SiO₄)₃", "Red to purplish-red"]
+            - ["Almandine", "Fe₃Al₂(SiO₄)₃", "Red to brownish-red"]
+            - ["Spessartine", "Mn₃Al₂(SiO₄)₃", "Orange to reddish-orange"]
+
+      - title: Ugrandite Series (Calcium Garnets)
+        table:
+          headers:
+            - Species
+            - Formula
+            - Colour
+          rows:
+            - ["Uvarovite", "Ca₃Cr₂(SiO₄)₃", "Emerald green (rare as gems)"]
+            - ["Grossular", "Ca₃Al₂(SiO₄)₃", "Colourless to green to orange"]
+            - ["Andradite", "Ca₃Fe₂(SiO₄)₃", "Green to yellow to black"]
+
+  - title: Physical Properties
+    table:
+      headers:
+        - Property
+        - Value Range
+      rows:
+        - ["Crystal system", "Cubic (isometric)"]
+        - ["Hardness", "6.5-7.5 Mohs"]
+        - ["Specific gravity", "3.50-4.30 (varies by species)"]
+        - ["Refractive index", "1.73-1.89"]
+        - ["Optic character", "Singly refractive (often shows ADR)"]
+        - ["Pleochroism", "None (isotropic)"]
+        - ["Lustre", "Vitreous to resinous"]
+
+  - title: Anomalous Double Refraction
+    callout:
+      type: info
+      title: ADR in Garnets
+      text: |
+        Despite being cubic (and therefore isotropic), many garnets show anomalous
+        double refraction (ADR) under the polariscope. This strain birefringence
+        results from internal stress during rapid growth or compositional variations.
+
+        ADR appears as patchy light/dark patterns instead of staying uniformly dark.
+        It's particularly common in almandine and is not a sign of misidentification.
+
+  - title: Important Gem Garnets
+    subsections:
+      - title: Almandine
+        content: |
+          The most common garnet:
+
+          - **Colour**: Deep red to brownish-red to purplish-red
+          - **Chromophore**: Iron (Fe²⁺)
+          - **RI**: ~1.79; **SG**: ~4.05
+          - **Spectrum**: Three characteristic Fe bands at 505, 520, 575nm
+          - **Sources**: Worldwide; India, Sri Lanka, Brazil, USA
+
+      - title: Pyrope
+        content: |
+          Magnesium-rich garnet, often from volcanic sources:
+
+          - **Colour**: Blood red to purplish-red
+          - **Chromophore**: Iron, with chromium in some
+          - **RI**: ~1.74; **SG**: ~3.75
+          - **Sources**: South Africa, Arizona, Czech Republic (historic)
+          - **Note**: "Bohemian garnet" was historically prized pyrope
+
+      - title: Rhodolite
+        content: |
+          A pyrope-almandine intermediate with distinctive colour:
+
+          - **Colour**: Purplish-red to raspberry
+          - **Composition**: ~70% pyrope, 30% almandine
+          - **RI**: ~1.76; **SG**: ~3.84
+          - **Sources**: Sri Lanka, Tanzania, Brazil, Madagascar
+          - **Market**: Popular for its attractive, lighter red-purple colour
+
+      - title: Spessartine
+        content: |
+          Manganese garnet with vibrant orange colours:
+
+          - **Colour**: Orange to reddish-orange ("fanta" orange)
+          - **Chromophore**: Manganese (Mn²⁺)
+          - **RI**: ~1.80; **SG**: ~4.15
+          - **Sources**: Nigeria (fine orange), Namibia, Brazil, Madagascar
+          - **Note**: "Mandarin" or "Fanta" garnet refers to vivid orange spessartine
+
+  - title: Grossular Varieties
+    content: |
+      Grossular produces several important gem varieties:
+    subsections:
+      - title: Tsavorite
+        content: |
+          Green grossular, one of the most valuable garnets:
+
+          - **Colour**: Vivid green (chrome/vanadium coloured)
+          - **Chromophore**: Vanadium (V³⁺) and/or chromium (Cr³⁺)
+          - **RI**: ~1.74; **SG**: ~3.61
+          - **Sources**: Kenya, Tanzania (East African Rift)
+          - **Rarity**: Fine stones over 2 carats are rare
+          - **Named**: By Tiffany's Henry Platt after Tsavo National Park
+
+      - title: Hessonite
+        content: |
+          Orange to brown grossular ("cinnamon stone"):
+
+          - **Colour**: Orange to reddish-brown to yellow-brown
+          - **Characteristic**: "Roiled" or "heat wave" internal appearance
+          - **RI**: ~1.74; **SG**: ~3.65
+          - **Sources**: Sri Lanka, India, Brazil, Canada
+          - **Note**: Internal "treacly" appearance is diagnostic
+
+      - title: Mali Garnet
+        content: |
+          Grossular-andradite mix from Mali:
+
+          - **Colour**: Yellow to yellowish-green
+          - **Properties**: High RI (~1.77), good dispersion
+          - **Source**: Mali, West Africa (discovered 1990s)
+          - **Note**: Higher dispersion than pure grossular
+
+  - title: Andradite Varieties
+    content: |
+      Andradite includes the most valuable of all garnets:
+    subsections:
+      - title: Demantoid
+        content: |
+          Green andradite, the "king of garnets":
+
+          - **Colour**: Vivid green to yellowish-green
+          - **Chromophore**: Chromium (Cr³⁺)
+          - **RI**: ~1.88; **SG**: ~3.85
+          - **Dispersion**: 0.057 (higher than diamond!)
+          - **Spectrum**: Cr line at 443nm ("horse line")
+          - **Sources**: Russia (Ural—finest), Namibia, Madagascar
+
+      - title: Horsetail Inclusions
+        content: |
+          Russian demantoids are prized for "horsetail" inclusions:
+
+          - Byssolite (fibrous amphibole) radiating from a point
+          - Considered diagnostic for Ural origin
+          - Presence adds value (unusual for inclusions)
+          - Non-Russian demantoid typically lacks horsetails
+
+      - title: Topazolite
+        content: |
+          Yellow andradite:
+
+          - **Colour**: Yellow to brownish-yellow
+          - **Sources**: Italy, Switzerland, USA
+          - **Note**: Collector interest; not commonly seen in jewellery
+
+      - title: Melanite
+        content: |
+          Black andradite:
+
+          - **Colour**: Black (titanium-bearing)
+          - **Uses**: Victorian mourning jewellery
+          - **Sources**: Italy, Germany, Mexico
+
+  - title: Demantoid Value
+    callout:
+      type: info
+      title: The King of Garnets
+      text: |
+        Fine Russian demantoids with horsetail inclusions command prices rivaling
+        fine emeralds. The combination of vivid green colour, exceptional dispersion
+        (fire), and characteristic inclusions makes them highly collectible.
+
+        Stones over 1 carat are rare; over 3 carats exceptionally so.
+
+  - title: Colour-Change Garnet
+    content: |
+      Some garnets show alexandrite-like colour change:
+
+      - **Type**: Usually pyrope-spessartine mixes
+      - **Change**: Blue-green (daylight) to red-purple (incandescent)
+      - **Cause**: Vanadium and/or chromium
+      - **Sources**: Madagascar, Tanzania, Sri Lanka, USA
+      - **Rarity**: Exceptionally rare; highly valued
+
+  - title: Identification Notes
+    content: |
+      Key features for garnet identification:
+    subsections:
+      - title: Distinguishing Species
+        table:
+          headers:
+            - Test
+            - Use
+          rows:
+            - ["Refractive index", "Separates species within range"]
+            - ["Specific gravity", "Variable; helps narrow possibilities"]
+            - ["Spectrum", "Almandine Fe bands diagnostic"]
+            - ["Colour", "Initial indicator but not definitive"]
+            - ["Inclusions", "Horsetails in demantoid; roiled in hessonite"]
+
+      - title: Separating from Similar Gems
+        content: |
+          - **Garnet vs Ruby**: Garnet is SR, no pleochroism
+          - **Tsavorite vs Emerald**: Garnet is SR; different RI
+          - **Demantoid vs Peridot**: Demantoid SR; much higher RI
+          - **Spessartine vs Citrine**: RI easily distinguishes

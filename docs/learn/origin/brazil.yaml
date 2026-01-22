@@ -1,0 +1,199 @@
+title: Brazilian Gems
+description: Brazilian gem sources including Paraíba tourmaline, aquamarine, imperial topaz, and citrine with characteristics and market position.
+order: 7
+category: origin
+difficulty: advanced
+icon: gem
+related:
+  - index
+  - tourmaline
+  - beryl
+  - topaz
+tags:
+  - brazil
+  - paraiba
+  - aquamarine
+  - imperial-topaz
+  - citrine
+
+sections:
+  - title: Introduction
+    content: |
+      Brazil is one of the world's most important gem sources, producing a remarkable
+      variety of species and colours. From the legendary Paraíba tourmaline to imperial
+      topaz found nowhere else, Brazilian gems occupy unique positions in the market.
+
+      Major gem-producing states include Minas Gerais, Bahia, Rio Grande do Norte,
+      and Paraíba.
+
+  - title: Paraíba Tourmaline
+    content: |
+      Brazil's most celebrated recent discovery:
+    subsections:
+      - title: Discovery
+        content: |
+          - **Year**: 1989 (significant production began)
+          - **Location**: São José da Batalha, Paraíba State
+          - **Discoverer**: Heitor Dimas Barbosa
+          - **Significance**: Previously unknown neon colours
+
+      - title: Characteristics
+        content: |
+          - **Colour**: Neon blue to blue-green ("swimming pool blue")
+          - **Chromophore**: Copper (unique among tourmalines)
+          - **Saturation**: Exceptional; glowing appearance
+          - **Rarity**: Original Brazilian material extremely rare
+
+      - title: Market Position
+        content: |
+          - Most valuable tourmaline variety
+          - Prices exceed $50,000/ct for fine stones
+          - Brazilian origin commands premium over African
+          - "Paraíba-type" now found in Nigeria, Mozambique
+
+  - title: Paraíba vs African
+    comparison:
+      items:
+        - title: Brazilian Paraíba
+          variant: default
+          points:
+            - Original source (1989)
+            - Generally smaller sizes
+            - More included typically
+            - Higher copper content often
+            - Significant origin premium
+        - title: African Paraíba-type
+          variant: default
+          points:
+            - Nigeria (2001), Mozambique (2005)
+            - Larger sizes available
+            - Often cleaner material
+            - Same copper chromophore
+            - Lower prices; growing acceptance
+
+  - title: Brazilian Aquamarine
+    content: |
+      World-renowned aquamarine production:
+    subsections:
+      - title: Sources
+        content: |
+          - **Minas Gerais**: Primary source; multiple deposits
+          - **Santa Maria de Itabira**: Famous intense blue
+          - **Bahia**: Additional production
+          - **History**: Major source since 1910
+
+      - title: Characteristics
+        content: |
+          - **Colour**: Light to medium blue; some greenish
+          - **Santa Maria**: Term for finest deep blue
+          - **Clarity**: Often excellent
+          - **Sizes**: Notable for large crystals
+
+      - title: Famous Stones
+        content: |
+          - **Dom Pedro**: 10,363 ct carved obelisk (Smithsonian)
+          - **Hirsch Aquamarine**: 109.9 ct faceted gem
+          - Many museum-quality crystals from Minas Gerais
+
+  - title: Imperial Topaz
+    content: |
+      Brazil's exclusive variety:
+    subsections:
+      - title: Ouro Preto Source
+        content: |
+          - **Location**: Ouro Preto, Minas Gerais
+          - **Exclusivity**: Only commercial source worldwide
+          - **Colour**: Orange to pink-orange to red
+          - **Formation**: Weathered deposits in clay
+
+      - title: Characteristics
+        content: |
+          - **Ideal colour**: Intense reddish-orange ("sherry")
+          - **Pink tones**: Most valuable; very rare
+          - **Pleochroism**: Shows colour variation with direction
+          - **Clarity**: Typically eye-clean
+
+      - title: Market Value
+        content: |
+          - Premium over other topaz colours
+          - Pink imperial most valuable
+          - Prices: $1,000-5,000/ct for fine stones
+          - Limited supply maintains value
+
+  - title: Imperial Topaz Rarity
+    callout:
+      type: info
+      title: Geographic Exclusivity
+      text: |
+        True imperial topaz comes only from the Ouro Preto region of Brazil.
+        While other locations produce orange topaz, none matches the colour
+        range and quality of Brazilian imperial topaz.
+
+        This geographic exclusivity, combined with declining production,
+        makes fine imperial topaz increasingly valuable.
+
+  - title: Brazilian Citrine & Amethyst
+    content: |
+      Major quartz production:
+    subsections:
+      - title: Rio Grande do Sul
+        content: |
+          - World's largest amethyst producer
+          - Famous for geodes and cathedral formations
+          - Heat treatment to citrine common
+          - Ametrine also produced
+
+      - title: Natural Citrine
+        content: |
+          - Much rarer than amethyst
+          - Often lighter, more subtle colour
+          - Most "citrine" is heated amethyst
+          - Natural material commands premium
+
+      - title: Ametrine
+        content: |
+          - Bicolored quartz (amethyst + citrine)
+          - Bolivia primary source, Brazil secondary
+          - Natural colour zoning
+          - Popular for fantasy cuts
+
+  - title: Other Brazilian Gems
+    content: |
+      Additional significant production:
+    subsections:
+      - title: Emerald
+        content: |
+          - **Locations**: Bahia, Goiás, Minas Gerais
+          - **Character**: Often lighter than Colombian
+          - **Inclusions**: Different suite from Colombian
+          - **Market**: Significant but secondary to Colombia/Zambia
+
+      - title: Tourmaline
+        content: |
+          - Multiple colours beyond Paraíba
+          - Rubellite (pink-red) from Minas Gerais
+          - Indicolite (blue) varieties
+          - Chrome tourmaline from Bahia
+
+      - title: Other Species
+        table:
+          headers:
+            - Gem
+            - Region
+            - Notes
+          rows:
+            - ["Alexandrite", "Minas Gerais", "Some fine material; rare"]
+            - ["Kunzite", "Minas Gerais", "Good quality pink spodumene"]
+            - ["Morganite", "Minas Gerais", "Fine pink beryl"]
+            - ["Chrysoberyl cat's eye", "Various", "Good chatoyant material"]
+            - ["Andalusite", "Minas Gerais", "Strong pleochroism"]
+
+  - title: Brazilian Gem Trade
+    content: |
+      Market characteristics:
+
+      - **Cutting centres**: Major industry in Minas Gerais
+      - **Export hub**: Significant international trade
+      - **Artisanal mining**: Much production is small-scale
+      - **Treatments**: Heat treatment of topaz, quartz common
+      - **Disclosure**: Variable; buyer awareness important

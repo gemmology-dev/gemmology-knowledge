@@ -1,0 +1,206 @@
+title: Opal
+description: Opal species including precious opal (black, white, crystal, boulder, fire) and common opal with play of colour, patterns, and identification.
+order: 15
+category: species
+difficulty: intermediate
+icon: gem
+related:
+  - physical-properties
+  - phenomena
+  - care
+tags:
+  - opal
+  - black-opal
+  - play-of-colour
+  - boulder-opal
+  - fire-opal
+
+sections:
+  - title: Introduction
+    content: |
+      Opal (SiO₂·nH₂O) is a hydrated silica that produces one of nature's most
+      spectacular optical phenomena: play of colour. Unlike crystalline gems,
+      opal is amorphous, composed of orderly stacked silica spheres that
+      diffract light into spectral colours.
+
+      Australia dominates world opal production, producing over 90% of
+      precious opal.
+
+  - title: Mineralogy
+    subsections:
+      - title: Structure
+        content: |
+          Opal is unique among gems:
+
+          - **Not crystalline**: Amorphous (no crystal structure)
+          - **Composition**: Hydrated silica (SiO₂·nH₂O)
+          - **Water content**: 3-21% (typically 6-10%)
+          - **Formation**: Low-temperature precipitation from silica-rich water
+
+      - title: Physical Properties
+        table:
+          headers:
+            - Property
+            - Value
+          rows:
+            - ["Hardness", "5.5-6.5 Mohs"]
+            - ["Specific gravity", "1.98-2.25"]
+            - ["Refractive index", "1.37-1.47"]
+            - ["Optic character", "Singly refractive (amorphous)"]
+            - ["Lustre", "Vitreous to waxy"]
+            - ["Fracture", "Conchoidal"]
+
+  - title: Play of Colour
+    content: |
+      Play of colour is opal's defining phenomenon—flashing spectral colours
+      that shift as the stone moves.
+    subsections:
+      - title: Cause
+        content: |
+          - Uniform silica spheres (150-400nm diameter)
+          - Regularly stacked in three-dimensional array
+          - Light diffracts between sphere layers
+          - Different sphere sizes produce different colours
+
+          Larger spheres (>350nm) produce red; smaller spheres produce blue/violet.
+          Regularity of stacking determines brightness.
+
+      - title: Precious vs Common Opal
+        content: |
+          - **Precious opal**: Shows play of colour; regular sphere arrangement
+          - **Common opal (potch)**: No play of colour; irregular spheres
+          - **Fire opal**: Valued for body colour; play of colour optional
+
+  - title: Opal Types by Body Tone
+    subsections:
+      - title: Black Opal
+        content: |
+          The most valuable opal type:
+
+          - **Body tone**: Dark grey to black
+          - **Effect**: Colours appear most vivid against dark background
+          - **Source**: Lightning Ridge, Australia (premium)
+          - **Value**: Highest among opal types
+
+      - title: White Opal
+        content: |
+          - **Body tone**: White to light grey
+          - **Effect**: Softer colour display
+          - **Sources**: Coober Pedy (Australia), Mintabie
+          - **Value**: Lower than black; still valuable if fine
+
+      - title: Crystal Opal
+        content: |
+          - **Character**: Transparent to semi-transparent
+          - **Effect**: Play of colour visible from both sides
+          - **Body**: Clear to slightly milky
+          - **Value**: High for good specimens
+
+      - title: Boulder Opal
+        content: |
+          - **Character**: Opal in ironstone matrix
+          - **Source**: Queensland, Australia
+          - **Advantage**: Matrix provides stability
+          - **Value**: Variable; fine material highly valued
+
+      - title: Fire Opal
+        content: |
+          - **Body colour**: Yellow, orange, red
+          - **Play of colour**: Optional; not required
+          - **Source**: Mexico (primary)
+          - **Value**: Based on body colour intensity
+
+  - title: Pattern Types
+    table:
+      caption: Opal Pattern Value Hierarchy
+      headers:
+        - Pattern
+        - Description
+        - Relative Value
+      rows:
+        - ["Harlequin", "Large angular mosaic patches", "Most valuable"]
+        - ["Flagstone", "Large irregular patches", "High"]
+        - ["Floral", "Flower-like patterns", "High"]
+        - ["Rolling flash", "Large colour areas that shift", "Medium-high"]
+        - ["Broad flash", "Single large colour area", "Medium"]
+        - ["Pinfire", "Small dense points of colour", "Medium"]
+        - ["Straw/grass", "Thin parallel lines", "Lower"]
+
+  - title: Harlequin Pattern
+    callout:
+      type: info
+      title: Most Prized Pattern
+      text: |
+        Harlequin pattern—angular, mosaic-like patches of colour—is the most
+        valuable opal pattern. A true harlequin black opal can command
+        extraordinary prices, with exceptional examples selling for hundreds
+        of thousands of dollars.
+
+        The pattern should show distinct, regular patches with multiple colours.
+
+  - title: Major Sources
+    table:
+      headers:
+        - Source
+        - Type Produced
+        - Characteristics
+      rows:
+        - ["Lightning Ridge (Australia)", "Black opal", "Finest black opal; premium source"]
+        - ["Coober Pedy (Australia)", "White opal", "Major producer; good quality"]
+        - ["Mintabie (Australia)", "Black and crystal", "Good quality material"]
+        - ["Queensland (Australia)", "Boulder opal", "Ironstone matrix material"]
+        - ["Mexico", "Fire opal", "Orange to red body colour"]
+        - ["Ethiopia", "Welo opal", "Hydrophane type; emerging source"]
+        - ["Brazil", "Various", "Limited production"]
+
+  - title: Ethiopian (Welo) Opal
+    callout:
+      type: warning
+      title: Hydrophane Behaviour
+      text: |
+        Ethiopian opal is often hydrophane—it absorbs water, becoming more
+        transparent when wet and returning to original appearance when dry.
+
+        Concerns include:
+        - Potential crazing (cracking) in some material
+        - Colour change when wet
+        - Treatment with smoke/oil possible
+        - Lower prices than comparable Australian opal
+
+        Quality Ethiopian opal can be stable and beautiful.
+
+  - title: Treatments
+    content: |
+      Opal undergoes various treatments:
+
+      - **Smoke treatment**: Darkens body tone (Ethiopian especially)
+      - **Sugar/acid**: Historic treatment to darken
+      - **Plastic impregnation**: Stabilises; must be disclosed
+      - **Doublets/triplets**: Composite stones (not treatment per se)
+      - **Oiling**: Temporary enhancement
+
+  - title: Care and Stability
+    callout:
+      type: warning
+      title: Special Care Required
+      text: |
+        Opal requires careful handling:
+
+        - **Water loss**: Can craze (crack) if dehydrated
+        - **Heat shock**: Avoid sudden temperature changes
+        - **Chemicals**: Avoid harsh chemicals
+        - **Impact**: Softer than most gems; can chip
+        - **Storage**: Keep with damp cotton in dry climates
+        - **Cleaning**: Warm water only; no ultrasonic
+
+        Avoid leaving opal in hot sun or dry conditions for extended periods.
+
+  - title: Identification Summary
+    content: |
+      Key features for opal identification:
+
+      - **RI**: 1.37-1.47 (low; single reading)
+      - **SG**: 1.98-2.25 (low)
+      - **Play of colour**: Diagnostic for precious opal
+      - **Amorphous**: SR; no crystal structure
+      - **Water content**: Can affect stability

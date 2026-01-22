@@ -1,0 +1,237 @@
+title: Other Testing Tools
+description: Chelsea filter, thermal conductivity probes, specific gravity measurement, and other supporting gemmological instruments.
+order: 8
+category: equipment
+difficulty: beginner
+icon: wrench
+related:
+  - index
+  - physical-properties
+  - optical-properties
+tags:
+  - chelsea-filter
+  - thermal-probe
+  - specific-gravity
+  - identification
+
+sections:
+  - title: Introduction
+    content: |
+      Beyond the core gemmological instruments, several supporting tools provide
+      valuable identification assistance. These range from quick screening devices
+      to precise measurement equipment.
+
+      Each tool has specific applications where it excels, contributing to the
+      comprehensive approach needed for accurate gem identification.
+
+  - title: The Chelsea Filter
+    content: |
+      The Chelsea filter transmits only deep red and yellow-green light. It was designed
+      to distinguish Colombian emerald (appears red) from its simulants.
+    subsections:
+      - title: How It Works
+        content: |
+          The filter absorbs most wavelengths, transmitting only:
+
+          - **Deep red** (~690nm)
+          - **Yellow-green** (~570nm)
+
+          Chromium-coloured gems transmit red light and appear **pink to red**.
+          Non-chromium green gems absorb red and appear **green or grey**.
+
+      - title: Historical Context
+        content: |
+          Named after the Chelsea Polytechnic in London where it was developed
+          in the 1930s. Originally intended to separate Colombian emeralds from
+          green glass imitations.
+
+      - title: Reactions
+        table:
+          headers:
+            - Stone
+            - Chelsea Filter Reaction
+            - Notes
+          rows:
+            - ["Colombian emerald", "Pink to red", "Due to Cr content"]
+            - ["Zambian emerald", "May appear greenish", "Higher Fe content"]
+            - ["Synthetic emerald", "Strong red", "Often high Cr"]
+            - ["Green glass", "Green or grey", "No Cr content"]
+            - ["Green tourmaline", "Remains green", "No Cr content"]
+            - ["Demantoid garnet", "Greenish", "Cr present but weak reaction"]
+            - ["Blue cobalt glass", "Red", "Cobalt transmits red"]
+            - ["Blue synthetic spinel", "Red", "Cobalt-coloured"]
+            - ["Aquamarine", "Green", "No Cr content"]
+
+  - title: Chelsea Filter Warning
+    callout:
+      type: warning
+      title: Important Limitations
+      text: |
+        The Chelsea filter is NOT diagnostic for emerald!
+
+        - Synthetic emeralds also appear red (often more so)
+        - Some natural emeralds (Zambian) may not show strong red
+        - Cobalt-coloured gems appear red
+        - Always use additional tests: RI, inclusions, spectrum
+
+        The filter is a screening tool, not a definitive test.
+
+  - title: Thermal Conductivity Probes
+    content: |
+      Thermal probes measure how quickly heat is conducted away from a heated tip
+      placed on the gem's surface.
+    subsections:
+      - title: How They Work
+        content: |
+          - A heated probe tip touches the gem surface
+          - Sensor measures rate of heat dissipation
+          - Diamond conducts heat extremely rapidly
+          - Most simulants conduct heat much more slowly
+
+      - title: Diamond Testing
+        content: |
+          Diamond has the highest thermal conductivity of any gemstone:
+
+          - **Diamond**: Extremely high conductivity; meter reads "diamond"
+          - **Moissanite**: Also high conductivity (problem!)
+          - **CZ, glass, etc.**: Low conductivity; clearly distinguished from diamond
+
+      - title: The Moissanite Problem
+        content: |
+          Synthetic moissanite (silicon carbide) has thermal conductivity close to
+          diamond, so basic thermal probes cannot distinguish them.
+
+          **Solution**: Dual testers that measure both thermal and electrical
+          conductivity. Moissanite is electrically conductive; diamond is not
+          (except rare Type IIb blue diamonds).
+
+  - title: Thermal Tester Types
+    table:
+      headers:
+        - Type
+        - Measures
+        - Distinguishes
+        - Limitation
+      rows:
+        - ["Basic thermal", "Heat conductivity only", "Diamond from CZ, glass, simulants", "Cannot separate diamond from moissanite"]
+        - ["Dual tester", "Thermal + electrical", "Diamond from all simulants including moissanite", "Type IIb diamonds may give false reading"]
+        - ["Multi-tester", "Multiple properties", "Broad screening capability", "Higher cost; requires training"]
+
+  - title: Specific Gravity Measurement
+    content: |
+      Specific gravity (relative density) is measured using hydrostatic weighing,
+      comparing weight in air to weight suspended in water.
+    subsections:
+      - title: Hydrostatic Method
+        content: |
+          The classic method using Archimedes' principle:
+
+          1. Weigh stone in air (W₁)
+          2. Weigh stone suspended in water (W₂)
+          3. Calculate: SG = W₁ / (W₁ - W₂)
+
+          Requires a precision balance with suspension setup.
+
+      - title: Equipment Required
+        content: |
+          - **Precision balance**: 0.01g resolution minimum
+          - **Suspension bridge**: Holds stone in water
+          - **Container**: Deep enough for complete immersion
+          - **Clean water**: Distilled or deionised, room temperature
+          - **Tweezers**: For handling small stones
+
+      - title: Practical Considerations
+        content: |
+          - Remove air bubbles from stone surface
+          - Use room temperature water
+          - Account for any drilling or inclusions
+          - Porous stones may absorb water
+          - Very small stones are difficult to measure accurately
+
+  - title: SG Quick Reference
+    table:
+      caption: Specific Gravity of Common Gems
+      headers:
+        - Gem
+        - SG
+        - Notes
+      rows:
+        - ["Diamond", "3.52", "Very consistent"]
+        - ["Corundum (ruby/sapphire)", "3.99-4.01", "High SG"]
+        - ["Spinel", "3.58-3.61", "Lower than corundum"]
+        - ["Emerald", "2.67-2.78", "Varies with inclusions"]
+        - ["Aquamarine", "2.68-2.74", "Similar to other beryls"]
+        - ["Tourmaline", "3.01-3.10", "Variable by species"]
+        - ["Quartz", "2.65", "Very consistent"]
+        - ["Topaz", "3.50-3.57", "Overlaps diamond"]
+        - ["Zircon", "3.93-4.73", "Very variable"]
+        - ["Peridot", "3.27-3.37", "Distinctive range"]
+        - ["CZ", "5.6-6.0", "Much heavier than diamond"]
+        - ["Moissanite", "3.21-3.22", "Lighter than diamond"]
+
+  - title: Heavy Liquids
+    content: |
+      Heavy liquids allow quick sorting of gems by density:
+    subsections:
+      - title: Common Liquids
+        table:
+          headers:
+            - Liquid
+            - SG
+            - Gems That Float
+          rows:
+            - ["Methylene iodide", "3.32", "Quartz, feldspar, beryl"]
+            - ["Bromoform", "2.89", "Opal, amber, most plastics"]
+            - ["Clerici solution", "4.25", "Most gems except zircon, corundum"]
+
+      - title: Safety Warning
+        callout:
+          type: warning
+          title: Heavy Liquid Hazards
+          text: |
+            Most heavy liquids are toxic and/or carcinogenic:
+
+            - Use in well-ventilated areas or fume hoods
+            - Wear appropriate protective equipment
+            - Never mouth-pipette
+            - Store properly and dispose as hazardous waste
+
+            Many laboratories now avoid heavy liquids due to safety concerns.
+
+  - title: The 10× Loupe
+    content: |
+      The hand loupe remains essential for field work and quick examination:
+    subsections:
+      - title: Choosing a Loupe
+        content: |
+          - **10× magnification**: Industry standard (FGA, GIA grading)
+          - **Triplet lens**: Corrected for distortion
+          - **Quality optics**: Clear, sharp image to edge
+          - **Adequate working distance**: ~25mm
+
+      - title: Loupe Technique
+        content: |
+          1. Hold loupe close to your eye
+          2. Bring stone up to loupe (not loupe to stone)
+          3. Find optimal distance for focus (~25mm)
+          4. Use good lighting (overhead or from behind you)
+          5. Steady both hands against each other or face
+
+      - title: What to Look For
+        content: |
+          A quick loupe examination reveals:
+
+          - Surface condition (scratches, chips, wear)
+          - Obvious inclusions
+          - Doubling of back facets (high birefringence)
+          - Junction of doublet/triplet layers
+          - Overall cut quality and symmetry
+
+  - title: Colour Reference Stones
+    content: |
+      Master stones and colour references ensure consistent grading:
+
+      - **Diamond master sets**: GIA-graded stones for D-Z scale
+      - **Coloured stone references**: For hue comparison
+      - **Munsell colour system**: Standardised colour notation
+      - **Gem colour charts**: Printed references (approximations only)

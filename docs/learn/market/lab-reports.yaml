@@ -1,0 +1,272 @@
+title: Laboratory Reports
+description: Understanding gem laboratory reports from GIA, Gübelin, SSEF, GRS, and other major labs with terminology, grading, and certification.
+order: 3
+category: market
+difficulty: advanced
+icon: scale
+related:
+  - grading-valuation
+  - professional-practice
+  - treatments
+  - origin
+tags:
+  - lab-reports
+  - certification
+  - gia
+  - gubelin
+  - ssef
+
+sections:
+  - title: Introduction
+    content: |
+      Laboratory reports provide independent verification of a gemstone's identity,
+      natural or synthetic origin, treatments, and sometimes geographic origin.
+      Understanding lab reports is essential for trade and high-value purchases.
+
+      Different laboratories have varying strengths, methodologies, and market
+      recognition. Report quality directly affects gem value and confidence.
+
+  - title: Purpose of Lab Reports
+    content: |
+      Why laboratory certification matters:
+    subsections:
+      - title: What Labs Verify
+        content: |
+          - **Species identification**: Confirms what the gem actually is
+          - **Natural vs synthetic**: Distinguishes natural from lab-grown
+          - **Treatment status**: Discloses any enhancements
+          - **Origin determination**: Geographic source (advanced analysis)
+          - **Quality grades**: Some labs grade colour, clarity, cut
+
+      - title: When Reports Are Essential
+        content: |
+          - High-value coloured stones (typically >$5,000)
+          - Claimed premium origins (Kashmir, Burma, Colombia)
+          - Claimed untreated status for ruby, sapphire, emerald
+          - Any stone where authenticity affects value significantly
+          - Auction and estate sales
+
+  - title: Major Gemological Laboratories
+    content: |
+      Leading laboratories for coloured stones:
+    subsections:
+      - title: Gübelin Gem Lab
+        content: |
+          - **Location**: Lucerne, Switzerland
+          - **Founded**: 1923
+          - **Strengths**: Origin determination, coloured stones
+          - **Reputation**: Highest tier; premium market acceptance
+          - **Notable**: Pioneered modern origin determination
+
+      - title: SSEF
+        content: |
+          - **Full name**: Swiss Gemmological Institute
+          - **Location**: Basel, Switzerland
+          - **Founded**: 1972
+          - **Strengths**: Research-based; coloured stones; pearls
+          - **Reputation**: Top tier; widely accepted
+
+      - title: GIA
+        content: |
+          - **Full name**: Gemological Institute of America
+          - **Location**: Carlsbad, California (HQ); global labs
+          - **Founded**: 1931
+          - **Strengths**: Diamonds (created 4Cs); coloured stones
+          - **Reputation**: Excellent; most recognised globally
+
+      - title: GRS
+        content: |
+          - **Full name**: GRS GemResearch Swisslab
+          - **Location**: Switzerland and Asia offices
+          - **Founded**: 1990s
+          - **Strengths**: Coloured stones; colour terminology
+          - **Notable**: Created "pigeon blood" and "royal blue" grades
+
+  - title: Laboratory Comparison
+    table:
+      headers:
+        - Lab
+        - Headquarters
+        - Specialties
+        - Market
+      rows:
+        - ["Gübelin", "Switzerland", "Origins, coloured stones", "High-end trade"]
+        - ["SSEF", "Switzerland", "Research, pearls, colours", "High-end trade"]
+        - ["GIA", "USA (global)", "Diamonds, all gems", "Universal acceptance"]
+        - ["GRS", "Switzerland/Asia", "Colour grades, origins", "Asian markets strong"]
+        - ["Lotus Gemology", "Thailand", "Thai/Burma material", "Regional; growing"]
+        - ["AGL", "USA", "Coloured stones", "US trade"]
+        - ["C. Dunaigre", "Switzerland", "Origins, colours", "Trade professionals"]
+
+  - title: Report Components
+    content: |
+      What a typical coloured stone report includes:
+    subsections:
+      - title: Basic Information
+        content: |
+          - **Report number**: Unique identifier for verification
+          - **Date**: When examination was performed
+          - **Weight**: Carat weight (usually to 0.01ct)
+          - **Dimensions**: Length × width × depth in mm
+          - **Shape/cut**: Faceted, cabochon, or other
+
+      - title: Identification
+        content: |
+          - **Species**: Mineralogical identity (corundum, beryl, etc.)
+          - **Variety**: Trade name (ruby, emerald, etc.)
+          - **Colour**: Description or grade
+          - **Transparency**: Transparent, translucent, opaque
+
+      - title: Treatment Status
+        content: |
+          - **Treatment detected**: What modifications found
+          - **Degree/extent**: Minor, moderate, significant
+          - **Stability**: Permanent vs potentially unstable
+
+      - title: Origin (When Offered)
+        content: |
+          - **Geographic origin**: Country or region
+          - **Confidence level**: "Origin determination" vs "origin opinion"
+          - **Supporting evidence**: Inclusion suite, chemistry
+
+  - title: Report Verification
+    callout:
+      type: warning
+      title: Always Verify Reports
+      text: |
+        Counterfeit reports exist. Always verify reports directly with the
+        issuing laboratory before purchase:
+
+        - Use the lab's online verification system
+        - Check report number, date, weight match
+        - Verify stone appearance matches description
+        - For high-value stones, consider re-certification
+
+        Reputable labs offer online verification tools using report numbers.
+
+  - title: Treatment Terminology
+    content: |
+      Standard treatment designations:
+    subsections:
+      - title: Heat Treatment
+        table:
+          headers:
+            - Term
+            - Meaning
+          rows:
+            - ["No indication of heating", "Unheated (premium)"]
+            - ["Indications of heating", "Heat treated (routine for many gems)"]
+            - ["Low-temperature heating", "Gentle heat; less modification"]
+            - ["High-temperature heating", "More significant changes"]
+
+      - title: Clarity Enhancement (Emerald)
+        table:
+          headers:
+            - Term
+            - Meaning
+          rows:
+            - ["None", "No filling detected (highest value)"]
+            - ["Minor/Insignificant", "Minimal treatment (small discount)"]
+            - ["Moderate", "Noticeable treatment (moderate discount)"]
+            - ["Significant", "Extensive treatment (substantial discount)"]
+
+      - title: Other Treatments
+        content: |
+          - **Beryllium diffusion**: Adds element to change colour
+          - **Glass/lead filling**: Fracture filling (major disclosure)
+          - **Coating**: Surface treatment (typically unacceptable)
+          - **Irradiation**: Colour modification by radiation
+
+  - title: Origin Terminology
+    content: |
+      How labs express origin confidence:
+    subsections:
+      - title: Confidence Levels
+        content: |
+          - **"Origin: Kashmir"**: High confidence
+          - **"Origin opinion"**: Moderate confidence; supporting evidence
+          - **"No origin determination possible"**: Characteristics overlap
+          - **"Consistent with..."**: Lower confidence; indicative only
+
+      - title: Why Origin Is Difficult
+        content: |
+          - Many deposits share characteristics
+          - Some stones show mixed features
+          - Heat treatment can alter origin indicators
+          - Research ongoing; methods improving
+          - Different labs may reach different conclusions
+
+  - title: Colour Grading Systems
+    content: |
+      Laboratory colour terminology:
+    subsections:
+      - title: GRS Colour Grades
+        content: |
+          - **Pigeon Blood**: Finest red ruby (specific criteria)
+          - **Royal Blue**: Top blue sapphire colour
+          - **Vivid**: Highly saturated; excellent colour
+          - **Fine**: Very good colour quality
+
+      - title: GIA Colour Description
+        content: |
+          - Hue (spectral colour)
+          - Tone (light to dark)
+          - Saturation (intensity)
+          - Descriptive terminology, not single grades
+
+      - title: Standardisation Efforts
+        content: |
+          - LMHC harmonises terminology
+          - Not all labs participate equally
+          - Trade terms may differ from lab terms
+          - Understanding each lab's system important
+
+  - title: GRS Colour Premium
+    callout:
+      type: info
+      title: Colour Grades Add Value
+      text: |
+        GRS colour grades like "pigeon blood" and "royal blue" add significant
+        market value, particularly in Asian markets. These grades have specific
+        criteria related to hue, tone, saturation, and fluorescence.
+
+        Not all fine rubies or sapphires qualify. The designation appears on
+        the report only when criteria are met.
+
+  - title: Reading a Report
+    content: |
+      Practical interpretation guide:
+    subsections:
+      - title: Key Questions to Answer
+        content: |
+          - Is the stone natural or synthetic?
+          - What treatments have been applied?
+          - Is origin claimed and well-supported?
+          - Does the weight match the actual stone?
+          - Is the report number verifiable?
+
+      - title: Red Flags
+        content: |
+          - Origin claimed without clear supporting evidence
+          - Unclear treatment status or evasive language
+          - Report from unknown or unaccredited lab
+          - Discrepancies between report and stone
+          - Report number fails online verification
+
+      - title: Best Practices
+        content: |
+          - Match report to actual stone carefully
+          - Verify report online before purchase
+          - Understand what the lab does and doesn't claim
+          - For very high values, consider second opinion
+          - Keep original reports secure; copies for display
+
+  - title: Cost Considerations
+    content: |
+      Laboratory report costs and timing:
+
+      - **Basic identification**: $50-150
+      - **Full report with origin**: $100-500+
+      - **Rush services**: Additional premium
+      - **Turnaround**: Days to weeks depending on lab/service
+      - **Value threshold**: Reports typically worthwhile >$1,000 stones

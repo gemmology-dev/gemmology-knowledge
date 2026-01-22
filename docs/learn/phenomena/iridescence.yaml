@@ -1,0 +1,170 @@
+title: Iridescence
+description: Iridescence in gemstones including fire agate, ammolite, iris quartz, and surface coatings with causes and identification.
+order: 9
+category: phenomena
+difficulty: intermediate
+icon: prism
+related:
+  - index
+  - play-of-colour
+tags:
+  - iridescence
+  - fire-agate
+  - ammolite
+  - thin-film
+  - interference
+
+sections:
+  - title: Introduction
+    content: |
+      Iridescence is a display of spectral colours caused by light interference from
+      thin layers or structures near the surface. Unlike opal's play of colour
+      (diffraction from spheres), iridescence results from thin-film interference—
+      the same phenomenon that creates colours in soap bubbles and oil slicks.
+
+      Iridescence appears as rainbow sequences of colour that shift with viewing angle.
+
+  - title: Mechanism
+    content: |
+      The physics of iridescence:
+    subsections:
+      - title: Thin-Film Interference
+        content: |
+          - Light reflects from both top and bottom of thin layers
+          - The two reflected waves interfere (add or cancel)
+          - Layer thickness determines which wavelengths reinforce
+          - Changing viewing angle changes apparent thickness → colour shifts
+
+      - title: Requirements
+        content: |
+          - Thin layers (hundreds of nanometres thick)
+          - Different refractive indices between layers
+          - Transparent to semi-transparent layers
+          - Regular or semi-regular layer structure
+
+  - title: Surface vs Internal Iridescence
+    comparison:
+      items:
+        - title: Surface Iridescence
+          variant: default
+          points:
+            - Thin film on surface
+            - May be coating or tarnish
+            - Often from treatment
+            - Examples - coated topaz, "mystic" gems
+        - title: Internal Iridescence
+          variant: default
+          points:
+            - Layers within the stone
+            - Natural formation
+            - More stable typically
+            - Examples - fire agate, ammolite
+
+  - title: Fire Agate
+    content: |
+      Fire agate shows iridescent "flames" from thin iron oxide layers:
+    subsections:
+      - title: Formation
+        content: |
+          - Layers of iron oxide (goethite/limonite) deposited during growth
+          - Layers form over botryoidal (grape-like) chalcedony surface
+          - Creates three-dimensional colour patterns
+          - Each layer adds to interference effect
+
+      - title: Characteristics
+        content: |
+          - **Colours**: Orange, red, green, gold, purple possible
+          - **Pattern**: Flame-like or cellular
+          - **Structure**: Botryoidal surface creates depth
+          - **Source**: Primarily Mexico and southwestern USA
+
+      - title: Cutting Approach
+        content: |
+          - Carved rather than cabochon cut
+          - Must preserve botryoidal structure
+          - Remove matrix carefully to expose colours
+          - Skill required to maximise effect
+
+  - title: Ammolite
+    content: |
+      Ammolite is fossilised ammonite shell from Alberta, Canada:
+    subsections:
+      - title: Formation
+        content: |
+          - Fossilised nacre (aragonite) from ammonite shells
+          - ~70 million years old (Cretaceous period)
+          - Thin nacre layers create interference
+          - Found only in Alberta's Bearpaw Formation
+
+      - title: Characteristics
+        content: |
+          - **Colours**: Full spectrum possible; red-green common
+          - **Pattern**: Broad colour areas; some patterning
+          - **Fragility**: Very thin layer; requires protection
+          - **Doublets/triplets**: Often assembled for durability
+
+      - title: Grading
+        table:
+          headers:
+            - Grade
+            - Colours
+            - Description
+          rows:
+            - ["AA", "3+ colours including red/violet", "Exceptional"]
+            - ["A+", "3+ colours", "Very good"]
+            - ["A", "1-2 colours", "Good"]
+            - ["B", "Less vivid colours", "Commercial"]
+
+  - title: Ammolite Protection
+    callout:
+      type: warning
+      title: Fragile Material
+      text: |
+        Natural ammolite is very thin and fragile:
+
+        - Often made into doublets (backing) or triplets (backing + cap)
+        - Quartz or synthetic spinel cap protects surface
+        - Shale or plastic backing provides strength
+        - Solid (natural) ammolite is rarer and more valuable
+        - Avoid ultrasonic; clean gently
+
+  - title: Iris Quartz
+    content: |
+      Iridescence in quartz from internal fractures:
+
+      - **Cause**: Thin air-filled fractures
+      - **Effect**: Rainbow colours along fracture planes
+      - **Character**: Often seen in crystal slices
+      - **Natural vs enhanced**: Some is artificially fractured
+
+  - title: Treated Iridescence
+    content: |
+      Surface treatments creating iridescence:
+    subsections:
+      - title: Coated Gems
+        content: |
+          - **Mystic topaz**: Titanium coating creates rainbow
+          - **Aurora quartz**: Various coating treatments
+          - **Coated calcite**: Decorative only
+          - **Detection**: Surface colour; coating may show wear
+
+      - title: Identification Concerns
+        content: |
+          - Coatings can wear off
+          - Examine edges and girdle for coating
+          - May show interference patterns in reflected light
+          - Must be disclosed as treatment
+
+  - title: Other Iridescent Gems
+    table:
+      headers:
+        - Gem
+        - Cause
+        - Notes
+      rows:
+        - ["Fire agate", "Iron oxide layers", "Natural; carved"]
+        - ["Ammolite", "Nacre layers", "Natural; often doublet"]
+        - ["Iris quartz", "Internal fractures", "Natural or enhanced"]
+        - ["Rainbow obsidian", "Inclusions/structure", "Natural; volcanic glass"]
+        - ["Labradorite", "Twin lamellae", "Often classified separately"]
+        - ["Coated gems", "Surface coating", "Treatment; must disclose"]

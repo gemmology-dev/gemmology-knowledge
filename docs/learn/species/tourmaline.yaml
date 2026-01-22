@@ -1,0 +1,223 @@
+title: Tourmaline Group
+description: The tourmaline group including elbaite varieties (rubellite, indicolite, Paraíba), dravite, and chrome tourmaline with properties and identification.
+order: 4
+category: species
+difficulty: intermediate
+icon: gem
+related:
+  - physical-properties
+  - optical-properties
+  - origin
+tags:
+  - tourmaline
+  - paraiba
+  - rubellite
+  - indicolite
+  - watermelon
+
+sections:
+  - title: Introduction
+    content: |
+      Tourmaline is a boron silicate mineral group occurring in more colours than any other
+      gemstone. Its complex chemistry allows for virtually every colour in the spectrum,
+      from colourless to black, often in the same crystal.
+
+      The name comes from the Sinhalese "turmali," meaning mixed coloured stones.
+
+  - title: Mineralogy
+    subsections:
+      - title: Chemistry and Structure
+        content: |
+          Tourmaline has a complex formula with multiple substitution sites:
+
+          **General formula**: XY₃Z₆(BO₃)₃Si₆O₁₈(OH)₄
+
+          Where X, Y, and Z represent different sites accommodating various elements.
+          This flexibility produces the remarkable colour range.
+
+      - title: Main Species
+        table:
+          headers:
+            - Species
+            - Key Elements
+            - Common Colours
+          rows:
+            - ["Elbaite", "Li, Al", "All colours (most gem tourmaline)"]
+            - ["Dravite", "Na, Mg", "Brown to yellow to green"]
+            - ["Schorl", "Na, Fe", "Black (common, rarely gem)"]
+            - ["Uvite", "Ca, Mg", "Green to brown"]
+            - ["Liddicoatite", "Ca, Li, Al", "Multicoloured (Madagascar)"]
+
+      - title: Physical Properties
+        table:
+          headers:
+            - Property
+            - Value
+          rows:
+            - ["Crystal system", "Trigonal (hexagonal)"]
+            - ["Hardness", "7-7.5 Mohs"]
+            - ["Specific gravity", "3.01-3.11"]
+            - ["Refractive index", "1.620-1.640"]
+            - ["Birefringence", "0.018-0.020 (high)"]
+            - ["Optic character", "Uniaxial negative"]
+            - ["Pleochroism", "Strong (often dark/light)"]
+
+  - title: Elbaite Varieties
+    content: |
+      Elbaite is the primary gem tourmaline, named after Elba Island, Italy.
+    subsections:
+      - title: Rubellite
+        content: |
+          Pink to red tourmaline:
+
+          - **Colour range**: Pink to red to purplish-red
+          - **Chromophore**: Manganese (Mn)
+          - **Ideal**: Saturated red without brown
+          - **Sources**: Brazil, Nigeria, Mozambique, Afghanistan
+          - **Note**: Term debated; some require "ruby-like" red
+
+      - title: Indicolite
+        content: |
+          Blue tourmaline:
+
+          - **Colour range**: Light blue to deep blue to blue-green
+          - **Chromophore**: Iron (Fe)
+          - **Sources**: Brazil, Nigeria, Afghanistan, Namibia
+          - **Note**: Pure blue is rare; often greenish
+
+      - title: Verdelite
+        content: |
+          Green tourmaline:
+
+          - **Colour range**: Light to dark green
+          - **Chromophores**: Iron, chromium, vanadium
+          - **Most common**: Green is the most frequent tourmaline colour
+          - **Sources**: Brazil, Africa, Afghanistan, USA
+
+      - title: Other Colours
+        table:
+          headers:
+            - Variety
+            - Colour
+            - Notes
+          rows:
+            - ["Achroite", "Colourless", "Rare; from Greek 'without colour'"]
+            - ["Canary", "Bright yellow", "Malawi, Zambia; manganese coloured"]
+            - ["Chrome tourmaline", "Intense green", "Cr coloured; Tanzania, Kenya"]
+            - ["Bi-colour/tri-colour", "Two or more colours", "Common; valued for patterns"]
+            - ["Watermelon", "Pink core, green rim", "Highly prized slices"]
+
+  - title: Paraíba Tourmaline
+    content: |
+      Copper-bearing tourmaline with unique neon colours, among the world's most
+      valuable coloured stones.
+    subsections:
+      - title: Discovery and History
+        content: |
+          - **Discovered**: 1989 in Paraíba state, Brazil
+          - **Discoverer**: Heitor Dimas Barbosa
+          - **Impact**: Created new price category for tourmaline
+          - **Similar material**: Found in Nigeria (2001), Mozambique (2005)
+
+      - title: Characteristics
+        content: |
+          - **Colour cause**: Copper (Cu²⁺), often with manganese
+          - **Unique colours**: Electric blue, neon green, violet
+          - **"Glow" effect**: Appears luminescent from within
+          - **Typical sizes**: Brazilian material usually under 3 carats
+
+      - title: Origin Comparison
+        table:
+          headers:
+            - Origin
+            - Characteristics
+            - Market Position
+          rows:
+            - ["Brazil (Paraíba)", "Most saturated neon blue", "Highest prices"]
+            - ["Brazil (Rio Grande do Norte)", "Similar to Paraíba", "High value"]
+            - ["Nigeria", "Good colour; larger sizes", "Lower than Brazilian"]
+            - ["Mozambique", "Often lighter; large sizes possible", "Lower premium"]
+
+      - title: Identification
+        content: |
+          - Must contain copper (Cu)—verified by chemical analysis
+          - Geographic origin requires trace element ratios (Cu/Mn, Ga, Pb)
+          - Inclusions less diagnostic than for other gems
+          - Lab certification essential for high-value stones
+
+  - title: Paraíba Prices
+    callout:
+      type: info
+      title: Exceptional Value
+      text: |
+        Fine Brazilian Paraíba tourmaline can exceed $50,000 per carat, rivaling
+        the finest sapphires. The unique neon colour, extreme rarity (original
+        deposit essentially depleted), and strong collector demand maintain
+        exceptional prices.
+
+        Mozambican and Nigerian material, while beautiful, trades at a fraction
+        of Brazilian prices.
+
+  - title: Chrome Tourmaline
+    content: |
+      Intense green tourmaline coloured by chromium:
+
+      - **Chromophore**: Chromium (Cr³⁺)
+      - **Colour**: Intense, vivid green
+      - **Spectrum**: Shows Cr doublet in red
+      - **Sources**: Tanzania, Kenya (East Africa)
+      - **Distinction**: Richer green than iron-coloured verdelite
+      - **Value**: Higher than common green tourmaline
+
+  - title: Multicoloured Tourmaline
+    content: |
+      Tourmaline frequently shows colour zoning:
+    subsections:
+      - title: Bi-colour and Tri-colour
+        content: |
+          - Colour changes along crystal length
+          - Common combinations: pink-green, blue-green
+          - Cut to display multiple colours
+          - Premium for attractive combinations
+
+      - title: Watermelon Tourmaline
+        content: |
+          - Pink/red core with green outer zone
+          - Named for resemblance to watermelon slice
+          - Often cut as slices to show pattern
+          - Brazilian material especially fine
+          - Highly collectible with good patterns
+
+  - title: Pleochroism Considerations
+    callout:
+      type: tip
+      title: Strong Pleochroism Affects Cutting
+      text: |
+        Tourmaline's strong pleochroism (often dark to light of the same hue)
+        significantly affects cutting:
+
+        - **Dark stones**: Cut with table perpendicular to c-axis (lighter)
+        - **Light stones**: Cut with table parallel to c-axis (more saturated)
+        - **Dichroscope**: Shows dramatic colour difference
+        - **Value impact**: Poor orientation creates dark or light face-up colour
+
+  - title: Characteristic Inclusions
+    content: |
+      Tourmaline shows distinctive internal features:
+
+      - **Growth tubes**: Parallel to c-axis, often hollow or filled
+      - **Thread-like inclusions**: Fine parallel channels
+      - **Colour zoning**: Angular, following growth
+      - **Liquid feathers**: Healed fracture patterns
+      - **Crystal inclusions**: Various minerals depending on source
+
+  - title: Identification Summary
+    content: |
+      Key features for tourmaline identification:
+
+      - **RI**: 1.620-1.640 (useful range)
+      - **Birefringence**: 0.018-0.020 (moderately high)
+      - **Strong pleochroism**: Dark/light of same hue
+      - **SG**: 3.01-3.11
+      - **Spectrum**: Variable by colour
+      - **Paraíba**: Requires Cu detection for confirmation

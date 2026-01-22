@@ -1,0 +1,206 @@
+title: Feldspar Group
+description: Feldspar group gems including moonstone, labradorite, sunstone, amazonite, and orthoclase with properties, phenomena, and identification.
+order: 8
+category: species
+difficulty: intermediate
+icon: gem
+related:
+  - physical-properties
+  - optical-properties
+  - phenomena
+tags:
+  - feldspar
+  - moonstone
+  - labradorite
+  - sunstone
+  - amazonite
+
+sections:
+  - title: Introduction
+    content: |
+      Feldspars are the most abundant minerals in Earth's crust, and several members
+      produce important gem materials. The group is notable for spectacular optical
+      phenomena including adularescence (moonstone), labradorescence, and aventurescence
+      (sunstone).
+
+      Feldspars divide into two main series: alkali feldspars (potassium/sodium)
+      and plagioclase feldspars (sodium/calcium).
+
+  - title: Feldspar Classification
+    subsections:
+      - title: Alkali Feldspars
+        content: |
+          Potassium-sodium feldspars:
+
+          - **Orthoclase** (KAlSi₃O₈): Includes moonstone
+          - **Sanidine**: High-temperature form
+          - **Microcline**: Includes amazonite
+
+      - title: Plagioclase Feldspars
+        content: |
+          Sodium-calcium series:
+
+          - **Albite** (NaAlSi₃O₈): Sodium end-member
+          - **Labradorite**: Intermediate; shows labradorescence
+          - **Anorthite** (CaAl₂Si₂O₈): Calcium end-member
+
+      - title: Physical Properties
+        table:
+          headers:
+            - Property
+            - Value
+          rows:
+            - ["Crystal system", "Monoclinic (orthoclase) or Triclinic (plagioclase)"]
+            - ["Hardness", "6-6.5 Mohs"]
+            - ["Specific gravity", "2.55-2.76"]
+            - ["Refractive index", "1.518-1.588"]
+            - ["Birefringence", "0.005-0.010"]
+            - ["Cleavage", "Perfect in two directions at ~90°"]
+
+  - title: Moonstone
+    content: |
+      Moonstone displays adularescence—a soft, billowy glow that appears to float
+      just below the surface.
+    subsections:
+      - title: Cause of Adularescence
+        content: |
+          - Alternating layers of orthoclase and albite
+          - Layers form during cooling (exsolution)
+          - Layer thickness determines colour: thin = blue; thicker = white
+          - Best effect requires ~0.1 μm layers
+
+      - title: Moonstone Types
+        table:
+          headers:
+            - Type
+            - Feldspar
+            - Adularescence
+            - Body Colour
+          rows:
+            - ["Classical moonstone", "Orthoclase", "Blue-white schiller", "Colourless to grey"]
+            - ["Rainbow moonstone", "Labradorite", "Multicoloured flashes", "Translucent white"]
+            - ["Peach moonstone", "Orthoclase", "White schiller", "Peach to orange"]
+
+      - title: Quality Factors
+        content: |
+          - **Schiller colour**: Blue is most prized
+          - **Intensity**: Strong, visible adularescence
+          - **Body colour**: Colourless preferred
+          - **Transparency**: More transparent = higher value
+          - **Centred effect**: Schiller centred on dome
+
+      - title: Sources
+        content: |
+          - **Sri Lanka**: Finest blue moonstone (historic)
+          - **India**: Large production; variable quality
+          - **Myanmar**: Some fine material
+          - **Tanzania**: Good quality moonstones
+
+  - title: Blue Moonstone
+    callout:
+      type: info
+      title: Premium Quality
+      text: |
+        Fine blue moonstone with strong adularescence and good transparency
+        commands significant premiums. The blue schiller should appear to
+        float within the stone, moving as the gem is tilted.
+
+        True orthoclase moonstone is distinguished from "rainbow moonstone"
+        (actually labradorite) which shows multicoloured flashes.
+
+  - title: Labradorite
+    content: |
+      Labradorite displays labradorescence—striking plays of colour including
+      blue, green, gold, and purple.
+    subsections:
+      - title: Cause of Labradorescence
+        content: |
+          - Light interference from lamellar twinning
+          - Twin lamellae of varying thickness
+          - Colours appear in patches or broad flashes
+          - Best seen on specific crystal planes
+
+      - title: Spectrolite
+        content: |
+          Finnish labradorite showing full spectral colours:
+
+          - Vivid blues, greens, oranges, purples
+          - Displays most of the visible spectrum
+          - Premium prices for fine examples
+          - Discovered in Finland during WWII
+
+      - title: Sources
+        table:
+          headers:
+            - Origin
+            - Characteristics
+          rows:
+            - ["Finland", "Spectrolite; full colour range"]
+            - ["Madagascar", "Good labradorescence; various colours"]
+            - ["Canada (Labrador)", "Type locality; blue-green common"]
+            - ["Mexico", "Fire obsidian (different material)"]
+
+  - title: Sunstone
+    content: |
+      Sunstone displays aventurescence—a glittery, metallic reflection from
+      included platelets.
+    subsections:
+      - title: Cause of Aventurescence
+        content: |
+          Reflective inclusions cause the sparkle:
+
+          - **Oregon sunstone**: Copper platelets (unique)
+          - **Indian sunstone**: Hematite or goethite platelets
+          - **Norwegian sunstone**: Hematite platelets
+
+      - title: Oregon Sunstone
+        content: |
+          Unique copper-bearing feldspar:
+
+          - Only source of copper-included feldspar
+          - Can show strong red/green dichroism
+          - Some stones are transparent without schiller
+          - Bicolour and tricolour specimens exist
+          - Premium for strong copper "schiller"
+
+      - title: Quality Factors
+        content: |
+          - **Evenness**: Well-distributed sparkle
+          - **Intensity**: Strong metallic effect
+          - **Body colour**: Can add value (Oregon reds)
+          - **Transparency**: Some prefer transparency; others prefer schiller
+
+  - title: Amazonite
+    content: |
+      Blue-green microcline feldspar:
+
+      - **Colour cause**: Lead and water in structure
+      - **Colour range**: Blue-green to green
+      - **Character**: Opaque to translucent
+      - **Uses**: Cabochons, carvings, beads
+      - **Sources**: Brazil, Russia (Urals), Colorado, Madagascar
+
+  - title: Cleavage Concerns
+    callout:
+      type: warning
+      title: Setting and Wear
+      text: |
+        All feldspars have perfect cleavage in two directions, making them:
+
+        - Vulnerable to chipping
+        - Best in protective settings
+        - Unsuitable for hard daily wear
+        - Requiring careful cutting
+
+        Ring use should be occasional; pendants and earrings are safer choices.
+
+  - title: Identification Summary
+    content: |
+      Key features for feldspar identification:
+
+      - **RI**: 1.518-1.588 (variable by species)
+      - **SG**: 2.55-2.76
+      - **Birefringence**: 0.005-0.010
+      - **Cleavage**: Two directions at ~90°
+      - **Phenomena**: Diagnostic (adularescence, labradorescence)
+      - **Twinning**: Common; visible under polariscope

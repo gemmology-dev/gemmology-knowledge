@@ -1,0 +1,215 @@
+title: Spinel
+description: Spinel species including red, blue, pink, and colour-change varieties with properties, origins, historical significance, and identification.
+order: 5
+category: species
+difficulty: intermediate
+icon: gem
+related:
+  - physical-properties
+  - optical-properties
+  - corundum
+tags:
+  - spinel
+  - red-spinel
+  - cobalt-spinel
+  - flame-spinel
+
+sections:
+  - title: Introduction
+    content: |
+      Spinel (MgAl₂O₄) is a magnesium aluminium oxide that produces gems in nearly every
+      colour. Historically confused with ruby and sapphire, spinel has emerged as a
+      prized gem in its own right, with fine red and cobalt-blue specimens commanding
+      exceptional prices.
+
+      The "great impostors" of history—the Black Prince's Ruby and Timur Ruby—are
+      both red spinels, testament to their beauty rivaling ruby.
+
+  - title: Mineralogy
+    subsections:
+      - title: Crystal System and Structure
+        content: |
+          - **Crystal system**: Cubic (isometric)
+          - **Chemical formula**: MgAl₂O₄
+          - **Habit**: Octahedra, often twinned
+          - **Cleavage**: Imperfect octahedral (rarely seen)
+          - **Fracture**: Conchoidal
+
+      - title: Physical Properties
+        table:
+          headers:
+            - Property
+            - Value
+          rows:
+            - ["Hardness", "8 Mohs"]
+            - ["Specific gravity", "3.58-3.61"]
+            - ["Refractive index", "1.712-1.720"]
+            - ["Optic character", "Singly refractive (isotropic)"]
+            - ["Pleochroism", "None"]
+            - ["Dispersion", "0.020 (moderate)"]
+            - ["Lustre", "Vitreous"]
+
+  - title: Colour Varieties
+    subsections:
+      - title: Red Spinel
+        content: |
+          The most valued spinel colour:
+
+          - **Chromophore**: Chromium (Cr³⁺)
+          - **Ideal colour**: Vivid red with slight pink or orange modifier
+          - **Fluorescence**: Strong red under UV (like ruby)
+          - **Distinction from ruby**: SR (no birefringence), lower RI, lower SG
+          - **Trade names**: "Balas ruby" (historical)
+
+      - title: Blue Spinel
+        content: |
+          Particularly cobalt-blue specimens:
+
+          - **Cobalt blue**: Coloured by Co²⁺; vivid, saturated
+          - **Iron blue**: Coloured by Fe; often greyish
+          - **Sources**: Sri Lanka, Vietnam, Tanzania (cobalt)
+          - **Value**: Fine cobalt-blue rivals ruby prices
+
+      - title: Pink Spinel
+        content: |
+          Popular and relatively available:
+
+          - **Chromophore**: Chromium (lower concentrations than red)
+          - **Range**: Pale pink to hot pink
+          - **Sources**: Myanmar, Tanzania, Vietnam
+          - **Market**: Popular in fine jewellery; good value
+
+      - title: Other Colours
+        table:
+          headers:
+            - Colour
+            - Chromophore
+            - Notes
+          rows:
+            - ["Orange (flame spinel)", "Cr + Fe", "Rare; highly valued"]
+            - ["Purple/violet", "Fe + Cr", "Attractive variety"]
+            - ["Grey/black", "Fe (high)", "Less valuable"]
+            - ["Colour-change", "Multiple", "Blue to purple; rare and valuable"]
+            - ["Colourless", "None", "Rare; collector interest"]
+
+  - title: Cobalt Spinel Premium
+    callout:
+      type: info
+      title: Exceptional Blue
+      text: |
+        Cobalt-blue spinel is among the most valuable coloured gemstones.
+        The vivid, saturated blue with no heat treatment commands prices
+        exceeding $10,000 per carat for fine examples.
+
+        True cobalt colour must be confirmed by spectroscopy—iron-blue
+        spinels are much less valuable.
+
+  - title: Major Sources
+    table:
+      headers:
+        - Origin
+        - Characteristics
+        - Market Position
+      rows:
+        - ["Myanmar (Mogok)", "Fine red and pink", "Historic premium source"]
+        - ["Sri Lanka", "Various colours; blue notable", "Traditional source"]
+        - ["Tanzania (Mahenge)", "Vivid pink and red", "Important modern source"]
+        - ["Vietnam (Luc Yen)", "Pink, red, cobalt-blue", "Fine material"]
+        - ["Tajikistan", "Red and pink", "Historic; limited current production"]
+        - ["Madagascar", "Various colours", "Emerging source"]
+
+  - title: Historical Significance
+    content: |
+      Spinel has a remarkable history of mistaken identity:
+    subsections:
+      - title: Famous "Rubies"
+        content: |
+          - **Black Prince's Ruby**: 170 ct red spinel in British Imperial State Crown
+          - **Timur Ruby**: 352 ct red spinel with Persian inscriptions; Crown Jewels
+          - **Samarian Spinel**: 500 ct; one of largest known spinels
+
+          These stones were identified as spinels only with modern gemology.
+
+      - title: Historical Importance
+        content: |
+          - Traded along Silk Road routes for millennia
+          - "Balas ruby" referred to spinels from Badakhshan (Afghanistan/Tajikistan)
+          - Prized by Mogul emperors
+          - Confused with ruby until 18th-century mineralogical advances
+
+  - title: Spinel vs Ruby
+    comparison:
+      items:
+        - title: Spinel
+          variant: default
+          points:
+            - Singly refractive (isotropic)
+            - No pleochroism
+            - RI 1.718 (single reading)
+            - SG 3.60
+            - Often cleaner than ruby
+            - No silk inclusions
+            - Octahedral crystal habit
+        - title: Ruby
+          variant: default
+          points:
+            - Doubly refractive
+            - Strong pleochroism
+            - RI 1.762-1.770 (two readings)
+            - SG 4.00
+            - Inclusions common
+            - Silk (rutile needles) characteristic
+            - Hexagonal prism/bipyramid habit
+
+  - title: Characteristic Inclusions
+    content: |
+      Spinel inclusions help separate natural from synthetic:
+    subsections:
+      - title: Natural Spinel Inclusions
+        content: |
+          - **Octahedral crystals**: Other spinels or negative crystals
+          - **Fingerprints**: Healed fractures with fluid remnants
+          - **Swallowtail twins**: Characteristic growth pattern
+          - **Zircon with halos**: Common in Sri Lankan material
+          - **Generally clean**: Spinel often has fewer inclusions than corundum
+
+      - title: Synthetic Spinel Indicators
+        content: |
+          - **Gas bubbles**: Curved lines or scattered
+          - **Strong ADR**: More pronounced than natural
+          - **Unusual colours**: Especially colourless, blue (as diamond simulant)
+          - **Too perfect**: Lack of natural features
+
+  - title: Anomalous Double Refraction
+    callout:
+      type: tip
+      title: ADR in Spinel
+      text: |
+        Natural spinel may show some ADR (anomalous double refraction) under
+        the polariscope, but synthetic flame-fusion spinel typically shows
+        much stronger, more pronounced ADR—a useful distinguishing feature.
+
+        The "tabby extinction" pattern in synthetic spinel is often more
+        dramatic than in natural material.
+
+  - title: Treatments
+    content: |
+      Spinel is notable for being largely untreated:
+
+      - **Heat treatment**: Rare; occasionally used to lighten dark stones
+      - **No oiling or filling**: Not practiced
+      - **No diffusion**: Not known in spinel
+      - **Market position**: "Untreated" is standard expectation
+
+      This untreated status adds to spinel's appeal for collectors.
+
+  - title: Identification Summary
+    content: |
+      Key features for spinel identification:
+
+      - **RI**: 1.718 (single reading—isotropic)
+      - **SG**: 3.60
+      - **Optic character**: SR (stays dark in polariscope, or shows ADR)
+      - **No pleochroism**: No colour change in dichroscope
+      - **Spectrum**: Cr doublet at 686nm in red spinel
+      - **Fluorescence**: Strong red in Cr-coloured stones

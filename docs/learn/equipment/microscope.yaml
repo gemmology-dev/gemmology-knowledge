@@ -1,0 +1,207 @@
+title: The Microscope
+description: Using the gemmological microscope for inclusion study, illumination techniques, and immersion methods to identify gems and detect treatments.
+order: 6
+category: equipment
+difficulty: intermediate
+icon: microscope
+related:
+  - inclusions
+  - index
+  - treatments
+tags:
+  - microscope
+  - inclusions
+  - magnification
+  - illumination
+
+sections:
+  - title: Introduction
+    content: |
+      The gemmological microscope is essential for studying inclusions, growth features,
+      and signs of treatment. Magnifications from 10× to 60× are typically used, with
+      various illumination techniques revealing different internal features.
+
+      Microscopy skills are fundamental to separating natural from synthetic gems and
+      detecting many treatments.
+
+  - title: Microscope Types
+    content: |
+      Several microscope configurations are used in gemmology:
+    subsections:
+      - title: Stereo Microscope
+        content: |
+          The standard gemmological microscope:
+
+          - **Binocular viewing**: Comfortable, natural depth perception
+          - **Variable magnification**: Usually 10× to 45×
+          - **Working distance**: Adequate space for manipulation
+          - **Various illumination options**: Darkfield, brightfield, fibre-optic
+
+      - title: Compound Microscope
+        content: |
+          Higher magnification for detailed work:
+
+          - **Higher power**: 100× to 400×
+          - **Thinner depth of field**: More difficult to use
+          - **Specific applications**: Examining very fine inclusions
+          - **Not standard** for routine gemmology
+
+  - title: Magnification Ranges
+    content: |
+      Different magnifications serve different purposes:
+    table:
+      headers:
+        - Magnification
+        - Application
+        - Notes
+      rows:
+        - ["10×", "Standard loupe magnification; overview examination", "FGA/GIA grading standard"]
+        - ["20×", "General inclusion observation", "Good balance of magnification and field"]
+        - ["30-40×", "Detailed inclusion study", "Most routine microscopy"]
+        - ["50-60×", "Fine details, surface features", "Reduced field of view"]
+        - ["100×+", "Specific investigations", "Rarely needed; difficult to use"]
+
+  - title: Illumination Techniques
+    content: |
+      Different lighting reveals different features:
+    table:
+      headers:
+        - Technique
+        - Description
+        - Best For
+      rows:
+        - ["Darkfield", "Light from sides; inclusions bright against dark background", "Most inclusions, three-phase, silk"]
+        - ["Brightfield", "Light from below; transmitted through gem", "Colour zoning, growth patterns, fingerprints"]
+        - ["Fibre-optic", "Directed beam for pinpoint illumination", "Individual inclusions, surface features"]
+        - ["Overhead", "Reflected light from above", "Surface features, coatings, wear"]
+        - ["Polarised", "Light through crossed polars", "Strain, twinning, birefringence"]
+
+  - title: Darkfield Illumination
+    content: |
+      The most commonly used technique:
+    subsections:
+      - title: How It Works
+        content: |
+          Light enters from the sides rather than directly below:
+
+          - Background appears dark
+          - Inclusions scatter light and appear bright
+          - Excellent contrast for most internal features
+          - Standard setup for routine examination
+
+      - title: What It Reveals
+        content: |
+          - Crystal inclusions (bright points or shapes)
+          - Silk and needle inclusions
+          - Gas bubbles
+          - Fractures and feathers
+          - Fingerprints (healed fractures)
+          - Three-phase inclusions
+
+  - title: Brightfield and Other Techniques
+    content: |
+      Alternative illumination for specific observations:
+    subsections:
+      - title: Brightfield
+        content: |
+          Light transmitted directly through the stone:
+
+          - **Colour zoning**: Visible as bands or areas of different colour
+          - **Growth patterns**: Hexagonal zoning in corundum
+          - **Colour concentration**: Around fractures or surfaces
+          - **Best for**: Transparent stones with colour variations
+
+      - title: Fibre-Optic Illumination
+        content: |
+          Directed light for specific features:
+
+          - Pinpoint individual inclusions
+          - Trace fractures and feathers
+          - Examine drill holes
+          - Light difficult-to-reach areas
+
+      - title: Oblique and Shadow Illumination
+        content: |
+          Light at steep angles:
+
+          - Enhances surface texture
+          - Reveals polish quality
+          - Shows surface-reaching features
+          - Highlights laser drill holes
+
+  - title: Immersion Technique
+    content: |
+      Immersing the gem in a liquid of similar RI reduces surface reflections and reveals
+      internal features more clearly.
+    subsections:
+      - title: Common Immersion Liquids
+        table:
+          headers:
+            - Liquid
+            - RI
+            - Best For
+            - Safety Notes
+          rows:
+            - ["Water", "1.33", "Basic immersion; safe for all gems", "Safe"]
+            - ["Benzyl benzoate", "1.57", "Quartz, beryl, feldspar", "Low toxicity"]
+            - ["Methylene iodide", "1.74", "Corundum, spinel, garnet", "Toxic; handle with care"]
+            - ["Clove oil", "1.54", "General purpose", "Pleasant odour; low toxicity"]
+
+      - title: Immersion Observations
+        content: |
+          Immersion reveals:
+
+          - **Colour zoning**: Much clearer than in air
+          - **Growth patterns**: Curved (synthetic) vs angular (natural)
+          - **Surface treatments**: Diffusion layers
+          - **Internal features**: Without surface reflections
+
+  - title: Immersion Warning
+    callout:
+      type: warning
+      title: Safety and Stone Precautions
+      text: |
+        When using immersion liquids:
+
+        - **Avoid porous stones**: Turquoise, opal, pearls may be damaged
+        - **Use gloves**: Especially with methylene iodide
+        - **Ventilate**: Some liquids have hazardous vapours
+        - **Clean stones**: Remove all liquid after examination
+        - **Don't immerse**: Doublets, triplets, or filled stones
+
+  - title: Diagnostic Inclusions
+    content: |
+      Certain inclusions are diagnostic for species or origin:
+    subsections:
+      - title: By Gem Species
+        table:
+          headers:
+            - Gem
+            - Characteristic Inclusions
+          rows:
+            - ["Corundum", "Silk (rutile needles), fingerprints, hexagonal zoning"]
+            - ["Emerald", "Three-phase inclusions (Colombian), jardín, calcite"]
+            - ["Spinel", "Octahedral crystals, fingerprints, often cleaner than corundum"]
+            - ["Tourmaline", "Growth tubes, needles, colour zoning"]
+            - ["Peridot", "Lily pads (stress discs around chromite)"]
+            - ["Topaz", "Two-phase inclusions, growth tubes"]
+
+      - title: Natural vs Synthetic
+        content: |
+          Key differences to look for:
+
+          - **Natural**: Irregular growth, natural crystal inclusions
+          - **Flame fusion**: Gas bubbles, curved striae
+          - **Flux synthetic**: Flux inclusions, platinum crystals
+          - **Hydrothermal**: Seed plate, chevron patterns
+
+  - title: Treatment Detection
+    content: |
+      The microscope is essential for treatment detection:
+
+      - **Heat treatment**: Altered silk, stress fractures, melted inclusions
+      - **Fracture filling**: Flash effect, gas bubbles in filler
+      - **Lead glass filling**: Flash effect, trapped bubbles
+      - **Beryllium diffusion**: Colour concentration at facet junctions
+      - **Laser drilling**: Thin tubes reaching inclusions
+      - **Coating**: Iridescence, colour concentration at surface

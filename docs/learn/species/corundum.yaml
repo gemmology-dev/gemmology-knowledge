@@ -1,0 +1,235 @@
+title: Corundum
+description: Corundum species including ruby and sapphire varieties, properties, inclusions, origins, treatments, and historical significance.
+order: 1
+category: species
+difficulty: intermediate
+icon: gem
+related:
+  - physical-properties
+  - optical-properties
+  - origin
+  - treatments
+tags:
+  - ruby
+  - sapphire
+  - corundum
+  - padparadscha
+  - star-stones
+
+sections:
+  - title: Introduction
+    content: |
+      Corundum (Al₂O₃) is one of the most important gem minerals, second only to diamond
+      in hardness. It produces the world's most valuable coloured stones: ruby and sapphire.
+
+      All corundum shares the same crystal structure and fundamental properties, with colour
+      variations caused by trace element substitutions in the aluminium oxide lattice.
+
+  - title: Mineralogy
+    subsections:
+      - title: Crystal System and Structure
+        content: |
+          - **Crystal system**: Trigonal (hexagonal division)
+          - **Chemical formula**: Al₂O₃ (aluminium oxide)
+          - **Habit**: Typically hexagonal prisms, bipyramids, tabular
+          - **Cleavage**: None (parting along twin planes)
+          - **Fracture**: Conchoidal to uneven
+
+      - title: Physical Properties
+        table:
+          headers:
+            - Property
+            - Value
+          rows:
+            - ["Hardness", "9 Mohs (defines the scale)"]
+            - ["Specific gravity", "3.99-4.01"]
+            - ["Refractive index", "1.762-1.770"]
+            - ["Birefringence", "0.008"]
+            - ["Optic character", "Uniaxial negative"]
+            - ["Pleochroism", "Distinct to strong (varies with colour)"]
+            - ["Lustre", "Vitreous to adamantine"]
+
+  - title: Ruby
+    content: |
+      Ruby is the red variety of corundum, coloured by chromium (Cr³⁺). Fine rubies are
+      among the rarest and most valuable of all gemstones.
+    subsections:
+      - title: Colour and Chromophores
+        content: |
+          - **Colour cause**: Chromium (Cr³⁺) substituting for aluminium
+          - **Ideal colour**: "Pigeon blood" - vivid red with slight blue modifier
+          - **Range**: Pinkish-red to purplish-red to orangey-red
+          - **Fluorescence**: Strong red under UV (due to Cr)
+
+          The distinction between ruby and pink sapphire is debated; most authorities
+          require a certain saturation threshold for the ruby designation.
+
+      - title: Major Sources
+        table:
+          headers:
+            - Origin
+            - Characteristics
+            - Market Position
+          rows:
+            - ["Myanmar (Mogok)", "Pigeon blood colour, silk, strong fluorescence", "Highest premiums"]
+            - ["Myanmar (Mong Hsu)", "Often dark, frequently heated", "Significant production"]
+            - ["Mozambique", "Vivid colours, often large", "Major current producer"]
+            - ["Thailand/Cambodia", "Darker, less fluorescent", "Historic source"]
+            - ["Sri Lanka", "Lighter pinks, some fine reds", "Long history"]
+            - ["Madagascar", "Variable quality", "Emerging source"]
+
+      - title: Diagnostic Inclusions
+        content: |
+          - **Short rutile silk**: Fine needles (may be dissolved by heat)
+          - **Calcite crystals**: Rhombohedral shape
+          - **Apatite**: Hexagonal prisms
+          - **Swirl patterns**: Flow-like growth patterns ("treacle")
+          - **Fingerprints**: Healed fractures with fluid remnants
+
+  - title: Sapphire
+    content: |
+      Sapphire encompasses all non-red corundum, though the term alone typically refers
+      to blue sapphire. Other colours are called "fancy sapphires" with colour prefix.
+    subsections:
+      - title: Blue Sapphire
+        content: |
+          - **Colour cause**: Iron (Fe²⁺/Fe³⁺) and titanium (Ti⁴⁺) charge transfer
+          - **Ideal colour**: Vivid, medium-toned blue (violetish-blue to pure blue)
+          - **Kashmir quality**: "Velvety" or "sleepy" appearance from micro-inclusions
+
+      - title: Fancy Sapphire Colours
+        table:
+          headers:
+            - Colour
+            - Chromophore
+            - Notes
+          rows:
+            - ["Yellow", "Iron (Fe³⁺)", "Common; ranges to golden"]
+            - ["Pink", "Chromium + iron", "Popular; debates on ruby boundary"]
+            - ["Orange", "Chromium + iron", "Rare in pure form"]
+            - ["Padparadscha", "Chromium + iron", "Pink-orange; highly valued"]
+            - ["Green", "Iron (Fe²⁺)", "Often included"]
+            - ["Purple/Violet", "Chromium + iron/titanium", "Beautiful examples exist"]
+            - ["Colour-change", "Vanadium", "Blue/violet in daylight; purple/red in incandescent"]
+
+      - title: Major Sources
+        table:
+          headers:
+            - Origin
+            - Characteristics
+            - Market Position
+          rows:
+            - ["Kashmir", "Velvety appearance, cornflower blue", "Highest premiums (historic)"]
+            - ["Myanmar (Mogok)", "Royal blue, good fluorescence", "Very high value"]
+            - ["Sri Lanka (Ceylon)", "Light to medium blue, large sizes", "Major source; good value"]
+            - ["Madagascar", "Variable colours and quality", "Significant production"]
+            - ["Australia", "Dark blue, greenish modifier", "Commercial grade"]
+            - ["Montana", "Pastel colours, clean", "Collector interest"]
+
+  - title: Padparadscha
+    callout:
+      type: info
+      title: The Lotus Blossom Sapphire
+      text: |
+        Padparadscha is the rarest and most valuable fancy sapphire, named from the
+        Sinhalese word for lotus blossom. It must show both pink and orange colours
+        simultaneously, with neither dominant.
+
+        Traditionally from Sri Lanka, the term's definition is debated. Major labs
+        have varying criteria, making certification important for high-value stones.
+
+  - title: Star Corundum
+    content: |
+      Star rubies and star sapphires display asterism caused by oriented rutile silk.
+    subsections:
+      - title: Formation
+        content: |
+          - Rutile (TiO₂) needles oriented along crystal axes
+          - Three sets of needles at 120° create six-ray star
+          - Must be cut en cabochon with proper orientation
+          - Rarely, twelve-ray stars occur (two overlapping six-ray patterns)
+
+      - title: Quality Factors
+        content: |
+          - **Star sharpness**: Crisp, well-defined rays
+          - **Star centering**: Star centred on dome
+          - **Ray completeness**: Rays extend fully
+          - **Movement**: Smooth, fluid motion with light
+          - **Body colour**: Attractive underlying colour
+          - **Transparency**: Semi-translucent to opaque
+
+  - title: Characteristic Inclusions
+    table:
+      caption: Corundum Inclusion Features
+      headers:
+        - Inclusion
+        - Appearance
+        - Significance
+      rows:
+        - ["Rutile silk", "Fine needles, often in three directions", "Can indicate unheated; dissolved by strong heat"]
+        - ["Fingerprints", "Healed fractures with fluid remnants", "Common; useful for origin determination"]
+        - ["Crystal inclusions", "Various minerals (calcite, apatite, zircon)", "Help determine origin"]
+        - ["Hexagonal zoning", "Angular colour banding", "Follows crystal growth"]
+        - ["Twinning", "Lamellar patterns visible in polariscope", "Common; creates parting"]
+        - ["Negative crystals", "Angular voids, may contain fluid", "Natural feature"]
+
+  - title: Treatments
+    content: |
+      Corundum undergoes various treatments to improve appearance:
+    subsections:
+      - title: Heat Treatment
+        content: |
+          The most common treatment; improves colour and clarity:
+
+          - **Low temperature**: Reduces silk, improves transparency
+          - **High temperature**: Can lighten overly dark stones
+          - **Flux healing**: Heals fractures with borax flux
+          - **Prevalence**: Majority of market corundum is heated
+
+          Detection: Dissolved silk, altered inclusions, stress fractures
+
+      - title: Beryllium Diffusion
+        content: |
+          Beryllium penetrates deep into stone at high temperatures:
+
+          - Creates or enhances yellow, orange, pink colours
+          - Penetration is deeper than earlier Ti diffusion
+          - Detection requires LIBS or LA-ICP-MS
+          - Must be disclosed; lower value than untreated
+
+      - title: Lead Glass Filling
+        content: |
+          Fractures filled with lead glass to improve clarity:
+
+          - Creates dramatic improvement in heavily fractured rubies
+          - Easily detected (flash effect, bubbles)
+          - Durability concerns; low value
+          - Common in low-end commercial rubies
+
+  - title: Historical Significance
+    callout:
+      type: info
+      title: Famous Corundum
+      text: |
+        **DeLong Star Ruby** (100.32 ct): Famous American Museum star ruby;
+        stolen in 1964 and later recovered.
+
+        **Black Prince's Ruby**: Actually a red spinel, but historically called
+        a ruby; set in British Imperial State Crown.
+
+        **Kashmir Sapphires**: The 1881-1887 discovery at 15,000 feet produced
+        some of history's finest sapphires, now essentially exhausted.
+
+        **Padparadscha (Sri Lanka)**: Traditional source; finest examples
+        command prices rivaling fine rubies.
+
+  - title: Identification Summary
+    content: |
+      Key features for corundum identification:
+
+      - **RI**: 1.762-1.770 (distinctive range)
+      - **Birefringence**: 0.008
+      - **SG**: 4.00 (high)
+      - **Hardness**: 9 (exceptional)
+      - **Spectrum**: Cr lines in ruby; Fe bands in blue sapphire
+      - **Fluorescence**: Strong red in ruby; variable in sapphire

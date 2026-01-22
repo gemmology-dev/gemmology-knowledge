@@ -1,0 +1,167 @@
+title: The Refractometer
+description: Refractive index measurement using the gemmological refractometer, including faceted and cabochon techniques, birefringence reading, and troubleshooting.
+order: 2
+category: equipment
+difficulty: beginner
+icon: eye
+related:
+  - optical-properties
+  - index
+  - polariscope
+tags:
+  - refractometer
+  - refractive-index
+  - birefringence
+  - identification
+
+sections:
+  - title: Introduction
+    content: |
+      The refractometer is the most important gemmological instrument. It measures refractive
+      index (RI) by observing the critical angle of total internal reflection at the
+      gem-to-glass interface.
+
+      Refractive index is a fundamental property that helps identify gem species and can
+      distinguish between similar-looking materials.
+
+  - title: How It Works
+    content: |
+      Light enters through the gemstone placed on a high-RI glass hemisphere. At angles
+      greater than the critical angle, light is totally internally reflected, creating
+      a shadow edge on the scale. This edge corresponds to the gem's RI.
+    subsections:
+      - title: Components
+        content: |
+          A standard gemmological refractometer includes:
+
+          - **High-RI glass hemisphere**: Typically RI ~1.86
+          - **Contact liquid** (RI ~1.81): Bridges the gap between gem and glass
+          - **Scale**: Range typically 1.35–1.81
+          - **Light source**: Monochromatic sodium yellow (589nm) for accurate readings
+          - **Eyepiece**: For viewing the scale and shadow edge
+
+      - title: Critical Angle Principle
+        content: |
+          When light travels from a denser to less dense medium, it refracts away from
+          the normal. At the critical angle, light travels along the interface. Beyond
+          this angle, total internal reflection occurs.
+
+          The position of the shadow edge on the scale directly indicates the critical
+          angle and therefore the refractive index.
+
+  - title: Faceted Stone Technique
+    content: |
+      For faceted stones, the standard technique provides accurate RI measurements:
+    subsections:
+      - title: Procedure
+        content: |
+          1. Place a small drop of contact liquid on the hemisphere
+          2. Position the stone table-down on the liquid
+          3. Look through the eyepiece at the scale
+          4. Rotate the stone to find maximum and minimum RI readings
+          5. For uniaxial stones: two readings (omega and epsilon)
+          6. For biaxial stones: three readings (alpha, beta, gamma) but only two visible at once
+
+      - title: Reading the Scale
+        content: |
+          - **Shadow edge**: Sharp boundary between light and dark regions
+          - **Single reading**: Isotropic material (cubic or amorphous)
+          - **Two readings**: Anisotropic material; difference is birefringence
+          - **Moving readings**: Indicates high birefringence; rotate to find limits
+
+      - title: Birefringence Calculation
+        content: |
+          Birefringence = Higher RI - Lower RI
+
+          For example:
+          - Quartz: 1.553 - 1.544 = 0.009
+          - Tourmaline: 1.640 - 1.620 = 0.020
+          - Zircon (high): 1.984 - 1.931 = 0.053
+
+  - title: Cabochon (Spot Reading) Technique
+    content: |
+      For curved surfaces, use the spot method:
+    subsections:
+      - title: Procedure
+        content: |
+          1. Use minimum contact liquid
+          2. Place the curved surface on the hemisphere
+          3. Look for a spot of light rather than a shadow edge
+          4. The spot's position on the scale indicates approximate RI
+          5. Rock the stone gently to centre the spot
+
+      - title: Limitations
+        content: |
+          - Less accurate than faceted readings (+/- 0.01)
+          - Useful for rough assessment of cabochons and beads
+          - Cannot measure birefringence accurately
+          - Best for isotropic materials or quick screening
+
+  - title: Troubleshooting
+    content: |
+      Common problems and solutions when using the refractometer:
+    table:
+      headers:
+        - Problem
+        - Possible Cause
+        - Solution
+      rows:
+        - ["No reading visible", "RI above contact liquid limit (>1.81)", "Use SG or other tests; stone may be diamond, zircon, etc."]
+        - ["Fuzzy edge", "Birefringent stone, dirty contact, poor polish", "Clean surface; rotate stone; check polish"]
+        - ["Moving readings", "High birefringence", "Rotate and record both extreme values"]
+        - ["Very faint reading", "Poor lighting or positioning", "Improve lighting; reposition stone"]
+        - ["Multiple edges", "Doubly refractive viewing down optic axis", "Rotate stone to find clearest readings"]
+
+  - title: Contact Liquid Safety
+    callout:
+      type: warning
+      title: Handling Contact Liquid
+      text: |
+        Standard contact liquid (methylene iodide, RI ~1.74-1.81) requires careful handling:
+
+        - **Toxic**: Avoid skin contact and inhalation
+        - **Light sensitive**: Store in dark bottles
+        - **Staining**: Can discolour skin and porous stones
+        - **Alternatives**: Safer liquids available (RI ~1.79) with slightly lower range
+
+        Always wash hands after use and ensure good ventilation.
+
+  - title: Maintenance
+    content: |
+      Proper maintenance ensures accurate readings:
+    subsections:
+      - title: Daily Care
+        content: |
+          - Clean hemisphere with soft cloth after each use
+          - Remove all contact liquid residue
+          - Check light source is working properly
+          - Store in protective case when not in use
+
+      - title: Calibration Check
+        content: |
+          Periodically verify accuracy using known materials:
+
+          - **Quartz**: 1.544-1.553
+          - **Fluorite**: 1.434 (isotropic)
+          - **Spinel**: 1.718 (isotropic)
+
+          If readings are consistently off, the instrument may need professional calibration.
+
+  - title: Reference Values
+    table:
+      caption: Common Gem RI Values
+      headers:
+        - Gem
+        - RI Range
+        - Birefringence
+      rows:
+        - ["Diamond", "2.417", "None (isotropic)"]
+        - ["Ruby/Sapphire", "1.762-1.770", "0.008"]
+        - ["Emerald", "1.577-1.583", "0.006"]
+        - ["Aquamarine", "1.577-1.583", "0.006"]
+        - ["Spinel", "1.718", "None (isotropic)"]
+        - ["Tourmaline", "1.620-1.640", "0.020"]
+        - ["Quartz", "1.544-1.553", "0.009"]
+        - ["Topaz", "1.619-1.627", "0.008"]
+        - ["Peridot", "1.654-1.690", "0.036"]
+        - ["Garnet (various)", "1.74-1.89", "None (isotropic)"]

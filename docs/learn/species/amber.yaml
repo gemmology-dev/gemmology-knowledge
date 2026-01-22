@@ -1,0 +1,188 @@
+title: Amber
+description: Amber fossilised tree resin including Baltic, Dominican, and Burmese varieties with inclusions, identification, and distinguishing from copal.
+order: 18
+category: species
+difficulty: beginner
+icon: shell
+related:
+  - care
+  - treatments
+tags:
+  - amber
+  - baltic
+  - dominican
+  - copal
+  - inclusions
+  - organic
+
+sections:
+  - title: Introduction
+    content: |
+      Amber is fossilised tree resin, typically 20-100+ million years old. Valued
+      for its warm golden colour, transparency, and remarkable preservation of
+      ancient life forms, amber provides a window into prehistoric ecosystems.
+
+      Unlike most gems, amber is entirely organic, formed from the resin of
+      ancient coniferous trees.
+
+  - title: Formation and Composition
+    content: |
+      How amber forms:
+    subsections:
+      - title: Formation Process
+        content: |
+          1. Tree exudes sticky resin (response to injury)
+          2. Resin may trap insects, plant material, debris
+          3. Resin is buried by sediment
+          4. Over millions of years, polymerisation occurs
+          5. Volatile compounds evaporate; resin hardens
+          6. Becomes amber after ~2-10 million years
+
+      - title: Composition
+        content: |
+          - **Organic polymers**: No fixed chemical formula
+          - **Main components**: Carbon, hydrogen, oxygen
+          - **Variable**: Composition differs by source tree
+          - **Succinic acid**: Baltic amber contains 3-8%
+
+  - title: Physical Properties
+    table:
+      headers:
+        - Property
+        - Value
+      rows:
+        - ["Hardness", "2-2.5 Mohs (very soft)"]
+        - ["Specific gravity", "1.05-1.10 (floats in salt water)"]
+        - ["Refractive index", "1.539-1.545 (spot)"]
+        - ["Lustre", "Resinous"]
+        - ["Fracture", "Conchoidal"]
+        - ["Static electricity", "Attracts paper when rubbed"]
+
+  - title: Major Sources
+    table:
+      headers:
+        - Source
+        - Age
+        - Characteristics
+      rows:
+        - ["Baltic (Europe)", "40-50 million years", "Yellow to cognac; succinite; most common"]
+        - ["Dominican Republic", "20-30 million years", "Blue fluorescence; rare blue amber"]
+        - ["Myanmar (Burmese)", "~100 million years", "Cretaceous; scientifically valuable"]
+        - ["Mexican (Chiapas)", "20-30 million years", "Similar to Dominican"]
+        - ["Indonesian", "20-30 million years", "Various qualities"]
+
+  - title: Colour Varieties
+    content: |
+      Amber occurs in many colours:
+    subsections:
+      - title: Common Colours
+        content: |
+          - **Honey/cognac**: Most common; warm golden brown
+          - **Yellow**: Light to golden yellow
+          - **Cherry**: Reddish-brown; treated or natural
+          - **Green**: Rare; natural or treated
+          - **White (bone)**: Opaque; from micro-bubbles
+
+      - title: Blue Amber
+        content: |
+          Dominican blue amber is exceptionally rare:
+
+          - Appears normal in transmitted light
+          - Shows blue fluorescence in UV/sunlight
+          - Caused by polycyclic aromatic hydrocarbons
+          - Commands significant premiums
+
+  - title: Inclusions
+    content: |
+      Amber famously preserves ancient life:
+    subsections:
+      - title: Biological Inclusions
+        content: |
+          - **Insects**: Flies, ants, beetles, wasps, spiders
+          - **Plant material**: Leaves, flowers, seeds, pollen
+          - **Hair/feathers**: Rare; scientifically important
+          - **Air bubbles**: Common; create cloudiness
+
+      - title: Value of Inclusions
+        content: |
+          Inclusions can dramatically increase value:
+
+          - Rare or unusual specimens: Exceptional prices
+          - Well-preserved, visible insects: Premium
+          - Multiple inclusions in one piece: Valuable
+          - Scientific importance: Museum interest
+
+          Common inclusions (gnats, air bubbles) add less value.
+
+  - title: Amber vs Copal
+    callout:
+      type: warning
+      title: Important Distinction
+      text: |
+        Copal is younger, semi-fossilised resin (typically <1 million years):
+
+        - Softer than true amber
+        - Dissolves more readily in solvents
+        - Often sold as "young amber" (misrepresentation)
+        - Much lower value than true amber
+
+        Test: Acetone softens copal surface but not true amber.
+
+  - title: Identification Tests
+    table:
+      caption: Amber Authenticity Tests
+      headers:
+        - Test
+        - Amber
+        - Plastic/Glass
+        - Copal
+      rows:
+        - ["Salt water float", "Floats (SG ~1.08)", "Usually sinks", "Floats"]
+        - ["Hot needle", "Piney, resinous smell", "Chemical/acrid smell", "Softer, sticky"]
+        - ["UV fluorescence", "Blue-green (Baltic)", "Often orange/none", "Variable"]
+        - ["Acetone test", "No effect", "May damage surface", "Surface softens"]
+        - ["Static electricity", "Attracts paper", "May or may not", "Attracts paper"]
+
+  - title: Treatments
+    content: |
+      Common amber treatments:
+    subsections:
+      - title: Clarification
+        content: |
+          - Heat/pressure treatment to clear cloudy amber
+          - Creates "sun spangles" (disc-shaped stress marks)
+          - Very common; accepted practice
+          - Often not disclosed
+
+      - title: Other Treatments
+        content: |
+          - **Dyeing**: Changes colour (especially green, cherry)
+          - **Heated/pressed**: Reconstituded from small pieces
+          - **Coated**: Surface enhancement
+          - **Filled**: Repairs or creates fake inclusions
+
+  - title: Fake Inclusions Warning
+    callout:
+      type: warning
+      title: Forged Inclusions
+      text: |
+        Fake inclusions exist:
+
+        - Modern insects placed in resin or copal
+        - "Amber" with too-perfect or unusual inclusions
+        - Large insects (rare in genuine amber)
+        - Scorpions, lizards (extremely rare naturally)
+
+        Always examine inclusions carefully. Position, condition, and
+        associated debris should look natural. Get significant pieces certified.
+
+  - title: Care and Durability
+    content: |
+      Amber requires gentle handling:
+
+      - **Hardness**: 2-2.5 (very easily scratched)
+      - **Solvents**: Avoid alcohol, perfume, hairspray
+      - **Heat**: Can crack or cloud
+      - **Sunlight**: May darken over time
+      - **Cleaning**: Warm water, soft cloth only
+      - **Storage**: Keep away from harder gems

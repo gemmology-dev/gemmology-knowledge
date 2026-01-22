@@ -1,0 +1,157 @@
+title: Colour Change
+description: Colour change phenomenon in gemstones including alexandrite, colour-change garnet, sapphire, and diaspore with causes and grading.
+order: 7
+category: phenomena
+difficulty: intermediate
+icon: sun-moon
+related:
+  - index
+  - chrysoberyl
+  - garnet
+tags:
+  - colour-change
+  - alexandrite
+  - chromophores
+  - lighting
+
+sections:
+  - title: Introduction
+    content: |
+      Colour-change gems display different colours under different light sources
+      (typically daylight vs incandescent). The most famous is alexandrite, which
+      appears green in daylight and red in incandescent light—often described as
+      "emerald by day, ruby by night."
+
+      This phenomenon results from the gem's absorption spectrum interacting
+      differently with various light sources.
+
+  - title: Mechanism
+    content: |
+      How colour change occurs:
+    subsections:
+      - title: The Physical Cause
+        content: |
+          - Gem's absorption spectrum has transmission windows in both red and green
+          - Daylight is balanced across the spectrum → green component dominates
+          - Incandescent light is red-rich → red component dominates
+          - Eye perceives the dominant transmitted colour
+
+      - title: Requirements
+        content: |
+          - Specific absorption spectrum with dual transmission windows
+          - Usually involves chromium, vanadium, or iron chromophores
+          - Balance between absorbed and transmitted wavelengths
+          - Light source spectral composition must differ significantly
+
+  - title: Alexandrite
+    content: |
+      Alexandrite is colour-change chrysoberyl—the most famous and valuable
+      colour-change gem.
+    subsections:
+      - title: The Colour Change
+        content: |
+          - **Daylight/fluorescent**: Green to blue-green
+          - **Incandescent**: Red to purple-red
+          - **Cause**: Chromium (Cr³⁺) absorption
+          - **Ideal**: Complete change from pure green to pure red
+
+      - title: Grading Colour Change
+        table:
+          headers:
+            - Percentage
+            - Quality Description
+          rows:
+            - ["100%", "Complete change (pure green ↔ pure red)"]
+            - ["75-99%", "Strong colour change"]
+            - ["50-74%", "Moderate colour change"]
+            - ["<50%", "Weak colour change"]
+
+      - title: Quality Factors
+        content: |
+          - **Degree of change**: More complete = more valuable
+          - **Attractiveness**: Both colours should be appealing
+          - **Saturation**: Vivid colours in both lights
+          - **Clarity**: Eye-clean preferred
+          - **Size**: Large stones very rare
+
+  - title: Alexandrite Sources
+    table:
+      headers:
+        - Origin
+        - Daylight Colour
+        - Incandescent Colour
+        - Notes
+      rows:
+        - ["Russia (Urals)", "Green", "Red", "Classic; historic; depleted"]
+        - ["Brazil", "Blue-green", "Purple-red", "Major current source"]
+        - ["Sri Lanka", "Olive/yellowish", "Brownish-red", "Often less distinct change"]
+        - ["Tanzania", "Green", "Red", "Some fine material"]
+        - ["India", "Variable", "Variable", "Emerging source"]
+
+  - title: Russian Alexandrite Premium
+    callout:
+      type: info
+      title: The Ultimate Colour Change
+      text: |
+        Russian (Ural) alexandrite discovered in 1830 set the standard for
+        colour change. The green matched Russian military colours; the red
+        honoured the Tsar.
+
+        Fine Russian alexandrite is essentially unavailable today. Stones
+        with documented provenance command extraordinary prices at auction.
+
+  - title: Other Colour-Change Gems
+    table:
+      headers:
+        - Gem
+        - Daylight
+        - Incandescent
+        - Cause
+      rows:
+        - ["Colour-change sapphire", "Blue/violet", "Purple/pink", "Vanadium"]
+        - ["Colour-change garnet", "Blue-green", "Red-purple", "Vanadium + chromium"]
+        - ["Colour-change spinel", "Blue", "Violet", "Cobalt or iron"]
+        - ["Colour-change diaspore", "Yellow-green", "Pink-red", "Manganese"]
+        - ["Colour-change fluorite", "Blue", "Purple", "Rare earth elements"]
+
+  - title: Colour-Change Garnet
+    content: |
+      Some of the most dramatic colour changes occur in garnet:
+    subsections:
+      - title: Characteristics
+        content: |
+          - Usually pyrope-spessartine composition
+          - Can show blue-green to red-purple change
+          - Some match alexandrite's change quality
+          - Relatively rare
+
+      - title: Sources
+        content: |
+          - Madagascar (best known)
+          - Tanzania
+          - Sri Lanka
+          - USA (Idaho)
+
+  - title: Testing Light Sources
+    callout:
+      type: tip
+      title: Consistent Evaluation
+      text: |
+        Colour change should be evaluated under standardized lighting:
+
+        - **Daylight**: North-facing window light or D65 fluorescent
+        - **Incandescent**: Standard tungsten bulb (not LED)
+        - **Avoid**: Mixed lighting, LED (variable spectra)
+
+        Modern LED lights have variable spectra and may not show colour
+        change the same way as traditional incandescent.
+
+  - title: Market Considerations
+    content: |
+      Colour-change gems in the market:
+
+      - **Alexandrite**: Extremely valuable; strong demand
+      - **CC sapphire**: Premium over standard sapphire
+      - **CC garnet**: Significant value when strong change
+      - **Synthetic**: Synthetic colour-change gems exist (alexandrite, sapphire)
+      - **Identification**: Chemical testing may be needed for species confirmation

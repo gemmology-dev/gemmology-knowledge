@@ -1,0 +1,135 @@
+title: Origin Determination Overview
+description: Introduction to geographic origin determination for gemstones including methodology, premium factors, and laboratory reports.
+order: 1
+category: origin
+difficulty: advanced
+icon: map-pin
+related:
+  - kashmir
+  - burma
+  - colombia
+  - inclusions
+tags:
+  - origin
+  - provenance
+  - laboratory
+  - certification
+
+sections:
+  - title: Introduction
+    content: |
+      Geographic origin determination identifies the locality where a gemstone formed.
+      Origin can significantly affect value, with certain sources commanding substantial
+      premiums due to historical significance, quality associations, or rarity.
+
+      Origin is determined through careful analysis of inclusion suites, trace element
+      chemistry, and growth characteristics.
+
+  - title: Why Origin Matters
+    comparison:
+      items:
+        - title: Premium Factors
+          points:
+            - Historical prestige (Kashmir, Burma, Colombia)
+            - Consistent quality association
+            - Rarity of production
+            - Market perception and demand
+            - Collector interest
+        - title: Practical Considerations
+          points:
+            - Treatment likelihood varies by origin
+            - Ethical sourcing concerns
+            - Investment and resale value
+            - Insurance and documentation
+            - Trade and customs regulations
+
+  - title: Origin Determination Methods
+    subsections:
+      - title: Inclusion Analysis
+        content: |
+          The primary method for origin determination. Characteristic inclusions form
+          fingerprints unique to specific geological environments:
+
+          - **Mineral inclusions**: Identify host rock and formation conditions
+          - **Fluid inclusions**: Reveal formation fluids and temperatures
+          - **Growth patterns**: Record crystallization history
+          - **Solid inclusion assemblages**: Diagnostic for specific localities
+
+      - title: Trace Element Chemistry
+        content: |
+          Advanced spectroscopic techniques measure trace elements that vary by deposit:
+
+          - **LA-ICP-MS**: Laser ablation inductively coupled plasma mass spectrometry
+          - **LIBS**: Laser-induced breakdown spectroscopy
+          - **ED-XRF**: Energy-dispersive X-ray fluorescence
+
+          Ratios of elements like Fe, Ti, Ga, V, and Cr help distinguish origins.
+
+      - title: Spectroscopic Features
+        content: |
+          - UV-Vis-NIR absorption spectra
+          - Photoluminescence characteristics
+          - Infrared spectroscopy
+          - Raman spectroscopy for inclusion identification
+
+  - title: Origin Premium Economics
+    table:
+      caption: Approximate Origin Premiums (Fine Quality, Untreated)
+      headers:
+        - Gem
+        - Premium Origin
+        - Premium Range
+      rows:
+        - ["Blue Sapphire", "Kashmir", "+50-100% vs Ceylon"]
+        - ["Blue Sapphire", "Burma (Mogok)", "+20-40% vs Ceylon"]
+        - ["Ruby", "Burma (Mogok)", "+30-100% vs Mozambique"]
+        - ["Emerald", "Colombia", "+20-50% vs Zambia"]
+        - ["Paraíba Tourmaline", "Brazil", "+100-300% vs Mozambique"]
+
+  - title: Premium Variability
+    callout:
+      type: warning
+      title: Value Depends on Multiple Factors
+      text: |
+        Origin premiums are highly variable and depend on:
+
+        - Stone quality (colour, clarity, size)
+        - Treatment status (unheated commands more premium)
+        - Market conditions and demand
+        - Individual stone characteristics
+
+        A fine Ceylon sapphire will always be worth more than a poor Kashmir sapphire.
+        Origin alone does not guarantee value.
+
+  - title: Major Laboratories
+    table:
+      headers:
+        - Laboratory
+        - Location
+        - Known For
+      rows:
+        - ["Gübelin", "Switzerland", "Pioneering inclusion research"]
+        - ["SSEF", "Switzerland", "Origin determination expertise"]
+        - ["GIA", "USA/Worldwide", "Comprehensive testing"]
+        - ["AGL", "USA", "Coloured stone expertise"]
+        - ["GRS", "Switzerland/Asia", "Origin and quality reports"]
+        - ["Lotus Gemology", "Thailand", "Independent origin analysis"]
+
+  - title: Report Terminology
+    content: |
+      Understanding laboratory report language:
+
+      - **"Consistent with..."**: Inclusions match known characteristics
+      - **"Origin undeterminable"**: Insufficient diagnostic features
+      - **"Heat treatment: None"**: No evidence of heating detected
+      - **"Heat treatment: Evidence of..."**: Signs of thermal treatment
+
+  - title: Limitations
+    content: |
+      Origin determination has inherent limitations:
+
+      - Some deposits produce material with overlapping characteristics
+      - Heavily included or treated stones may be difficult to assess
+      - New deposits may initially lack reference samples
+      - Different labs may reach different conclusions
+      - Origin reports represent the laboratory's opinion based on current knowledge

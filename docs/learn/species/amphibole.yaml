@@ -1,0 +1,180 @@
+title: Amphibole Group (Nephrite)
+description: Amphibole group gems, primarily nephrite jade, with properties, comparison to jadeite, sources, and identification.
+order: 14
+category: species
+difficulty: intermediate
+icon: gem
+related:
+  - physical-properties
+  - pyroxene
+tags:
+  - nephrite
+  - jade
+  - actinolite
+  - tremolite
+
+sections:
+  - title: Introduction
+    content: |
+      The amphibole group includes nephrite, one of the two minerals historically
+      called "jade." While less valuable than jadeite, nephrite has been treasured
+      for millennia, particularly in Chinese and Māori cultures, for its exceptional
+      toughness and subtle beauty.
+
+      Nephrite is composed of interlocking fibrous crystals of actinolite and
+      tremolite, making it the toughest natural material known.
+
+  - title: Nephrite
+    content: |
+      Nephrite is a variety of actinolite-tremolite, prized for its toughness
+      and carving qualities.
+    subsections:
+      - title: Properties
+        table:
+          headers:
+            - Property
+            - Value
+          rows:
+            - ["Composition", "Ca₂(Mg,Fe)₅Si₈O₂₂(OH)₂"]
+            - ["Crystal system", "Monoclinic (but cryptocrystalline aggregate)"]
+            - ["Hardness", "6-6.5 Mohs"]
+            - ["Specific gravity", "2.90-3.02"]
+            - ["Refractive index", "1.606-1.632 (spot)"]
+            - ["Character", "Aggregate (fibrous)"]
+            - ["Toughness", "Exceptional"]
+
+      - title: Colour Varieties
+        content: |
+          Nephrite occurs in various colours:
+
+          - **Green**: Iron content; most common
+          - **White ("mutton fat")**: Pure tremolite; prized in China
+          - **Brown**: Higher iron; weathered surfaces
+          - **Black**: High iron content
+          - **Yellow**: Iron oxidation
+
+      - title: Tremolite vs Actinolite
+        content: |
+          Nephrite composition varies:
+
+          - **Tremolite**: Mg-rich; tends to white/cream colours
+          - **Actinolite**: Fe-substituted; tends to green colours
+          - Most nephrite is intermediate
+          - Colour correlates with composition
+
+  - title: Exceptional Toughness
+    callout:
+      type: info
+      title: Toughest Natural Material
+      text: |
+        Nephrite's interlocking fibrous structure makes it tougher than steel.
+        This exceptional toughness made it valuable for prehistoric tools and
+        weapons—the name "jade" comes from Spanish "piedra de ijada" (stone
+        of the side), referring to its supposed healing properties.
+
+        Archaeological nephrite axes show minimal damage despite heavy use.
+
+  - title: Nephrite vs Jadeite
+    comparison:
+      items:
+        - title: Nephrite
+          variant: default
+          points:
+            - Amphibole (actinolite-tremolite)
+            - SG 2.90-3.02 (lower)
+            - RI 1.606-1.632 (lower)
+            - Greasy to waxy lustre
+            - More subdued greens
+            - Generally more affordable
+            - Traditional Chinese "yu"
+        - title: Jadeite
+          variant: default
+          points:
+            - Pyroxene (sodium aluminium)
+            - SG 3.30-3.38 (higher)
+            - RI 1.654-1.667 (higher)
+            - Vitreous lustre
+            - 'Vivid "Imperial" green possible'
+            - Higher value for fine material
+            - '"Fei-cui" in Chinese'
+
+  - title: Major Sources
+    table:
+      headers:
+        - Origin
+        - Characteristics
+        - Cultural Significance
+      rows:
+        - ["China (Hetian/Khotan)", "White 'mutton fat' jade", "Most prized in Chinese culture"]
+        - ["New Zealand", "Green; Māori 'pounamu'", "Sacred to Māori culture"]
+        - ["Canada (BC)", "Green; large deposits", "Major modern source"]
+        - ["Russia (Siberia)", "Dark green to black", "Significant deposits"]
+        - ["Australia", "Variable quality", "Commercial production"]
+        - ["USA (Wyoming)", "Green", "Historic and current"]
+
+  - title: Chinese White Jade
+    callout:
+      type: info
+      title: Hetian Jade
+      text: |
+        White nephrite from Hetian (Khotan) in Xinjiang, China, is the most
+        valued jade in Chinese culture—more so than green jadeite. Called
+        "mutton fat jade" for its warm, creamy appearance, fine Hetian nephrite
+        has been treasured for over 5,000 years.
+
+        River-worn pebbles ("seed jade") command higher prices than mined material.
+
+  - title: Cultural Significance
+    content: |
+      Jade holds profound cultural meaning:
+    subsections:
+      - title: Chinese Culture
+        content: |
+          - Symbol of virtue, beauty, and immortality
+          - Used for imperial seals and ceremonial objects
+          - Believed to protect and purify
+          - Jade burial suits for nobility
+          - Continuous 8,000-year tradition
+
+      - title: Māori Culture
+        content: |
+          - Pounamu (greenstone) is taonga (treasure)
+          - Traditional weapons (mere) and ornaments (hei-tiki)
+          - Passed down through generations
+          - Spiritual significance
+          - Protected under New Zealand law
+
+  - title: Identification
+    content: |
+      Distinguishing nephrite from simulants:
+    subsections:
+      - title: Key Tests
+        content: |
+          - **Specific gravity**: 2.90-3.02 (flotation test)
+          - **Spot RI**: ~1.61 (distinguishes from jadeite)
+          - **Structure**: Fibrous under magnification
+          - **Feel**: Greasy/waxy to touch
+          - **Toughness**: Exceptional (doesn't chip easily)
+
+      - title: Common Simulants
+        table:
+          headers:
+            - Material
+            - Distinction
+          rows:
+            - ["Serpentine", "Lower SG (2.5-2.6); softer (H 2.5-5)"]
+            - ["Chrysoprase", "Different RI (1.53-1.54); SG 2.6"]
+            - ["Aventurine quartz", "Different RI (1.54); sparkle from inclusions"]
+            - ["Hydrogrossular garnet", "Higher SG (3.4+); SR"]
+            - ["Glass", "Gas bubbles; different feel"]
+
+  - title: Care and Durability
+    content: |
+      Despite toughness, nephrite requires some care:
+
+      - Avoid harsh chemicals
+      - Clean with warm soapy water
+      - Ultrasonic generally safe (solid pieces)
+      - Can be oiled to enhance lustre
+      - Surface can be scratched (H 6-6.5)
+      - Excellent for carvings and daily-wear jewellery

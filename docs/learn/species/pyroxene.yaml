@@ -1,0 +1,197 @@
+title: Pyroxene Group
+description: Pyroxene group gems including jadeite, spodumene (kunzite, hiddenite), and diopside (chrome diopside) with properties and identification.
+order: 13
+category: species
+difficulty: intermediate
+icon: gem
+related:
+  - physical-properties
+  - optical-properties
+  - amphibole
+tags:
+  - jadeite
+  - kunzite
+  - hiddenite
+  - diopside
+  - jade
+
+sections:
+  - title: Introduction
+    content: |
+      The pyroxene group is a family of chain silicates that includes several
+      important gem materials. Jadeite is the most valuable—one of the two
+      minerals called "jade." Spodumene produces kunzite and hiddenite, while
+      chrome diopside offers affordable green colour.
+
+  - title: Jadeite
+    content: |
+      Jadeite (NaAlSi₂O₆) is the more valuable of the two jade minerals,
+      prized especially in Asian cultures.
+    subsections:
+      - title: Properties
+        table:
+          headers:
+            - Property
+            - Value
+          rows:
+            - ["Crystal system", "Monoclinic"]
+            - ["Hardness", "6.5-7 Mohs"]
+            - ["Specific gravity", "3.30-3.38"]
+            - ["Refractive index", "1.654-1.667 (spot)"]
+            - ["Character", "Aggregate (no single crystal)"]
+            - ["Toughness", "Exceptional (interlocking crystals)"]
+
+      - title: Colour Varieties
+        table:
+          headers:
+            - Colour
+            - Cause
+            - Trade Name
+          rows:
+            - ["Imperial green", "Chromium", "Imperial jade (most valuable)"]
+            - ["Lavender", "Manganese + iron", "Lavender jade"]
+            - ["White", "Pure composition", "Mutton fat jade"]
+            - ["Yellow to orange", "Iron staining", "Yellow jade"]
+            - ["Black", "Iron inclusions", "Black jade"]
+
+      - title: Imperial Jade
+        content: |
+          The finest jadeite variety:
+
+          - **Colour**: Vivid, saturated green
+          - **Transparency**: Semi-transparent
+          - **Texture**: Fine-grained, even
+          - **Source**: Myanmar (Burma) primarily
+          - **Value**: Can exceed fine emerald prices
+
+      - title: Major Sources
+        content: |
+          - **Myanmar**: Premier source; Imperial green
+          - **Guatemala**: Historic; Mesoamerican significance
+          - **Japan**: Small deposits
+          - **Russia**: Limited production
+
+  - title: Imperial Jade Value
+    callout:
+      type: info
+      title: Exceptional Prices
+      text: |
+        Top-quality Imperial jade can command extraordinary prices—fine
+        cabochons have sold for over $3 million per carat at auction.
+        The combination of vivid green colour, good transparency, and
+        fine texture in large pieces is exceptionally rare.
+
+  - title: Jadeite Identification
+    content: |
+      Distinguishing jadeite from nephrite and simulants:
+    subsections:
+      - title: Jadeite vs Nephrite
+        table:
+          headers:
+            - Property
+            - Jadeite
+            - Nephrite
+          rows:
+            - ["Specific gravity", "3.30-3.38", "2.90-3.02"]
+            - ["Refractive index", "1.654-1.667", "1.606-1.632"]
+            - ["Lustre", "Vitreous to greasy", "Greasy to waxy"]
+            - ["Colours", "More vivid greens; lavender", "Greens, creams, browns"]
+            - ["Value", "Higher for fine material", "Generally lower"]
+
+      - title: Treatments
+        content: |
+          Jadeite undergoes various treatments:
+
+          - **Type A**: Natural, untreated (most valuable)
+          - **Type B**: Bleached and polymer-impregnated
+          - **Type B+C**: Bleached, dyed, and impregnated
+          - **Type C**: Dyed (less common alone)
+
+          Infrared spectroscopy detects polymer impregnation.
+
+  - title: Spodumene
+    content: |
+      Spodumene (LiAlSi₂O₆) is a lithium aluminium pyroxene with two important
+      gem varieties.
+    subsections:
+      - title: Properties
+        table:
+          headers:
+            - Property
+            - Value
+          rows:
+            - ["Crystal system", "Monoclinic"]
+            - ["Hardness", "6.5-7 Mohs"]
+            - ["Specific gravity", "3.15-3.20"]
+            - ["Refractive index", "1.660-1.676"]
+            - ["Birefringence", "0.014-0.016"]
+            - ["Cleavage", "Perfect in two directions (90°)"]
+
+      - title: Kunzite
+        content: |
+          Pink to lilac spodumene:
+
+          - **Colour cause**: Manganese (Mn³⁺)
+          - **Range**: Pale pink to intense lilac-pink
+          - **Pleochroism**: Strong (pink to colourless)
+          - **Fluorescence**: Strong orange-pink; phosphorescence
+          - **Sources**: Afghanistan, Brazil, Madagascar, USA
+
+      - title: Hiddenite
+        content: |
+          Green spodumene:
+
+          - **Colour cause**: Chromium (Cr³⁺) for true hiddenite
+          - **Rarity**: True Cr-coloured hiddenite is very rare
+          - **Source**: North Carolina (type locality); Afghanistan
+          - **Note**: Iron-coloured green spodumene is less valuable
+
+  - title: Spodumene Challenges
+    callout:
+      type: warning
+      title: Durability Concerns
+      text: |
+        Spodumene presents challenges for jewellery use:
+
+        - **Perfect cleavage** in two directions at 90°
+        - **Light sensitivity**: Some kunzite may fade
+        - **Cutting difficulty**: Cleavage makes cutting challenging
+        - **Care required**: Avoid knocks and ultrasonic
+
+        Best used in earrings, pendants, or occasional-wear rings.
+
+  - title: Chrome Diopside
+    content: |
+      Chromium-coloured diopside offers affordable green colour:
+    subsections:
+      - title: Properties
+        content: |
+          - **Formula**: CaMgSi₂O₆
+          - **Colour**: Rich green (Cr-coloured)
+          - **RI**: 1.675-1.701
+          - **SG**: 3.22-3.38
+          - **Birefringence**: 0.024-0.031
+
+      - title: Characteristics
+        content: |
+          - Vivid green rivaling emerald
+          - Generally available in smaller sizes
+          - Softer than emerald (H 5.5-6.5)
+          - Good value for intense green
+          - Source: Russia (Siberia), Pakistan
+
+      - title: Limitations
+        content: |
+          - Tends to be dark in larger sizes
+          - Relatively soft for jewellery
+          - Two cleavage directions
+          - Best in smaller stones (<1 carat)
+
+  - title: Identification Summary
+    content: |
+      Key features for pyroxene identification:
+
+      - **Jadeite**: Spot RI ~1.66; SG 3.34; aggregate structure
+      - **Kunzite/hiddenite**: RI 1.660-1.676; strong pleochroism; cleavage
+      - **Chrome diopside**: RI 1.675-1.701; Cr spectrum
+      - **All**: Monoclinic; good to perfect cleavage

@@ -1,0 +1,180 @@
+title: Zoisite
+description: Zoisite species including tanzanite, thulite, and anyolite with properties, colour change, treatments, and identification.
+order: 12
+category: species
+difficulty: intermediate
+icon: gem
+related:
+  - physical-properties
+  - optical-properties
+  - origin
+tags:
+  - tanzanite
+  - zoisite
+  - thulite
+  - anyolite
+
+sections:
+  - title: Introduction
+    content: |
+      Zoisite (Ca₂Al₃(SiO₄)₃(OH)) is a calcium aluminium silicate that produces
+      several gem varieties. Tanzanite—the blue-violet variety found only in
+      Tanzania—is by far the most important, having become one of the world's
+      most popular coloured gemstones since its discovery in 1967.
+
+  - title: Mineralogy
+    subsections:
+      - title: Crystal System and Structure
+        content: |
+          - **Crystal system**: Orthorhombic
+          - **Chemical formula**: Ca₂Al₃(SiO₄)₃(OH)
+          - **Habit**: Prismatic crystals, often striated
+          - **Cleavage**: Perfect in one direction
+          - **Related**: Epidote group member
+
+      - title: Physical Properties
+        table:
+          headers:
+            - Property
+            - Value
+          rows:
+            - ["Hardness", "6-7 Mohs"]
+            - ["Specific gravity", "3.10-3.38"]
+            - ["Refractive index", "1.691-1.700"]
+            - ["Birefringence", "0.008-0.013"]
+            - ["Optic character", "Biaxial positive"]
+            - ["Pleochroism", "Strong (trichroic in tanzanite)"]
+            - ["Lustre", "Vitreous"]
+
+  - title: Tanzanite
+    content: |
+      Tanzanite is the violet-blue variety of zoisite, coloured by vanadium.
+      Found in only one location on Earth, it has become a major gemstone
+      since its 1967 discovery.
+    subsections:
+      - title: Colour and Pleochroism
+        content: |
+          Tanzanite shows strong trichroism:
+
+          - **Axis 1**: Blue
+          - **Axis 2**: Purple/violet
+          - **Axis 3**: Brown/burgundy (often heated away)
+
+          The face-up colour depends on cutting orientation. Most stones are
+          heat-treated to remove brown and enhance violet-blue.
+
+      - title: Colour Grading
+        content: |
+          Tanzanite colour is graded by:
+
+          - **Hue**: Blue to violet (pure blue most valuable)
+          - **Saturation**: Vivid preferred
+          - **Tone**: Medium to medium-dark
+          - **"AAA" quality**: Trade term for finest blue
+
+      - title: The Single Source
+        content: |
+          Tanzanite occurs only in a small area of Tanzania:
+
+          - Merelani Hills, near Mt. Kilimanjaro
+          - Deposit approximately 7 km long, 2 km wide
+          - Geologically unique conditions
+          - Finite supply concerns affect pricing
+          - Estimates suggest 20-30 year supply at current rates
+
+  - title: Tanzanite Discovery
+    callout:
+      type: info
+      title: A Modern Gemstone
+      text: |
+        Tanzanite was discovered in 1967 by Maasai tribesman Ali Juuyawatu.
+        Initially thought to be sapphire, it was identified as gem zoisite.
+
+        Tiffany & Co. named it "tanzanite" after Tanzania and launched it
+        commercially in 1968. It quickly became one of the most popular
+        coloured gemstones despite being known for only 50+ years.
+
+  - title: Heat Treatment
+    content: |
+      Virtually all tanzanite is heat-treated:
+    subsections:
+      - title: Treatment Process
+        content: |
+          - Natural tanzanite often brownish or burgundy
+          - Heating to 500-600°C removes brown
+          - Enhances violet-blue colour
+          - Treatment is permanent and stable
+          - Assumed unless stated otherwise
+
+      - title: Detection
+        content: |
+          Detecting heat treatment in tanzanite is difficult:
+
+          - No reliable visual indicators
+          - Some natural blue exists (minority)
+          - Laboratory techniques can sometimes detect
+          - Market assumes all is heated
+
+  - title: Other Zoisite Varieties
+    subsections:
+      - title: Thulite
+        content: |
+          Pink to red opaque zoisite:
+
+          - **Colour cause**: Manganese
+          - **Character**: Opaque to translucent
+          - **Uses**: Cabochons, carvings, beads
+          - **Sources**: Norway (type locality), Austria, USA
+
+      - title: Anyolite (Ruby-in-Zoisite)
+        content: |
+          Green zoisite with ruby inclusions:
+
+          - **Character**: Green matrix with red ruby crystals
+          - **Black inclusions**: Hornblende
+          - **Source**: Tanzania
+          - **Uses**: Carvings, cabochons, decorative objects
+          - **Note**: Ruby usually not gem quality
+
+      - title: Chrome Zoisite
+        content: |
+          - Rare green transparent zoisite
+          - Coloured by chromium
+          - Very limited availability
+          - Collector interest
+
+  - title: Durability Concerns
+    callout:
+      type: warning
+      title: Care Required
+      text: |
+        Tanzanite requires careful handling:
+
+        - Hardness 6-7 (softer than sapphire)
+        - Perfect cleavage in one direction
+        - Sensitive to temperature shock
+        - Avoid ultrasonic and steam cleaning
+        - Not ideal for daily-wear rings
+        - Best for earrings, pendants, occasional rings
+
+  - title: Identification Summary
+    content: |
+      Key features for tanzanite identification:
+
+      - **RI**: 1.691-1.700 (useful range)
+      - **SG**: 3.35
+      - **Birefringence**: 0.008-0.013
+      - **Pleochroism**: Strong trichroism (diagnostic)
+      - **Single source**: Tanzania only
+      - **Spectrum**: Vanadium-related features
+
+  - title: Distinguishing Similar Gems
+    table:
+      headers:
+        - Gem
+        - Key Distinction from Tanzanite
+      rows:
+        - ["Sapphire", "Higher RI (1.76-1.77); higher SG (4.0)"]
+        - ["Iolite", "Different pleochroic colours; lower RI"]
+        - ["Spinel", "Spinel is SR (no pleochroism)"]
+        - ["Amethyst", "Lower RI (1.54-1.55); lower SG (2.65)"]

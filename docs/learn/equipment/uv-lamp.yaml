@@ -1,0 +1,177 @@
+title: The UV Lamp
+description: Using ultraviolet light for fluorescence testing, distinguishing LWUV from SWUV reactions, and safety considerations.
+order: 7
+category: equipment
+difficulty: beginner
+icon: zap
+related:
+  - optical-properties
+  - index
+  - synthetics
+tags:
+  - UV
+  - fluorescence
+  - phosphorescence
+  - identification
+
+sections:
+  - title: Introduction
+    content: |
+      Ultraviolet fluorescence can be diagnostic for certain gems and treatments.
+      Two wavelengths are used: long-wave (LWUV, 365nm) and short-wave (SWUV, 254nm).
+      Different gems may react differently to each wavelength.
+
+      While rarely definitive alone, UV testing provides valuable supporting evidence
+      for identification.
+
+  - title: LWUV vs SWUV
+    content: |
+      Understanding the two wavelengths:
+    subsections:
+      - title: Long-Wave UV (LWUV, 365nm)
+        content: |
+          - **Safer**: Less harmful to eyes
+          - **Penetrates deeper**: May show internal reactions
+          - **Often stronger reactions**: Many gems fluoresce more to LWUV
+          - **Common light sources**: LED-based lamps, Wood's lamps
+
+      - title: Short-Wave UV (SWUV, 254nm)
+        content: |
+          - **More diagnostic**: Different reactions from LWUV
+          - **Surface reactions**: Less penetration
+          - **Requires eye protection**: Can damage eyes
+          - **Requires special tubes**: Mercury vapour lamps
+
+      - title: Why Use Both
+        content: |
+          Testing with both wavelengths is important because:
+
+          - Some gems fluoresce only to one wavelength
+          - Different colours may appear under each
+          - The pattern of LWUV vs SWUV reaction can be diagnostic
+          - Treatments may show different reactions to each
+
+  - title: Testing Procedure
+    content: |
+      For accurate fluorescence observation:
+    subsections:
+      - title: Setup Requirements
+        content: |
+          - **Complete darkness**: Essential for accurate observation
+          - **UV cabinet or darkroom**: Blocks ambient light
+          - **Clean gems**: Oils and dirt can fluoresce
+          - **White background**: For consistent observation
+
+      - title: Observation Protocol
+        content: |
+          1. Place gem on white paper in darkness
+          2. Observe under LWUV first (safer)
+          3. Note colour, intensity, and distribution
+          4. Switch to SWUV (use eye protection)
+          5. Note any differences from LWUV
+          6. Check for phosphorescence after UV removed
+          7. Document all observations
+
+      - title: Describing Fluorescence
+        content: |
+          Record fluorescence systematically:
+
+          - **Colour**: Blue, red, yellow, green, orange, white
+          - **Intensity**: Inert, weak, moderate, strong, very strong
+          - **Distribution**: Even, patchy, zoned
+          - **LWUV vs SWUV**: Note differences
+
+  - title: Safety Considerations
+    callout:
+      type: warning
+      title: UV Safety
+      text: |
+        UV light requires careful handling:
+
+        - **Never look directly at UV light source**
+        - **Wear UV-blocking glasses**, especially with SWUV
+        - **Limit exposure time** to both you and the gems
+        - **Keep children away** from UV equipment
+        - **SWUV is particularly hazardous**: Can cause corneal burns
+
+        Even brief SWUV exposure can damage eyes. Always use appropriate protection.
+
+  - title: Diagnostic Fluorescence Reactions
+    table:
+      caption: UV Fluorescence by Gemstone
+      headers:
+        - Gemstone
+        - LWUV
+        - SWUV
+        - Notes
+      rows:
+        - ["Diamond (most)", "Blue", "Blue (may differ)", "Strong blue common; some inert"]
+        - ["Ruby (natural)", "Strong red", "Moderate red", "Due to Cr content"]
+        - ["Ruby (synthetic)", "Very strong red", "Strong red", "Often stronger than natural"]
+        - ["Emerald (natural)", "Usually inert", "Inert", "Occasionally weak red"]
+        - ["Emerald (synthetic)", "Often red", "Red", "Hydrothermal may show less"]
+        - ["Natural pearl", "Usually inert", "Inert or weak", "Variable"]
+        - ["Cultured pearl", "Often bluish", "Variable", "May show different zones"]
+        - ["Kunzite", "Orange/pink", "Orange/pink", "Also phosphorescent"]
+        - ["Amber (Baltic)", "Blue-white", "Variable", "Blue fluorescence typical"]
+        - ["Opal", "Variable", "Variable", "White to green common"]
+        - ["Synthetic spinel (colourless)", "Blue-white", "Blue-white", "Used as diamond simulant"]
+
+  - title: Phosphorescence
+    content: |
+      Some gems continue glowing after UV light is removed:
+    subsections:
+      - title: What Is Phosphorescence?
+        content: |
+          Phosphorescence is delayed fluorescence—the gem continues to emit light
+          for seconds to minutes after the UV source is removed.
+
+          This "afterglow" can be diagnostic for certain materials.
+
+      - title: Phosphorescent Gems
+        table:
+          headers:
+            - Gem
+            - Phosphorescence
+            - Duration
+          rows:
+            - ["Kunzite", "Orange-pink", "Several seconds to minutes"]
+            - ["Diamond (some)", "Variable colours", "Seconds"]
+            - ["Synthetic spinel", "Blue-white", "Brief"]
+            - ["Calcite", "Pink or white", "Variable"]
+            - ["Some pearls", "Weak", "Brief"]
+
+  - title: Fluorescence in Identification
+    content: |
+      Practical applications of UV testing:
+    subsections:
+      - title: Natural vs Synthetic
+        content: |
+          - **Synthetic ruby**: Usually stronger fluorescence than natural
+          - **Synthetic emerald**: May fluoresce red (natural usually inert)
+          - **Synthetic spinel**: Strong blue-white fluorescence
+
+      - title: Treatment Detection
+        content: |
+          - **Glass filling**: May fluoresce differently from host
+          - **Polymer treatment**: Some polymers fluoresce
+          - **Coating detection**: Coating may have different reaction
+
+      - title: Diamond Screening
+        content: |
+          Fluorescence helps with diamond identification:
+
+          - Strong blue fluorescence suggests natural Type Ia
+          - Unusual colours may indicate treatment or synthetic
+          - CVD diamonds often show orange fluorescence
+          - HPHT-treated may show different patterns
+
+  - title: Limitations
+    content: |
+      UV testing has important limitations:
+
+      - **Not definitive**: Similar gems may show similar reactions
+      - **Variable within species**: Not all specimens react the same
+      - **Affected by treatments**: Some treatments alter fluorescence
+      - **Dirty surfaces**: Can give false readings
+      - **Coloured stones**: Body colour may mask weak fluorescence

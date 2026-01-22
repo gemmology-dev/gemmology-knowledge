@@ -1,0 +1,148 @@
+title: Adularescence
+description: Adularescence in moonstone including cause, types of moonstone, quality factors, and distinction from labradorescence.
+order: 4
+category: phenomena
+difficulty: intermediate
+icon: moon
+related:
+  - index
+  - feldspar
+  - labradorescence
+tags:
+  - adularescence
+  - moonstone
+  - feldspar
+  - schiller
+
+sections:
+  - title: Introduction
+    content: |
+      Adularescence is the soft, billowy, bluish-white glow that moves across moonstone.
+      It appears to float just below the surface and has a distinctly ethereal quality,
+      unlike the sharper flashes of labradorescence.
+
+      Named after Mount Adula in the Swiss Alps, where fine moonstone was historically
+      found, adularescence is the defining phenomenon of gem moonstone.
+
+  - title: Cause
+    content: |
+      The physics behind adularescence:
+    subsections:
+      - title: Feldspar Structure
+        content: |
+          Moonstone is a feldspar with alternating layers of orthoclase and albite
+          created during slow cooling (exsolution). When these layers are thin
+          enough (approaching the wavelength of light), they scatter light through
+          interference.
+
+      - title: Layer Thickness and Colour
+        content: |
+          - **Thin layers** (~0.1 μm): Produce blue schiller (most valued)
+          - **Thicker layers**: Produce white schiller
+          - **Very thick layers**: No adularescence
+
+          The thinner the layers, the shorter the wavelength scattered,
+          producing the prized blue glow.
+
+  - title: Types of Moonstone
+    table:
+      headers:
+        - Type
+        - Feldspar
+        - Adularescence
+        - Body Colour
+      rows:
+        - ["Classical moonstone", "Orthoclase", "Blue-white schiller", "Colourless to grey"]
+        - ["Rainbow moonstone", "Labradorite", "Multicoloured flashes", "Translucent white"]
+        - ["Peach moonstone", "Orthoclase", "White schiller", "Peach to orange"]
+        - ["Grey moonstone", "Orthoclase", "Blue schiller", "Grey body"]
+
+  - title: Rainbow Moonstone Note
+    callout:
+      type: info
+      title: Actually Labradorite
+      text: |
+        "Rainbow moonstone" is actually a variety of labradorite (plagioclase
+        feldspar), not orthoclase moonstone. It shows multicoloured flashes
+        (labradorescence) rather than true adularescence.
+
+        True orthoclase moonstone shows a single-colour schiller (usually
+        blue or white), not rainbow flashes.
+
+  - title: Quality Factors
+    content: |
+      Assessing moonstone quality:
+    subsections:
+      - title: Schiller Quality
+        table:
+          headers:
+            - Factor
+            - Premium Quality
+          rows:
+            - ["Schiller colour", "Blue (most valued)"]
+            - ["Intensity", "Strong, visible adularescence"]
+            - ["Centering", "Schiller centred on dome"]
+            - ["Coverage", "Covers most of dome surface"]
+            - ["Movement", "Smooth, floating motion"]
+
+      - title: Body Quality
+        content: |
+          - **Transparency**: More transparent = higher value
+          - **Body colour**: Colourless to light grey preferred
+          - **Clarity**: Fewer inclusions better
+          - **Cut**: Well-proportioned cabochon
+
+  - title: Sources
+    table:
+      headers:
+        - Origin
+        - Characteristics
+      rows:
+        - ["Sri Lanka", "Finest blue moonstone; historic source"]
+        - ["India", "Large production; variable quality"]
+        - ["Myanmar", "Some fine material"]
+        - ["Tanzania", "Good quality available"]
+        - ["Madagascar", "Various qualities"]
+
+  - title: Adularescence vs Labradorescence
+    comparison:
+      items:
+        - title: Adularescence (Moonstone)
+          variant: default
+          points:
+            - Single-colour glow (blue or white)
+            - Soft, billowy appearance
+            - Appears to float below surface
+            - Caused by layer interference
+            - Orthoclase feldspar
+        - title: Labradorescence (Labradorite)
+          variant: default
+          points:
+            - Multiple spectral colours
+            - Sharp, distinct flashes
+            - Appears on surface
+            - Caused by twinning interference
+            - Plagioclase feldspar
+
+  - title: Cutting for Adularescence
+    content: |
+      Proper orientation is critical:
+
+      - Cut as cabochon (faceting destroys effect)
+      - Orient to show schiller through dome
+      - Appropriate dome height
+      - Symmetrical shape for even display
+      - Polish quality important for clarity
+
+  - title: Care Considerations
+    callout:
+      type: warning
+      title: Feldspar Fragility
+      text: |
+        Moonstone has perfect cleavage in two directions:
+
+        - Vulnerable to hard knocks
+        - Best in protective settings
+        - Suitable for earrings, pendants, occasional rings
+        - Avoid ultrasonic cleaning
+        - Hardness only 6-6.5

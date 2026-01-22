@@ -1,0 +1,174 @@
+title: Burmese Gems (Myanmar)
+description: Burmese ruby, sapphire, spinel, and jade from Mogok and other regions with characteristics, inclusions, and market position.
+order: 3
+category: origin
+difficulty: advanced
+icon: gem
+related:
+  - index
+  - kashmir
+  - corundum
+  - spinel
+tags:
+  - burma
+  - myanmar
+  - mogok
+  - ruby
+  - pigeon-blood
+
+sections:
+  - title: Introduction
+    content: |
+      Myanmar (Burma) produces some of the world's finest gems, particularly ruby.
+      The Mogok Stone Tract has been mined for over 1,000 years and remains the
+      benchmark for ruby quality. "Pigeon blood" originally described only Mogok
+      rubies.
+
+      Beyond ruby, Burma produces exceptional sapphires, spinels, and jadeite.
+
+  - title: Mogok Ruby
+    content: |
+      Mogok produces the world's finest rubies:
+    subsections:
+      - title: Pigeon Blood Colour
+        content: |
+          - **Ideal**: Vivid red with slight blue modifier
+          - **Tone**: Medium to medium-dark
+          - **Saturation**: High without appearing dark
+          - **Fluorescence**: Strong red (low iron content)
+          - **Effect**: Glows in daylight
+
+      - title: Why Mogok Excels
+        content: |
+          - Marble host rock (low iron environment)
+          - Pure chromium colour with minimal iron
+          - Strong fluorescence adds to colour
+          - Often clean or with silk that adds softness
+
+  - title: Pigeon Blood Term
+    callout:
+      type: info
+      title: The Ideal Colour
+      text: |
+        "Pigeon blood" describes the ideal ruby colour: vivid red with a slight
+        blue modifier, medium-dark tone, and strong saturation. The term
+        originally applied only to Mogok rubies.
+
+        Today, major laboratories have their own criteria—some will apply the
+        term to exceptional rubies regardless of origin. The designation
+        adds significant value when certified.
+
+  - title: Mogok Ruby Inclusions
+    table:
+      headers:
+        - Inclusion
+        - Description
+      rows:
+        - ["Short rutile silk", "Fine, short needles (may dissolve if heated)"]
+        - ["Calcite crystals", "Rhombohedral; may be dissolved"]
+        - ["Apatite", "Hexagonal prisms"]
+        - ["Swirl patterns", "Flow-like growth ('treacle')"]
+        - ["Sphene", "Small elongated crystals"]
+        - ["Negative crystals", "Angular voids with fluid"]
+        - ["Fingerprints", "Healed fractures"]
+
+  - title: Mong Hsu Ruby
+    content: |
+      Myanmar's other major ruby source:
+
+      - **Location**: Shan State, discovered 1990s
+      - **Character**: Often dark cores with saturated edges
+      - **Treatment**: Most material heat-treated
+      - **Volume**: Major production; lower quality average
+      - **Value**: Less than Mogok for comparable quality
+
+  - title: Burmese Sapphire
+    content: |
+      Mogok also produces fine sapphires:
+    subsections:
+      - title: Characteristics
+        content: |
+          - **Colour**: Royal blue; vivid saturation
+          - **Fluorescence**: Often more than Ceylon
+          - **Clarity**: Variable; can be very clean
+          - **Premium**: Over Ceylon, under Kashmir
+
+      - title: Inclusions
+        content: |
+          Similar to Mogok ruby:
+          - Short rutile silk
+          - Calcite, apatite, zircon
+          - Colour zoning
+          - Fingerprints
+
+  - title: Burmese Spinel
+    content: |
+      Exceptional spinels from Mogok:
+    subsections:
+      - title: Red Spinel
+        content: |
+          - Historically confused with ruby
+          - Fine red to pink colours
+          - Clean material available
+          - Growing collector interest
+
+      - title: Market Position
+        content: |
+          - Premium source for red/pink spinel
+          - Competes with Tanzania (Mahenge)
+          - Unheated; natural colour
+          - Increasing prices for fine examples
+
+  - title: Burmese Jadeite
+    content: |
+      Myanmar produces the world's finest jadeite:
+    subsections:
+      - title: Imperial Jade
+        content: |
+          - **Location**: Kachin State (Hpakant region)
+          - **Quality**: Finest imperial green
+          - **Market**: Dominates high-end jadeite trade
+          - **Value**: Exceptional pieces exceed emerald prices
+
+      - title: Characteristics
+        content: |
+          - Vivid, saturated green (chromium)
+          - Fine, even texture
+          - Semi-transparent
+          - Traditional Asian market dominance
+
+  - title: Ethical Considerations
+    callout:
+      type: warning
+      title: Sourcing Concerns
+      text: |
+        Myanmar gem trade has faced sanctions and ethical concerns:
+
+        - US imposed sanctions (2008-2016, reinstated 2021)
+        - Concerns about labour practices and revenue use
+        - Chain of custody difficult to verify
+        - Some buyers specifically seek or avoid Burmese origin
+        - Disclosure requirements vary by jurisdiction
+
+  - title: Thai and Cambodian Ruby
+    content: |
+      Related regional production:
+    subsections:
+      - title: Characteristics
+        content: |
+          - **Darker tone**: Often darker than Burmese
+          - **Brownish modifier**: Higher iron content
+          - **Less fluorescence**: Iron quenches fluorescence
+          - **Dense silk**: Extensive rutile networks
+
+      - title: Distinction from Mogok
+        table:
+          headers:
+            - Feature
+            - Mogok
+            - Thai/Cambodian
+          rows:
+            - ["Fluorescence", "Strong red", "Weak to moderate"]
+            - ["Colour", "Vivid red", "Darker, brownish"]
+            - ["Iron content", "Low", "High"]
+            - ["Silk", "Short, may dissolve", "Dense networks"]

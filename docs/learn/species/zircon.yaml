@@ -1,0 +1,204 @@
+title: Zircon
+description: Zircon species including blue, colourless, and fancy colours with metamict types, properties, treatments, and identification.
+order: 10
+category: species
+difficulty: intermediate
+icon: gem
+related:
+  - physical-properties
+  - optical-properties
+  - treatments
+tags:
+  - zircon
+  - blue-zircon
+  - metamict
+  - high-zircon
+
+sections:
+  - title: Introduction
+    content: |
+      Zircon (ZrSiO₄) is a zirconium silicate with exceptional brilliance and
+      dispersion. Often confused with cubic zirconia (CZ), natural zircon is a
+      completely different material—one of the oldest minerals on Earth, with
+      specimens dating back 4.4 billion years.
+
+      The December birthstone in its blue form, zircon offers diamond-like
+      sparkle at a fraction of the price.
+
+  - title: Mineralogy
+    subsections:
+      - title: Crystal System and Structure
+        content: |
+          - **Crystal system**: Tetragonal
+          - **Chemical formula**: ZrSiO₄
+          - **Habit**: Tetragonal prisms with pyramidal terminations
+          - **Cleavage**: Imperfect
+          - **Fracture**: Conchoidal
+
+      - title: Physical Properties
+        table:
+          headers:
+            - Property
+            - High Zircon
+            - Low Zircon
+          rows:
+            - ["Hardness", "7.5 Mohs", "6.0 Mohs"]
+            - ["Specific gravity", "4.6-4.7", "3.9-4.1"]
+            - ["Refractive index", "1.925-1.984", "1.78-1.85"]
+            - ["Birefringence", "0.059", "Lower to nil"]
+            - ["Dispersion", "0.039 (high)", "Lower"]
+
+  - title: Metamict Zircon
+    content: |
+      Zircon contains trace radioactive elements (uranium, thorium) that cause
+      internal radiation damage over geological time.
+    subsections:
+      - title: The Metamict Process
+        content: |
+          - Radioactive decay damages crystal structure
+          - Progressive breakdown from crystalline to amorphous
+          - Properties change as structure deteriorates
+          - Process takes millions to billions of years
+
+      - title: Zircon Types
+        table:
+          headers:
+            - Type
+            - Crystal State
+            - Properties
+          rows:
+            - ["High zircon", "Fully crystalline", "Full properties; best for gems"]
+            - ["Intermediate", "Partially damaged", "Intermediate properties"]
+            - ["Low zircon (metamict)", "Largely amorphous", "Reduced RI, SG, birefringence"]
+
+      - title: Restoration
+        content: |
+          Heat treatment can restore metamict zircon:
+
+          - Heating to ~1000°C can recrystallize the structure
+          - Restores high RI, SG, birefringence
+          - Also changes colour in many cases
+          - Process is permanent and stable
+
+  - title: Colour Varieties
+    subsections:
+      - title: Blue Zircon
+        content: |
+          The most popular zircon colour:
+
+          - **Origin**: Heat treatment of brown zircon
+          - **Colour**: Light to vivid blue
+          - **Treatment**: Universal (virtually all blue zircon is heated)
+          - **Stability**: Permanent
+          - **Sources**: Cambodia, Sri Lanka
+
+      - title: Colourless Zircon
+        content: |
+          Excellent diamond simulant:
+
+          - **High dispersion**: 0.039 (approaches diamond's 0.044)
+          - **High RI**: Creates strong brilliance
+          - **Historic use**: Diamond substitute before CZ
+          - **Distinction from diamond**: Lower hardness, high birefringence
+
+      - title: Other Colours
+        table:
+          headers:
+            - Colour
+            - Notes
+          rows:
+            - ["Golden/yellow", "Natural or heat-treated"]
+            - ["Brown", "Common natural colour; starting material"]
+            - ["Green", "Often low/metamict zircon"]
+            - ["Red", "Rare; highly valued"]
+            - ["Orange", "Attractive variety"]
+
+  - title: High Birefringence
+    callout:
+      type: tip
+      title: Doubling Effect
+      text: |
+        Zircon's high birefringence (0.059) creates visible doubling of back
+        facets when viewed through the table. This diagnostic feature:
+
+        - Distinguishes zircon from diamond (SR)
+        - Visible with 10× loupe
+        - Creates slightly "fuzzy" appearance
+        - More obvious in larger stones
+
+        The doubling appears as duplicate edges of pavilion facets.
+
+  - title: Blue Zircon Treatment
+    content: |
+      Understanding blue zircon treatment:
+    subsections:
+      - title: Treatment Process
+        content: |
+          - Brown Cambodian/Sri Lankan zircon selected
+          - Heated in reducing atmosphere (oxygen-free)
+          - Temperatures around 900-1000°C
+          - Colour change to blue occurs
+          - Process also restores metamict material
+
+      - title: Stability
+        content: |
+          - Colour is permanent
+          - Does not fade with light or heat
+          - Treatment universally accepted
+          - Disclosure standard but not always practiced
+          - Assume all blue zircon is heated
+
+  - title: Characteristic Inclusions
+    content: |
+      Zircon inclusions can be diagnostic:
+
+      - **Parallel growth lines**: Common in natural zircon
+      - **Doublet reflections**: All inclusions appear doubled
+      - **"Treacle" effect**: Metamict areas may show different texture
+      - **Radiation halos**: Zircon crystals in other gems show halos
+      - **Mineral inclusions**: Apatite, monazite common
+
+  - title: Zircon Halos
+    callout:
+      type: info
+      title: Diagnostic in Other Gems
+      text: |
+        When zircon appears as an inclusion in other gems (sapphire, garnet),
+        its radioactive content creates tension halos or dark haloes around
+        the crystal. These "zircon halos" help identify the host gem's
+        formation conditions and sometimes its geographic origin.
+
+  - title: Sources
+    table:
+      headers:
+        - Origin
+        - Characteristics
+      rows:
+        - ["Cambodia (Ratanakiri)", "Premier blue zircon source"]
+        - ["Sri Lanka", "All colours; historic source"]
+        - ["Myanmar", "Red, golden, colourless"]
+        - ["Australia", "Ancient zircons; scientific importance"]
+        - ["Tanzania", "Various colours"]
+        - ["Vietnam", "Blue, golden"]
+
+  - title: Identification Summary
+    content: |
+      Key features for zircon identification:
+
+      - **RI**: 1.925-1.984 (high; often over limit)
+      - **SG**: 4.6-4.7 (high)
+      - **Birefringence**: 0.059 (very high; visible doubling)
+      - **Dispersion**: 0.039 (high fire)
+      - **Spectrum**: Characteristic uranium lines throughout
+      - **Doubling**: Diagnostic with loupe
+
+  - title: Distinguishing Similar Gems
+    table:
+      headers:
+        - Gem
+        - Key Distinction from Zircon
+      rows:
+        - ["Diamond", "Diamond is SR (no doubling); higher hardness"]
+        - ["Cubic Zirconia", "CZ is SR; higher SG (5.6-6.0)"]
+        - ["Sapphire", "Sapphire has lower RI (1.76-1.77)"]
+        - ["Topaz", "Topaz has lower RI (1.62), lower SG (3.53)"]

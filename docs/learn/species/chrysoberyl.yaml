@@ -1,0 +1,206 @@
+title: Chrysoberyl
+description: Chrysoberyl species including alexandrite and cat's eye chrysoberyl (cymophane) with properties, colour change, chatoyancy, and identification.
+order: 9
+category: species
+difficulty: intermediate
+icon: gem
+related:
+  - physical-properties
+  - optical-properties
+  - phenomena
+tags:
+  - chrysoberyl
+  - alexandrite
+  - cats-eye
+  - cymophane
+  - colour-change
+
+sections:
+  - title: Introduction
+    content: |
+      Chrysoberyl (BeAl₂O₄) is a beryllium aluminate that produces two of the most
+      remarkable gem phenomena: alexandrite's colour change and the finest cat's eye
+      effect. Despite the name, chrysoberyl is not related to beryl.
+
+      Alexandrite and fine cat's eye chrysoberyl are among the rarest and most
+      valuable coloured stones.
+
+  - title: Mineralogy
+    subsections:
+      - title: Crystal System and Structure
+        content: |
+          - **Crystal system**: Orthorhombic
+          - **Chemical formula**: BeAl₂O₄
+          - **Habit**: Tabular crystals, often cyclic twins
+          - **Cleavage**: Good in one direction
+          - **Twinning**: Trillings (three-part twins) common
+
+      - title: Physical Properties
+        table:
+          headers:
+            - Property
+            - Value
+          rows:
+            - ["Hardness", "8.5 Mohs"]
+            - ["Specific gravity", "3.71-3.75"]
+            - ["Refractive index", "1.746-1.755"]
+            - ["Birefringence", "0.008-0.010"]
+            - ["Optic character", "Biaxial positive"]
+            - ["Pleochroism", "Strong (trichroic) in alexandrite"]
+            - ["Lustre", "Vitreous"]
+
+  - title: Ordinary Chrysoberyl
+    content: |
+      Non-phenomenal chrysoberyl occurs in various colours:
+
+      - **Yellow to golden**: Most common gem chrysoberyl
+      - **Green**: Without colour change
+      - **Brown**: Less desirable
+      - **Colourless**: Rare
+
+      Properties: Hard, durable, good brilliance. Less valuable than
+      alexandrite or cat's eye but an excellent gem material.
+
+  - title: Alexandrite
+    content: |
+      Alexandrite is colour-change chrysoberyl, one of the most remarkable
+      and valuable gem phenomena.
+    subsections:
+      - title: The Colour Change
+        content: |
+          - **Daylight/fluorescent**: Green to blue-green
+          - **Incandescent**: Red to purple-red
+          - **Cause**: Chromium (Cr³⁺) absorption spectrum
+
+          The alexandrite effect occurs because chromium creates a
+          transmission window between red and green, and light sources
+          with different spectral compositions reveal different colours.
+
+      - title: Grading Colour Change
+        content: |
+          Colour change is assessed as percentage shift:
+
+          - **100%**: Complete change (green ↔ red, no overlap)
+          - **75-99%**: Strong colour change
+          - **50-74%**: Moderate colour change
+          - **<50%**: Weak colour change
+
+          Both colours should be attractive; muddy colours reduce value.
+
+      - title: Major Sources
+        table:
+          headers:
+            - Origin
+            - Characteristics
+            - Market Position
+          rows:
+            - ["Russia (Urals)", "Classic green/red change; historic", "Highest premium (depleted)"]
+            - ["Brazil", "Good change; more bluish-green", "Major current source"]
+            - ["Sri Lanka", "Often yellowish; variable change", "Historic source"]
+            - ["Tanzania", "Some fine material", "Limited production"]
+            - ["India", "Variable quality", "Emerging source"]
+
+      - title: Trichroism
+        content: |
+          Alexandrite shows strong trichroism:
+
+          - Green / orange / purple-red in three directions
+          - Visible with dichroscope
+          - Affects face-up colour depending on cut orientation
+          - Diagnostic feature for natural alexandrite
+
+  - title: Russian Alexandrite
+    callout:
+      type: info
+      title: The Classic Standard
+      text: |
+        Russian (Ural) alexandrite discovered in 1830 set the standard for
+        colour change. The green matched the Russian military colour; the
+        red honoured the Tsar.
+
+        Fine Russian alexandrites are essentially unavailable today. Stones
+        with documented Russian origin command extraordinary premiums when
+        they appear at auction.
+
+  - title: Cat's Eye Chrysoberyl
+    content: |
+      Chrysoberyl cat's eye (cymophane) shows the finest chatoyancy of any gem.
+    subsections:
+      - title: The Chatoyant Band
+        content: |
+          - **Cause**: Parallel silk (needle inclusions)
+          - **Effect**: Single sharp band of light
+          - **Quality**: Sharpest, most defined of any cat's eye
+          - **Cut**: Must be en cabochon perpendicular to needles
+
+      - title: The Milk and Honey Effect
+        content: |
+          When lit from one side, fine cat's eye shows:
+
+          - **"Milk" side**: Lighter, more opaque
+          - **"Honey" side**: Darker, more transparent
+          - Indicates dense, even silk distribution
+          - Sign of highest quality
+
+      - title: Quality Factors
+        table:
+          headers:
+            - Factor
+            - Premium Quality
+          rows:
+            - ["Eye sharpness", "Crisp, knife-edge line"]
+            - ["Eye movement", "Smooth, fluid motion"]
+            - ["Body colour", "Honey yellow to greenish"]
+            - ["Milk and honey", "Strong contrast when side-lit"]
+            - ["Transparency", "Translucent (not too opaque)"]
+
+      - title: Nomenclature
+        content: |
+          Only chrysoberyl may be called simply "cat's eye"—all other
+          chatoyant gems require qualification:
+
+          - "Cat's eye" = chrysoberyl cat's eye
+          - "Quartz cat's eye" = chatoyant quartz
+          - "Tourmaline cat's eye" = chatoyant tourmaline
+
+  - title: Cat's Eye Value
+    callout:
+      type: info
+      title: Premier Chatoyant Gem
+      text: |
+        Fine cat's eye chrysoberyl with sharp eye, milk and honey effect,
+        and good honey body colour is extremely valuable. Large stones
+        (over 5 carats) with excellent eyes can rival alexandrite prices.
+
+        The term "cymophane" (Greek for "wavelike appearance") is sometimes
+        used for gem-quality cat's eye chrysoberyl.
+
+  - title: Synthetic and Simulants
+    content: |
+      Be aware of synthetics and simulants:
+    subsections:
+      - title: Synthetic Alexandrite
+        content: |
+          - Czochralski-pulled alexandrite exists
+          - Shows colour change but often different colours
+          - May show curved striae or gas bubbles
+          - Flux-grown synthetic also produced
+
+      - title: Colour-Change Simulants
+        content: |
+          - Synthetic corundum with colour change
+          - Synthetic spinel with colour change
+          - Both lack chrysoberyl's RI and SG
+          - Chemical composition differs
+
+  - title: Identification Summary
+    content: |
+      Key features for chrysoberyl identification:
+
+      - **RI**: 1.746-1.755 (distinctive range)
+      - **SG**: 3.73 (characteristic)
+      - **Birefringence**: 0.008-0.010
+      - **Hardness**: 8.5 (very hard)
+      - **Trichroism**: Strong in alexandrite
+      - **Colour change**: Diagnostic for alexandrite
+      - **Chatoyancy**: Superior in cat's eye

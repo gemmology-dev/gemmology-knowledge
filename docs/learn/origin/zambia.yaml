@@ -1,0 +1,133 @@
+title: Zambian Emerald
+description: Zambian emerald characteristics, inclusions, comparison with Colombian, and market position.
+order: 6
+category: origin
+difficulty: advanced
+icon: gem
+related:
+  - index
+  - colombia
+  - beryl
+tags:
+  - zambia
+  - emerald
+  - kagem
+  - african
+
+sections:
+  - title: Introduction
+    content: |
+      Zambia has become the world's second-largest emerald producer, with the
+      Kagem mine being the most significant operation. Zambian emeralds have
+      distinct characteristics from Colombian material, often offering better
+      clarity at competitive prices.
+
+      The Zambian emerald trade has grown significantly since the 1970s.
+
+  - title: Major Sources
+    content: |
+      Zambian emerald production:
+    subsections:
+      - title: Kagem Mine
+        content: |
+          - **Location**: Lufwanyama District, Copperbelt Province
+          - **Ownership**: Gemfields (75%), Zambian government (25%)
+          - **Production**: World's single largest emerald mine
+          - **Character**: Consistent supply; various qualities
+
+      - title: Other Operations
+        content: |
+          - Grizzly Mining (various mines)
+          - Artisanal mining continues
+          - Multiple smaller operations
+
+  - title: Characteristics
+    content: |
+      Zambian emerald distinctive features:
+    subsections:
+      - title: Colour
+        content: |
+          - **Hue**: Bluish-green to green
+          - **Tone**: Medium to medium-dark
+          - **Character**: Cooler colour than Colombian
+          - **Chromophores**: Chromium and iron
+
+      - title: Clarity
+        content: |
+          - Generally cleaner than Colombian
+          - Eye-clean stones more available
+          - Good transparency common
+          - Inclusions when present are different type
+
+  - title: Zambian Emerald Inclusions
+    table:
+      headers:
+        - Inclusion
+        - Description
+      rows:
+        - ["Actinolite needles", "Amphibole needles and rods"]
+        - ["Phlogopite mica", "Bronze-coloured platy flakes"]
+        - ["Magnetite", "Opaque black crystals"]
+        - ["Two-phase inclusions", "Liquid + gas (no halite)"]
+        - ["Blocky crystals", "Various mineral crystals"]
+        - ["Growth tubes", "Parallel channels"]
+
+  - title: No Three-Phase
+    callout:
+      type: tip
+      title: Key Distinction from Colombia
+      text: |
+        Zambian emeralds do NOT contain the three-phase inclusions (liquid +
+        gas + halite) diagnostic of Colombian origin. They show two-phase
+        inclusions (liquid + gas only).
+
+        This is one of the primary features distinguishing Zambian from
+        Colombian emeralds under magnification.
+
+  - title: Colombian vs Zambian
+    comparison:
+      items:
+        - title: Colombian
+          variant: default
+          points:
+            - Pure green (warmer)
+            - Three-phase inclusions
+            - More included typically
+            - Calcite, pyrite common
+            - Higher premiums
+        - title: Zambian
+          variant: default
+          points:
+            - Bluish-green (cooler)
+            - Two-phase inclusions
+            - Often cleaner
+            - Actinolite, mica common
+            - Better value
+
+  - title: Market Position
+    content: |
+      Zambia's place in the emerald market:
+    subsections:
+      - title: Strengths
+        content: |
+          - Consistent quality supply
+          - Better clarity available
+          - More transparent market (Gemfields auctions)
+          - Ethical sourcing certified
+          - Competitive pricing
+
+      - title: Value Comparison
+        content: |
+          - 20-50% lower than comparable Colombian
+          - Gap narrowing for fine stones
+          - Increasing market acceptance
+          - Some buyers specifically seek Zambian
+
+  - title: Treatments
+    content: |
+      Treatment status in Zambian emeralds:
+
+      - **Oiling**: Standard practice, as with all emeralds
+      - **Resin filling**: Some material treated
+      - **Generally less**: Cleaner rough needs less treatment
+      - **Disclosure**: Same standards as Colombian

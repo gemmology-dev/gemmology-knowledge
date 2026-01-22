@@ -1,0 +1,240 @@
+title: Beryl
+description: Beryl species including emerald, aquamarine, morganite, heliodor, goshenite, and red beryl with properties, inclusions, and treatments.
+order: 2
+category: species
+difficulty: intermediate
+icon: gem
+related:
+  - physical-properties
+  - optical-properties
+  - origin
+  - treatments
+tags:
+  - emerald
+  - aquamarine
+  - morganite
+  - beryl
+  - heliodor
+
+sections:
+  - title: Introduction
+    content: |
+      Beryl (Be₃Al₂Si₆O₁₈) is a beryllium aluminium silicate that produces several
+      important gem varieties. Emerald and aquamarine are the most significant, but
+      morganite, heliodor, and red beryl also have strong market positions.
+
+      Despite sharing the same basic chemistry and structure, beryl varieties differ
+      dramatically in value based on colour, clarity, and origin.
+
+  - title: Mineralogy
+    subsections:
+      - title: Crystal System and Structure
+        content: |
+          - **Crystal system**: Hexagonal
+          - **Chemical formula**: Be₃Al₂Si₆O₁₈
+          - **Habit**: Hexagonal prisms, often elongated
+          - **Cleavage**: Imperfect basal (rarely seen)
+          - **Fracture**: Conchoidal to uneven
+
+      - title: Physical Properties
+        table:
+          headers:
+            - Property
+            - Value
+          rows:
+            - ["Hardness", "7.5-8 Mohs"]
+            - ["Specific gravity", "2.67-2.78"]
+            - ["Refractive index", "1.577-1.583"]
+            - ["Birefringence", "0.005-0.009"]
+            - ["Optic character", "Uniaxial negative"]
+            - ["Pleochroism", "Weak to distinct (varies by variety)"]
+            - ["Lustre", "Vitreous"]
+
+  - title: Emerald
+    content: |
+      Emerald is the green variety of beryl, coloured by chromium and/or vanadium.
+      It is one of the "big three" coloured stones alongside ruby and sapphire.
+    subsections:
+      - title: Colour and Chromophores
+        content: |
+          - **Primary chromophore**: Chromium (Cr³⁺)
+          - **Secondary**: Vanadium (V³⁺) in some sources
+          - **Iron influence**: Can modify towards bluish-green
+          - **Ideal colour**: Vivid, medium-dark green without excessive blue
+
+          Some authorities require chromium for true emerald designation, while
+          others accept vanadium-coloured green beryl as emerald.
+
+      - title: Major Sources
+        table:
+          headers:
+            - Origin
+            - Characteristics
+            - Market Position
+          rows:
+            - ["Colombia (Muzo)", "Pure green, three-phase inclusions", "Highest premiums"]
+            - ["Colombia (Chivor)", "Slightly bluish, often cleaner", "High value"]
+            - ["Zambia", "Bluish-green, better clarity", "Second largest producer"]
+            - ["Brazil", "Variable quality, often lighter", "Significant volume"]
+            - ["Ethiopia", "Good colour, often more transparent", "Emerging source"]
+            - ["Afghanistan", "Fine colour, historical source", "Limited production"]
+
+      - title: The Jardín
+        content: |
+          Emeralds are expected to have inclusions—the French word "jardín" (garden)
+          describes the typical internal landscape:
+
+          - Inclusions are more accepted than in other gems
+          - "Eye-clean" emeralds command significant premiums
+          - Heavy inclusions can affect durability
+          - Inclusions help confirm natural origin
+
+  - title: Colombian Emerald Signature
+    callout:
+      type: info
+      title: Three-Phase Inclusions
+      text: |
+        The three-phase inclusion (liquid + gas bubble + halite cube) is virtually
+        diagnostic for Colombian origin. The halite crystal can sometimes be seen
+        to dissolve when heated and recrystallize on cooling.
+
+        Additional Colombian indicators: calcite rhombs, pyrite crystals, jagged
+        growth tubes, and characteristic fingerprint patterns.
+
+  - title: Aquamarine
+    content: |
+      Aquamarine is the blue to blue-green variety of beryl, coloured by iron.
+      It is the most widely available beryl variety.
+    subsections:
+      - title: Colour Characteristics
+        content: |
+          - **Chromophore**: Iron (Fe²⁺)
+          - **Colour range**: Light blue to blue-green to greenish-blue
+          - **Most valued**: Medium-dark saturated blue (Santa Maria type)
+          - **Pleochroism**: Weak (colourless to pale blue)
+
+          Most aquamarines are heat-treated to reduce green and enhance blue.
+
+      - title: Major Sources
+        table:
+          headers:
+            - Origin
+            - Characteristics
+          rows:
+            - ["Brazil", "Major producer; Santa Maria denotes fine colour"]
+            - ["Nigeria", "Deep blue colours possible"]
+            - ["Madagascar", "Good quality material"]
+            - ["Pakistan", "Fine crystals from Gilgit"]
+            - ["Mozambique", "Santa Maria type colours"]
+
+      - title: Market Notes
+        content: |
+          - Large sizes readily available (unlike emerald)
+          - Generally eye-clean
+          - Heat treatment routine and accepted
+          - Value increases with saturation and blue hue
+
+  - title: Other Beryl Varieties
+    subsections:
+      - title: Morganite
+        content: |
+          Pink to peach beryl, coloured by manganese:
+
+          - **Colour cause**: Manganese (Mn²⁺/Mn³⁺)
+          - **Range**: Light pink to peach to salmon
+          - **Sources**: Brazil, Madagascar, Afghanistan
+          - **Treatment**: Often heated to remove yellow component
+          - **Market**: Increasingly popular in fine jewellery
+
+      - title: Heliodor
+        content: |
+          Yellow to golden beryl:
+
+          - **Colour cause**: Iron (Fe³⁺)
+          - **Range**: Pale yellow to golden yellow
+          - **Sources**: Brazil, Madagascar, Ukraine
+          - **Notes**: Sometimes confused with yellow sapphire or citrine
+
+      - title: Goshenite
+        content: |
+          Colourless beryl:
+
+          - **No chromophores**: Pure beryl composition
+          - **Uses**: Historical diamond simulant; collector interest
+          - **Sources**: Worldwide occurrence
+
+      - title: Red Beryl (Bixbite)
+        content: |
+          Extremely rare red beryl from Utah:
+
+          - **Colour cause**: Manganese (Mn³⁺)
+          - **Rarity**: Far rarer than emerald
+          - **Size**: Typically under 1 carat
+          - **Source**: Wah Wah Mountains, Utah only
+          - **Value**: Commands exceptional prices for fine examples
+
+  - title: Red Beryl Rarity
+    callout:
+      type: warning
+      title: Extremely Rare
+      text: |
+        Red beryl is one of the world's rarest gemstones, found in commercial
+        quantities only in the Wah Wah Mountains of Utah. Clean stones over
+        1 carat are exceptionally rare, and fine specimens can exceed ruby
+        prices per carat.
+
+        Note: Synthetic red beryl exists and should be distinguished.
+
+  - title: Characteristic Inclusions
+    table:
+      caption: Beryl Inclusion Features
+      headers:
+        - Variety
+        - Typical Inclusions
+      rows:
+        - ["Emerald (Colombian)", "Three-phase, calcite, pyrite, jagged tubes"]
+        - ["Emerald (Zambian)", "Actinolite needles, biotite, two-phase"]
+        - ["Emerald (Brazilian)", "Biotite, chromite, two-phase"]
+        - ["Aquamarine", "Rain (parallel tubes), two-phase, crystals"]
+        - ["Morganite", "Liquid feathers, tubes, crystals"]
+        - ["Red beryl", "Two-phase, bixbyite crystals"]
+
+  - title: Treatments
+    content: |
+      Beryl undergoes several treatments:
+    subsections:
+      - title: Oiling (Emerald)
+        content: |
+          The most common emerald treatment:
+
+          - Oil fills surface-reaching fractures
+          - Improves apparent clarity
+          - Cedar oil traditional; polymers also used
+          - Minor oiling widely accepted
+          - Significant oiling reduces value
+          - Requires disclosure
+
+      - title: Heat Treatment
+        content: |
+          - **Aquamarine**: Removes green, enhances blue (routine)
+          - **Morganite**: Removes yellow, enhances pink (common)
+          - **Stable**: Heat-treated colours permanent
+          - **Accepted**: Routine practice; disclosure standard
+
+      - title: Fracture Filling (Emerald)
+        content: |
+          Beyond oiling, resins and polymers used:
+
+          - Opticon, Gematrat, ExCel (brand names)
+          - More stable than oil in some cases
+          - Can show UV fluorescence
+          - Must be disclosed; affects value
+
+  - title: Historical Significance
+    content: |
+      Beryl has been treasured throughout history:
+
+      - **Cleopatra's Mines**: Egyptian emerald mines (Sikait, Zabara)
+      - **Spanish Conquest**: Colombian emeralds reached Europe 16th century
+      - **Moghul Emeralds**: Carved Indian emeralds of exceptional size
+      - **Dom Pedro Aquamarine**: 10,363 ct obelisk in Smithsonian

@@ -1,0 +1,208 @@
+title: Pearl
+description: Pearl formation, types (natural, Akoya, South Sea, Tahitian, freshwater), grading factors, identification, and care.
+order: 16
+category: species
+difficulty: beginner
+icon: shell
+related:
+  - care
+  - treatments
+tags:
+  - pearl
+  - nacre
+  - cultured
+  - akoya
+  - south-sea
+  - tahitian
+
+sections:
+  - title: Introduction
+    content: |
+      Pearls are organic gems formed when a mollusc deposits concentric layers of
+      nacre (aragonite crystals bound by conchiolin) around an irritant. They are
+      the most commercially important organic gems and the only gems created by
+      living creatures.
+
+      Nearly all pearls in today's market are cultured—human-initiated by inserting
+      a bead nucleus or tissue. Natural pearls are extremely rare and primarily
+      found in antique jewellery.
+
+  - title: Pearl Formation
+    content: |
+      Understanding how pearls form:
+    subsections:
+      - title: Natural Pearls
+        content: |
+          - Form spontaneously without human intervention
+          - Irritant (often parasite) enters mantle tissue
+          - Mollusc secretes nacre layers around irritant
+          - Takes years to form
+          - Extremely rare today
+
+      - title: Cultured Pearls
+        content: |
+          - Human-initiated by inserting nucleus
+          - Bead-nucleated: Shell bead with mantle tissue
+          - Tissue-nucleated: Mantle tissue only
+          - Same nacre deposition process as natural
+          - **Both natural and cultured are real pearls**
+
+      - title: Nacre Composition
+        content: |
+          - **Aragonite**: Calcium carbonate crystals (brick-like platelets)
+          - **Conchiolin**: Organic binder between layers
+          - **Structure**: Overlapping platelets create iridescence
+          - **Thickness**: Quality indicator; thicker is better
+
+  - title: Saltwater Pearl Types
+    table:
+      headers:
+        - Type
+        - Mollusc
+        - Origin
+        - Characteristics
+        - Size Range
+      rows:
+        - ["Akoya", "Pinctada fucata", "Japan, China, Vietnam", "Round, white/cream with rose overtone", "2-11mm"]
+        - ["South Sea (white)", "Pinctada maxima", "Australia, Indonesia, Philippines", "Large, white/silver/cream", "9-20mm"]
+        - ["South Sea (golden)", "Pinctada maxima", "Philippines, Indonesia", "Large, golden to deep gold", "9-16mm"]
+        - ["Tahitian", "Pinctada margaritifera", "French Polynesia", "Dark colours (grey, green, peacock)", "8-16mm"]
+
+  - title: Freshwater Pearls
+    content: |
+      Freshwater pearls are cultivated primarily in China:
+    subsections:
+      - title: Characteristics
+        content: |
+          - **Mollusc**: Hyriopsis cumingii (triangle mussel)
+          - **Nucleation**: Often tissue-only (solid nacre)
+          - **Shapes**: From baroque to near-round to round
+          - **Colours**: White, pink, lavender, peach
+          - **Production**: One mussel can produce 20-50 pearls
+
+      - title: Modern Developments
+        content: |
+          - **Edison pearls**: Bead-nucleated; large, round
+          - **Ming pearls**: High-quality round freshwater
+          - Quality now rivals saltwater in best examples
+          - Price remains lower than saltwater equivalents
+
+  - title: Pearl Grading Factors
+    table:
+      caption: The Seven Value Factors
+      headers:
+        - Factor
+        - Description
+        - Premium Quality
+      rows:
+        - ["Lustre", "Surface reflection and inner glow", "Mirror-like with depth"]
+        - ["Surface", "Blemishes, spots, pits", "Clean or near-clean"]
+        - ["Shape", "Round, near-round, baroque", "Round (for classic)"]
+        - ["Colour", "Body colour + overtone", "Rich, even colour"]
+        - ["Nacre", "Thickness and quality", "Thick, well-formed"]
+        - ["Size", "Diameter in millimetres", "Larger = more valuable"]
+        - ["Matching", "Strand uniformity", "Consistent throughout"]
+
+  - title: Lustre is Paramount
+    callout:
+      type: info
+      title: Most Important Factor
+      text: |
+        Lustre is the most critical pearl quality factor. A smaller pearl with
+        excellent lustre will outvalue a larger pearl with dull, chalky lustre.
+
+        Fine lustre shows:
+        - Sharp light reflections
+        - Sense of depth (light from within)
+        - Mirror-like surface quality
+        - Strong contrast between light and shadow
+
+  - title: Colour Components
+    content: |
+      Pearl colour has three parts:
+    subsections:
+      - title: Body Colour
+        content: |
+          The main background colour:
+          - White, cream, silver, gold, black, grey
+          - Pink, peach, lavender in some varieties
+          - Natural vs dyed colours
+
+      - title: Overtone
+        content: |
+          A translucent secondary colour:
+          - Rose (pink) overtone on white pearls
+          - Green or peacock overtone on Tahitian
+          - Adds depth and value
+
+      - title: Orient
+        content: |
+          Iridescent rainbow effect:
+          - Caused by nacre platelet interference
+          - Most visible in fine nacre
+          - Sign of quality
+
+  - title: Identification Tests
+    content: |
+      Distinguishing natural, cultured, and imitation pearls:
+    table:
+      headers:
+        - Test
+        - Natural/Cultured
+        - Imitation
+      rows:
+        - ["Tooth test", "Gritty, slightly rough", "Smooth or glassy"]
+        - ["Surface texture", "Tiny scale-like platelets", "Too perfect or painted"]
+        - ["Drill hole", "Nacre visible all around", "Coating may flake"]
+        - ["Weight", "Solid, substantial", "Often lighter"]
+        - ["Temperature", "Cool to touch initially", "Room temperature"]
+
+  - title: Natural vs Cultured
+    callout:
+      type: info
+      title: Distinguishing Natural Pearls
+      text: |
+        Laboratory tests distinguish natural from cultured:
+
+        - **X-ray**: Shows bead nucleus in cultured pearls
+        - **X-ray luminescence**: Different patterns
+        - **Candling**: Light transmission reveals structure
+
+        Natural pearls show concentric growth layers throughout;
+        bead-nucleated cultured pearls show the bead core.
+
+  - title: Treatments
+    content: |
+      Common pearl treatments:
+
+      - **Bleaching**: Lightens colour; very common
+      - **Dyeing**: Adds colour; should be disclosed
+      - **Irradiation**: Darkens nuclei (creates dark colours)
+      - **Lustre enhancement**: Coatings; temporary
+      - **Filling**: Repairs damaged nacre; quality issue
+
+  - title: Pearl Care
+    callout:
+      type: warning
+      title: Special Care Required
+      text: |
+        Pearls require special handling:
+
+        - **Acids**: Avoid perfume, hairspray, cosmetics
+        - **Chemicals**: No household cleaners
+        - **Heat**: Avoid extreme temperatures
+        - **Drying**: Store with humidity (damp cloth nearby)
+        - **Cleaning**: Warm water and mild soap only
+        - **Wear**: Put on last, remove first
+        - **Storage**: Separate from harder gems
+
+        Hardness 2.5-4.5; easily scratched.
+
+  - title: Famous Pearls
+    content: |
+      Notable pearls in history:
+
+      - **La Peregrina**: 50.56 ct; once owned by Elizabeth Taylor
+      - **Hope Pearl**: 1,800 grains; blister pearl
+      - **Pearl of Allah**: 14 lbs; giant clam pearl (non-nacreous)
+      - **Abernethy Pearl**: 44 grains; Scottish freshwater

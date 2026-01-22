@@ -1,0 +1,144 @@
+title: Labradorescence
+description: Labradorescence in labradorite and spectrolite including cause, colour range, quality factors, and distinction from adularescence.
+order: 5
+category: phenomena
+difficulty: intermediate
+icon: rainbow
+related:
+  - index
+  - feldspar
+  - adularescence
+tags:
+  - labradorescence
+  - labradorite
+  - spectrolite
+  - feldspar
+
+sections:
+  - title: Introduction
+    content: |
+      Labradorescence is the striking play of colours seen in labradorite feldspar.
+      Unlike the soft single-colour glow of adularescence, labradorescence displays
+      a full spectrum of colours including blue, green, gold, orange, and purple
+      in distinct flashes.
+
+      First identified in specimens from Labrador, Canada in 1770, this phenomenon
+      creates some of the most visually dramatic effects in the gem world.
+
+  - title: Mechanism
+    content: |
+      The cause of labradorescence:
+    subsections:
+      - title: Lamellar Twinning
+        content: |
+          - Caused by light interference from repeated thin twin layers
+          - Twin lamellae form during cooling of plagioclase
+          - Lamellae vary in thickness, producing different colours
+          - Light interferes between twin boundaries
+
+      - title: Orientation Dependence
+        content: |
+          - Most prominent on specific crystal planes (001 cleavage)
+          - Requires proper cutting orientation to display effect
+          - Colours appear in patches or broad flashes
+          - Tilting the stone reveals different colour areas
+
+  - title: Colour Range
+    content: |
+      Labradorescence can display nearly the full spectrum:
+
+      - **Blue**: Most common colour seen
+      - **Green**: Often with blue
+      - **Gold/yellow**: Warm tones
+      - **Orange**: Vivid examples exist
+      - **Red**: Rarer; highly prized
+      - **Purple**: Less common
+
+      Multiple colours in one stone are typical and valued.
+
+  - title: Spectrolite
+    callout:
+      type: info
+      title: Full Spectrum Finnish Labradorite
+      text: |
+        Spectrolite is Finnish labradorite that shows the full colour spectrum:
+
+        - Displays vivid blues, greens, oranges, purples in one stone
+        - Discovered in Finland during WWII (1940)
+        - Named for its spectral colour range
+        - Commands premium prices for fine examples
+        - More vivid and varied than typical labradorite
+
+  - title: Quality Factors
+    table:
+      headers:
+        - Factor
+        - Premium Quality
+      rows:
+        - ["Colour range", "Multiple vivid colours (spectrolite type)"]
+        - ["Intensity", "Bright, strong flashes"]
+        - ["Coverage", "Large percentage of surface shows effect"]
+        - ["Flash size", "Large, distinct colour areas"]
+        - ["Body darkness", "Darker body enhances colours"]
+
+  - title: Sources
+    table:
+      headers:
+        - Origin
+        - Characteristics
+      rows:
+        - ["Finland", "Spectrolite; full colour range"]
+        - ["Labrador (Canada)", "Type locality; blue-green common"]
+        - ["Madagascar", "Good labradorescence; various colours"]
+        - ["Russia", "Quality material available"]
+        - ["Ukraine", "Some production"]
+
+  - title: Labradorescence vs Adularescence
+    comparison:
+      items:
+        - title: Labradorescence
+          variant: default
+          points:
+            - Multiple spectral colours
+            - Sharp, distinct flashes
+            - Colours appear in patches
+            - Caused by lamellar twinning
+            - Plagioclase (labradorite)
+            - Effect at surface level
+        - title: Adularescence
+          variant: default
+          points:
+            - Single colour (blue or white)
+            - Soft, floating glow
+            - Even, billowy appearance
+            - Caused by layer exsolution
+            - Alkali feldspar (orthoclase)
+            - Appears below surface
+
+  - title: Cutting Considerations
+    content: |
+      Proper cutting maximises labradorescence:
+    subsections:
+      - title: Orientation
+        content: |
+          - Cut to display colours face-up
+          - Align with cleavage plane for best effect
+          - May sacrifice weight for optimal display
+          - Flat backs common to maximise colour area
+
+      - title: Cut Styles
+        content: |
+          - **Cabochons**: Traditional; shows colours well
+          - **Flat slabs**: Maximises colour display area
+          - **Faceted**: Possible but reduces phenomenon visibility
+          - **Carvings**: Popular for decorative pieces
+
+  - title: Market and Value
+    content: |
+      Labradorite market considerations:
+
+      - **Spectrolite**: Highest prices for fine Finnish material
+      - **Collector stones**: Fine multi-colour specimens valued
+      - **Decorative use**: Popular for tiles, countertops
+      - **Jewellery**: Growing popularity for unique pieces
+      - **Size**: Large pieces available (unlike many gems)
