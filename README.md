@@ -1,5 +1,7 @@
 # Gemmology Knowledge
 
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 FGA curriculum documentation and study materials for the [Gemmology Project](https://gemmology.dev).
 
 This repository contains comprehensive reference documentation covering the Gemmological Association of Great Britain (Gem-A) Foundation and Diploma curriculum topics, organized as modular knowledge bases that integrate with the [gemmology-plugin](https://github.com/gemmology-dev/gemmology-plugin) for Claude Code.
@@ -296,7 +298,17 @@ Content is reviewed for:
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) for details.
+This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0).
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit and indicate if changes were made
+- **ShareAlike** — If you remix or build upon the material, you must distribute your contributions under the same license
+
+See [LICENSE](LICENSE) for full details.
 
 ## Attribution
 
