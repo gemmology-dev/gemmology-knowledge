@@ -5,12 +5,12 @@ category: origin
 difficulty: advanced
 icon: gem
 related:
-  - index
-  - kashmir
-  - corundum
-  - spinel
+  - origin/overview
+  - origin/kashmir
+  - species/corundum
+  - species/spinel
 tags:
-  - burma
+  - origin/burma
   - myanmar
   - mogok
   - ruby

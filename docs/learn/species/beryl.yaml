@@ -5,15 +5,15 @@ category: species
 difficulty: intermediate
 icon: gem
 related:
-  - physical-properties
-  - optical-properties
+  - fundamentals/physical-properties
+  - fundamentals/optical-properties
   - origin
-  - treatments
+  - identification/treatments
 tags:
   - emerald
   - aquamarine
   - morganite
-  - beryl
+  - species/beryl
   - heliodor
 
 sections:

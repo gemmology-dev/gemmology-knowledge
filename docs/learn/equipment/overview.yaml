@@ -5,12 +5,12 @@ category: equipment
 difficulty: beginner
 icon: microscope
 related:
-  - refractometer
-  - polariscope
-  - dichroscope
-  - spectroscope
-  - microscope
-  - uv-lamp
+  - equipment/refractometer
+  - equipment/polariscope
+  - equipment/dichroscope
+  - equipment/spectroscope
+  - equipment/microscope
+  - equipment/uv-lamp
 tags:
   - equipment
   - identification

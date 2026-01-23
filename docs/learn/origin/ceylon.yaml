@@ -5,12 +5,12 @@ category: origin
 difficulty: advanced
 icon: gem
 related:
-  - index
-  - kashmir
-  - burma
-  - corundum
+  - origin/overview
+  - origin/kashmir
+  - origin/burma
+  - species/corundum
 tags:
-  - ceylon
+  - origin/ceylon
   - sri-lanka
   - sapphire
   - padparadscha

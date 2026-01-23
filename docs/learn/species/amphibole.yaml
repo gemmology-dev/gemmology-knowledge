@@ -5,8 +5,8 @@ category: species
 difficulty: intermediate
 icon: gem
 related:
-  - physical-properties
-  - pyroxene
+  - fundamentals/physical-properties
+  - species/pyroxene
 tags:
   - nephrite
   - jade

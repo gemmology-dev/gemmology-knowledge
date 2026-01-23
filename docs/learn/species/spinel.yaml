@@ -5,11 +5,11 @@ category: species
 difficulty: intermediate
 icon: gem
 related:
-  - physical-properties
-  - optical-properties
-  - corundum
+  - fundamentals/physical-properties
+  - fundamentals/optical-properties
+  - species/corundum
 tags:
-  - spinel
+  - species/spinel
   - red-spinel
   - cobalt-spinel
   - flame-spinel

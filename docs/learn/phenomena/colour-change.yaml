@@ -6,10 +6,10 @@ difficulty: intermediate
 icon: sun-moon
 related:
   - index
-  - chrysoberyl
-  - garnet
+  - species/chrysoberyl
+  - species/garnet
 tags:
-  - colour-change
+  - phenomena/colour-change
   - alexandrite
   - chromophores
   - lighting

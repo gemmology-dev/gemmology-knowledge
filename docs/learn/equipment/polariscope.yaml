@@ -5,11 +5,11 @@ category: equipment
 difficulty: beginner
 icon: filter
 related:
-  - optical-properties
+  - fundamentals/optical-properties
   - index
-  - refractometer
+  - equipment/refractometer
 tags:
-  - polariscope
+  - equipment/polariscope
   - optic-character
   - birefringence
   - interference-figures

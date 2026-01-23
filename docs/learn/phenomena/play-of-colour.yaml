@@ -6,11 +6,11 @@ difficulty: intermediate
 icon: palette
 related:
   - index
-  - opal
-  - iridescence
+  - species/opal
+  - phenomena/iridescence
 tags:
-  - play-of-colour
-  - opal
+  - phenomena/play-of-colour
+  - species/opal
   - diffraction
   - patterns
 

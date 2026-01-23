@@ -5,14 +5,14 @@ category: identification
 difficulty: intermediate
 icon: fire
 related:
-  - inclusions
-  - synthetics
-  - professional-practice
-  - gem-care-durability
-  - diamond
+  - identification/inclusions
+  - identification/synthetics
+  - market/professional-practice
+  - care/gem-care-durability
+  - species/diamond
 tags:
   - heat-treatment
-  - disclosure
+  - market/disclosure
   - detection
   - laboratory
 

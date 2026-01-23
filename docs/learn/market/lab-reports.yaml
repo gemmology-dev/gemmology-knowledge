@@ -5,12 +5,12 @@ category: market
 difficulty: advanced
 icon: scale
 related:
-  - grading-valuation
-  - professional-practice
-  - treatments
+  - market/grading-valuation
+  - market/professional-practice
+  - identification/treatments
   - origin
 tags:
-  - lab-reports
+  - market/lab-reports
   - certification
   - gia
   - gubelin

@@ -5,9 +5,9 @@ category: identification
 difficulty: intermediate
 icon: layers
 related:
-  - inclusions
+  - identification/inclusions
   - gem-testing-instruments
-  - treatments
+  - identification/treatments
 tags:
   - doublet
   - triplet

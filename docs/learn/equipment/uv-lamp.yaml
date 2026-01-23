@@ -5,9 +5,9 @@ category: equipment
 difficulty: beginner
 icon: zap
 related:
-  - optical-properties
+  - fundamentals/optical-properties
   - index
-  - synthetics
+  - identification/synthetics
 tags:
   - UV
   - fluorescence

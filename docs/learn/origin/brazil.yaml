@@ -5,12 +5,12 @@ category: origin
 difficulty: advanced
 icon: gem
 related:
-  - index
-  - tourmaline
-  - beryl
-  - topaz
+  - origin/overview
+  - species/tourmaline
+  - species/beryl
+  - species/topaz
 tags:
-  - brazil
+  - origin/brazil
   - paraiba
   - aquamarine
   - imperial-topaz

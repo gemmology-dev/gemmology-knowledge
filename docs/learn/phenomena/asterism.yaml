@@ -6,10 +6,10 @@ difficulty: intermediate
 icon: star
 related:
   - index
-  - corundum
-  - chatoyancy
+  - species/corundum
+  - phenomena/chatoyancy
 tags:
-  - asterism
+  - phenomena/asterism
   - star-ruby
   - star-sapphire
   - silk

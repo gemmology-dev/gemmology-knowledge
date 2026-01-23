@@ -5,9 +5,9 @@ category: fundamentals
 difficulty: advanced
 icon: gem
 related:
-  - crystal-systems
-  - optical-properties
-  - inclusions
+  - fundamentals/crystal-systems
+  - fundamentals/optical-properties
+  - identification/inclusions
 tags:
   - crystallography
   - twinning

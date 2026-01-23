@@ -5,12 +5,12 @@ category: market
 difficulty: advanced
 icon: clipboard-check
 related:
-  - grading-valuation
-  - treatments
+  - market/grading-valuation
+  - identification/treatments
   - origin-determination
 tags:
   - ethics
-  - disclosure
+  - market/disclosure
   - reports
   - certification
   - legal

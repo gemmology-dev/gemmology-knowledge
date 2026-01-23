@@ -5,11 +5,11 @@ category: origin
 difficulty: advanced
 icon: gem
 related:
-  - index
-  - colombia
-  - beryl
+  - origin/overview
+  - origin/colombia
+  - species/beryl
 tags:
-  - zambia
+  - origin/zambia
   - emerald
   - kagem
   - african

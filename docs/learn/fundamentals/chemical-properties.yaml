@@ -5,9 +5,9 @@ category: fundamentals
 difficulty: intermediate
 icon: flask
 related:
-  - optical-properties
-  - crystal-systems
-  - treatments
+  - fundamentals/optical-properties
+  - fundamentals/crystal-systems
+  - identification/treatments
 tags:
   - chemistry
   - chromophores

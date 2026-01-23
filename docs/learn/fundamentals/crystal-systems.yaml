@@ -5,10 +5,10 @@ category: fundamentals
 difficulty: beginner
 icon: cube
 related:
-  - crystallography-advanced
-  - physical-properties
-  - optical-properties
-  - chemical-properties
+  - fundamentals/crystallography-advanced
+  - fundamentals/physical-properties
+  - fundamentals/optical-properties
+  - fundamentals/chemical-properties
 tags:
   - crystallography
   - symmetry

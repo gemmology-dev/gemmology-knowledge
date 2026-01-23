@@ -5,9 +5,9 @@ category: care
 difficulty: beginner
 icon: shield
 related:
-  - physical-properties
-  - treatments
-  - grading-valuation
+  - fundamentals/physical-properties
+  - identification/treatments
+  - market/grading-valuation
 tags:
   - durability
   - care

@@ -5,10 +5,10 @@ category: fundamentals
 difficulty: beginner
 icon: scale
 related:
-  - crystal-systems
-  - optical-properties
-  - gem-care-durability
-  - chemical-properties
+  - fundamentals/crystal-systems
+  - fundamentals/optical-properties
+  - care/gem-care-durability
+  - fundamentals/chemical-properties
 tags:
   - hardness
   - specific-gravity

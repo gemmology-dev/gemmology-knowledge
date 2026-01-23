@@ -6,8 +6,8 @@ difficulty: beginner
 icon: wrench
 related:
   - index
-  - physical-properties
-  - optical-properties
+  - fundamentals/physical-properties
+  - fundamentals/optical-properties
 tags:
   - chelsea-filter
   - thermal-probe

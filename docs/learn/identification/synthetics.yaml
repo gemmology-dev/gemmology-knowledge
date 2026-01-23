@@ -5,9 +5,9 @@ category: identification
 difficulty: advanced
 icon: beaker
 related:
-  - inclusions
-  - treatments
-  - diamond
+  - identification/inclusions
+  - identification/treatments
+  - species/diamond
   - gem-testing-instruments
 tags:
   - laboratory

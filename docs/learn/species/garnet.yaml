@@ -5,11 +5,11 @@ category: species
 difficulty: intermediate
 icon: gem
 related:
-  - physical-properties
-  - optical-properties
-  - chemical-properties
+  - fundamentals/physical-properties
+  - fundamentals/optical-properties
+  - fundamentals/chemical-properties
 tags:
-  - garnet
+  - species/garnet
   - demantoid
   - tsavorite
   - rhodolite

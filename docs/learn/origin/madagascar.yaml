@@ -5,12 +5,12 @@ category: origin
 difficulty: advanced
 icon: gem
 related:
-  - index
-  - ceylon
-  - corundum
-  - beryl
+  - origin/overview
+  - origin/ceylon
+  - species/corundum
+  - species/beryl
 tags:
-  - madagascar
+  - origin/madagascar
   - sapphire
   - ruby
   - aquamarine

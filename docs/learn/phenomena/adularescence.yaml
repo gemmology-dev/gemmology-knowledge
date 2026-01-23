@@ -6,12 +6,12 @@ difficulty: intermediate
 icon: moon
 related:
   - index
-  - feldspar
-  - labradorescence
+  - species/feldspar
+  - phenomena/labradorescence
 tags:
-  - adularescence
+  - phenomena/adularescence
   - moonstone
-  - feldspar
+  - species/feldspar
   - schiller
 
 sections:

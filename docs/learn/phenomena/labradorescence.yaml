@@ -6,13 +6,13 @@ difficulty: intermediate
 icon: rainbow
 related:
   - index
-  - feldspar
-  - adularescence
+  - species/feldspar
+  - phenomena/adularescence
 tags:
-  - labradorescence
+  - phenomena/labradorescence
   - labradorite
   - spectrolite
-  - feldspar
+  - species/feldspar
 
 sections:
   - title: Introduction

@@ -5,11 +5,11 @@ category: origin
 difficulty: advanced
 icon: gem
 related:
-  - index
-  - zambia
-  - beryl
+  - origin/overview
+  - origin/zambia
+  - species/beryl
 tags:
-  - colombia
+  - origin/colombia
   - emerald
   - muzo
   - chivor

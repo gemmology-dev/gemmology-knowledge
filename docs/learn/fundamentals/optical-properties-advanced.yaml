@@ -5,9 +5,9 @@ category: fundamentals
 difficulty: advanced
 icon: prism
 related:
-  - optical-properties
+  - fundamentals/optical-properties
   - gem-testing-instruments
-  - crystal-systems
+  - fundamentals/crystal-systems
 tags:
   - conoscopy
   - interference-figures

@@ -5,11 +5,11 @@ category: equipment
 difficulty: beginner
 icon: eye
 related:
-  - optical-properties
+  - fundamentals/optical-properties
   - index
-  - polariscope
+  - equipment/polariscope
 tags:
-  - refractometer
+  - equipment/refractometer
   - refractive-index
   - birefringence
   - identification

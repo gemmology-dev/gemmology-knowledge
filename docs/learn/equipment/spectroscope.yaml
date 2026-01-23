@@ -5,11 +5,11 @@ category: equipment
 difficulty: intermediate
 icon: chart-bar
 related:
-  - optical-properties
+  - fundamentals/optical-properties
   - index
-  - chemical-properties
+  - fundamentals/chemical-properties
 tags:
-  - spectroscope
+  - equipment/spectroscope
   - absorption-spectrum
   - chromophores
   - identification

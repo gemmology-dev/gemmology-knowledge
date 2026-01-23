@@ -5,12 +5,12 @@ category: origin
 difficulty: advanced
 icon: gem
 related:
-  - index
-  - ceylon
-  - burma
-  - corundum
+  - origin/overview
+  - origin/ceylon
+  - origin/burma
+  - species/corundum
 tags:
-  - kashmir
+  - origin/kashmir
   - sapphire
   - velvety
   - cornflower

@@ -5,11 +5,11 @@ category: phenomena
 difficulty: intermediate
 icon: sparkles
 related:
-  - asterism
-  - chatoyancy
-  - adularescence
-  - play-of-colour
-  - colour-change
+  - phenomena/asterism
+  - phenomena/chatoyancy
+  - phenomena/adularescence
+  - phenomena/play-of-colour
+  - phenomena/colour-change
 tags:
   - phenomena
   - optical-effects

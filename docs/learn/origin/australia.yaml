@@ -5,14 +5,14 @@ category: origin
 difficulty: advanced
 icon: gem
 related:
-  - index
-  - opal
-  - corundum
-  - quartz
+  - origin/overview
+  - species/opal
+  - species/corundum
+  - species/quartz
 tags:
-  - australia
+  - origin/australia
   - sapphire
-  - opal
+  - species/opal
   - chrysoprase
 
 sections:

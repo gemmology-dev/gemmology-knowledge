@@ -5,12 +5,12 @@ category: equipment
 difficulty: intermediate
 icon: microscope
 related:
-  - inclusions
+  - identification/inclusions
   - index
-  - treatments
+  - identification/treatments
 tags:
-  - microscope
-  - inclusions
+  - equipment/microscope
+  - identification/inclusions
   - magnification
   - illumination
 

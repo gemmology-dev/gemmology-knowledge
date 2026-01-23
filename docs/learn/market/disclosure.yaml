@@ -5,14 +5,14 @@ category: market
 difficulty: advanced
 icon: scale
 related:
-  - grading-valuation
-  - professional-practice
-  - lab-reports
-  - treatments
+  - market/grading-valuation
+  - market/professional-practice
+  - market/lab-reports
+  - identification/treatments
 tags:
-  - disclosure
+  - market/disclosure
   - ethics
-  - treatments
+  - identification/treatments
   - trade-practice
   - consumer-protection
 

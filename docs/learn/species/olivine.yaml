@@ -5,11 +5,11 @@ category: species
 difficulty: beginner
 icon: gem
 related:
-  - physical-properties
-  - optical-properties
+  - fundamentals/physical-properties
+  - fundamentals/optical-properties
 tags:
   - peridot
-  - olivine
+  - species/olivine
   - chrysolite
   - august-birthstone
 

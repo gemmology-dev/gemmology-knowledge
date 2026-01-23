@@ -5,9 +5,9 @@ category: species
 difficulty: intermediate
 icon: gem
 related:
-  - physical-properties
-  - optical-properties
-  - amphibole
+  - fundamentals/physical-properties
+  - fundamentals/optical-properties
+  - species/amphibole
 tags:
   - jadeite
   - kunzite

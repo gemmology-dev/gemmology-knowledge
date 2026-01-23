@@ -5,11 +5,11 @@ category: species
 difficulty: intermediate
 icon: gem
 related:
-  - physical-properties
-  - optical-properties
+  - fundamentals/physical-properties
+  - fundamentals/optical-properties
   - origin
 tags:
-  - tourmaline
+  - species/tourmaline
   - paraiba
   - rubellite
   - indicolite

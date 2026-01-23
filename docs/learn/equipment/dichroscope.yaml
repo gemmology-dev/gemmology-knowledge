@@ -5,11 +5,11 @@ category: equipment
 difficulty: beginner
 icon: palette
 related:
-  - optical-properties
+  - fundamentals/optical-properties
   - index
-  - polariscope
+  - equipment/polariscope
 tags:
-  - dichroscope
+  - equipment/dichroscope
   - pleochroism
   - colour
   - identification

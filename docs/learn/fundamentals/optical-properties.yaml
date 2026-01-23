@@ -5,9 +5,9 @@ category: fundamentals
 difficulty: intermediate
 icon: eye
 related:
-  - crystal-systems
-  - physical-properties
-  - optical-properties-advanced
+  - fundamentals/crystal-systems
+  - fundamentals/physical-properties
+  - fundamentals/optical-properties-advanced
   - gem-testing-instruments
 tags:
   - refractometer

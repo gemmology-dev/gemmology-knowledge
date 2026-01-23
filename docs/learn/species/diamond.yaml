@@ -5,11 +5,11 @@ category: species
 difficulty: intermediate
 icon: gem
 related:
-  - physical-properties
-  - synthetics
-  - grading-valuation
+  - fundamentals/physical-properties
+  - identification/synthetics
+  - market/grading-valuation
 tags:
-  - diamond
+  - species/diamond
   - 4Cs
   - grading
   - lab-grown

@@ -5,10 +5,10 @@ category: origin
 difficulty: advanced
 icon: map-pin
 related:
-  - kashmir
-  - burma
-  - colombia
-  - inclusions
+  - origin/kashmir
+  - origin/burma
+  - origin/colombia
+  - identification/inclusions
 tags:
   - origin
   - provenance

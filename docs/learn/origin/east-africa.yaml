@@ -5,10 +5,10 @@ category: origin
 difficulty: advanced
 icon: gem
 related:
-  - index
-  - zoisite
-  - garnet
-  - corundum
+  - origin/overview
+  - species/zoisite
+  - species/garnet
+  - species/corundum
 tags:
   - tanzania
   - kenya

@@ -5,11 +5,11 @@ category: species
 difficulty: intermediate
 icon: gem
 related:
-  - physical-properties
-  - optical-properties
-  - treatments
+  - fundamentals/physical-properties
+  - fundamentals/optical-properties
+  - identification/treatments
 tags:
-  - topaz
+  - species/topaz
   - imperial-topaz
   - blue-topaz
   - sherry-topaz

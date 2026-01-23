@@ -5,11 +5,11 @@ category: identification
 difficulty: intermediate
 icon: search
 related:
-  - optical-properties
-  - treatments
+  - fundamentals/optical-properties
+  - identification/treatments
   - origin-determination
   - gem-testing-instruments
-  - synthetics
+  - identification/synthetics
 tags:
   - microscopy
   - identification

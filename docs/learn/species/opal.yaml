@@ -5,11 +5,11 @@ category: species
 difficulty: intermediate
 icon: gem
 related:
-  - physical-properties
+  - fundamentals/physical-properties
   - phenomena
   - care
 tags:
-  - opal
+  - species/opal
   - black-opal
   - play-of-colour
   - boulder-opal

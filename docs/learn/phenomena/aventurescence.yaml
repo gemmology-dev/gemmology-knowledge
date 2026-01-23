@@ -6,10 +6,10 @@ difficulty: intermediate
 icon: sparkle
 related:
   - index
-  - feldspar
-  - quartz
+  - species/feldspar
+  - species/quartz
 tags:
-  - aventurescence
+  - phenomena/aventurescence
   - sunstone
   - aventurine
   - schiller
