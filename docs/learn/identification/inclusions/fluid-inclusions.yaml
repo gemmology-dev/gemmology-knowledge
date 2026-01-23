@@ -1,0 +1,150 @@
+title: Fluid Inclusions
+description: Two-phase, three-phase, and negative crystal inclusions - trapped fluids that reveal formation conditions.
+order: 3
+category: identification
+subcategory: inclusions
+difficulty: intermediate
+icon: search
+related:
+  - identification/inclusions/overview
+  - identification/inclusions/solid-inclusions
+  - species/emerald
+  - origin-determination
+tags:
+  - microscopy
+  - identification
+  - origin
+  - fluids
+
+sections:
+  - title: Introduction
+    content: |
+      Fluid inclusions are cavities containing liquids, gases, or combinations trapped
+      during crystal growth. They provide crucial information about the conditions under
+      which the gem formed and are often diagnostic for origin determination.
+
+  - title: Types of Fluid Inclusions
+    subsections:
+      - title: Single-Phase Inclusions
+        content: |
+          Contain only one phase (liquid or gas):
+
+          - **Liquid-filled** - Cavities filled with liquid only
+          - **Gas-filled** - Rare, usually in volcanic-origin gems
+          - Typically smaller than multi-phase inclusions
+
+      - title: Two-Phase Inclusions
+        content: |
+          The most common type, containing liquid and a gas bubble:
+
+          - **Appearance**: Liquid-filled cavity with a mobile gas bubble
+          - **Behaviour**: Bubble moves when stone is tilted
+          - **Common in**: Topaz, aquamarine, tourmaline, spinel
+          - **Identification value**: Confirms natural origin
+
+      - title: Three-Phase Inclusions
+        content: |
+          Contain liquid, gas, and a solid crystal - highly diagnostic:
+
+          - **Components**: Liquid + gas bubble + solid crystal (often halite)
+          - **Classic example**: Colombian emerald (jagged cavity with halite cube)
+          - **Diagnostic value**: Often origin-specific
+          - **Also seen in**: Some quartz, topaz, spinel
+
+  - title: Colombian Emerald Three-Phase
+    callout:
+      type: info
+      title: Diagnostic Feature
+      text: |
+        The three-phase inclusion in Colombian emerald is one of the most diagnostic
+        features in gemmology:
+
+        - **Liquid**: Saline fluid (NaCl solution)
+        - **Gas**: CO2 bubble
+        - **Solid**: Cubic halite (NaCl) crystal
+
+        This combination is virtually diagnostic of Colombian origin and proves
+        natural origin. The jagged, irregular cavity shape is also characteristic.
+
+  - title: Negative Crystals
+    content: |
+      Negative crystals are fluid-filled cavities that have the geometric shape of the
+      host mineral's crystal structure:
+
+      - **Formation**: Cavity walls follow crystal structure
+      - **Shape**: Reflects host mineral's crystal habit
+      - **Examples**:
+        - Octahedral negative crystals in spinel
+        - Hexagonal negative crystals in beryl
+        - Rhombohedral negative crystals in quartz
+
+  - title: Fluid Inclusions by Gemstone
+    table:
+      caption: Characteristic Fluid Inclusions
+      headers:
+        - Gemstone
+        - Typical Fluid Inclusions
+        - Diagnostic Features
+      rows:
+        - ["Emerald", "Two-phase, three-phase", "Colombian: three-phase with halite"]
+        - ["Aquamarine", "Two-phase, rain-like tubes", "Parallel elongated inclusions"]
+        - ["Topaz", "Two-phase", "Elongated cavities"]
+        - ["Spinel", "Negative crystals, fingerprints", "Octahedral shapes"]
+        - ["Tourmaline", "Two-phase, growth tubes", "Parallel to c-axis"]
+        - ["Quartz", "Two-phase, three-phase", "Can show moving bubbles"]
+
+  - title: Emerald Fluid Inclusions by Origin
+    content: |
+      Emerald fluid inclusion characteristics vary significantly by geographic origin:
+    comparison:
+      items:
+        - title: Colombian
+          variant: success
+          points:
+            - Three-phase inclusions (diagnostic)
+            - Jagged cavity walls
+            - Halite cubes in fluid
+            - '"Jardin" garden-like appearance'
+        - title: Zambian
+          points:
+            - Two-phase inclusions dominant
+            - Blocky fluid cavities
+            - Less halite, more biotite
+            - Generally cleaner appearance
+        - title: Brazilian
+          points:
+            - Two-phase inclusions
+            - Biotite mica common
+            - Pyrite crystals
+            - Chromite occasionally
+
+  - title: Moving Bubble Test
+    content: |
+      Some fluid inclusions contain mobile gas bubbles that can be observed moving:
+
+      **Observation technique:**
+      1. Place gem under microscope
+      2. Locate two-phase inclusion with visible bubble
+      3. Gently tilt the stone
+      4. Observe bubble movement within cavity
+
+      **Significance:**
+      - Confirms liquid-filled cavity (not solid)
+      - Natural feature (synthetics rarely show this)
+      - Documents inclusion type accurately
+
+  - title: Treatment Indicators
+    callout:
+      type: warning
+      title: Heat Treatment Effects
+      text: |
+        Heat treatment can significantly alter fluid inclusions:
+
+        - **Expansion**: Gas bubbles may expand or burst
+        - **Decrepitation**: Inclusions may crack or explode
+        - **Residue**: "Snowflake" patterns from burst inclusions
+        - **Healing**: Some fractures may heal during treatment
+
+        The presence of intact, well-formed fluid inclusions generally indicates
+        no high-temperature heat treatment, while damaged or altered inclusions
+        may suggest treatment.

@@ -1,0 +1,182 @@
+title: Feathers & Fingerprints
+description: Healed fractures, fingerprint inclusions, and liquid feathers - characteristic healing patterns in gems.
+order: 5
+category: identification
+subcategory: inclusions
+difficulty: intermediate
+icon: search
+related:
+  - identification/inclusions/overview
+  - identification/inclusions/fluid-inclusions
+  - identification/treatments
+  - care/gem-durability
+tags:
+  - microscopy
+  - identification
+  - fractures
+  - healing
+
+sections:
+  - title: Introduction
+    content: |
+      Feathers and fingerprints are healed or partially healed fractures within gemstones.
+      These features form when fractures that developed during or after crystal growth
+      are subsequently healed by circulating fluids, leaving characteristic patterns.
+
+  - title: Feathers
+    content: |
+      Feathers are internal fractures that have a wispy, feathery appearance:
+
+      **Characteristics:**
+      - Appear as wispy, irregular planes
+      - May show iridescence from thin-film interference
+      - Can affect durability if reaching surface
+      - Common term used in diamond grading
+
+      **Formation:**
+      - Stress during crystal growth
+      - Post-formation stress or shock
+      - Partial healing may occur
+
+  - title: Fingerprint Inclusions
+    content: |
+      Fingerprint inclusions are healed fractures with characteristic patterns:
+
+      **Appearance:**
+      - Networks of tiny fluid remnants
+      - Pattern resembles human fingerprints
+      - Often show maze-like or net-like design
+      - May contain scattered droplets
+
+      **Formation process:**
+      1. Fracture develops in crystal
+      2. Fluids enter the fracture
+      3. Crystal partially heals around fluid
+      4. Trapped fluid forms fingerprint pattern
+
+  - title: Fingerprints by Gemstone
+    table:
+      caption: Fingerprint Inclusion Characteristics
+      headers:
+        - Gemstone
+        - Fingerprint Characteristics
+        - Diagnostic Value
+      rows:
+        - ["Spinel", "Very characteristic, fine network", "Strong natural indicator"]
+        - ["Corundum", "Common, often flux-related if heated", "Natural when pristine"]
+        - ["Garnet", "Occasional, varies by species", "Natural indicator"]
+        - ["Quartz", "Common, often extensive", "Typical feature"]
+        - ["Topaz", "Less common", "Natural indicator"]
+
+  - title: Liquid Feathers
+    content: |
+      Liquid feathers are partially healed fractures still containing significant fluid:
+
+      **Characteristics:**
+      - Feather-like fracture outline
+      - Visible fluid within the fracture
+      - May contain gas bubbles
+      - Can show movement when tilted
+
+      **Common in:**
+      - Spessartine garnet (very characteristic)
+      - Some tourmalines
+      - Various other gems
+
+  - title: Flux Fingerprints
+    callout:
+      type: warning
+      title: Treatment Indicator
+      text: |
+        In heat-treated corundum, flux-assisted healing creates distinctive fingerprints:
+
+        **Flux fingerprints:**
+        - Formed during high-temperature treatment with flux
+        - Show characteristic "fuzzy" or "cotton-like" appearance
+        - May contain flux residue (glassy material)
+        - Indicate heat treatment
+
+        Compare to **natural fingerprints** which are sharper and more defined.
+        This distinction is crucial for treatment detection.
+
+  - title: Stress Fractures
+    content: |
+      Stress fractures form around included crystals due to differential expansion:
+
+      **Formation:**
+      - Included crystal has different thermal expansion
+      - Temperature changes create stress
+      - Fractures radiate from inclusion
+
+      **Examples:**
+      - **Zircon halos** in corundum and other gems
+      - **Tension cracks** around garnet inclusions
+      - **Discoid fractures** (lily pads) around chromite in peridot
+
+  - title: Lily Pad Inclusions
+    content: |
+      Lily pad inclusions are diagnostic for peridot:
+
+      **Description:**
+      - Flat, disc-shaped stress fractures
+      - Radiate from a central crystal inclusion
+      - Resemble lily pads on a pond
+      - Usually surrounding chromite crystals
+
+      **Diagnostic value:**
+      - Virtually diagnostic for peridot
+      - Confirms natural origin
+      - One of most distinctive inclusion types
+
+  - title: Fracture vs Cleavage
+    comparison:
+      items:
+        - title: Fractures (Feathers)
+          points:
+            - Irregular, curved surfaces
+            - Can occur in any direction
+            - Often partially healed
+            - Show fingerprint patterns when healed
+            - Various causes (stress, shock)
+        - title: Cleavage Cracks
+          points:
+            - Flat, planar surfaces
+            - Follow specific crystallographic planes
+            - Sharp, well-defined edges
+            - Often step-like appearance
+            - Related to crystal structure
+
+  - title: Impact on Durability
+    callout:
+      type: info
+      title: Durability Considerations
+      text: |
+        Feathers can affect a gemstone's durability:
+
+        **High risk:**
+        - Feathers reaching the surface
+        - Large feathers in girdle area
+        - Multiple intersecting fractures
+
+        **Lower risk:**
+        - Small, fully internal feathers
+        - Well-healed fingerprints
+        - Feathers not near vulnerable areas
+
+        When assessing gems for jewellery use, consider the location and extent
+        of feathers relative to the setting style planned.
+
+  - title: Observation Techniques
+    content: |
+      To observe feathers and fingerprints effectively:
+
+      **Lighting:**
+      - **Darkfield** - Best for seeing feathers as bright features
+      - **Fibre-optic** - Pinpoint illumination for detail
+      - **Reflected light** - Shows surface-reaching fractures
+
+      **Method:**
+      1. Start with low magnification for overview
+      2. Increase magnification for pattern detail
+      3. Rotate stone to see full extent of feature
+      4. Note whether feature reaches surface

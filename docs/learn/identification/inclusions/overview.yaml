@@ -1,0 +1,76 @@
+title: Inclusions Overview
+description: Introduction to inclusions, their classification, and microscopy techniques for examination.
+order: 1
+category: identification
+subcategory: inclusions
+difficulty: intermediate
+icon: search
+related:
+  - fundamentals/optical-properties
+  - identification/inclusions/solid-inclusions
+  - identification/inclusions/fluid-inclusions
+  - equipment/gem-testing-instruments
+tags:
+  - microscopy
+  - identification
+  - fundamentals
+
+sections:
+  - title: Introduction
+    content: |
+      Inclusions are internal features that provide valuable information about a gem's
+      identity, origin, and natural vs. synthetic status. They are a gem's "fingerprint."
+
+      Understanding inclusions is fundamental to gemmological identification. Each gemstone
+      species, and often each geographic origin, exhibits characteristic inclusion patterns
+      that aid in accurate identification.
+
+  - title: Classification of Inclusions
+    content: |
+      Inclusions can be classified by their nature and timing of formation:
+
+      **By Nature:**
+      - **Solid inclusions** - Crystals of other minerals
+      - **Fluid inclusions** - Trapped liquids, gases, or combinations
+      - **Growth features** - Patterns from crystallization process
+
+      **By Timing (Relative to Host Crystal):**
+      - **Protogenetic** - Formed before the host crystal
+      - **Syngenetic** - Formed at the same time as the host
+      - **Epigenetic** - Formed after the host crystal
+
+  - title: Microscopy Techniques
+    content: |
+      Different lighting techniques reveal different inclusion types:
+
+      - **Darkfield** - Best for seeing inclusions against dark background
+      - **Brightfield** - Good for colour zoning and growth patterns
+      - **Fibre-optic** - Pinpoint light for specific features
+      - **Immersion** - Reduces surface reflections, reveals internal features
+      - **Polarized light** - Shows strain patterns and twinning
+
+  - title: Magnification Standards
+    callout:
+      type: info
+      title: Industry Standards
+      text: |
+        The diamond grading standard uses 10x magnification as the benchmark for clarity
+        grading. However, for detailed inclusion study in coloured stones, 40-60x
+        magnification is often preferred for accurate identification of inclusion
+        types and origins.
+
+  - title: Documentation Best Practice
+    callout:
+      type: tip
+      title: Recording Inclusions
+      text: |
+        When documenting inclusions:
+
+        1. **Describe location**: Crown, pavilion, near girdle, etc.
+        2. **Note visibility**: Visible to naked eye or only under magnification
+        3. **Identify type**: Crystal, feather, cloud, needle, etc.
+        4. **Record effect**: Impact on transparency, durability, beauty
+        5. **Photograph**: Multiple magnifications and lighting angles
+
+        Systematic documentation creates valuable reference material for future
+        comparisons and supports identification conclusions.

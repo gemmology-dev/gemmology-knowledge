@@ -1,0 +1,213 @@
+title: Natural vs Synthetic Indicators
+description: Distinguishing natural gemstones from synthetics using inclusion evidence.
+order: 7
+category: identification
+subcategory: inclusions
+difficulty: intermediate
+icon: search
+related:
+  - identification/inclusions/overview
+  - identification/synthetics
+  - identification/inclusions/solid-inclusions
+  - identification/inclusions/fluid-inclusions
+tags:
+  - microscopy
+  - identification
+  - synthetics
+  - authenticity
+
+sections:
+  - title: Introduction
+    content: |
+      Inclusions provide crucial evidence for distinguishing natural gemstones from
+      their synthetic counterparts. While synthetics may have the same chemical
+      composition and crystal structure, their formation conditions differ dramatically,
+      leaving characteristic internal features.
+
+  - title: Natural Indicators Overview
+    comparison:
+      items:
+        - title: Natural Indicators
+          variant: success
+          points:
+            - Mineral crystal inclusions
+            - Three-phase inclusions
+            - Fingerprint patterns
+            - Irregular colour zoning
+            - Natural growth patterns
+            - Stress fractures around crystals
+        - title: Synthetic Indicators
+          variant: warning
+          points:
+            - Curved striae (flame fusion)
+            - Gas bubbles (flame fusion)
+            - Flux inclusions (flux growth)
+            - Chevron/zigzag zoning (hydrothermal)
+            - Seed plates (hydrothermal)
+            - Platinum/gold flakes (flux)
+
+  - title: Flame Fusion (Verneuil) Synthetics
+    content: |
+      Flame fusion is the oldest and most common method for synthetic corundum and spinel:
+
+      **Characteristic inclusions:**
+      - **Curved striae** - Curved growth lines (most diagnostic)
+      - **Gas bubbles** - Round or elongated bubbles, often in strings
+      - **Unmelted powder** - Rare, small grains of starting material
+
+      **Observation tips:**
+      - Curved striae best seen with immersion and polarized light
+      - Bubbles may be very small - use high magnification
+      - Striae follow the curved boule shape
+    callout:
+      type: warning
+      title: Key Feature
+      text: |
+        **Curved striae** are the most diagnostic feature of flame fusion synthetics.
+        Natural corundum shows straight or angular zoning that follows crystal faces,
+        never curved lines. This single feature can definitively identify a flame
+        fusion synthetic.
+
+  - title: Flux-Grown Synthetics
+    content: |
+      Flux-grown synthetics crystallize from a molten flux solution:
+
+      **Characteristic inclusions:**
+      - **Flux inclusions** - Wispy, veil-like, or fingerprint-like patterns
+      - **Platinum/gold flakes** - Metallic crucible remnants
+      - **Flux residue** - Glassy or crystalline flux material
+      - **Seed remnants** - If grown on a seed crystal
+
+      **Important distinctions:**
+      - Flux inclusions can resemble natural fingerprints
+      - Look for metallic flakes (not present in nature)
+      - Flux has distinctive appearance different from natural fluids
+    table:
+      caption: Flux Inclusion Characteristics
+      headers:
+        - Feature
+        - Flux Synthetic
+        - Natural
+      rows:
+        - ["Fingerprint pattern", "Often present", "Often present"]
+        - ["Metallic flakes", "Pt, Au, Ir possible", "Never present"]
+        - ["Mineral crystals", "Rare, only flux", "Various species"]
+        - ["Three-phase inclusions", "Never", "Common in emerald"]
+
+  - title: Hydrothermal Synthetics
+    content: |
+      Hydrothermal synthetics grow from aqueous solutions at high pressure:
+
+      **Characteristic inclusions:**
+      - **Chevron/zigzag zoning** - Distinctive angular growth patterns
+      - **Seed plate** - Remnant of the seed crystal
+      - **Breadcrumb inclusions** - Small, white, scattered particles
+      - **Nail-head spicules** - Elongated, pointed inclusions
+
+      **Common hydrothermal synthetics:**
+      - Synthetic emerald (Biron, Tairus, Russian)
+      - Synthetic quartz (most common method)
+      - Some synthetic corundum
+    callout:
+      type: info
+      title: Hydrothermal Emerald
+      text: |
+        Hydrothermal synthetic emeralds can be challenging because they may contain
+        phenakite crystals (a natural mineral). However, they never show:
+
+        - Three-phase inclusions with halite cubes
+        - Jardin-style inclusion patterns
+        - Natural mineral suites (mica, pyrite, etc.)
+
+        The chevron zoning pattern is often visible and diagnostic.
+
+  - title: CVD and HPHT Diamond
+    content: |
+      Lab-grown diamonds require special attention:
+
+      **HPHT (High Pressure High Temperature):**
+      - Metallic flux inclusions (Fe, Ni, Co)
+      - Cross-shaped or irregular patterns
+      - Strong magnetism possible
+      - Distinctive fluorescence patterns
+
+      **CVD (Chemical Vapor Deposition):**
+      - Often very clean
+      - May show strain patterns
+      - Point defects from process
+      - Distinctive spectroscopy features
+    table:
+      headers:
+        - Feature
+        - Natural Diamond
+        - HPHT Synthetic
+        - CVD Synthetic
+      rows:
+        - ["Mineral inclusions", "Garnet, olivine, etc.", "Metallic flux", "Rare, if any"]
+        - ["Growth patterns", "Octahedral", "Cuboctahedral", "Layered"]
+        - ["Fluorescence", "Variable", "Often unusual", "Often unusual"]
+        - ["Magnetism", "No", "Often yes (flux)", "No"]
+
+  - title: Synthetic Spinel Indicators
+    content: |
+      Synthetic spinel is commonly produced by flame fusion:
+
+      **Key features:**
+      - **Gas bubbles** - Very common, often in clouds or strings
+      - **Curved striae** - Similar to synthetic corundum
+      - **Anomalous double refraction (ADR)** - Strong strain patterns
+      - **High clarity** - Often cleaner than natural
+    comparison:
+      items:
+        - title: Natural Spinel
+          variant: success
+          points:
+            - Octahedral negative crystals
+            - Fingerprint patterns
+            - Zircon haloes
+            - Mineral crystal inclusions
+            - Irregular colour zoning
+        - title: Synthetic Spinel
+          variant: warning
+          points:
+            - Gas bubbles
+            - Curved striae (flame fusion)
+            - Very high clarity
+            - Strong ADR under polariscope
+            - No mineral inclusions
+
+  - title: Examination Protocol
+    callout:
+      type: tip
+      title: Systematic Approach
+      text: |
+        When examining for natural vs synthetic:
+
+        1. **Start with magnification** - Look for bubbles, curved striae, flux
+        2. **Use immersion** - Enhances visibility of growth patterns
+        3. **Try polarized light** - Reveals strain and zoning patterns
+        4. **Check for natural minerals** - Crystal inclusions prove natural origin
+        5. **Look for three-phase inclusions** - Diagnostic for natural emerald
+        6. **Document everything** - Photograph key features
+
+        A single definitive feature (curved striae, metallic flux, mineral inclusions)
+        can establish origin. When uncertain, additional testing is required.
+
+  - title: When Inclusions Aren't Enough
+    content: |
+      Some cases require advanced testing beyond microscopy:
+
+      **Challenging scenarios:**
+      - Very clean natural stones with few inclusions
+      - High-quality flux synthetics
+      - CVD diamonds (often very clean)
+      - Treated naturals with altered inclusions
+
+      **Additional testing methods:**
+      - Spectroscopy (FTIR, Raman, UV-Vis)
+      - Fluorescence imaging
+      - Trace element analysis
+      - Photoluminescence mapping
+
+      When microscopic evidence is inconclusive, always recommend advanced testing
+      by a qualified gemmological laboratory.

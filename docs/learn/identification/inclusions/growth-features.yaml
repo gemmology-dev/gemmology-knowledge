@@ -1,0 +1,178 @@
+title: Growth Features
+description: Colour zoning, growth tubes, twinning, phantoms, and other patterns formed during crystallization.
+order: 4
+category: identification
+subcategory: inclusions
+difficulty: intermediate
+icon: search
+related:
+  - identification/inclusions/overview
+  - fundamentals/crystal-systems
+  - identification/treatments
+  - origin-determination
+tags:
+  - microscopy
+  - identification
+  - crystallography
+  - zoning
+
+sections:
+  - title: Introduction
+    content: |
+      Growth features are internal patterns formed during crystallization. Unlike solid
+      or fluid inclusions which are "foreign" material, growth features are intrinsic
+      to the crystal's development and reflect changing conditions during formation.
+
+  - title: Colour Zoning
+    content: |
+      Colour zoning results from variations in trace element concentration during growth:
+
+      **Formation:**
+      - Changes in fluid chemistry during crystallization
+      - Different growth faces incorporate elements at different rates
+      - Temperature or pressure fluctuations
+
+      **Types:**
+      - **Straight zoning** - Parallel bands following crystal faces
+      - **Angular zoning** - Follows hexagonal or other crystal geometry
+      - **Irregular zoning** - Patchy, non-geometric distribution
+      - **Sector zoning** - Different colours in different growth sectors
+
+  - title: Zoning Patterns by Gemstone
+    table:
+      caption: Characteristic Colour Zoning
+      headers:
+        - Gemstone
+        - Zoning Pattern
+        - Diagnostic Value
+      rows:
+        - ["Sapphire", "Hexagonal angular zoning", "Natural indicator, Sri Lankan origin"]
+        - ["Ruby", "Swirl patterns, irregular bands", "Burmese: swirl; Thai: straight"]
+        - ["Amethyst", "Zebra stripes, tiger stripes", "Species diagnostic"]
+        - ["Tourmaline", "Strong colour banding", "Growth-related, common"]
+        - ["Ametrine", "Sharp boundary purple/yellow", "Bicolour variety"]
+        - ["Watermelon tourmaline", "Concentric colour zones", "Variety indicator"]
+
+  - title: Growth Tubes
+    content: |
+      Hollow channels formed parallel to the crystal's c-axis during growth:
+
+      **Characteristics:**
+      - Elongated, tube-like cavities
+      - Usually parallel to main growth direction
+      - May contain fluid or be empty
+      - Can create "rain-like" appearance
+
+      **Common in:**
+      - Tourmaline (very characteristic)
+      - Aquamarine (parallel tubes)
+      - Some garnets (rare)
+
+  - title: Twinning
+    content: |
+      Twinning occurs when crystal lattices join in specific orientations:
+
+      **Types:**
+      - **Contact twins** - Two crystals joined at a plane
+      - **Penetration twins** - Crystals interpenetrate
+      - **Polysynthetic twins** - Multiple parallel twin planes
+
+      **Appearance under magnification:**
+      - Reflection planes visible internally
+      - Interference colours under polarized light
+      - Step-like features at twin boundaries
+
+  - title: Twinning by Gemstone
+    table:
+      headers:
+        - Gemstone
+        - Twin Type
+        - Appearance
+      rows:
+        - ["Spinel", "Contact twins (spinel law)", "Flattened octahedra"]
+        - ["Chrysoberyl", "Contact twins", "V-shaped appearance"]
+        - ["Quartz", "Dauphine, Brazil twins", "Affects optical properties"]
+        - ["Feldspar", "Polysynthetic", "Fine parallel lamellae"]
+        - ["Calcite", "Contact twins", "Common, affects cleavage"]
+
+  - title: Phantoms
+    content: |
+      Phantom inclusions show earlier growth stages preserved inside the crystal:
+
+      **Formation:**
+      - Crystal growth temporarily stops
+      - Surface accumulates dust or mineral coating
+      - Growth resumes, encasing earlier form
+
+      **Appearance:**
+      - Ghost-like outline of earlier crystal
+      - Often shows different colour or clarity
+      - Demonstrates crystal's growth history
+
+      **Common in:**
+      - Quartz (chlorite or iron oxide phantoms)
+      - Fluorite (colour change phantoms)
+      - Occasionally in other minerals
+
+  - title: Internal Graining
+    content: |
+      Internal graining results from structural irregularities during growth:
+
+      **Types:**
+      - **Whitish graining** - Light-coloured lines or planes
+      - **Reflective graining** - Shiny internal reflections
+      - **Coloured graining** - Associated with colour distribution
+
+      **Most significant in diamonds:**
+      - Affects clarity grading
+      - Can indicate plastic deformation
+      - May show strain patterns
+
+  - title: Strain Patterns
+    content: |
+      Visible under crossed polarizers, strain patterns reveal internal stress:
+
+      **Causes:**
+      - Rapid temperature changes during formation
+      - Pressure from included crystals
+      - Tectonic stress during geological history
+
+      **Observation:**
+      - Best seen with polarized light
+      - Appears as interference colours
+      - Patterns radiate from stress sources
+
+  - title: Natural vs Synthetic Zoning
+    comparison:
+      items:
+        - title: Natural Zoning
+          variant: success
+          points:
+            - Irregular, natural patterns
+            - Follows crystal morphology
+            - Variable spacing
+            - Often interrupted or complex
+            - Angular in many gems
+        - title: Synthetic Zoning
+          variant: warning
+          points:
+            - Curved striae (flame fusion)
+            - Chevron/zigzag (hydrothermal)
+            - Very regular spacing
+            - Uninterrupted patterns
+            - May follow seed plate
+
+  - title: Observation Technique
+    callout:
+      type: tip
+      title: Best Practice for Growth Features
+      text: |
+        To observe growth features effectively:
+
+        1. **Use immersion** - Reduces surface reflections
+        2. **Try polarized light** - Reveals strain and twinning
+        3. **Rotate the stone** - Different angles reveal different features
+        4. **Use brightfield lighting** - Better for zoning than darkfield
+        5. **Adjust magnification** - Lower power for overall patterns
+
+        Growth features are often subtle - take time to examine systematically.

@@ -1,0 +1,180 @@
+title: Silk & Needle Inclusions
+description: Rutile silk, needle inclusions, and their role in asterism and origin determination.
+order: 6
+category: identification
+subcategory: inclusions
+difficulty: intermediate
+icon: search
+related:
+  - identification/inclusions/overview
+  - identification/inclusions/solid-inclusions
+  - phenomena/asterism
+  - identification/treatments
+tags:
+  - microscopy
+  - identification
+  - rutile
+  - asterism
+  - origin
+
+sections:
+  - title: Introduction
+    content: |
+      Silk refers to fine, needle-like inclusions that create a silky lustre in gemstones.
+      Most commonly composed of rutile (TiO2) in corundum, silk is one of the most
+      important diagnostic features for both identification and origin determination.
+
+  - title: Rutile Silk in Corundum
+    content: |
+      Rutile silk is the defining internal feature of many natural corundums:
+
+      **Composition:**
+      - Titanium dioxide (TiO2) crystals
+      - Exsolved from corundum lattice during cooling
+      - Oriented along crystallographic directions (60° intersections)
+
+      **Appearance:**
+      - Fine, needle-like crystals
+      - Often intersecting at 60° angles
+      - Creates silky sheen when dense
+      - Length and density vary by origin
+
+  - title: Silk and Geographic Origin
+    content: |
+      The characteristics of rutile silk are crucial for origin determination in corundum:
+    comparison:
+      items:
+        - title: Burmese Corundum
+          variant: success
+          points:
+            - Short, fine rutile needles
+            - Delicate, wispy appearance
+            - Creates soft, velvety look
+            - '"Finest" silk considered'
+        - title: Sri Lankan (Ceylon)
+          points:
+            - Long, prominent needles
+            - Clearly visible individual needles
+            - Often creates strong asterism
+            - More widely spaced
+        - title: Thai/Cambodian
+          variant: warning
+          points:
+            - Dense networks of silk
+            - Often very heavy coverage
+            - Can make stones appear cloudy
+            - Iron-rich environment
+
+  - title: Kashmir Sapphire Silk
+    callout:
+      type: info
+      title: The Kashmir Effect
+      text: |
+        Kashmir sapphires are famous for their "velvety" or "sleepy" appearance:
+
+        - **Cause**: Extremely fine, microscopic particles (not classic rutile silk)
+        - **Appearance**: Soft, hazey internal glow
+        - **Effect**: Creates prized "velvety" lustre
+        - **Diagnostic**: Combined with tourmaline inclusions, zircon halos
+
+        This fine scattering effect is different from classic rutile silk and is
+        highly sought after, commanding premium prices.
+
+  - title: Silk and Asterism
+    content: |
+      Dense, properly oriented silk creates star effects (asterism):
+
+      **Requirements for asterism:**
+      - Sufficient density of silk needles
+      - Proper orientation (intersecting at 60°)
+      - Correct cutting (cabochon, oriented perpendicular to c-axis)
+
+      **Star types:**
+      - **6-ray star** - Three sets of silk at 60° (common in corundum)
+      - **12-ray star** - Six sets of needles (rare, exceptional)
+      - **4-ray star** - Two sets at 90° (in garnets, diopside)
+
+  - title: Heat Treatment Effects on Silk
+    content: |
+      Heat treatment significantly affects silk appearance:
+
+      **Low to moderate heat:**
+      - Silk may partially dissolve
+      - Needles become interrupted ("dotted silk")
+      - Stone clarity improves
+
+      **High heat:**
+      - Silk completely dissolves
+      - Titanium re-enters corundum lattice
+      - Stone becomes cleaner but loses silk
+
+      **Diagnostic value:**
+      - Intact silk suggests no high-temperature treatment
+      - Dissolved/dotted silk indicates heat treatment
+      - Complete absence may indicate treatment or origin
+    callout:
+      type: warning
+      title: Treatment Detection
+      text: |
+        The state of silk is a primary indicator for heat treatment detection:
+
+        - **Intact, sharp silk**: Likely unheated
+        - **Dotted, broken silk**: Heat treated
+        - **Complete absence** (in stone that should have silk): Suspect treatment
+
+  - title: Other Needle Inclusions
+    subsections:
+      - title: Tourmaline Trichites
+        content: |
+          Tourmaline contains distinctive needle-like inclusions:
+
+          - **Trichites**: Hair-like thread inclusions
+          - Often in parallel groups
+          - Different from rutile silk
+          - Characteristic of species
+
+      - title: Amphibole Needles
+        content: |
+          Found in various gemstones:
+
+          - **In emerald**: Tremolite/actinolite needles (especially Afghan, Russian)
+          - **In demantoid**: Byssolite (actinolite) "horsetail"
+          - **In peridot**: Ludwigite needles (rare)
+
+      - title: Garnet Silk
+        content: |
+          Some garnets contain silk-like inclusions:
+
+          - Almandine often has rutile needles
+          - Rhodolite may show fine silk
+          - Creates asterism in some star garnets
+
+  - title: Needle Inclusions by Gemstone
+    table:
+      headers:
+        - Gemstone
+        - Needle Type
+        - Characteristics
+      rows:
+        - ["Corundum", "Rutile silk", "60° intersections, origin-diagnostic"]
+        - ["Tourmaline", "Trichites, growth tubes", "Parallel to c-axis"]
+        - ["Demantoid", "Byssolite (actinolite)", "Horsetail pattern"]
+        - ["Almandine garnet", "Rutile", "Can create 4-ray stars"]
+        - ["Peridot", "Ludwigite", "Brown needles, rare"]
+        - ["Diopside", "Magnetite", "Creates 4-ray stars"]
+
+  - title: Observation Tips
+    callout:
+      type: tip
+      title: Examining Silk
+      text: |
+        For best observation of silk:
+
+        1. **Use darkfield illumination** - Silk appears bright against dark background
+        2. **Rotate the stone** - Different orientations reveal intersecting sets
+        3. **Try fibre-optic light** - Pinpoint illumination shows individual needles
+        4. **Note density and length** - Key for origin determination
+        5. **Check for interruptions** - Broken silk indicates heat treatment
+
+        Document silk characteristics carefully as they are crucial for both
+        identification and origin/treatment conclusions.

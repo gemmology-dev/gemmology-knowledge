@@ -1,0 +1,154 @@
+title: Solid Inclusions
+description: Crystal inclusions - identifying mineral guests trapped within gemstones during formation.
+order: 2
+category: identification
+subcategory: inclusions
+difficulty: intermediate
+icon: search
+related:
+  - identification/inclusions/overview
+  - identification/inclusions/natural-vs-synthetic
+  - species/corundum
+  - species/emerald
+tags:
+  - microscopy
+  - identification
+  - crystals
+  - origin
+
+sections:
+  - title: Introduction
+    content: |
+      Solid inclusions are crystals of other minerals trapped during the host gem's growth.
+      They are typically protogenetic (formed before the host) or syngenetic (formed at the
+      same time). These mineral "guests" provide crucial evidence for identification and
+      origin determination.
+
+  - title: Common Solid Inclusions by Host Gem
+    table:
+      caption: Diagnostic Crystal Inclusions
+      headers:
+        - Host Gem
+        - Common Solid Inclusions
+        - Significance
+      rows:
+        - ["Ruby/Sapphire", "Rutile silk, zircon halos, calcite, apatite", "Origin indicators"]
+        - ["Emerald", "Pyrite, calcite, tremolite, mica, chromite", "Origin-diagnostic"]
+        - ["Diamond", "Garnet, olivine, chromite, graphite", "Mantle origin proof"]
+        - ["Peridot", "Chromite (black crystals), ludwigite needles", "Species-diagnostic"]
+        - ["Garnet", "Rutile, apatite, rounded crystals", "Varies by species"]
+        - ["Spinel", "Octahedral crystals, zircon, calcite, apatite", "Natural indicator"]
+        - ["Tourmaline", "Trichites, growth tubes", "Common features"]
+
+  - title: Corundum (Ruby & Sapphire)
+    subsections:
+      - title: Rutile Inclusions
+        content: |
+          Rutile (TiO2) is the most common solid inclusion in corundum:
+
+          - **Short silk** - Fine, short needles (Burmese origin indicator)
+          - **Long silk** - Longer needles at 60° angles (Sri Lankan indicator)
+          - **Dense networks** - Heavy silk coverage (Thai/Cambodian stones)
+          - **Dissolved silk** - Dotted remnants indicate heat treatment
+
+      - title: Other Crystal Inclusions
+        table:
+          headers:
+            - Inclusion
+            - Appearance
+            - Origin Significance
+          rows:
+            - ["Zircon with halos", "Round crystals with stress fractures", "Common, suggests high-temp formation"]
+            - ["Calcite", "Rhombohedral crystals", "Burmese ruby indicator"]
+            - ["Apatite", "Hexagonal prisms", "Common in many origins"]
+            - ["Boehmite needles", "Fine, oriented needles", "Heat treatment indicator"]
+            - ["Spinel", "Octahedral crystals", "Occasionally seen"]
+
+  - title: Emerald Crystal Inclusions
+    content: |
+      Emerald inclusions vary significantly by origin and provide key diagnostic evidence.
+    table:
+      caption: Emerald Solid Inclusions by Origin
+      headers:
+        - Origin
+        - Characteristic Crystals
+      rows:
+        - ["Colombia", "Calcite rhombs, pyrite cubes, albite"]
+        - ["Zambia", "Black mica flakes, amphibole needles, blocky crystals"]
+        - ["Brazil", "Biotite mica, pyrite, chromite"]
+        - ["Afghanistan", "Mica books, actinolite needles"]
+        - ["Russia (Urals)", "Actinolite, mica, chlorite"]
+
+  - title: Diamond Crystal Inclusions
+    content: |
+      Diamond inclusions provide information about formation conditions deep in the
+      Earth's mantle. They are syngenetic, crystallizing alongside the diamond.
+    table:
+      headers:
+        - Inclusion
+        - Appearance
+        - Significance
+      rows:
+        - ["Garnet (pyrope)", "Red or orange crystals", "Peridotitic environment"]
+        - ["Olivine", "Green crystals", "Common mantle mineral"]
+        - ["Chrome diopside", "Green crystals", "Eclogitic environment"]
+        - ["Chromite", "Black, opaque", "Very common"]
+        - ["Graphite", "Black, metallic", "Same carbon, different structure"]
+        - ["Diamond-in-diamond", "Colourless crystal", "Growth interruption"]
+
+  - title: Garnet Family Inclusions
+    subsections:
+      - title: Demantoid Garnet
+        content: |
+          Demantoid (andradite) from Russia shows the diagnostic "horsetail" inclusion:
+
+          - **Horsetail**: Radiating fibres of byssolite (actinolite)
+          - Fibres curve outward from central point
+          - Diagnostic for Russian (Ural) demantoid
+          - Namibian demantoid may lack horsetails
+
+      - title: Tsavorite Garnet
+        content: |
+          Tsavorite (green grossular) from East Africa shows:
+
+          - **Graphite plates**: Flat, dark inclusions
+          - **Actinolite needles**: Elongated crystals
+          - **Growth tubes**: Hollow channels
+          - Generally cleaner than hessonite
+
+      - title: Other Garnets
+        table:
+          headers:
+            - Species
+            - Common Crystal Inclusions
+          rows:
+            - ["Rhodolite", "Rutile needles, apatite crystals, zircon"]
+            - ["Almandine", "Rutile silk, quartz, apatite"]
+            - ["Pyrope", "Often eye-clean; chrome diopside, olivine"]
+            - ["Spessartine", "Apatite, quartz crystals"]
+
+  - title: Spinel Crystal Inclusions
+    table:
+      headers:
+        - Inclusion
+        - Description
+      rows:
+        - ["Octahedral crystals", "Small spinel crystals within host"]
+        - ["Zircon with halos", "Radiation damage halos around zircon"]
+        - ["Calcite", "Rhombohedral crystals"]
+        - ["Apatite", "Hexagonal prisms"]
+        - ["Graphite", "Flat, dark plates"]
+
+  - title: Identification Value
+    callout:
+      type: tip
+      title: Using Crystal Inclusions
+      text: |
+        Crystal inclusions are particularly valuable because:
+
+        1. **Species identification** - Certain inclusions are diagnostic
+        2. **Origin determination** - Inclusion suites vary by locality
+        3. **Natural vs synthetic** - Natural mineral inclusions prove natural origin
+        4. **Treatment detection** - Heat treatment can alter or destroy inclusions
+
+        Always document crystal inclusions with photographs at multiple magnifications.

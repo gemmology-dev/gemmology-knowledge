@@ -1,0 +1,223 @@
+title: Surface Features
+description: Naturals, bearding, etch channels, and other surface-related inclusion features.
+order: 8
+category: identification
+subcategory: inclusions
+difficulty: intermediate
+icon: search
+related:
+  - identification/inclusions/overview
+  - identification/inclusions/growth-features
+  - market/diamond-grading
+  - care/gem-durability
+tags:
+  - microscopy
+  - identification
+  - diamond
+  - grading
+
+sections:
+  - title: Introduction
+    content: |
+      Surface features are characteristics found at or near the surface of gemstones.
+      While strictly speaking not "inclusions" (which are internal), these features
+      are often considered together in gem examination and significantly impact
+      clarity grading, particularly in diamonds.
+
+  - title: Naturals
+    content: |
+      Naturals are remnants of the original crystal surface left on a cut gemstone:
+
+      **Characteristics:**
+      - Original rough crystal surface preserved
+      - Usually found on or near the girdle
+      - May show trigons (triangular growth marks)
+      - Often left deliberately to preserve weight
+
+      **Significance:**
+      - Proves natural origin (synthetics don't have naturals)
+      - Acceptable in diamond grading if confined to girdle
+      - Should not affect face-up appearance
+
+  - title: Types of Naturals
+    table:
+      headers:
+        - Type
+        - Description
+        - Location
+      rows:
+        - ["Surface natural", "Flat area of original surface", "Girdle area"]
+        - ["Indented natural", "Extends below polished surface", "Girdle or near"]
+        - ["Natural with trigons", "Shows triangular growth marks", "Any natural surface"]
+        - ["Twinning natural", "Related to twin plane", "Follows twin orientation"]
+
+  - title: Bearding (Girdle Fringes)
+    content: |
+      Bearding consists of tiny fractures along the girdle, created during cutting:
+
+      **Formation:**
+      - Created by the bruting (girdling) process
+      - Mechanical stress causes minute fractures
+      - Extends from girdle into stone interior
+
+      **Appearance:**
+      - Hair-like fractures at girdle edge
+      - Creates "fuzzy" or "fringed" appearance
+      - Severity ranges from minor to extensive
+
+      **Grading impact:**
+      - Minor bearding often acceptable
+      - Heavy bearding can affect clarity grade
+      - May be reduced by re-polishing girdle
+
+  - title: Extra Facets
+    content: |
+      Extra facets are small additional polished surfaces not part of the standard cut:
+
+      **Purposes:**
+      - Remove surface-reaching inclusions
+      - Eliminate naturals or damage
+      - Correct cutting errors
+
+      **Location:**
+      - Often on pavilion near girdle
+      - May be on crown
+      - Should not be visible face-up (ideally)
+
+      **Grading consideration:**
+      - Generally considered a blemish
+      - Impact depends on visibility
+      - Very common in coloured stones
+
+  - title: Surface Graining
+    content: |
+      Surface graining appears as visible growth lines on polished surfaces:
+
+      **Types:**
+      - **Whitish graining** - Light-coloured lines
+      - **Reflective graining** - Shiny, mirror-like lines
+      - **Transparent graining** - Subtle lines, often internal origin
+
+      **Relationship to internal graining:**
+      - Surface graining often continues internally
+      - Represents structural irregularities
+      - Related to crystal growth conditions
+
+  - title: Etch Channels and Figures
+    content: |
+      Etch features result from natural dissolution processes:
+
+      **Etch channels:**
+      - Tube-like cavities extending from surface
+      - Created by corrosive fluids during geological history
+      - Often follow crystallographic directions
+      - Can contain secondary minerals
+
+      **Etch figures:**
+      - Geometric depressions on crystal faces
+      - Reflect underlying crystal symmetry
+      - Trigons on diamond (triangular pits)
+      - Hexagonal pits on corundum
+
+  - title: Trigons on Diamond
+    callout:
+      type: info
+      title: Diagnostic Feature
+      text: |
+        Trigons are triangular growth or etch marks found on natural diamond surfaces:
+
+        **Types:**
+        - **Positive trigons**: Raised, point-up triangles (growth)
+        - **Negative trigons**: Depressed, point-down triangles (dissolution)
+
+        **Significance:**
+        - Prove natural origin (synthetics lack trigons)
+        - Found on naturals that preserve rough surface
+        - Important diagnostic feature
+
+        Trigons are oriented opposite to the octahedral face orientation, reflecting
+        diamond's crystal structure.
+
+  - title: Pits and Cavities
+    table:
+      headers:
+        - Feature
+        - Description
+        - Cause
+      rows:
+        - ["Pit", "Small, shallow depression", "Pulled-out inclusion"]
+        - ["Cavity", "Angular void, often geometric", "Removed crystal inclusion"]
+        - ["Chip", "Shallow break at facet junction", "Mechanical damage"]
+        - ["Nick", "Small chip at facet edge", "Wear or damage"]
+        - ["Scratch", "Linear surface mark", "Abrasion damage"]
+
+  - title: Laser Drill Holes
+    content: |
+      Laser drilling is a treatment that creates access channels to internal inclusions:
+
+      **Purpose:**
+      - Access dark inclusions for bleaching
+      - Improve apparent clarity
+
+      **Appearance:**
+      - Very fine, straight channels
+      - May appear as tiny dots on surface
+      - Often lead to bleached inclusion sites
+      - Visible under magnification
+
+      **Detection:**
+      - Look for unnaturally straight tubes
+      - Follow tube to inclusion site
+      - May show surface opening
+    callout:
+      type: warning
+      title: Disclosure Required
+      text: |
+        Laser drilling is a **permanent treatment** that must be disclosed. The drill
+        holes are small but permanent features. Laser-drilled diamonds should be
+        identified and disclosed as treated.
+
+        Some laser drill holes are very small and require careful examination under
+        magnification to detect.
+
+  - title: Surface Features by Gem Type
+    subsections:
+      - title: Diamond Surface Features
+        table:
+          headers:
+            - Feature
+            - Description
+          rows:
+            - ["Naturals", "Original rough surface, often with trigons"]
+            - ["Bearding", "Girdle fractures from bruting"]
+            - ["Extra facets", "Additional polished surfaces"]
+            - ["Polish lines", "Parallel lines from polishing"]
+            - ["Burn marks", "Damaged surface from overheating"]
+            - ["Abraded facet edges", "Worn junctions between facets"]
+
+      - title: Coloured Stone Surface Features
+        content: |
+          Coloured stones show various surface features:
+
+          - **Etch channels** - Common in natural stones
+          - **Surface pitting** - From pulled inclusions
+          - **Cleavage cracks** - Reaching surface
+          - **Growth hillocks** - Raised areas on crystal faces
+          - **Cavity fillings** - Evidence of treatments
+
+  - title: Examination Protocol
+    callout:
+      type: tip
+      title: Surface Feature Examination
+      text: |
+        For thorough surface feature examination:
+
+        1. **Clean the stone** - Dirt can obscure features
+        2. **Use reflected light** - Shows surface relief
+        3. **Examine the girdle** - Most features concentrate here
+        4. **Check facet junctions** - Common chip locations
+        5. **Look for drill holes** - Especially if clarity seems improved
+        6. **Document position** - Note location for mapping
+
+        Surface features often provide important evidence about a stone's history,
+        treatment status, and authenticity.
