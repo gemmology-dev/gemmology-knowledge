@@ -1,0 +1,91 @@
+title: Australian Gems - Overview
+description: Introduction to Australia's gem production, world leadership in opal, and significant sapphire and chrysoprase deposits.
+order: 1
+category: origin
+subcategory: australia
+difficulty: advanced
+icon: gem
+related:
+  - origin/overview
+  - origin/australia/black-opal
+  - origin/australia/sapphire
+  - species/opal
+tags:
+  - australia
+  - opal
+  - sapphire
+
+sections:
+  - title: Introduction
+    content: |
+      Australia is a world-leading gem producer, most famous for opal but also
+      producing significant sapphire, chrysoprase, and other coloured stones.
+      Australian opal accounts for approximately 95% of world production.
+
+      The distinctive characteristics of Australian gems, particularly opal,
+      make origin an important value factor.
+
+  - title: Major Gem Types
+    content: |
+      Australia's primary gem production:
+    subsections:
+      - title: Opal
+        content: |
+          - **Black opal**: Lightning Ridge, NSW (most valuable)
+          - **White opal**: Coober Pedy, SA (major production)
+          - **Boulder opal**: Queensland (ironstone matrix)
+          - **Crystal opal**: Various locations
+          - **Market share**: ~95% of world opal production
+
+      - title: Sapphire
+        content: |
+          - **New South Wales**: Inverell, Glen Innes
+          - **Queensland**: Anakie, Rubyvale
+          - **Character**: Often darker; parti-sapphires notable
+          - **Volume**: Major commercial production
+
+      - title: Other Gems
+        content: |
+          - **Chrysoprase**: Marlborough, Queensland (finest worldwide)
+          - **Zircon**: Various colours, good quality
+          - **Diamonds**: Argyle mine (closed 2020) - historic pink source
+
+  - title: Australian Gem Trade
+    content: |
+      Market characteristics:
+
+      - **Opal dominance**: Australia defines the world opal market
+      - **Sapphire commercial**: Major volume producer
+      - **Niche specialties**: Parti-sapphire, chrysoprase, boulder opal
+      - **Ethical sourcing**: Generally good labour standards
+      - **Origin documentation**: Certificates available
+      - **Treatment disclosure**: Good industry standards
+
+  - title: Regional Distribution
+    content: |
+      Gems by Australian state:
+    subsections:
+      - title: New South Wales
+        content: |
+          - Lightning Ridge (black opal)
+          - Inverell, Glen Innes (sapphire)
+          - White Cliffs (white opal, historic)
+          - Emmaville (emerald, limited)
+
+      - title: South Australia
+        content: |
+          - Coober Pedy (white opal - largest opal field)
+          - Andamooka (matrix opal)
+          - Mintabie (opal)
+
+      - title: Queensland
+        content: |
+          - Boulder opal belt (Quilpie, Winton, Opalton)
+          - Anakie, Rubyvale (sapphire)
+          - Marlborough (chrysoprase)
+
+      - title: Western Australia
+        content: |
+          - Argyle (diamonds - closed 2020)
+          - Prehnite deposits
+          - Limited gemstone production

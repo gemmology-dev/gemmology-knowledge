@@ -1,0 +1,133 @@
+title: Brazilian Emerald
+description: Brazilian emerald characteristics, comparison with Colombian material, and market position.
+order: 3
+category: origin
+subcategory: brazil
+difficulty: advanced
+icon: gem
+related:
+  - origin/brazil/overview
+  - origin/colombia
+  - origin/zambia
+  - species/beryl
+tags:
+  - brazil
+  - emerald
+  - beryl
+
+sections:
+  - title: Introduction
+    content: |
+      Brazil has been an emerald producer for centuries, though its market
+      share remains secondary to Colombia and Zambia. Brazilian emeralds
+      often display different characteristics from Colombian stones, with
+      their own distinct appearance valued by some collectors.
+
+  - title: Sources
+    content: |
+      Brazilian emerald deposits:
+    subsections:
+      - title: Bahia
+        content: |
+          - Major producing state
+          - Several mining areas
+          - Variable quality production
+          - Significant historical output
+
+      - title: Goiás
+        content: |
+          - Important emerald region
+          - Santa Terezinha notable deposit
+          - Different characteristics from Bahia
+          - Quality material available
+
+      - title: Minas Gerais
+        content: |
+          - Some emerald production
+          - Secondary to other beryl varieties
+          - Limited but interesting material
+          - Belmont mine notable
+
+  - title: Characteristics
+    content: |
+      What defines Brazilian emerald:
+    subsections:
+      - title: Colour
+        content: |
+          - Often lighter than Colombian
+          - May have yellowish modifier
+          - Best material rivals Colombian green
+          - Iron typically present (affects colour)
+
+      - title: Inclusions
+        content: |
+          - Different suite from Colombian
+          - Two-phase and three-phase inclusions
+          - Biotite mica common
+          - Pyrite sometimes present
+          - Less characteristic "jardin" than Colombian
+
+      - title: Quality Range
+        content: |
+          - Commercial to fine quality
+          - Best stones excellent
+          - Larger sizes available
+          - Variable saturation
+
+  - title: Colombian Comparison
+    comparison:
+      items:
+        - title: Brazilian Emerald
+          variant: default
+          points:
+            - Often lighter green
+            - Different inclusion suite
+            - Generally lower prices
+            - Good value proposition
+            - Less oil treatment needed (some)
+        - title: Colombian Emerald
+          variant: default
+          points:
+            - Classic rich green
+            - '"Jardin" inclusions expected'
+            - Highest market prices
+            - Strong brand recognition
+            - Oil treatment nearly universal
+
+  - title: Treatment
+    content: |
+      Enhancement in Brazilian emerald:
+    subsections:
+      - title: Oil Treatment
+        content: |
+          - Common (as with all emerald)
+          - Cedar oil traditionally used
+          - Resin fillers also used
+          - Disclosure required
+
+      - title: Treatment Level
+        content: |
+          - Minor to significant enhancement
+          - Some material requires less treatment
+          - Laboratory reports indicate level
+          - Untreated stones command premium
+
+  - title: Market Position
+    content: |
+      Brazilian emerald in the trade:
+
+      - **Ranking**: Third tier after Colombia, Zambia
+      - **Value**: Below Colombian for comparable quality
+      - **Advantage**: Often better prices for quality
+      - **Recognition**: Less prestigious origin perception
+      - **Niche**: Some collectors appreciate distinct character
+
+  - title: Imperial Topaz Note
+    callout:
+      type: tip
+      title: Brazilian Exclusivity
+      text: |
+        While Brazilian emerald faces competition from Colombia and Zambia,
+        Brazil has complete exclusivity for imperial topaz. The Ouro Preto
+        region in Minas Gerais is the only commercial source worldwide for
+        this valuable orange to pink-orange topaz variety.

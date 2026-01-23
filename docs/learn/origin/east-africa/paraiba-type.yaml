@@ -1,0 +1,151 @@
+title: Paraiba-Type Tourmaline
+description: Mozambican copper-bearing tourmaline with neon blue-green colours - discovery, characteristics, and the origin terminology debate.
+order: 6
+category: origin
+subcategory: east-africa
+difficulty: advanced
+icon: gem
+related:
+  - origin/east-africa/overview
+  - origin/brazil/paraiba
+  - species/tourmaline
+tags:
+  - mozambique
+  - paraiba
+  - tourmaline
+  - copper-bearing
+
+sections:
+  - title: Introduction
+    content: |
+      Mozambique emerged as a major source of copper-bearing tourmaline in 2005,
+      producing material with the characteristic neon blue-green colours
+      previously known only from Brazil and Nigeria. This discovery expanded
+      availability while sparking debate about what constitutes "Paraiba."
+
+  - title: Discovery
+    content: |
+      Mozambique's copper-bearing tourmaline:
+
+      - **Year**: 2005
+      - **Location**: Alto Ligonha region, Zambezia Province
+      - **Significance**: Major copper-bearing tourmaline source
+      - **Impact**: Dramatically increased availability of neon tourmaline
+      - **Production**: Ongoing from multiple deposits
+
+  - title: Characteristics
+    content: |
+      Properties of Mozambican material:
+    subsections:
+      - title: Colour
+        content: |
+          - **Range**: Neon blue to blue-green to green
+          - **Character**: Electric, glowing appearance
+          - **Chromophore**: Copper (same as Brazilian Paraiba)
+          - **Manganese**: May add violet/pink tones
+
+      - title: Quality Factors
+        content: |
+          - **Sizes**: Generally larger than Brazilian
+          - **Clarity**: Often cleaner than Brazilian
+          - **Saturation**: Excellent neon effect possible
+          - **Treatment**: Heat treatment common to improve colour
+
+  - title: Comparison with Brazilian
+    comparison:
+      items:
+        - title: Brazilian Paraiba
+          variant: default
+          points:
+            - Original source (1989)
+            - Generally smaller sizes
+            - More included typically
+            - Higher copper content often
+            - Significant origin premium
+            - Production nearly exhausted
+        - title: Mozambican Paraiba-type
+          variant: default
+          points:
+            - Discovered 2005
+            - Larger sizes available
+            - Often cleaner material
+            - Same copper chromophore
+            - Lower prices; growing acceptance
+            - Ongoing production
+
+  - title: The Origin Debate
+    callout:
+      type: info
+      title: What Is "Paraiba"?
+      text: |
+        Debate exists whether "Paraiba" refers only to Brazilian origin or
+        can apply to any copper-bearing tourmaline with similar colour.
+
+        LMHC (Laboratory Manual Harmonisation Committee) allows "Paraiba
+        tourmaline" for copper-bearing material regardless of origin,
+        but origin disclosure is expected on lab reports.
+
+        This means both "Paraiba tourmaline from Mozambique" and "Mozambican
+        Paraiba-type tourmaline" are valid descriptions, depending on
+        laboratory and trade practice.
+
+  - title: Market Terminology
+    content: |
+      How the trade describes this material:
+
+      - **"Paraiba tourmaline"**: LMHC-approved for copper-bearing material
+      - **"Paraiba-type"**: Alternative emphasizing origin difference
+      - **"Mozambican Paraiba"**: Common trade description
+      - **Origin disclosure**: Expected and required on reports
+      - **Brazilian premium**: Original source still commands 2-5x premium
+
+  - title: Treatment Considerations
+    content: |
+      Understanding treatment in this material:
+
+      - **Heat treatment**: Common; improves colour, reduces pink/violet
+      - **Disclosure**: Required; affects value
+      - **Unheated premium**: Clean, unheated stones command premium
+      - **Detection**: Laboratory testing can usually identify heating
+
+  - title: Market Position
+    content: |
+      Mozambican material in the marketplace:
+
+      - **Availability**: Made neon tourmaline accessible to more buyers
+      - **Price range**: $500-5,000/ct for fine stones (vs $10,000-50,000+ Brazilian)
+      - **Size advantage**: Large fine stones more available
+      - **Collector view**: Some prefer Brazilian exclusivity; others value Mozambican quality
+      - **Investment**: Brazilian origin retains stronger appreciation potential
+
+  - title: Other East African Gems
+    content: |
+      Additional notable gem production in the region:
+    subsections:
+      - title: Colour-Change Garnet
+        content: |
+          - **Source**: Tanzania, Kenya
+          - **Species**: Pyrope-spessartine
+          - **Effect**: Blue-green to red/purple change
+          - **Rarity**: Exceptional; strong collector demand
+
+      - title: Chrome Tourmaline
+        content: |
+          - **Source**: Tanzania
+          - **Colour**: Intense green (chromium)
+          - **Character**: Different from Paraiba type (no copper)
+          - **Value**: Premium for fine saturated stones
+
+      - title: Additional Species
+        table:
+          headers:
+            - Gem
+            - Country
+            - Notes
+          rows:
+            - ["Rhodolite garnet", "Tanzania, Mozambique", "Fine purple-red material"]
+            - ["Spessartine garnet", "Tanzania, Kenya", "Orange to red-orange"]
+            - ["Yellow sapphire", "Tanzania", "Good commercial production"]
+            - ["Alexandrite", "Tanzania", "Some fine colour-change"]
+            - ["Aquamarine", "Mozambique", "Santa Maria type colour"]
+            - ["Peridot", "Tanzania", "Commercial production"]

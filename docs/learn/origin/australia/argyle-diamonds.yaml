@@ -1,0 +1,152 @@
+title: Argyle Diamonds
+description: The historic Argyle mine - world's primary pink diamond source, closure in 2020, and impact on the diamond market.
+order: 6
+category: origin
+subcategory: australia
+difficulty: advanced
+icon: gem
+related:
+  - origin/australia/overview
+  - species/diamond
+tags:
+  - australia
+  - diamond
+  - argyle
+  - pink-diamond
+  - fancy-colour
+
+sections:
+  - title: Introduction
+    content: |
+      The Argyle mine in Western Australia was the world's primary source of
+      pink diamonds, producing over 90% of global supply during its operation.
+      Its closure in November 2020 marked the end of an era and has significant
+      implications for the coloured diamond market.
+
+  - title: The Argyle Mine
+    content: |
+      History and significance:
+    subsections:
+      - title: Discovery & Operation
+        content: |
+          - **Discovery**: 1979 (diamond pipe identified)
+          - **Production start**: 1983
+          - **Closure**: November 2020
+          - **Location**: East Kimberley region, Western Australia
+          - **Operator**: Rio Tinto
+          - **Type**: Lamproite volcanic pipe
+
+      - title: Production Profile
+        content: |
+          - **Total production**: Over 865 million carats (all colours)
+          - **Annual peak**: Up to 40 million carats/year
+          - **Pink diamonds**: ~90% of world supply
+          - **Volume**: World's largest diamond mine by volume
+          - **Quality**: Mostly industrial; fine gems rare
+
+  - title: Pink Diamond Production
+    content: |
+      Argyle's signature product:
+    subsections:
+      - title: Characteristics
+        content: |
+          - **Colour cause**: Structural deformation (not impurities)
+          - **Range**: Light pink to deep purplish-pink
+          - **Rarity**: Less than 0.1% of Argyle production
+          - **Unique**: No other significant pink diamond source
+
+      - title: Grading System
+        content: |
+          Argyle developed its own colour grading:
+          - **1-9 scale**: 1 being most saturated
+          - **Colour descriptors**: Pink, Purplish Pink, Pink Rose, Pink Champagne
+          - **Tender stones**: Finest pieces sold at exclusive annual tender
+
+  - title: Historic Source Closed
+    callout:
+      type: warning
+      title: Finite Resource
+      text: |
+        The Argyle mine in Western Australia was the world's primary source
+        of pink diamonds, producing over 90% of global supply. The mine
+        closed in November 2020.
+
+        Argyle pink diamonds are now increasingly valuable as a finite
+        resource. Provenance documentation adds significant premium.
+
+  - title: Other Argyle Colours
+    content: |
+      Beyond pink diamonds:
+    subsections:
+      - title: Champagne/Cognac
+        content: |
+          - Brown diamonds in various shades
+          - Argyle created market for these colours
+          - C1-C7 grading scale developed
+          - More affordable fancy colour option
+
+      - title: Blue Diamonds
+        content: |
+          - Rare Argyle production
+          - Type IIb (boron-coloured)
+          - Extremely valuable
+          - Very limited numbers
+
+      - title: Red Diamonds
+        content: |
+          - Rarest of all diamond colours
+          - Saturated pink = red
+          - Only a handful ever found
+          - Museum and collector pieces
+
+  - title: Market Impact
+    content: |
+      Closure effects on diamond market:
+    subsections:
+      - title: Supply Implications
+        content: |
+          - No replacement source for pink diamonds
+          - Existing stones become finite collectibles
+          - Prices rising since closure
+          - Investment demand increasing
+
+      - title: Provenance Value
+        content: |
+          - Argyle certification adds premium
+          - Documentation of origin critical
+          - Tender history most prestigious
+          - Lot numbers traceable to mine records
+
+      - title: Future Outlook
+        content: |
+          - Pink diamond supply constrained indefinitely
+          - Values expected to appreciate long-term
+          - Synthetic pinks available but distinct market
+          - Natural Argyle increasingly collectible
+
+  - title: Collecting Argyle Diamonds
+    content: |
+      Considerations for collectors:
+
+      - **Documentation**: Argyle certificate essential
+      - **Grading**: Understand Argyle's unique system
+      - **Investment grade**: 1-3 on Argyle scale
+      - **Tender history**: Ultimate provenance
+      - **Size**: Larger pinks exceptionally rare
+      - **Matching**: Pairs/sets extremely valuable
+
+  - title: Other Australian Gems
+    content: |
+      Additional notable Australian production:
+    table:
+      headers:
+        - Gem
+        - Location
+        - Notes
+      rows:
+        - ["Zircon", "Various", "Various colours; heat treatment common"]
+        - ["Emerald", "New South Wales", "Limited production; Emmaville area"]
+        - ["Topaz", "Various", "Blue, colourless; some imperial colours"]
+        - ["Garnet", "Various", "Multiple species; commercial grade"]
+        - ["Prehnite", "Western Australia", "Collectors; some gem quality"]
+        - ["Jade (nephrite)", "South Australia", "Some production; black jade noted"]

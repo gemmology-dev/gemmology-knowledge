@@ -1,0 +1,149 @@
+title: White Opal & Crystal Opal
+description: Coober Pedy white opal and Australian crystal opal varieties - characteristics, quality grades, and market position.
+order: 4
+category: origin
+subcategory: australia
+difficulty: advanced
+icon: gem
+related:
+  - origin/australia/overview
+  - origin/australia/black-opal
+  - species/opal
+tags:
+  - australia
+  - opal
+  - white-opal
+  - crystal-opal
+  - coober-pedy
+
+sections:
+  - title: Introduction
+    content: |
+      White opal represents the majority of Australian opal production,
+      with Coober Pedy in South Australia being the largest opal mining
+      area in the world. While less valuable than black opal, fine white
+      and crystal opal display beautiful play-of-colour at accessible prices.
+
+  - title: Coober Pedy White Opal
+    content: |
+      The world's largest opal field:
+    subsections:
+      - title: Source
+        content: |
+          - **Location**: Coober Pedy, South Australia
+          - **Discovery**: 1915; major production since 1940s
+          - **Status**: World's largest opal mining area
+          - **Name**: Aboriginal "kupa piti" (white man's hole)
+          - **Climate**: Underground mining escapes desert heat
+
+      - title: Characteristics
+        content: |
+          - **Body colour**: White to light grey (N7-N9)
+          - **Play-of-colour**: All colours possible
+          - **Volume**: Vast majority of Australian production
+          - **Quality range**: Commercial to fine
+
+  - title: White Opal Quality
+    content: |
+      Quality factors in white opal:
+    subsections:
+      - title: Body Tone
+        content: |
+          - N7-N9 on body tone scale
+          - Lighter background than black opal
+          - Less contrast for play-of-colour
+          - Some prefer softer aesthetic
+
+      - title: Play-of-Colour
+        content: |
+          - **Brightness**: Key value determinant
+          - **Coverage**: Full face coverage ideal
+          - **Colours**: Full spectrum more valuable
+          - **Red presence**: Adds significant premium
+          - **Pattern**: Similar patterns to black opal
+
+  - title: Crystal Opal
+    content: |
+      Transparent to translucent opal variety:
+    subsections:
+      - title: Characteristics
+        content: |
+          - **Body**: Transparent to translucent
+          - **Play-of-colour**: Visible through body
+          - **Sources**: Lightning Ridge, Coober Pedy, others
+          - **Effect**: Depth and dimension to colour display
+
+      - title: Black Crystal
+        content: |
+          - Dark transparent body
+          - Exceptional light transmission
+          - Shows play-of-colour with depth
+          - Premium variety; rare
+
+      - title: Light Crystal
+        content: |
+          - Clear to light grey body
+          - More common than black crystal
+          - Beautiful depth effects
+          - Good value option
+
+  - title: Other Australian Opal Sources
+    content: |
+      Additional white and light opal production:
+    subsections:
+      - title: Andamooka
+        content: |
+          - South Australian field
+          - Matrix opal notable
+          - Some treated (sugar-acid)
+          - Variable quality
+
+      - title: Mintabie
+        content: |
+          - Northern South Australia
+          - Quality approaching black opal
+          - Limited production
+          - Collector interest
+
+      - title: White Cliffs
+        content: |
+          - Historic NSW deposit
+          - First major Australian opal field
+          - Limited current production
+          - Historic significance
+
+  - title: Quality Grading
+    table:
+      headers:
+        - Grade
+        - Brightness
+        - Body Tone
+        - Value Range
+      rows:
+        - ["Gem", "Brilliant", "N7-N8", "High"]
+        - ["Fine", "Bright", "N7-N9", "Medium-High"]
+        - ["Good", "Moderate", "N8-N9", "Medium"]
+        - ["Commercial", "Subdued", "N9", "Accessible"]
+
+  - title: Market Position
+    content: |
+      White and crystal opal in the market:
+
+      - **Accessibility**: Wide price range available
+      - **Volume**: Most common Australian opal type
+      - **Fine quality**: Can command good prices
+      - **Crystal premium**: Good crystal opal valued
+      - **Fashion jewellery**: Major market segment
+      - **Treatment note**: Some material treated (doublets, triplets)
+
+  - title: Doublets and Triplets
+    callout:
+      type: warning
+      title: Composite Opals
+      text: |
+        Much commercial "opal" jewellery contains doublets (opal slice on backing)
+        or triplets (doublet with clear cap). These use thin slices of opal
+        to create affordable jewellery.
+
+        Always verify whether opal is solid, doublet, or triplet. Solid opal
+        commands significant premium over composite materials.

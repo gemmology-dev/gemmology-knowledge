@@ -1,0 +1,125 @@
+title: East African Ruby
+description: Ruby from Mozambique (Montepuez) and Kenya (John Saul Mine) - characteristics, inclusions, and market significance.
+order: 4
+category: origin
+subcategory: east-africa
+difficulty: advanced
+icon: gem
+related:
+  - origin/east-africa/overview
+  - origin/burma/ruby
+  - species/corundum
+  - identification/inclusions/ruby
+tags:
+  - mozambique
+  - kenya
+  - ruby
+  - corundum
+  - montepuez
+
+sections:
+  - title: Introduction
+    content: |
+      East Africa has emerged as a significant ruby source, with Mozambique's
+      Montepuez region now ranking among the world's major producers. Kenya's
+      John Saul Mine adds smaller but notable production. These sources are
+      filling gaps created by supply constraints from traditional origins.
+
+  - title: Mozambican Ruby
+    content: |
+      The region's most significant ruby source:
+    subsections:
+      - title: Montepuez Region
+        content: |
+          - **Discovery**: 2009
+          - **Location**: Cabo Delgado Province, northern Mozambique
+          - **Operator**: Gemfields (major producer) and artisanal miners
+          - **Significance**: Now major world ruby source
+          - **Production**: Regular auctions provide market supply
+
+      - title: Colour Characteristics
+        content: |
+          - **Range**: Strong red; some pigeon blood quality
+          - **Saturation**: Can be excellent
+          - **Tone**: Variable; fine medium-dark available
+          - **Iron content**: Higher than Burmese; affects appearance
+
+      - title: Quality Range
+        content: |
+          - **Clarity**: Variable; clean stones available
+          - **Fluorescence**: Generally moderate (iron dampens)
+          - **Treatment**: Both heated and unheated available
+          - **Top quality**: Competes with traditional sources
+
+  - title: Mozambican Ruby Inclusions
+    table:
+      headers:
+        - Inclusion
+        - Description
+      rows:
+        - ["Amphibole crystals", "Needle-like mineral inclusions"]
+        - ["Mica platelets", "Reflective platy inclusions"]
+        - ["Two-phase inclusions", "Liquid + gas cavities"]
+        - ["Growth tubes", "Parallel channels"]
+        - ["Colour zoning", "Uneven colour distribution"]
+        - ["Silk", "Fine rutile needles"]
+        - ["Apatite", "Small crystal inclusions"]
+
+  - title: Kenyan Ruby
+    content: |
+      Quality production from East Africa's pioneer:
+    subsections:
+      - title: John Saul Mine
+        content: |
+          - **Location**: Mangare area, southeastern Kenya
+          - **Discoverer**: John Saul (American geologist)
+          - **Character**: Fine red colour possible
+          - **Quality**: Some comparable to Burmese
+          - **Production**: Limited but significant
+
+      - title: Characteristics
+        content: |
+          - Variable quality across production
+          - Some stones show strong fluorescence
+          - Interesting inclusion suite
+          - Growing market recognition
+          - Typically smaller sizes than Mozambique
+
+  - title: Market Position
+    content: |
+      East African ruby in the global market:
+    subsections:
+      - title: Mozambique
+        content: |
+          - Filling gap from Burmese supply constraints
+          - Transparent auctions (Gemfields) set benchmarks
+          - Growing acceptance for fine stones
+          - Value below Burmese but rising
+          - Ethical sourcing programs available
+
+      - title: Kenya
+        content: |
+          - Established reputation for quality
+          - Smaller market share than Mozambique
+          - Collector interest for fine pieces
+          - Consistent quality when available
+
+  - title: Comparison with Burmese Ruby
+    content: |
+      Key differences from the benchmark source:
+
+      - **Fluorescence**: Generally weaker due to higher iron
+      - **Colour character**: Can match Burmese but often slightly different hue
+      - **Inclusions**: Different suite aids origin determination
+      - **Price**: Typically 20-50% below Burmese for comparable quality
+      - **Market perception**: Improving as supply proves consistent
+
+  - title: Treatment Considerations
+    content: |
+      Understanding treatment in East African ruby:
+
+      - **Heat treatment**: Common; improves colour and clarity
+      - **Unheated premium**: Fine unheated stones command premium
+      - **Disclosure**: Expected; Gemfields material well-documented
+      - **Beryllium diffusion**: Some material has been treated
+      - **Lab reports**: Recommended for significant purchases
