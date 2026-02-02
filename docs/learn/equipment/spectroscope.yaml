@@ -178,3 +178,14 @@ sections:
       - Takes practice to interpret patterns
       - Some gem species show no diagnostic spectrum
       - Laboratory spectrometers provide more detailed analysis
+
+  - title: Try the Interactive Tool
+    callout:
+      type: tip
+      title: Spectroscope Calculator
+      text: |
+        Use the [spectroscope wavelength calculator](/tools/lab) to:
+
+        - Convert wavelength to visible colour
+        - Browse common absorption lines by gem
+        - Filter by gem species to find diagnostic patterns

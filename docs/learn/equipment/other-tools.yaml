@@ -47,20 +47,36 @@ sections:
 
       - title: Reactions
         table:
+          caption: Chelsea Filter Reactions by Stone
           headers:
             - Stone
-            - Chelsea Filter Reaction
+            - Natural Reaction
+            - Synthetic/Treated
             - Notes
           rows:
-            - ["Colombian emerald", "Pink to red", "Due to Cr content"]
-            - ["Zambian emerald", "May appear greenish", "Higher Fe content"]
-            - ["Synthetic emerald", "Strong red", "Often high Cr"]
-            - ["Green glass", "Green or grey", "No Cr content"]
-            - ["Green tourmaline", "Remains green", "No Cr content"]
-            - ["Demantoid garnet", "Greenish", "Cr present but weak reaction"]
-            - ["Blue cobalt glass", "Red", "Cobalt transmits red"]
-            - ["Blue synthetic spinel", "Red", "Cobalt-coloured"]
-            - ["Aquamarine", "Green", "No Cr content"]
+            - ["Colombian emerald", "Pink to red", "—", "High Cr content"]
+            - ["Zambian emerald", "Weak/greenish", "—", "Higher Fe, lower Cr"]
+            - ["Synthetic emerald", "—", "Very strong red", "Often higher Cr than natural"]
+            - ["Ruby", "Strong red (brighter)", "Very strong red", "Cr fluorescence"]
+            - ["Blue sapphire", "Remains blue", "Remains blue", "No Cr — no reaction"]
+            - ["Alexandrite", "Red (enhanced)", "Very strong red", "Strong Cr content"]
+            - ["Demantoid garnet", "Greenish", "—", "Cr present but weak reaction"]
+            - ["Green tourmaline", "Remains green", "—", "No Cr content"]
+            - ["Jadeite (green)", "Remains green", "Weak pink if dyed", "Dyed jadeite may show pink"]
+            - ["Peridot", "Remains green", "—", "Fe-coloured, no reaction"]
+            - ["Aquamarine", "Remains green", "—", "No Cr content"]
+            - ["Diamond", "No change", "No change", "No reaction expected"]
+            - ["Blue cobalt glass", "—", "Red", "Cobalt transmits red"]
+            - ["Blue synthetic spinel", "—", "Red", "Cobalt-coloured"]
+            - ["Green glass (Cr)", "—", "Brown/red", "Cr in glass"]
+
+  - title: Try the Interactive Tool
+    callout:
+      type: tip
+      title: Chelsea Filter Lookup
+      text: |
+        Use the [interactive Chelsea filter lookup](/tools/lab) to search for expected
+        reactions by stone type and see natural vs synthetic comparisons.
 
   - title: Chelsea Filter Warning
     callout:
@@ -171,18 +187,48 @@ sections:
 
   - title: Heavy Liquids
     content: |
-      Heavy liquids allow quick sorting of gems by density:
+      Heavy liquids allow quick sorting of gems by density. A gem floats if its SG
+      is lower than the liquid's SG, and sinks if higher.
     subsections:
-      - title: Common Liquids
+      - title: Common Heavy Liquids
         table:
+          caption: Heavy Liquids Used in Gemmology
           headers:
             - Liquid
             - SG
-            - Gems That Float
+            - Common Floaters
+            - Common Sinkers
+            - Safety
           rows:
-            - ["Methylene iodide", "3.32", "Quartz, feldspar, beryl"]
-            - ["Bromoform", "2.89", "Opal, amber, most plastics"]
-            - ["Clerici solution", "4.25", "Most gems except zircon, corundum"]
+            - ["Water (baseline)", "1.00", "None (all gems sink)", "All gemstones", "Safe"]
+            - ["Toluene", "0.87", "Amber (SG 0.96–1.10)", "All other gems", "Toxic fumes — use fume hood"]
+            - ["Bromoform", "2.89", "Quartz, feldspar, beryl, opal", "Tourmaline, diamond, corundum", "Toxic — use gloves"]
+            - ["Methylene iodide (pure)", "3.32", "Quartz, beryl, tourmaline", "Diamond, corundum, spinel, topaz", "Very toxic — gloves + fume hood"]
+            - ["MI + toluene (diluted)", "3.06", "Quartz, beryl, tourmaline hovers", "Diamond, corundum, topaz", "Toxic — gloves + fume hood"]
+            - ["Clerici solution", "4.25", "Diamond, corundum, topaz, spinel", "Zircon, cassiterite", "Toxic and corrosive"]
+
+      - title: Float/Sink Reference by Gem
+        table:
+          caption: How Common Gems Behave in Heavy Liquids
+          headers:
+            - Gem
+            - SG
+            - Bromoform (2.89)
+            - MI (3.32)
+            - Clerici (4.25)
+          rows:
+            - ["Amber", "1.08", "Floats", "Floats", "Floats"]
+            - ["Opal", "2.10", "Floats", "Floats", "Floats"]
+            - ["Quartz", "2.65", "Floats", "Floats", "Floats"]
+            - ["Beryl (emerald)", "2.70", "Floats", "Floats", "Floats"]
+            - ["Tourmaline", "3.06", "Sinks", "Floats/hovers", "Floats"]
+            - ["Diamond", "3.52", "Sinks", "Sinks", "Floats"]
+            - ["Topaz", "3.53", "Sinks", "Sinks", "Floats"]
+            - ["Spinel", "3.60", "Sinks", "Sinks", "Floats"]
+            - ["Corundum", "4.00", "Sinks", "Sinks", "Floats"]
+            - ["Zircon", "4.70", "Sinks", "Sinks", "Sinks"]
+            - ["CZ", "5.80", "Sinks", "Sinks", "Sinks"]
+            - ["Moissanite", "3.22", "Sinks", "Floats", "Floats"]
 
       - title: Safety Warning
         callout:
@@ -191,12 +237,23 @@ sections:
           text: |
             Most heavy liquids are toxic and/or carcinogenic:
 
-            - Use in well-ventilated areas or fume hoods
-            - Wear appropriate protective equipment
-            - Never mouth-pipette
-            - Store properly and dispose as hazardous waste
+            - Use only in well-ventilated areas or fume hoods
+            - Wear appropriate gloves and safety glasses
+            - Never mouth-pipette — use bulb pipettes
+            - Store in sealed containers away from light (prevents decomposition)
+            - Never use with porous or fractured stones — liquid can be absorbed
+            - Dispose according to hazardous waste regulations
 
-            Many laboratories now avoid heavy liquids due to safety concerns.
+            Many modern laboratories prefer hydrostatic weighing due to safety concerns.
+
+      - title: Alternative Method
+        callout:
+          type: tip
+          title: Try the SG Calculator
+          text: |
+            For most gem identification, [hydrostatic weighing](/tools/measurement) is safer
+            and more accurate than heavy liquids. Use the SG calculator to measure
+            specific gravity from weights in air and water.
 
   - title: The 10× Loupe
     content: |

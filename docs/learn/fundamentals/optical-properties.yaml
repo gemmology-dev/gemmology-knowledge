@@ -139,3 +139,15 @@ sections:
       - **Blue sapphire**: Bands at 450nm, 460nm, 470nm
       - **Almandine garnet**: Bands at 505nm, 520nm, 575nm
       - **Zircon**: Fine lines throughout spectrum (uranium)
+
+  - title: Practice with Interactive Tools
+    callout:
+      type: tip
+      title: Optical Testing Tools
+      text: |
+        Practise with our interactive optical property tools:
+
+        - [Refractometer simulator](/tools/optical) — practise reading shadow edges
+        - [Dichroscope lookup](/tools/optical) — identify gems by observed colours
+        - [Polariscope guide](/tools/optical) — interpret isotropic vs anisotropic reactions
+        - [RI calculator](/tools/calculator) — look up gems by refractive index

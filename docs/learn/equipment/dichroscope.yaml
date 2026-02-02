@@ -102,22 +102,49 @@ sections:
       caption: Characteristic Pleochroism by Gemstone
       headers:
         - Gemstone
+        - System
         - Strength
-        - Colours
+        - Colours by Direction
+        - Notes
       rows:
-        - ["Ruby", "Strong", "Purple-red / orange-red"]
-        - ["Blue sapphire", "Strong", "Violet-blue / greenish-blue"]
-        - ["Emerald", "Distinct", "Blue-green / yellow-green"]
-        - ["Tanzanite", "Strong (trichroic)", "Blue / purple / brown"]
-        - ["Tourmaline", "Strong", "Variable, often dark / light of same hue"]
-        - ["Alexandrite", "Strong (trichroic)", "Green / orange / purple-red"]
-        - ["Kunzite", "Strong", "Pink / colourless"]
-        - ["Iolite", "Very strong (trichroic)", "Violet / blue / pale yellow"]
-        - ["Peridot", "Weak", "Yellow-green / green"]
-        - ["Aquamarine", "Weak", "Colourless / pale blue"]
-        - ["Andalusite", "Strong (trichroic)", "Yellow-green / brown / red"]
-        - ["Hiddenite", "Distinct", "Yellow-green / blue-green"]
-        - ["Zircon (blue)", "Weak", "Blue / colourless"]
+        - ["Ruby", "Trigonal", "Strong", "O-ray: purplish red / E-ray: orange-red", "Best seen in thick stones"]
+        - ["Blue sapphire", "Trigonal", "Strong", "O-ray: deep blue / E-ray: greenish-blue", "Varies with saturation"]
+        - ["Emerald", "Hexagonal", "Distinct", "O-ray: blue-green / E-ray: yellow-green", "More visible in darker stones"]
+        - ["Tanzanite", "Orthorhombic", "Very strong", "α: blue / β: violet / γ: purple-red", "Trichroic — heat treated shows 2 colours"]
+        - ["Alexandrite", "Orthorhombic", "Very strong", "α: green / β: orange / γ: red-purple", "Colour change + strong pleochroism"]
+        - ["Andalusite", "Orthorhombic", "Very strong", "α: yellow-green / β: brown-green / γ: red-brown", "Distinctive multicolour effect"]
+        - ["Iolite", "Orthorhombic", "Very strong", "α: violet-blue / β: blue / γ: pale yellow", "Water sapphire — dramatic colours"]
+        - ["Kunzite", "Monoclinic", "Distinct", "α: colourless / β: pink / γ: violet", "Fades in light over time"]
+        - ["Tourmaline (green)", "Trigonal", "Strong", "O-ray: dark green / E-ray: light green", "Best viewed down c-axis"]
+        - ["Tourmaline (pink)", "Trigonal", "Strong", "O-ray: dark pink / E-ray: light pink", "Orientation important for cutting"]
+        - ["Aquamarine", "Hexagonal", "Weak", "O-ray: blue / E-ray: colourless-pale blue", "Often not visible"]
+        - ["Peridot", "Orthorhombic", "Weak", "α: colourless-pale green / β: yellow-green / γ: green", "Subtle colour difference"]
+        - ["Hiddenite", "Monoclinic", "Distinct", "Yellow-green / blue-green", "Spodumene variety"]
+        - ["Zircon (blue)", "Tetragonal", "Weak", "O-ray: blue / E-ray: colourless", "Difficult to detect"]
+        - ["Morganite", "Hexagonal", "Weak", "O-ray: pink / E-ray: pale pink", "Requires good stone"]
+        - ["Topaz (blue)", "Orthorhombic", "Weak", "α: colourless / β: pale blue / γ: pale blue", "Difficult to detect"]
+
+  - title: Crystal Axis Terminology
+    callout:
+      type: info
+      title: Understanding Direction Labels
+      text: |
+        **Uniaxial gems** (trigonal, tetragonal, hexagonal systems) show dichroism:
+        - **O-ray** (ordinary ray): Vibrates perpendicular to the optic axis
+        - **E-ray** (extraordinary ray): Vibrates parallel to the optic axis
+
+        **Biaxial gems** (orthorhombic, monoclinic, triclinic systems) show trichroism:
+        - **α (alpha)**: Fastest ray direction (lowest RI)
+        - **β (beta)**: Intermediate ray direction
+        - **γ (gamma)**: Slowest ray direction (highest RI)
+
+  - title: Try the Interactive Tool
+    callout:
+      type: tip
+      title: Dichroscope Lookup Tool
+      text: |
+        Use the [interactive dichroscope lookup](/tools/optical) to identify gems by the colours you observe.
+        Enter the two colours you see in the dichroscope windows to find matching gemstones.
 
   - title: Dichroism vs Trichroism
     content: |

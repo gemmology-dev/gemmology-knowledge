@@ -268,3 +268,15 @@ sections:
 
           Most synthetic moissanite (SiC) is an electrical semiconductor, while
           natural diamond (except rare Type IIb blue) is an insulator.
+
+  - title: Practice with Interactive Tools
+    callout:
+      type: tip
+      title: Measurement Calculators
+      text: |
+        Use our interactive measurement tools:
+
+        - [SG calculator](/tools/measurement) — calculate specific gravity from hydrostatic weighing
+        - [Carat estimator](/tools/measurement) — estimate weight from dimensions
+        - [Hardness reference](/tools/identification) — searchable gem hardness and wearability guide
+        - [Heavy liquid reference](/tools/lab) — which gems float or sink in standard liquids
