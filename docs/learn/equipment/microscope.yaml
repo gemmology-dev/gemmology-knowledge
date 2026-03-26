@@ -142,10 +142,12 @@ sections:
             - Best For
             - Safety Notes
           rows:
-            - ["Water", "1.33", "Basic immersion; safe for all gems", "Safe"]
-            - ["Benzyl benzoate", "1.57", "Quartz, beryl, feldspar", "Low toxicity"]
-            - ["Methylene iodide", "1.74", "Corundum, spinel, garnet", "Toxic; handle with care"]
+            - ["Distilled water", "1.33", "Basic immersion; safe for all gems", "Safe"]
+            - ["Liquid paraffin (also almond oil and baby oil)", "1.47", "General purpose; low-RI materials", "Safe; readily available"]
             - ["Clove oil", "1.54", "General purpose", "Pleasant odour; low toxicity"]
+            - ["Benzyl benzoate", "1.57", "Quartz, beryl, feldspar", "Low toxicity"]
+            - ["1-bromonaphthalene (monobromonaphthalene)", "1.66", "Tourmaline, spodumene, diopside", "Lab use only; avoid skin contact"]
+            - ["Di-iodomethane (methylene iodide)", "1.74", "Corundum, spinel, garnet", "Toxic; handle with care; store in dark bottles"]
 
       - title: Immersion Observations
         content: |

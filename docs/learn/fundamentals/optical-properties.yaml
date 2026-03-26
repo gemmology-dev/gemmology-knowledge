@@ -31,19 +31,51 @@ sections:
       1.35 to 1.81 (limited by the contact liquid). Gems with higher RI require
       alternative methods.
     table:
-      caption: RI Values by Gemstone
+      caption: Optical Properties of Common Gem Materials
       headers:
-        - Gemstone
-        - RI Range
-        - Optic Character
+        - Material
+        - RI
+        - Birefringence
+        - Optical Character
       rows:
-        - ["Diamond", "2.417", "Isotropic"]
-        - ["Corundum", "1.762-1.770", "Uniaxial -"]
-        - ["Spinel", "1.712-1.736", "Isotropic"]
-        - ["Tourmaline", "1.624-1.644", "Uniaxial -"]
-        - ["Topaz", "1.609-1.617", "Biaxial +"]
-        - ["Quartz", "1.544-1.553", "Uniaxial +"]
-        - ["Beryl", "1.570-1.590", "Uniaxial -"]
+        - ["Amber", "1.54 approx.", "-", "I"]
+        - ["Andalusite", "1.63-1.64", "0.007-0.013", "B-"]
+        - ["Apatite", "1.63-1.64", "0.002-0.006", "U-"]
+        - ["Beryl varieties", "1.56-1.60", "0.003-0.010", "U-"]
+        - ["Calcite varieties", "1.48-1.66", "0.172", "U-"]
+        - ["Chrysoberyl", "1.74-1.76", "0.008-0.010", "B+"]
+        - ["Corundum varieties", "1.76-1.78", "0.008-0.009", "U-"]
+        - ["Cubic zirconia", "2.17 approx.", "-", "I"]
+        - ["Diamond", "2.42", "-", "I"]
+        - ["Diopside", "1.67-1.70", "0.024-0.030", "B+"]
+        - ["Feldspar varieties", "1.52-1.57", "0.004-0.009", "B+/-"]
+        - ["Fluorite", "1.43-1.44", "-", "I"]
+        - ["Garnet, almandine", "1.76-1.81", "-", "I"]
+        - ["Garnet, demantoid", "1.89 approx.", "-", "I"]
+        - ["Garnet, grossular", "1.73-1.75", "-", "I"]
+        - ["Garnet, hydrogrossular", "1.70-1.73", "-", "I"]
+        - ["Garnet, pyrope", "1.74-1.76", "-", "I"]
+        - ["Garnet, spessartine", "1.79-1.82", "-", "I"]
+        - ["Iolite", "1.54-1.56", "0.008-0.012", "B-"]
+        - ["Natural glass", "1.50 approx.", "-", "I"]
+        - ["Opal", "1.40-1.46", "-", "I"]
+        - ["Paste (artificial glass)", "1.50-1.70", "-", "I"]
+        - ["Peridot", "1.65-1.69", "0.036", "B+/-"]
+        - ["Quartz, crystalline", "1.54-1.56", "0.009", "U+"]
+        - ["Quartz, polycrystalline", "1.53-1.55", "-", "-"]
+        - ["Rhodochrosite", "1.59-1.82", "0.220", "U-"]
+        - ["Scapolite", "1.54-1.58", "0.009-0.026", "U-"]
+        - ["Sinhalite", "1.67-1.71", "0.037-0.038", "B-"]
+        - ["Sphene", "1.88-2.05", "0.105-0.135", "B+"]
+        - ["Spinel", "1.71-1.74", "-", "I"]
+        - ["Spinel, Verneuil synthetic", "1.72-1.73", "-", "I"]
+        - ["Spodumene", "1.66-1.68", "0.015-0.016", "B+"]
+        - ["Synthetic moissanite", "2.65-2.69", "0.043", "U"]
+        - ["Tanzanite", "1.69-1.70", "0.006-0.013", "B+"]
+        - ["Topaz", "1.61-1.64", "0.008-0.010", "B+"]
+        - ["Tourmaline", "1.62-1.65", "0.014-0.021", "U-"]
+        - ["YAG", "1.83 approx.", "-", "I"]
+        - ["Zircon", "1.78-1.99", "up to 0.059", "U+"]
 
   - title: Birefringence
     content: |

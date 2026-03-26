@@ -97,6 +97,77 @@ sections:
           - Cannot measure birefringence accurately
           - Best for isotropic materials or quick screening
 
+  - title: "Sturman's Seven Refractometer Patterns"
+    content: |
+      Darko Sturman refined the technique of observing shadow-edge behaviour on the
+      refractometer into seven basic patterns that cover all possible observations for
+      isotropic and anisotropic gemstones. Identification of a pattern is based on
+      observations during rotation of a gemstone on the refractometer. Note:
+
+      - The number of shadow edges observed (one or two)
+      - Whether each shadow edge is variable or constant
+      - Whether the shadow edges meet (touch)
+    table:
+      caption: "Sturman's Seven Refractometer Patterns"
+      headers:
+        - Pattern
+        - Shadow Edges
+        - Behaviour
+        - Conclusion
+      rows:
+        - ["I", "1 constant", "RI stays constant during rotation", "Isotropic"]
+        - ["II", "2 constant, parallel", "Neither moves; both at fixed RI values", "Uniaxial (c-axis perpendicular to table)"]
+        - ["III", "2, one constant + one variable, touching", "Edges join to a single edge at one rotation position", "Uniaxial (c-axis parallel to table); sign determinable"]
+        - ["IV", "2, one constant + one variable, not touching", "Higher RI edge moves; edges do not meet", "Uniaxial or biaxial (c-axis oblique if uniaxial)"]
+        - ["V", "2, one constant + one variable, intersecting", "Shadow edges cross each other", "Biaxial"]
+        - ["VI", "2 variable, not touching", "Both move; they do not touch", "Biaxial"]
+        - ["VII", "2 variable, touching", "Both move and touch at one point", "Biaxial; sign determinable"]
+    subsections:
+      - title: "Patterns I-III: Isotropic and Uniaxial"
+        content: |
+          **Pattern I** — A single constant shadow edge confirms the material is isotropic.
+          Ensure the reading stays truly constant during a full rotation.
+
+          **Pattern II** — Two constant, parallel shadow edges that never move. This occurs when
+          the c-axis is perpendicular to the table facet. The minimum and maximum RI and
+          birefringence can be determined, but the optic sign cannot without testing on
+          an alternative facet.
+
+          **Pattern III** — One constant and one variable edge that join together at one point
+          during rotation. This confirms uniaxial character with the c-axis parallel to the
+          table. The optic sign is determinable:
+
+          - If omega < epsilon (constant < variable): **uniaxial positive**
+          - If omega > epsilon (constant > variable): **uniaxial negative**
+
+      - title: "Patterns IV-VII: Biaxial Determination"
+        content: |
+          **Pattern IV** — One constant edge, one variable edge, not touching. This ambiguous
+          pattern can occur in both uniaxial (oblique c-axis) and biaxial stones.
+
+          **Pattern V** — Shadow edges intersect (cross each other). This confirms biaxial
+          character. The edges may both converge towards beta.
+
+          **Pattern VI** — Both edges move but do not touch. Confirms biaxial, but the optic
+          sign cannot be determined without additional information.
+
+          **Pattern VII** — Both edges move and touch at one point. Confirms biaxial with
+          determinable optic sign.
+
+      - title: Optic Sign Determination
+        content: |
+          **Uniaxial optic sign** (Pattern III):
+
+          - omega < epsilon → positive
+          - omega > epsilon → negative
+
+          **Biaxial optic sign** (when both edges move):
+
+          - Observe which shadow edge crosses the point halfway between the maximum
+            (gamma) and minimum (alpha) values — this edge gives beta
+          - Beta closer to alpha → **biaxial positive**
+          - Beta closer to gamma → **biaxial negative**
+
   - title: Troubleshooting
     content: |
       Common problems and solutions when using the refractometer:

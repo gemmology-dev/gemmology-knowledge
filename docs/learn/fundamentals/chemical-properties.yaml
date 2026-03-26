@@ -202,6 +202,29 @@ sections:
 
           Understanding stability is important for predicting colour permanence.
 
+  - title: Diagnostic Absorption Spectra
+    content: |
+      The spectroscope can identify materials by their characteristic absorption patterns.
+      Not all coloured materials have recognizable spectra, and some colourless materials
+      (zircon, diamond, jadeite) may still show diagnostic absorption. The following are
+      the most diagnostically useful spectra from the Gem-A Diploma course.
+    table:
+      caption: Key Diagnostic Absorption Spectra
+      headers:
+        - Material
+        - Chromophore
+        - Key Wavelengths
+        - Diagnostic Notes
+      rows:
+        - ["Chrysoberyl", "Fe", "Band centred at 444 nm", "Distinguishes yellow/greenish/brown chrysoberyl from sapphire; useful for cat's eyes in settings"]
+        - ["Alexandrite", "Cr", "Lines in red; broad band in yellow-green", "Pleochroic variation visible — spectrum shifts between daylight and tungsten light"]
+        - ["Synthetic colour-change sapphire", "V + Cr", "Sharp fine line at 475 nm", "Diagnostic for vanadium in corundum; line may be faint"]
+        - ["Jadeite (pale specimens)", "Fe", "Fine line at 437 nm", "Seen in pale specimens of various colours; green stones may also show Cr lines in red"]
+        - ["Dyed jadeite", "Fe + Cr-dye", "Weak band(s) in red + 437 nm line", "Chromium-green dye gives additional band(s) in red; diagnostic for dye detection"]
+        - ["Diamond (Cape yellow)", "N", "Fine line at 415 nm", "Most prominent of several fine lines; easier to see when diamond is cooled (liquid nitrogen or dry ice)"]
+        - ["Apatite", "REE", "Multiple fine-line bands in yellow-green", "'Didymium' or rare earth spectrum; each band consists of many fine lines ending in a sharp edge"]
+        - ["Pink YAG", "REE", "Cluster of lines/bands in yellow-orange", "Example of REE-doped artificial material; CZ and glass may show similar spectra"]
+
   - title: Chemical Formulas Reference
     content: |
       Chemical formulas help understand gem composition and elemental substitutions.
@@ -250,6 +273,108 @@ sections:
             - ["Labradorite", "Labradorite", "(Ca,Na)(Al,Si)₄O₈"]
             - ["Amazonite", "Microcline", "KAlSi₃O₈"]
             - ["Sunstone", "Oligoclase", "(Na,Ca)(Al,Si)₄O₈"]
+
+  - title: Band Gap Theory
+    content: |
+      All gem materials are held together by electronic bonding. In some materials,
+      electrons can move throughout the crystal structure at a higher energy level than
+      those bound within atomic orbitals. The gap between the atom-bound "valence band"
+      electrons and the wandering "conduction band" electrons is the electron energy band
+      gap — a "forbidden" zone whose width greatly influences optical properties.
+    subsections:
+      - title: Three Material Types
+        content: |
+          Materials having a band gap can be grouped into three types:
+
+          1. **Large band gap** (wider than visible light range): Even violet light cannot
+             excite electrons across the gap. No visible light is absorbed, so the material
+             appears transparent and colourless when pure. Most gemstones fall into this
+             category — pure diamond, corundum, quartz, and topaz.
+
+          2. **Small band gap** (narrower than red light energy): All visible light interacts
+             with electrons and is absorbed, making the material opaque.
+
+          3. **Overlapping band gap**: The gap energy partially overlaps the visible spectrum,
+             causing selective absorption and a residual colour.
+
+      - title: Diamond Band Gap Colour
+        content: |
+          Diamond provides the key example of band gap colour through impurity energy levels:
+
+          **Nitrogen (yellow)**: Carbon has four valence electrons; nitrogen has five. When
+          nitrogen replaces a carbon atom, the extra electron creates a donor level within the
+          band gap. Excitation of this electron absorbs light from the middle of the visible
+          spectrum through blue and violet, producing a pronounced yellow ("canary") colour.
+          This is distinct from the "Cape" yellow caused by nitrogen vacancy colour centres.
+
+          **Boron (blue)**: Boron has only three valence electrons, creating an acceptor level
+          near the top of the valence band. Absorption occurs at maximum in the near infrared,
+          extending into lower-energy visible light. Higher-energy blue and violet light is
+          transmitted, producing blue colour. Because the boron level is close to the valence
+          band, electrons can be thermally excited at room temperature, leaving "holes" that
+          allow electrical current — boron-containing diamonds conduct electricity.
+
+  - title: Physical Optics Colour
+    content: |
+      Not all colour in gemstones results from absorption of light by electronic mechanisms.
+      Physical phenomena can also produce colour through the interaction of light with
+      structures within or on the surface of a material.
+    subsections:
+      - title: Dispersion
+        content: |
+          Dispersion separates white light into its component colours ("fire"). The degree
+          of dispersion depends on the refractive index variation across wavelengths. Diamond's
+          high dispersion (0.044) produces the spectral flashes characteristic of a well-cut
+          brilliant.
+
+      - title: Diffraction
+        content: |
+          The play-of-colour in precious opal is caused by diffraction of light by regularly
+          stacked three-dimensional groups of silica spheres. These spheres are only a few
+          hundred nanometres in diameter, with gaps of similar size to visible light wavelengths.
+
+          The actual colours seen depend on the size of the spheres:
+          - Large spheres: full range of colours from violet to red (most desirable)
+          - Medium spheres: violet to green only
+          - Small spheres: only violet and blue light can pass between them
+
+      - title: Thin-Film Interference
+        content: |
+          Thin-film interference colour arises from closely-spaced double reflections from
+          thin films, layers of differing composition, or thin-film cavities such as cracks.
+          When two reflected rays travel in the same direction and their wave peaks coincide
+          ("in phase"), they reinforce each other. When peak meets trough ("out of phase"),
+          they cancel — this is interference.
+
+          Examples in gemmology:
+          - **Labradorite**: iridescent colours from interference at thin compositional layers
+          - **Pearl nacre**: lustre from diffraction at overlapping platy aragonite crystals
+            combined with interference from thin nacre layers
+          - **Crack iridescence**: colours from thin films of air in cracks (as in topaz,
+            glass, or quartz) — similar to oil films on water
+
+      - title: Scattering
+        content: |
+          Scattering occurs when light is randomly reflected by particles within a substance.
+          Blue light is typically much more strongly scattered than red.
+
+          The scattering effect is most noticeable when particles are smaller than approximately
+          400 nm in size. This causes the blue adularescence (sheen) in fine-quality moonstone,
+          where scattering is caused by submicroscopic particles of albite feldspar.
+
+          As particles get larger, other colours such as red and green may be seen at certain
+          angles. Larger particles still produce a whitish effect called opalescence — seen in
+          materials such as common opal and milky quartz. This should not be confused with the
+          play-of-colour effect in precious opal.
+
+      - title: Inclusions
+        content: |
+          Fine needle-like inclusions can interact with light to produce optical phenomena:
+
+          - **Chatoyancy** (cat's eye effect): caused by scattering of light from parallel
+            needle-like inclusions
+          - **Asterism** (star effect): caused by multiple sets of oriented needle-like
+            inclusions (typically rutile silk in corundum)
 
   - title: Trace Element Effects
     content: |

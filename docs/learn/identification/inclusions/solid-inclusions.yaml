@@ -20,8 +20,18 @@ sections:
   - title: Introduction
     content: |
       Solid inclusions are crystals of other minerals trapped during the host gem's growth.
-      They are typically protogenetic (formed before the host) or syngenetic (formed at the
-      same time). These mineral "guests" provide crucial evidence for identification and
+      The textbook classifies inclusions into three temporal categories:
+
+      - **Protogenetic**: Formed before the host crystal grew. These are pre-existing mineral
+        particles that became engulfed during growth (e.g. pyrite in emerald).
+      - **Syngenetic**: Formed at the same time as the host material. Most liquid and gaseous
+        inclusions are syngenetic, but solids can also be syngenetic (e.g. calcite in emerald).
+        These give information about the growing environment of the host.
+      - **Epigenetic**: Formed after the host crystal stopped growing. These include minerals
+        that fill fractures, stress cracks caused by heat treatment, and alteration products
+        of existing inclusions (e.g. fractures around zircon crystals in heat-treated sapphire).
+
+      These mineral "guests" provide crucial evidence for identification and
       origin determination.
 
   - title: Common Solid Inclusions by Host Gem

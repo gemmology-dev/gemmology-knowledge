@@ -168,15 +168,25 @@ sections:
 
       - title: Heavy Liquids Method
         content: |
-          Liquids of known SG can quickly estimate stone density:
+          High density liquids can quickly estimate stone density by the float/sink/suspend
+          method. Two organic liquids commonly used for gemstone separation are
+          di-iodomethane and 1-bromonaphthalene, which can be mixed to give a useful
+          series of three standard SG values:
 
-          - **Methylene iodide** (SG 3.32): Good for many gems
-          - **Clerici solution** (SG up to 4.2): For denser stones
-          - **Diluted solutions**: Create intermediate densities
+          - **1-bromonaphthalene** (SG 1.49): Also known as monobromonaphthalene
+          - **Bromoform** (SG 2.89): Useful intermediate density liquid
+          - **Di-iodomethane** (SG 3.33): Also known as methylene iodide; undiluted for densest standard
 
-          If stone **floats**, SG < liquid; if **sinks**, SG > liquid; if **suspends**, SG = liquid
+          These liquids are diluted with each other to create intermediate densities.
+          The three SGs typically used for gem testing are approximately 2.65, 3.05, and 3.33.
 
-          *Note*: Many heavy liquids are toxic; follow safety protocols.
+          If a stone **floats**, its SG is less than the liquid; if it **sinks**, its SG is
+          greater; if it **suspends**, its SG equals the liquid.
+
+          *Note*: Many heavy liquids are toxic and restricted. Di-iodomethane discolours
+          during storage and should be stored in a dark bottle. Heavy liquid SG will vary
+          slightly with temperature and differential evaporation — values should be taken
+          as approximate.
 
       - title: SG Accuracy and Limitations
         table:
@@ -198,24 +208,37 @@ sections:
     subsections:
       - title: Kyanite
         content: |
-          Kyanite is the classic example of extreme directional hardness:
+          Kyanite is the classic example of extreme directional hardness. The mineral was
+          once commonly called "disthene" meaning "two strengths":
 
-          - **Parallel to c-axis** (length): H 4-4.5
-          - **Perpendicular to c-axis**: H 6-7
+          - **Parallel to length** (c-axis): H 4.5-5
+          - **Perpendicular to length**: H 6.5-7
 
-          This 3-point variation affects cutting and polishing—different directions
-          require different approaches.
+          This difference in hardness means the stone is difficult to cut and must be
+          handled with care.
+
+      - title: Jadeite
+        content: |
+          Older pieces of jadeite polished with softer materials may exhibit an "orange peel"
+          surface — an irregular polish on a fine scale caused by the polycrystalline
+          structure, in which randomly oriented grains each present different hardness
+          directions to the polishing powder. Diamond powder gives an even polish in all
+          directions regardless of this effect. A similar undercutting effect is also seen
+          in lapis lazuli and bloodstone.
 
       - title: Diamond
         content: |
           Diamond's hardness varies by crystal direction:
 
-          - **Octahedral faces {111}**: Hardest direction
-          - **Cube faces {100}**: Slightly softer
-          - **Dodecahedral faces {110}**: Softest
+          - **Hardest**: Diagonal directions on cube planes
+          - **Hard**: All directions on octahedral planes
+          - **Softest**: Across dodecahedral planes
 
-          Diamond cutters exploit these differences. Sawing is done parallel to
-          cubic planes; polishing uses the harder octahedral direction.
+          Only diamond can cut diamond, and this is possible solely because of differential
+          hardness. Diamond grit or powder used to cut and polish diamonds is a mass of
+          particles presenting variously oriented directions of maximum hardness. There is
+          always a large number of particles correctly aligned to abrade the softer directions
+          of the diamond being sawn or polished.
 
       - title: Practical Implications
         content: |
@@ -225,6 +248,55 @@ sections:
           - Wear patterns (soft directions wear faster)
           - Cutting approach (orient for best finish)
           - Durability assessment (softest direction matters)
+
+  - title: Streak Test
+    content: |
+      Some minerals and ornamental materials give a characteristically coloured powder
+      when scratched, or when drawn across an unglazed white porcelain plate. Streak tests
+      are most easily carried out on unpolished or rough material, and the colour of the
+      streak on the white plate may provide good supplementary evidence of identity.
+      Like hardness testing, it is a destructive test and seldom used for general
+      gemmological testing.
+    table:
+      caption: Streak Colour Examples
+      headers:
+        - Material
+        - Body Colour
+        - Streak Colour
+      rows:
+        - ["Hematite", "Metallic grey/black", "Red to reddish-brown"]
+        - ["Gold", "Metallic gold", "Metallic gold"]
+        - ["Pyrite (fool's gold)", "Metallic gold", "Greenish-black"]
+        - ["Malachite", "Banded green", "Pale green"]
+        - ["Lapis lazuli", "Rich blue", "Blue"]
+        - ["Sodalite", "Deep blue", "White"]
+        - ["Whitby jet", "Black", "Dark chocolate-brown*"]
+    callout:
+      type: info
+      title: Jet Streak Variability
+      text: |
+        Although Whitby jet produces a dark chocolate-brown streak, jet from other
+        localities may give a black streak. This means the test can only be used as
+        an indicator at best and is not conclusive.
+
+  - title: Parting
+    content: |
+      Parting is a tendency of a material to split along twinning planes. It can look
+      similar to cleavage and is sometimes called "false cleavage".
+
+      Unlike cleavage, which is an inherent property of the crystal structure found
+      throughout a material, parting occurs only along specific planes of weakness —
+      typically twin boundaries — and is not found in all specimens of a species.
+    subsections:
+      - title: Parting in Corundum
+        content: |
+          Parting is common in corundum, where well-developed parting may be seen
+          parallel to rhombohedral faces. This occurs along twinning planes within
+          the crystal and is not present in all corundum specimens.
+
+          Parting can be mistaken for cleavage during examination, but true cleavage
+          in corundum does not exist — the rhombohedral "cleavage" observed is
+          actually parting along twin planes.
 
   - title: Thermal Conductivity
     content: |
