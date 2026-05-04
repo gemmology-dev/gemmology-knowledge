@@ -121,14 +121,14 @@ sections:
       - title: Orthorhombic
         system: orthorhombic
         cdl: "orthorhombic[mmm]:{110}@1.0+{010}@1.2+{001}@0.8"
-        content: Three twofold axes or two mirror planes.
+        content: Three two-fold axes (or three two-fold axes plus three mirror planes for the holohedral class).
         items:
           - name: Axes
             value: "a ≠ b ≠ c"
           - name: Angles
             value: "α = β = γ = 90°"
           - name: Minimum Symmetry
-            value: "3 twofold axes or 2 planes"
+            value: "three two-fold axes (or three two-fold axes plus three mirror planes for the holohedral class)"
           - name: Point Groups
             value: "mmm, 222, mm2"
           - name: Example Gems

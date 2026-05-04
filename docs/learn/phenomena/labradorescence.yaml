@@ -29,12 +29,17 @@ sections:
     content: |
       The cause of labradorescence:
     subsections:
-      - title: Lamellar Twinning
+      - title: Bøggild Exsolution Lamellae
         content: |
-          - Caused by light interference from repeated thin twin layers
-          - Twin lamellae form during cooling of plagioclase
+          - Caused by light interference from Bøggild exsolution lamellae
+          - The colour-causing structure is exsolution intergrowth of compositionally
+            distinct plagioclase end-members (within the Bøggild miscibility gap,
+            An ~ 47–58), not mechanical twinning. Lamellar thickness 100–300 nm
+            produces the spectral interference colours.
           - Lamellae vary in thickness, producing different colours
-          - Light interferes between twin boundaries
+          - Light interferes between exsolution layer boundaries
+
+          Source: Gem-A D7 (labradorescence section); standard mineralogy references.
 
       - title: Orientation Dependence
         content: |
@@ -102,7 +107,7 @@ sections:
             - Multiple spectral colours
             - Sharp, distinct flashes
             - Colours appear in patches
-            - Caused by lamellar twinning
+            - Caused by Bøggild exsolution lamellae
             - Plagioclase (labradorite)
             - Effect at surface level
         - title: Adularescence

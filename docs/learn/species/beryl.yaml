@@ -44,8 +44,8 @@ sections:
           rows:
             - ["Hardness", "7.5-8 Mohs"]
             - ["Specific gravity", "2.67-2.78"]
-            - ["Refractive index", "1.577-1.583"]
-            - ["Birefringence", "0.005-0.009"]
+            - ["Refractive index", "1.560-1.600"]
+            - ["Birefringence", "0.003-0.010"]
             - ["Optic character", "Uniaxial negative"]
             - ["Pleochroism", "Weak to distinct (varies by variety)"]
             - ["Lustre", "Vitreous"]

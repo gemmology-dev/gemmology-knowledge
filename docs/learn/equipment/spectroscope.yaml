@@ -90,7 +90,7 @@ sections:
         - ["Blue sapphire", "Fe bands", "450, 460, 470 (three-band)"]
         - ["Almandine garnet", "Fe bands", "505, 520, 575 (diagnostic trio)"]
         - ["Zircon (high)", "Uranium lines", "Many fine lines throughout spectrum"]
-        - ["Demantoid garnet", "Cr line", "443 (horse line; diagnostic)"]
+        - ["Demantoid garnet", "Fe³⁺ doublet (438/444 nm; present in all andradite regardless of Cr content)", "443 (horse line; diagnostic — Fe³⁺, not Cr; Cr causes green colour via 618 nm and ~700 nm absorption)"]
         - ["Peridot", "Fe bands", "493, 473, 453 (three evenly spaced)"]
         - ["Yellow sapphire", "Fe bands", "450 band region"]
         - ["Yellow apatite", "Rare earth lines", "Multiple fine lines in yellow-green"]

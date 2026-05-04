@@ -54,7 +54,7 @@ sections:
       rows:
         - ["Remains dark during rotation", "Isotropic (cubic system or amorphous)", "Diamond, spinel, garnet, glass"]
         - ["Light and dark every 90° (4× blink)", "Anisotropic (crystalline, non-cubic)", "Quartz, tourmaline, corundum, beryl"]
-        - ["Remains light (never dark)", "Aggregate or microcrystalline material", "Jade (jadeite/nephrite), chalcedony"]
+        - ["Remains light (never dark)", "Aggregate or microcrystalline material — but note: some types of glass also remain light throughout rotation; confirm with magnification or RI (Source: Gem-A D6-23)", "Jade (jadeite/nephrite), chalcedony; also some glass"]
         - ["Patchy light/dark (tabby extinction)", "ADR or strain birefringence", "Strained garnet, synthetic spinel"]
 
   - title: Anomalous Double Refraction (ADR)

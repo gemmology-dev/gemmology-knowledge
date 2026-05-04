@@ -43,7 +43,7 @@ sections:
           rows:
             - ["Hardness", "8 Mohs"]
             - ["Specific gravity", "3.58-3.61"]
-            - ["Refractive index", "1.712-1.720"]
+            - ["Refractive index", "1.712-1.740"]
             - ["Optic character", "Singly refractive (isotropic)"]
             - ["Pleochroism", "None"]
             - ["Dispersion", "0.020 (moderate)"]
