@@ -203,7 +203,7 @@ sections:
             - ["Water (baseline)", "1.00", "None (all gems sink)", "All gemstones", "Safe"]
             - ["Toluene", "0.87", "Amber (SG 0.96–1.10)", "All other gems", "Toxic fumes — use fume hood"]
             - ["Bromoform", "2.89", "Quartz, feldspar, beryl, opal", "Tourmaline, diamond, corundum", "Toxic — use gloves"]
-            - ["Methylene iodide (pure)", "3.32", "Quartz, beryl, tourmaline", "Diamond, corundum, spinel, topaz", "Very toxic — gloves + fume hood"]
+            - ["Methylene iodide (pure)", "3.33", "Quartz, beryl, tourmaline", "Diamond, corundum, spinel, topaz", "Very toxic — gloves + fume hood"]
             - ["MI + toluene (diluted)", "3.06", "Quartz, beryl, tourmaline hovers", "Diamond, corundum, topaz", "Toxic — gloves + fume hood"]
             - ["Clerici solution", "4.25", "Diamond, corundum, topaz, spinel", "Zircon, cassiterite", "Toxic and corrosive"]
 
@@ -214,7 +214,7 @@ sections:
             - Gem
             - SG
             - Bromoform (2.89)
-            - MI (3.32)
+            - MI (3.33)
             - Clerici (4.25)
           rows:
             - ["Amber", "1.08", "Floats", "Floats", "Floats"]

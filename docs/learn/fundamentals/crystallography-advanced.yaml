@@ -163,7 +163,7 @@ sections:
       text: |
         Twinning affects optical properties and can complicate identification:
 
-        - Polysynthetic twinning causes labradorescence in labradorite
+        - Bøggild exsolution lamellae (not mechanical twinning) cause labradorescence in labradorite
         - Brazil twinning in quartz creates optical irregularities
         - Twin planes can be mistaken for cleavage
         - Twinning may cause anomalous optical behaviour under polariscope
@@ -259,9 +259,22 @@ sections:
             - ["Hexagonal", "6/mmm", "Beryl"]
             - ["Hexagonal", "6mm", "Wurtzite"]
             - ["Hexagonal", "6/m", "Apatite"]
-            - ["Trigonal", "-3m", "Corundum, tourmaline"]
+            - ["Trigonal", "-3m", "Corundum"]
             - ["Trigonal", "32", "Quartz"]
-            - ["Trigonal", "3m", "Dioptase"]
+            - ["Trigonal", "3m", "Tourmaline, dioptase"]
+
+  - title: Acentric Point Groups — Tourmaline vs Corundum
+    callout:
+      type: info
+      title: Tourmaline is Acentric (3m); Corundum is Centrosymmetric (-3m)
+      text: |
+        Tourmaline is acentric (point group 3m), which is why it exhibits
+        pyroelectricity and piezoelectricity. Corundum (-3m) is centrosymmetric
+        and therefore neither pyroelectric nor piezoelectric. Although both
+        minerals belong to the trigonal system, the presence or absence of a
+        centre of symmetry controls these physical effects.
+
+        Source: Gem-A D3 crystal systems; standard crystallography references.
 
   - title: Crystal Growth
     content: |

@@ -19,12 +19,15 @@ sections:
     content: |
       Play of colour is the flashing spectral colours seen in precious opal. It is
       opal's defining characteristic and distinguishes precious opal from common
-      opal (potch). The effect results from light diffraction by regularly arranged
-      silica spheres within the opal structure.
+      opal (potch). The effect results from Bragg-style diffraction and interference
+      by regularly stacked silica spheres (150–400 nm) within the opal structure.
 
-      Unlike interference effects (adularescence, labradorescence), play of colour
-      is a diffraction phenomenon, producing pure spectral colours that shift
-      with viewing angle.
+      Play of colour is caused by diffraction and interference — the regularly stacked
+      sphere array acts as a 3D diffraction grating, while constructive/destructive
+      interference between scattered rays selects the colours seen. Viewing-angle shifts
+      arise from the geometric change in effective path difference.
+
+      Source: Gem-A D7 p. D7-32; Gem-A Gem Hub article on opal colour patterns.
 
   - title: Cause
     content: |
@@ -150,14 +153,14 @@ sections:
     subsections:
       - title: Key Differences
         content: |
-          - **Play of colour** (opal): Diffraction; pure spectral colours
+          - **Play of colour** (opal): Diffraction and interference; spectral colours
           - **Labradorescence**: Interference; colours in patches
           - **Iridescence**: Thin-film; rainbow sequence
           - **Adularescence**: Interference; single colour glow
 
       - title: Physical Cause
         content: |
-          - Opal: 3D sphere array (diffraction)
+          - Opal: 3D sphere array (diffraction and interference)
           - Labradorite: Twin lamellae (interference)
           - Iridescent gems: Surface layers (interference)
           - Moonstone: Exsolution layers (interference)

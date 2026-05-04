@@ -30,10 +30,16 @@ sections:
     subsections:
       - title: Feldspar Structure
         content: |
-          Moonstone is a feldspar with alternating layers of orthoclase and albite
-          created during slow cooling (exsolution). When these layers are thin
-          enough (approaching the wavelength of light), they scatter light through
-          interference.
+          Adularescence in moonstone arises from light scattering combined with
+          thin-film interference at sub-micron alternating lamellae of orthoclase
+          and albite (Bøggild-style exsolution intergrowth, lamellae ~50–500 nm).
+          The blue/silvery sheen is wavelength-selective scattering plus partial
+          interference reinforcement. Earlier descriptions as "pure scattering"
+          (Gem-A D7 p. D7-31) or "pure thin-film interference" both capture only
+          one half of the mechanism.
+
+          Sources: Gem-A D7 p. D7-31; Gem-A Gem Hub article "Understanding
+          Moonstones and Adularescence" (Pat Daly, 2023).
 
       - title: Layer Thickness and Colour
         content: |
@@ -121,7 +127,7 @@ sections:
             - Multiple spectral colours
             - Sharp, distinct flashes
             - Appears on surface
-            - Caused by twinning interference
+            - Caused by Bøggild exsolution lamellae interference
             - Plagioclase feldspar
 
   - title: Cutting for Adularescence

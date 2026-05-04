@@ -34,8 +34,8 @@ sections:
         content: |
           A standard gemmological refractometer includes:
 
-          - **High-RI glass hemisphere**: Typically RI ~1.86
-          - **Contact liquid** (RI ~1.81): Bridges the gap between gem and glass
+          - **High-RI glass hemisphere**: Typically RI ~1.86; the dense glass sets the upper limit of the measurement scale (~1.81)
+          - **Contact liquid** (di-iodomethane / methylene iodide, RI approximately 1.74): Bridges the gap between gem and glass (Source: Gem-A D6-26)
           - **Scale**: Range typically 1.35–1.81
           - **Light source**: Monochromatic sodium yellow (589nm) for accurate readings
           - **Eyepiece**: For viewing the scale and shadow edge
@@ -177,7 +177,7 @@ sections:
         - Possible Cause
         - Solution
       rows:
-        - ["No reading visible", "RI above contact liquid limit (>1.81)", "Use SG or other tests; stone may be diamond, zircon, etc."]
+        - ["No reading visible", "RI above the hemisphere glass limit (>1.81); contact liquid RI is ~1.74", "Use SG or other tests; stone may be diamond, zircon, etc."]
         - ["Fuzzy edge", "Birefringent stone, dirty contact, poor polish", "Clean surface; rotate stone; check polish"]
         - ["Moving readings", "High birefringence", "Rotate and record both extreme values"]
         - ["Very faint reading", "Poor lighting or positioning", "Improve lighting; reposition stone"]
@@ -188,7 +188,7 @@ sections:
       type: warning
       title: Handling Contact Liquid
       text: |
-        Standard contact liquid (methylene iodide, RI ~1.74-1.81) requires careful handling:
+        Standard contact liquid (di-iodomethane / methylene iodide, RI approximately 1.74) requires careful handling. Note: the 1.81 upper limit refers to the dense glass hemisphere, not the contact liquid itself.
 
         - **Toxic**: Avoid skin contact and inhalation
         - **Light sensitive**: Store in dark bottles

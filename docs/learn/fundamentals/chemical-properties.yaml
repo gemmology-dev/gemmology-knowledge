@@ -78,8 +78,13 @@ sections:
           - **Chrome tourmaline**: Green tourmaline
           - **Tsavorite**: Green grossular garnet
 
-          Chromium typically produces red in oxide minerals and green in silicates,
-          though the host mineral structure affects the exact colour.
+          The colour Cr³⁺ imparts depends on the crystal-field environment: shorter
+          Cr–O bond distances and stronger crystal-field splitting (as in ruby, Cr in
+          corundum lattice) shift absorption toward red transmission; longer bonds and
+          weaker fields (as in emerald, Cr in beryl lattice) shift toward green
+          transmission. The simple oxide-vs-silicate rule fails — red spinel is an
+          oxide, yet the absorption pattern matches the field environment, not the
+          anion class. (Source: Gem-A D7-24.)
 
       - title: Iron (Fe²⁺ and Fe³⁺)
         content: |
