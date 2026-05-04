@@ -1,0 +1,125 @@
+title: CVD Diamond Detection — Deep Diagnostic Reference
+description: Full detection protocol for CVD synthetic diamonds, distinguishing from natural and HPHT-treated stones using DiamondView, FTIR, and photoluminescence.
+order: 4
+category: identification
+difficulty: advanced
+icon: diamond
+related:
+  - identification/treatments
+  - identification/synthetics
+  - species/diamond
+tags:
+  - CVD
+  - synthetic-diamond
+  - DiamondView
+  - SiV-centre
+  - photoluminescence
+
+sections:
+  - title: CVD Growth Process
+    content: |
+      Chemical Vapour Deposition (CVD) grows diamond from a carbon-bearing gas plasma
+      (typically CH₄/H₂) at low pressure (~100 torr) and ~700–1000 °C substrate temperature.
+      Growth proceeds in columnar layers (step-flow mechanism), producing a characteristic
+      striated internal structure.
+
+      CVD diamonds are typically Type IIa (near-nitrogen-free as grown) and colourless to
+      light brown. They may undergo a secondary HPHT annealing step to remove residual brown
+      colour, which can suppress some CVD markers and complicate detection.
+
+      Single-crystal CVD synthetic diamond is clearly distinguishable from natural diamond by
+      absorption, photoluminescence, and cathodoluminescence spectra showing impurity-related
+      features not seen in natural diamonds (Martineau et al. 2004).
+
+      DiamondView indicates strong luminescence at 637 nm (NV⁻ centre) with orange-red
+      phosphorescence accompanied by striations due to step-flow growth (threads and bundles
+      on the surface) (Zhang et al. 2024).
+    callout:
+      type: info
+      title: F-03 Flag Resolved
+      text: |
+        The orange-red phosphorescence of CVD diamond under DiamondView (SW UV 225 nm) is
+        now documented in Zhang et al. 2024 (10.3390/cryst14090804, [VERIFIED]). This citation
+        resolves the VERIFIED.md flag (F-03 / Conflict 5) that previously lacked a primary
+        peer-reviewed source. Use this as the definitive citation for this diagnostic claim.
+
+  - title: Key CVD Growth Features
+    table:
+      caption: CVD Diamond — Characteristic Diagnostic Features
+      headers:
+        - Feature
+        - Description
+        - Origin
+      rows:
+        - ["SiV⁻ doublet at 736.9/736.6 nm (PL)", "Silicon-vacancy centre from Si contamination in growth chamber; seen in PL at 77 K", "Growth artifact — trace Si in plasma"]
+        - ["Columnar/striated growth pattern (DiamondView)", "Threads and bundles perpendicular to growth direction; step-flow mechanism produces layered striae", "CVD layer growth architecture"]
+        - ["Orange-red phosphorescence (DiamondView, 225 nm)", "Characteristic phosphorescence not seen in natural diamond or HPHT synthetics (Zhang et al. 2024)", "NV⁻ related; step-flow growth contribution"]
+        - ["NV centres NV⁻ (637 nm) / NV⁰ (575 nm)", "Present in most CVD stones; ratio may differ from HPHT-treated natural diamonds", "N-vacancy pairs in Type IIa lattice"]
+        - ["Type IIa FTIR signature", "No N absorption >5 ppm; NV-H (NVH⁰) at 3123 cm⁻¹ in some samples", "Near-nitrogen-free growth environment"]
+        - ["Anomalous birefringence", "Uniform or banded strain from columnar growth; distinct from natural plastic deformation patterns", "Growth stress in CVD layers"]
+
+  - title: Detection Methods — Full Protocol
+    table:
+      caption: CVD Diamond Detection (simplest to most advanced)
+      headers:
+        - Method
+        - Finding
+        - Reliability
+        - Notes
+      rows:
+        - ["LWUV fluorescence (365 nm)", "Variable — inert, orange, or blue depending on post-growth HPHT annealing; anomalous uniformity across the stone", "Preliminary screening", "Cannot confirm CVD alone; triggers lab testing"]
+        - ["SWUV fluorescence", "Often strong and uniform; lacks the sector fluorescence pattern of HPHT natural diamonds", "Indicative", "Supports but does not confirm CVD"]
+        - ["DiamondView (225 nm SW UV imaging)", "Orange-red phosphorescence (diagnostic when present); columnar/striated growth — no octahedral sectors; distinct from HPHT cross-hatched sectors", "Most diagnostic single test", "Zhang et al. 2024 is the primary reference for the phosphorescence claim"]
+        - ["FTIR", "Type IIa signature (N <5 ppm); NV-H absorption at 3123 cm⁻¹ in some CVD samples with N doping", "Instrument test", "Distinguishes Type IIa — necessary but not sufficient for CVD identification alone"]
+        - ["Photoluminescence at 77 K", "SiV⁻ doublet at 736.9/736.6 nm — characteristic of CVD origin; rarely in natural or HPHT-treated stones; NV⁰ (575 nm) and NV⁻ (637 nm) also present", "Gold-standard lab test", "SiV⁻ doublet is the most specific CVD marker in PL"]
+        - ["UV-Vis absorption", "Type IIa spectrum; possible 270 nm band if N-doped during growth", "Supporting", "Consistent with Type IIa; not CVD-specific"]
+
+  - title: CVD vs HPHT Synthetic vs Natural — Comparison
+    table:
+      caption: Diamond Type Comparison for Identification
+      headers:
+        - Property
+        - Natural Type Ia
+        - Natural Type IIa
+        - HPHT-Treated Natural IIa
+        - CVD Synthetic
+        - HPHT Synthetic
+      rows:
+        - ["FTIR N content", ">100 ppm N (aggregated)", "<5 ppm N", "<5 ppm N", "<5 ppm N (as grown)", "Variable N (type Ib to IIa)"]
+        - ["LWUV fluorescence", "Blue N3 (most stones)", "Weak/inert", "Inert (typical)", "Variable", "Variable"]
+        - ["DiamondView pattern", "Octahedral growth sectors", "Weak/irregular", "Cross-hatched green sectors", "Columnar/striated threads", "Cuboctahedral sectors"]
+        - ["DiamondView phosphorescence", "Rare", "Rare", "Variable", "Orange-red (diagnostic)", "Variable"]
+        - ["PL SiV⁻ 737 nm", "Absent", "Absent", "Absent", "Present (most stones)", "Absent"]
+        - ["PL NV⁻/NV⁰ ratio", "Varies with type", "Varies", "High NV⁻ (treated)", "High NV⁻", "Varies"]
+
+  - title: Secondary HPHT Complication
+    content: |
+      Some CVD diamonds undergo a secondary HPHT step to remove residual brown colour
+      (a common by-product of CVD growth). This can:
+
+      - Suppress or modify the SiV⁻ centre (reduces reliability of this marker)
+      - Change the LWUV fluorescence response
+      - Produce a DiamondView pattern that combines CVD columnar striations with HPHT-like
+        modification of the fluorescence
+
+      Expert laboratory testing is required when HPHT-annealed CVD is suspected. The columnar
+      growth architecture is typically still visible in DiamondView even after secondary HPHT.
+
+  - title: Disclosure and Stability
+    content: |
+      - **Disclosure**: mandatory as "synthetic diamond" or "laboratory-grown diamond" per all
+        governing bodies; "cultured" or "cultivated" are not acceptable per CIBJO
+      - **GIA, Gem-A, SSEF**: do not grade as natural; issue separate synthetic grading reports
+        with laser-inscribed "LG" notation
+      - **Stability**: as a diamond, physical and chemical durability is identical to natural;
+        colour treatment (if HPHT-annealed) is permanent
+
+  - title: Sources
+    content: |
+      - Martineau, P.M. et al. 2004. Identification of Synthetic Diamond Grown Using Chemical
+        Vapor Deposition (CVD). *Gems & Gemology*. DOI: 10.5741/gems.40.1.2 [VERIFIED]
+      - Zhang, Y.; Shi, G.; Xie, Z. 2024. Spectral Characteristics of Nitrogen-Doped CVD Synthetic
+        Diamonds and the Origin of Surface Blue Fluorescence. *Crystals*.
+        DOI: 10.3390/cryst14090804 [VERIFIED]
+      - Eaton-Magana, S.; Shigley, J.E.; Breeding, C.M. 2017. Observations on HPHT-Grown
+        Synthetic Diamonds: A Review. *Gems & Gemology*. DOI: 10.5741/gems.53.3.262 [VERIFIED]

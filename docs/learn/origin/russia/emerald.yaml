@@ -1,0 +1,128 @@
+title: Ural Emerald — Malyshevsky, Russia
+description: Ural emerald from the Malyshevsky/Izumrudnye Kopi deposit; phlogopite mica inclusions diagnostic; Cr+V chromophores; mica-schist contact zone genesis.
+order: 4
+category: origin
+subcategory: russia
+difficulty: advanced
+icon: gem
+related:
+  - origin/russia/overview
+  - origin/russia/alexandrite
+  - origin/zambia
+  - origin/colombia
+  - species/emerald
+tags:
+  - russia
+  - urals
+  - emerald
+  - malyshevsky
+  - izumrudnye-kopi
+  - phlogopite
+  - mica
+  - origin/russia
+
+sections:
+  - title: Introduction
+    content: |
+      Ural emerald from the Malyshevsky deposit (also Izumrudnye Kopi — "Emerald Mines")
+      has been mined since discovery in 1831. Located approximately 90 km northeast of
+      Yekaterinburg in Sverdlovsk Oblast, this is the same contact zone that produces
+      Russian alexandrite. The deposit occupies the contact between granitic pegmatites
+      and Cr-enriched mica schists. Russian emeralds are identified primarily by their
+      characteristic phlogopite mica inclusions.
+
+  - title: Geological Setting
+    content: |
+      Ural emerald genesis:
+
+      - **Host rock**: Phlogopite mica schist at the contact with granitic intrusions;
+        Laskovenkov and Zhernakov (1995) confirmed that the deposits consist of
+        "mica schists with phlogopite" along the Tokovaya River corridor
+      - **Genetic model**: Same as alexandrite — pegmatite supplies Be and Al;
+        Cr-enriched ultramafic/schist country rock supplies Cr; the intersection
+        of these sources at the contact zone enables beryl + Cr emerald formation
+      - **Deposit scale**: Malysheva mine is the largest known emerald deposit in Russia;
+        operated intermittently in the post-Soviet period
+
+  - title: Properties
+    table:
+      headers:
+        - Property
+        - Value
+      rows:
+        - ["Formula", "Be₃Al₂Si₆O₁₈ (beryl), Cr³⁺ + V³⁺ colouring"]
+        - ["Crystal system", "Hexagonal; uniaxial negative"]
+        - ["RI", "1.577–1.583 (ω); 1.584–1.590 (ε); DR ~0.006–0.009"]
+        - ["SG", "2.72–2.77"]
+        - ["Hardness", "7.5–8 (Mohs)"]
+        - ["Chromophores", "Cr³⁺ (primary) + V³⁺ (secondary)"]
+        - ["Fluorescence (LWUV)", "Moderate red to orange-red; stronger than Colombian"]
+        - ["Chelsea Colour Filter", "Red (Cr³⁺ dominant)"]
+        - ["Key absorption", "680 nm Cr doublet (strong); 637 nm; 477 nm; 430 nm cutoff"]
+
+  - title: Diagnostic Inclusions
+    content: |
+      Russian Ural emerald inclusion suite:
+    subsections:
+      - title: Primary Diagnostic — Phlogopite Mica
+        content: |
+          - **Phlogopite mica flakes**: Brownish, tabular platelets parallel to the
+            cleavage planes; the most characteristic and diagnostic inclusion for Ural
+            emerald origin
+          - These mica platelets derive directly from the phlogopite mica schist host rock
+          - Their brownish tabular habit distinguishes them from the calcite and pyrite
+            of Colombian emerald and from the tremolite needles of Sandawana (Zimbabwe)
+
+      - title: Additional Inclusions
+        content: |
+          - **Tremolite needles**: Calcium-magnesium amphibole; slender, colourless
+          - **Two-phase fluid inclusions**: Liquid + gas
+          - **Actinolite**
+          - **Apatite**: Rounded crystals
+          - **Pyrite**: Present but less abundant than in Colombian material
+
+  - title: Chromophore Profile
+    content: |
+      Cr³⁺ + V³⁺ in Ural emerald:
+
+      - Both Cr and V are present as colouring agents; this dual chromophore profile
+        gives a colour profile slightly different from purely V-dominated Brazilian
+        (Itabira/Carnaíba) material and from the high-Cr Sandawana
+      - Compared to Colombian: less fluorescence (more Fe present); different colour
+        profile (Ural green tends toward warmer medium green rather than Colombian's
+        vivid pure green)
+      - Compared to Zambian: similar Cr+V but different inclusion suite (Zambia has
+        biotite, not phlogopite; distinct talc and chlorite inclusions)
+
+  - title: Origin Discrimination
+    table:
+      headers:
+        - Feature
+        - Ural (Russia)
+        - Colombian (Muzo)
+        - Sandawana (Zimbabwe)
+        - Zambia
+      rows:
+        - ["Primary inclusion", "Phlogopite mica platelets", "Parisite + halite in 3-phase", "Tremolite needles", "Biotite mica platelets"]
+        - ["Pyrite", "Present (minor)", "Absent in Muzo; abundant in Chivor", "Absent", "Present"]
+        - ["Chromophore", "Cr + V", "Cr dominant", "Cr dominant (very high)", "Cr + V"]
+        - ["Fe content", "Low", "Very low", "Very low", "Moderate"]
+        - ["Fluorescence (LWUV)", "Moderate red–orange", "Strong red", "Very strong red", "Moderate red"]
+        - ["Li content", ">200 ppmw (higher)", "<200 ppmw", ">200 ppmw", ">200 ppmw"]
+
+  - title: Market Notes
+    content: |
+      Ural emerald market position:
+
+      - Below Colombian in prestige and price; quality is variable; fine material is
+        attractive but Ural production does not achieve the colour saturation of top
+        Colombian or Sandawana
+      - Malysheva deposit operates intermittently; supply is not continuous
+      - Russian emerald is prized by collectors for its historical interest and
+        characteristic mica inclusions
+
+sources:
+  - doi: "10.5741/gems.31.2.106"
+    citation: "Laskovenkov & Zhernakov (1995) The Ural Emerald Mines. Gems & Gemology."
+  - doi: "10.3390/min9090561"
+    citation: "Karampelas et al. (2019) Emeralds from the Most Important Occurrences. Minerals."

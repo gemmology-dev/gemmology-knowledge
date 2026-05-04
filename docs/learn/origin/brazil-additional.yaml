@@ -1,0 +1,155 @@
+title: Brazil — Imperial Topaz and Emerald Sub-distinctions
+description: Ouro Preto imperial topaz (Cr-coloured, strong LWUV fluorescence); Itabira vs Carnaíba emerald distinction (Cr vs V dominant, inclusion differences). Cross-reference brazil/ folder.
+order: 7
+category: origin
+difficulty: advanced
+icon: gem
+related:
+  - origin/brazil/emerald
+  - origin/brazil/overview
+  - origin/colombia-mines
+  - origin/russia/emerald
+  - species/emerald
+  - species/topaz
+tags:
+  - brazil
+  - ouro-preto
+  - imperial-topaz
+  - itabira
+  - carnaiba
+  - emerald
+  - topaz
+  - origin/brazil-additional
+
+sections:
+  - title: Introduction
+    content: |
+      This file provides additional depth on two Brazilian gem topics not covered in
+      the existing brazil/ folder files. Cross-reference origin/brazil/emerald for the
+      broad Brazilian emerald overview; this file adds the Itabira vs Carnaíba distinction.
+      Imperial topaz from Ouro Preto is covered here as the only Cr-coloured commercial
+      topaz in Brazil.
+
+  - title: Imperial Topaz — Ouro Preto, Minas Gerais
+    content: |
+      The defining Brazilian imperial topaz deposit:
+    subsections:
+      - title: Discovery and Setting
+        content: |
+          - "Imperial topaz" is a trade name applied exclusively to sherry-yellow to
+            orange-pink to pink-orange topaz from the **Ouro Preto** area (and surrounding
+            Antônio Pereira) of Minas Gerais
+          - Hosted in hydrothermally altered quartzite and sericite schist lenses within
+            the Ouro Preto greenstone belt (Archaean); topaz crystallises in sub-vertical
+            veins and pockets associated with fluorite, mica, and quartz
+          - Da Costa, Sabioni, and Ferreira (2000) characterised the chemistry and
+            thermal behaviour of Ouro Preto imperial topaz
+
+      - title: Colour and Chromophore
+        content: |
+          - **Colour range**: Yellow-orange (sherry), gold, pinkish-orange (peach),
+            pink-orange, orange-pink; rarely pure pink — a continuous warm spectrum
+          - **Chromophore**: Cr³⁺ in trace quantities contributes to the colour; colour
+            centres from natural irradiation may also contribute
+          - Da Costa et al. (2000) identified chromium-related character; some
+            debate remains on the relative contribution of Cr vs colour centres;
+            the pink modifier in the most prized stones is believed Cr-related
+            [PARTIALLY_SUPPORTED — not fully established in peer-reviewed record]
+
+      - title: Properties
+        content: |
+          - **Formula**: Al₂SiO₄(F,OH)₂; orthorhombic; biaxial positive
+          - **RI**: 1.619–1.627 (α), 1.620–1.628 (β), 1.627–1.636 (γ);
+            birefringence: 0.008–0.010
+          - **SG**: 3.49–3.57; Hardness: 8 (Mohs)
+          - **Fluorescence (LWUV)**: Strong yellow-orange to orange — one of the
+            strongest fluorescences of any gem topaz; a key identification aid
+          - **Absorption**: Weak Cr bands (~630–680 nm) in some stones
+
+      - title: Treatment Note
+        content: |
+          - Many Ouro Preto topazes are irradiated and/or heat-treated to enhance or
+            shift colour; naturally orange (sherry) material without treatment commands
+            the highest premiums
+          - The strong natural LWUV orange fluorescence distinguishes natural-colour
+            Ouro Preto material from irradiated blue topaz (no fluorescence) and from
+            other pink/orange gem species
+
+  - title: Imperial Topaz Identification
+    table:
+      headers:
+        - Gem
+        - RI
+        - SG
+        - DR/SR
+        - Key Distinction
+      rows:
+        - ["Ouro Preto topaz", "1.619–1.636", "3.49–3.57", "DR (biaxial)", "Strong orange LWUV; Cr absorption bands"]
+        - ["Hessonite garnet", "~1.734–1.745", "~3.57–3.73", "SR (isometric)", "Isotropic; higher RI; treacle inclusions"]
+        - ["Padparadscha sapphire", "1.762–1.770", "3.99–4.01", "DR (uniaxial)", "Much higher RI/SG; Cr + Fe colouring"]
+        - ["Spessartite garnet", "~1.790–1.815", "~4.12–4.20", "SR (isometric)", "Isotropic; higher RI; orange from Mn"]
+
+  - title: Brazilian Emerald Sub-distinctions
+    content: |
+      Two geologically distinct Brazilian emerald deposit types:
+    subsections:
+      - title: Itabira / Nova Era Type (Minas Gerais)
+        content: |
+          - **Location**: Nova Era, Itabira, Belém do Cruzeio — all Minas Gerais
+          - **Geological setting**: Talc-chlorite-carbonate schist at the contact between
+            Proterozoic quartzites and ultramafic bodies — "schist-belt" type, analogous
+            to Sandawana (Zimbabwe) and Shakiso (Ethiopia)
+          - **Chromophore**: Cr³⁺ + moderate V³⁺; low Fe content
+          - **Colour**: Vivid green; comparable to Sandawana quality but achievable at
+            larger crystal sizes
+          - **Inclusions**: Biotite mica, chlorite, talc, tremolite (similar to other
+            schist-belt deposits)
+          - **Fluorescence**: Strong red LWUV (Cr dominant, low Fe)
+
+      - title: Carnaíba / Bahia Type (Bahia State)
+        content: |
+          - **Location**: Carnaíba and Socotó, Bahia State, northeastern Brazil
+          - **Geological setting**: Talc-carbonate veins cutting ultramafic rocks of the
+            Carnaíba ultramafite complex
+          - **Chromophore**: Predominantly V³⁺ with lower Cr — similar to Colombian
+            Chivor material in Cr/V profile
+          - **Fe content**: Slightly higher than Itabira
+          - **Colour**: Slightly "colder" green than the Cr-dominant Itabira type;
+            less warm, sometimes more yellowish-green
+          - **Inclusions**: Talc plates (distinctive — soft, platy; from ultramafic host);
+            two-phase fluid inclusions; phlogopite
+
+  - title: Itabira vs Carnaíba Comparison
+    table:
+      headers:
+        - Feature
+        - Itabira / Nova Era
+        - Carnaíba / Bahia
+      rows:
+        - ["Chromophore dominant", "Cr³⁺", "V³⁺"]
+        - ["Colour tone", "Warmer vivid green", "Cooler, slightly yellowish-green"]
+        - ["Fe content", "Low", "Slightly higher"]
+        - ["Diagnostic inclusions", "Biotite, chlorite, tremolite", "Talc plates, phlogopite"]
+        - ["Geological setting", "Schist-belt at quartzite/ultramafic", "Talc-carbonate in ultramafite"]
+        - ["LWUV fluorescence", "Strong red", "Moderate red"]
+        - ["V/Cr ratio", "Lower V/Cr", "Higher V/Cr"]
+
+  - title: Laboratory Separation
+    content: |
+      Separating Itabira from Carnaíba:
+
+      - **UV-Vis or EDXRF**: V/Cr ratio provides the primary chemical distinction;
+        Cr-dominant vs V-dominant colouring is detectable spectroscopically
+      - **Inclusion suite**: Talc plates (Carnaíba) are diagnostically distinct from
+        tremolite/biotite (Itabira); visual microscopy assists
+      - **Distinction from Colombian**: Both Brazilian types show higher Li than
+        Colombian (<200 ppmw Colombian vs >200 ppmw Brazilian schist-belt types);
+        no halite-bearing three-phase inclusions
+
+sources:
+  - doi: "10.15506/jog.2000.27.3.133"
+    citation: "Da Costa, Sabioni & Ferreira (2000) Imperial topaz from Ouro Preto, Brazil. Journal of Gemmology."
+  - doi: "10.3390/min9090561"
+    citation: "Karampelas et al. (2019) Emeralds from the Most Important Occurrences. Minerals."
+  - doi: "10.5741/gems.55.4.614"
+    citation: "Saeseaw et al. (2019) Geographic Origin Determination of Emerald. Gems & Gemology."

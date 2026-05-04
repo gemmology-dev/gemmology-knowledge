@@ -1,0 +1,147 @@
+title: Chelsea Colour Filter
+description: Using the Chelsea Colour Filter as a chromium discriminator for gem identification — including the species reaction table, lighting requirements, and diagnostic limitations.
+order: 9
+category: equipment
+difficulty: beginner
+icon: filter
+related:
+  - equipment/spectroscope
+  - equipment/overview
+  - equipment/uv-lamp
+tags:
+  - equipment/chelsea-colour-filter
+  - chromophores
+  - identification
+  - chromium
+
+sections:
+  - title: Introduction
+    content: |
+      The Chelsea Colour Filter (CCF) is a compact hand-held optical filter used as a rapid
+      chromophore discriminator. Developed by the Chelsea School of Art (London) in the 1930s and
+      documented in the Journal of Gemmology in 1949 (DOI: 10.15506/jog.1949.2.2.62), it remains
+      a standard part of the gemmologist's toolkit because it can separate chromium-coloured stones
+      from iron-coloured ones in a matter of seconds.
+
+  - title: Optical Principle
+    content: |
+      The CCF is a composite filter containing two glass elements:
+
+      - **Didymium glass** — absorbs the mid-green and yellow-green region (~540–580 nm), removing
+        the wavelengths that would otherwise appear as a green wash.
+      - **Cobalt-blue glass** — absorbs red and part of the blue-green region.
+
+      The combined result leaves two narrow transmission windows:
+      1. ~570–580 nm (yellow-green)
+      2. ~620–700 nm (red)
+
+      A chromophore that absorbs yellow-green but transmits red will make the stone appear
+      **red or pink** through the filter. A chromophore that transmits yellow-green but absorbs
+      red will make the stone appear **greenish**.
+
+      This makes the CCF a practical **chromium (Cr³⁺) versus iron (Fe²⁺/Fe³⁺) discriminator**:
+      chromium-coloured stones tend to appear red or pink; iron-coloured stones appear greenish or
+      inert. Anderson (1966) established this principle clearly: the filter "tells us only that
+      chromium is present, not that the stone is natural" (DOI: 10.15506/jog.1966.10.2.41).
+
+  - title: How to Use the Filter
+    content: |
+      Correct procedure is essential — the wrong light source gives unreliable results.
+    subsections:
+      - title: Lighting Requirements
+        content: |
+          Use **incandescent (tungsten) illumination only**. Do not use:
+          - LED sources (shift the red-to-green balance)
+          - Daylight or daylight-balanced fluorescent (too much blue component)
+          - Mixed or unknown light sources
+
+          A simple incandescent penlight or a bench lamp with a tungsten bulb is sufficient.
+
+      - title: Observation Procedure
+        content: |
+          1. Hold the filter close to the eye (as close as comfortable).
+          2. Hold the stone close to — but not touching — the incandescent light source,
+             or direct a penlight through or against the stone.
+          3. Observe the colour and record as one of: strong red / weak red / pink / inert /
+             weak greenish / green.
+          4. Always cross-reference with RI and spectroscope data — the CCF result alone is
+             never diagnostic.
+
+  - title: Species Reactions
+    content: |
+      The table below summarises expected CCF reactions for common gem species. Reactions reflect
+      standard incandescent illumination. Anomalous results require immediate investigation with a
+      second instrument.
+
+      Note: **the CCF does not distinguish natural from synthetic** — a chromium-dominated
+      synthetic will react identically to a natural stone of the same chromophore.
+    table:
+      caption: Chelsea Colour Filter Reaction by Species
+      headers:
+        - Species
+        - Expected Reaction
+        - Chromophore
+        - Diagnostic Strength
+        - Notes
+      rows:
+        - ["Emerald — Colombian / Brazilian (natural)", "Strong red", "Cr³⁺", "High", "High Cr; classic positive reaction"]
+        - ["Emerald — Zambian (natural)", "Weak red to inert", "Cr³⁺ + Fe", "Moderate", "Elevated Fe suppresses red; less reliable positive"]
+        - ["Emerald — flux-grown synthetic (Chatham, Gilson)", "Strong red", "Cr³⁺", "High", "High-purity Cr; often stronger than many naturals"]
+        - ["Emerald — hydrothermal synthetic (Biron, Tairus)", "Strong red", "Cr³⁺", "High", "Same chromophore; indistinguishable from Cr-rich natural"]
+        - ["Aquamarine", "Inert / weak greenish", "Fe²⁺/Fe³⁺", "High", "No significant Cr"]
+        - ["Blue sapphire (natural)", "Greenish / inert", "Fe²⁺–Ti⁴⁺ CT", "High", "No Cr; Fe–Ti charge transfer colouring"]
+        - ["Blue spinel (natural)", "Greenish / inert", "Fe", "High", "Fe-coloured; no Cr"]
+        - ["Blue spinel (Verneuil synthetic, cobalt-coloured)", "Red", "Co", "Highest", "Cobalt transmits red window strongly — diagnostic for synthetic cobalt spinel"]
+        - ["Blue glass (cobalt-coloured)", "Red", "Co", "Highest", "Same cobalt transmission; separates from blue sapphire"]
+        - ["Green tourmaline (Fe/Mn dominant)", "Greenish / inert", "Fe/Mn", "High", "No significant Cr"]
+        - ["Chrome tourmaline", "Red", "Cr³⁺", "High", "Strong positive; resembles emerald reaction"]
+        - ["Tsavorite (V³⁺/Cr³⁺ grossular)", "Inert to weak greenish", "V³⁺", "Moderate", "V³⁺ absorption differs from Cr³⁺; often inert"]
+        - ["Demantoid garnet (Cr-bearing, Russian)", "Red", "Cr³⁺", "High", "Cr³⁺ colouring in most demantoid"]
+        - ["Jadeite — natural green (Cr-coloured, imperial)", "Weak greenish to inert", "Cr³⁺", "Low–moderate", "Lower Cr content than emerald; often borderline"]
+        - ["Jadeite — dyed green (Type C)", "Red", "Organic dye", "High", "Dye absorbs in yellow-green window; red transmission is diagnostic for dyed jade"]
+        - ["Cobalt glass-filled sapphire", "Strong red", "Co (filler)", "High", "Bexfield 2020 reported this as a new diagnostic technique for detecting cobalt-glass filling (DOI: 10.15506/jog.2020.37.4.357)"]
+
+  - title: Vanadium-Coloured Stones
+    callout:
+      type: warning
+      title: Vanadium (V³⁺) Does Not React Like Chromium
+      text: |
+        Some stones coloured by vanadium (V³⁺) — including many Brazilian emeralds and certain
+        hydrothermal synthetic emeralds — may give a **weak or inert** reaction under the CCF.
+        This is because V³⁺ absorption bands differ from Cr³⁺ and do not match the CCF's
+        transmission windows in the same way.
+
+        A weak or inert reaction from a green stone does **not** rule out emerald — it may
+        simply indicate vanadium rather than chromium colouring. Confirm with the spectroscope.
+
+  - title: Limitations
+    content: |
+      The CCF has important limitations that must be understood before relying on a result:
+
+      - **Incandescent light only** — daylight or LED sources shift the colour balance and can
+        produce false inert reactions on moderately Cr-coloured stones.
+      - **Does not distinguish natural from synthetic** — both react red if Cr is the chromophore.
+        Anderson (1966) stated this explicitly; it remains the most commonly misunderstood aspect
+        of the instrument.
+      - **Modern Cr-doped hydrothermal synthetics** (Biron, Tairus) may give reactions
+        indistinguishable from high-quality Colombian naturals.
+      - **Vanadium-coloured emeralds** may give a weaker or inert reaction — not all green beryl
+        that is called "emerald" is Cr-dominated.
+      - **Low-quality lighting** (fluorescent strip) degrades result reliability; repeat under
+        tungsten if ambiguous.
+
+  - title: Sources
+    content: |
+      **Key citations for this topic:**
+
+      - Anderson, B. W. (1966). "Chromium as a Criterion for Emerald." *The Journal of Gemmology*
+        10(2), 41–45. DOI: 10.15506/jog.1966.10.2.41 [VERIFIED]
+      - "Chelsea Colour Filter." *The Journal of Gemmology* 2(2), p. 62, 1949.
+        DOI: 10.15506/jog.1949.2.2.62 [VERIFIED]
+      - Bexfield, C. D. (2020). "Cobalt Glass-Filled Sapphires and the Chelsea Colour Filter:
+        A New Technique." *The Journal of Gemmology* 37(4), 357–358.
+        DOI: 10.15506/jog.2020.37.4.357 [VERIFIED]
+      - Read, P. G. (ed.). *Gems* 7th ed., chapter "The hand lens, microscope and Chelsea filter."
+        DOI: 10.4324/9780080507224-18 [VERIFIED]
+      - Nassau, K. (2001). *The Physics and Chemistry of Color* (2nd ed.). Wiley.
+        ISBN: 978-0-471-39106-7 [PARTIALLY_SUPPORTED — ISBN only, no DOI]

@@ -1,0 +1,194 @@
+title: Optic Sign Determination
+description: Determining positive or negative optic sign for uniaxial and biaxial gems using the refractometer, lambda plate, and interference figures.
+order: 3.6
+category: fundamentals
+difficulty: advanced
+icon: prism
+related:
+  - fundamentals/optical-properties
+  - fundamentals/optical-properties-advanced
+  - fundamentals/crystal-systems
+  - equipment/polariscope
+tags:
+  - optic-sign
+  - interference-figure
+  - uniaxial
+  - biaxial
+  - polariscope
+  - lambda-plate
+
+sections:
+  - title: Principle
+    content: |
+      The optic sign is a property of anisotropic gem materials that describes the relationship
+      between the principal refractive indices:
+
+      - **Uniaxial positive (U+):** the extraordinary ray RI (ε) is greater than the ordinary ray
+        RI (ω): ε > ω.
+      - **Uniaxial negative (U−):** ε < ω.
+      - **Biaxial positive (B+):** the intermediate RI (β) is closer to α (the minimum) than to
+        γ (the maximum): β − α < γ − β.
+      - **Biaxial negative (B−):** β is closer to γ: γ − β < β − α.
+
+      The optic sign can be determined by two methods:
+      1. **Refractometer rotation** (uniaxial stones only) — observing which shadow edge moves as
+         the stone is rotated.
+      2. **Conoscopic interference figure** with an accessory plate (lambda plate or quartz wedge)
+         — reading the colour change in the isochromatic rings.
+
+      The interference-figure method uses **Newton's colour series** (the interference colour
+      sequence seen between crossed polars as retardation increases): yellow → orange → red →
+      violet → blue → green → yellow (2nd order) …). The lambda plate (530 nm full-wave
+      retardation plate, "first-order red plate") shifts the retardation by a fixed amount:
+      addition raises colours toward the next order (blue, 2nd-order tints); subtraction lowers
+      them (yellow, back toward 1st-order grey).
+
+      *Source: Sturman, B.D., J. Gemmology, 2007. DOI: 10.15506/jog.2007.30.7.443. [VERIFIED];
+      Read, P., Gemmology 3rd ed. DOI: 10.4324/9780080507224 [VERIFIED]*
+
+  - title: Uniaxial Procedure — Refractometer Method
+    content: |
+      For uniaxial stones with measurable birefringence, the refractometer can be used directly:
+
+      1. Place the stone table-down on the refractometer hemisphere with contact liquid.
+      2. Observe the shadow edge (or edges). A uniaxial stone shows two shadow edges —
+         the fixed edge (ω, ordinary ray) and the moving edge (ε, extraordinary ray).
+      3. Rotate the stone slowly through 360°. The ε edge moves; the ω edge stays fixed.
+      4. If the moving edge (ε) is **above** the fixed edge (ω) at maximum separation:
+         - ε > ω → **Uniaxial positive**.
+      5. If the moving edge (ε) is **below** the fixed edge at maximum separation:
+         - ε < ω → **Uniaxial negative**.
+
+      **Note:** when the stone is oriented with the optic axis perpendicular to the hemisphere
+      (c-axis pointing up into the contact liquid), both readings coincide as a single shadow
+      edge at the ω position. Rotate the stone off this orientation to see both edges.
+
+  - title: Uniaxial Procedure — Interference Figure (Lambda Plate)
+    content: |
+      The conoscope (convergent polarised light through the polariscope, using a high-powered
+      condensing lens or the stone itself as a condenser) produces an interference figure for
+      a stone oriented with its optic axis vertical.
+
+      **Uniaxial optic axis figure:**
+      - Shows a Maltese cross (isogyre) pattern with concentric isochromatic colour rings.
+      - The centre of the cross marks the optic axis.
+
+      **Inserting the lambda plate (530 nm first-order red plate):**
+
+      The lambda plate has a defined "slow" direction (the direction of high refractive index,
+      i.e. the slow vibration direction). When inserted, it adds retardation where the crystal's
+      slow direction aligns with the plate's slow direction, and subtracts retardation where they
+      are opposed.
+
+      - In the two quadrants where the crystal's slow ray is parallel to the plate's slow ray:
+        retardations add → colours **rise** in Newton's series (toward blue, 2nd order).
+      - In the other two quadrants: retardations subtract → colours **fall** (toward yellow).
+
+      **Reading the sign (principle — without committing to a specific diagram convention):**
+
+      The orientation rule for the plate-in-figure is described in standard optical mineralogy
+      texts (Read 3rd ed.; Sturman 2007). The key relationship is: in the quadrants where the
+      crystal's slow ray aligns with the plate slow direction, rising colours indicate the slow
+      direction of the crystal in that quadrant — from which the sign follows. Consult your
+      course's specific diagram orientation, as the convention depends on the physical direction
+      the plate is inserted relative to the polariser/analyser orientation.
+
+      **Practical rule (curriculum-level):** the lambda plate colour shift directly reveals
+      whether ε or ω is the slow direction:
+      - If the quadrant showing rising colour corresponds to the ε direction → ε > ω → **positive**.
+      - If the quadrant showing rising colour corresponds to the ω direction → ε < ω → **negative**.
+
+      A quartz wedge works analogously, showing a series of colour changes as it is inserted,
+      rather than a single shift.
+
+    callout:
+      type: warning
+      title: Diagram Orientation Convention
+      text: |
+        The exact labelling of which quadrant (NE/SW vs NW/SE) shows rising or falling colour
+        depends on the physical orientation of the lambda plate relative to the polariser in your
+        specific polariscope. Different course textbooks (Read, Kerr, Nesse) may diagram this
+        with the plate oriented differently. Learn the principle (addition = rising colour in the
+        slow-slow quadrant) and apply it consistently to your instrument setup.
+
+  - title: Biaxial Procedure — Acute Bisectrix Figure
+    content: |
+      For biaxial stones, the acute bisectrix (Bxa) interference figure is used. The stone must
+      be oriented with the acute bisectrix perpendicular to the polariscope stage — typically
+      requiring the stone to be oriented by trial and error (or by knowledge of the optic
+      orientation of the species).
+
+      **Biaxial Bxa figure:**
+      - Shows two isogyres (hyperbolic curves) that sweep across the field as the stage is rotated.
+      - The two isogyres curve toward each other; the separation of the two optic axes (2V) is
+        estimated from the curvature of the isogyres and their angular separation.
+
+      **Inserting the lambda plate:**
+      - Observe the colour of the isochromatic rings in the concave region between the two
+        isogyres (facing toward the acute bisectrix).
+      - **Rising colour (blue)** in the concave region between the isogyres → **biaxial positive**.
+      - **Falling colour (yellow)** in the concave region → **biaxial negative**.
+
+      This method follows from the same addition/subtraction principle as the uniaxial case,
+      applied to the orientation of the optic plane.
+
+      *Source: Sturman 2007, DOI: 10.15506/jog.2007.30.7.443 [VERIFIED]*
+
+  - title: Worked Examples by Species
+    table:
+      caption: Optic sign for common gem species
+      headers:
+        - Gemstone
+        - Sign
+        - RI values (ε, ω or α, β, γ)
+        - Diagnostic note
+      rows:
+        - ["Quartz", "U+", "ε 1.553, ω 1.544", "Classic uniaxial positive; interference figure readily obtained"]
+        - ["Calcite", "U−", "ε 1.486, ω 1.658", "Extreme case; very large birefringence 0.172; ε is the minimum RI"]
+        - ["Tourmaline", "U−", "ε < ω; RI 1.62–1.65", "Strong pleochroism confirms uniaxial; negative sign"]
+        - ["Zircon (high)", "U+", "ε up to 1.99, ω 1.78", "High birefringence (0.059) makes figure difficult; sign positive"]
+        - ["Beryl (aquamarine, emerald)", "U−", "ε < ω; RI 1.56–1.60", "Uniaxial negative; low birefringence 0.003–0.010"]
+        - ["Corundum (ruby, sapphire)", "U−", "ε 1.760, ω 1.768", "Low birefringence 0.008–0.009; uniaxial negative"]
+        - ["Apatite", "U−", "RI 1.63–1.64; birefringence 0.002–0.006", "Uniaxial negative; very low birefringence"]
+        - ["Topaz", "B+", "α 1.609–1.629, β closer to α, γ 1.616–1.637", "Biaxial positive"]
+        - ["Peridot", "B+ or B−", "α 1.654, β, γ 1.690", "May appear B+/−; biaxial; large birefringence 0.036"]
+        - ["Chrysoberyl", "B+", "α 1.746, β, γ 1.763", "Biaxial positive; birefringence 0.008–0.010"]
+
+  - title: Common Pitfalls
+    content: |
+      Several situations complicate optic sign determination in practice:
+
+      - **Wrong orientation:** if the stone is not oriented with the optic axis (uniaxial) or
+        acute bisectrix (biaxial) sufficiently close to vertical, an off-centre figure results,
+        making colour interpretation unreliable.
+      - **High birefringence:** very high birefringence (e.g. zircon 0.059, calcite 0.172) compresses
+        the isochromatic rings to tiny concentric circles near the melatope; the lambda plate effect
+        is harder to read. Thinner sections (or smaller stones) help.
+      - **Low birefringence:** very low birefringence (e.g. apatite 0.002–0.006) produces very few
+        or no isochromatic rings — the figure shows only the isogyre cross against a near-uniform
+        background. The lambda plate still produces a colour shift in the quadrants; read the shift
+        in the area immediately around the melatope.
+      - **Dauphiné twinning in quartz:** sector-by-sector anomalous extinction can mimic biaxial
+        behaviour. Check birefringence (quartz 0.009 is consistent) and look for the sector pattern.
+      - **Anomalous double refraction (ADR):** cubic (isotropic) stones that have been strained
+        may show anomalous birefringence under the polariscope. They do not have a true optic sign.
+        Spinels commonly show ADR (mottled or patchy extinction) rather than a true interference
+        figure.
+
+    callout:
+      type: info
+      title: ADR vs True Birefringence
+      text: |
+        If a stone shows irregular "snakeskin" or mottled extinction under crossed polars, suspect
+        anomalous double refraction (ADR) in a nominally isotropic species (spinel, glass, garnet)
+        rather than a true biaxial or uniaxial character. A centred interference figure with clear
+        isogyres is needed before assigning an optic sign.
+
+  - title: Sources
+    content: |
+      - Sturman, B.D. "Determination of the optic axial angle in biaxial gemstones and its use
+        in gemmology." *Journal of Gemmology*, 30(7), 2007, pp. 443–452.
+        DOI: 10.15506/jog.2007.30.7.443. [VERIFIED]
+      - Read, P. *Gemmology*, 3rd ed. Routledge, 2012. DOI: 10.4324/9780080507224. [VERIFIED]
+      - Gem-A Diploma syllabus §3.2: "Optic sign determination from interference figures";
+        §4.1: "Optic sign from refractometer rotation."

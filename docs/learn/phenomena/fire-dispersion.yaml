@@ -1,0 +1,150 @@
+title: Fire and Dispersion
+description: Fire in faceted gemstones — dispersion as differential refraction by wavelength, the B–G interval, named dispersion values, relationship to facet design, and distinction from diffraction-based spectral effects.
+order: 13
+category: phenomena
+difficulty: intermediate
+icon: flame
+related:
+  - phenomena/overview
+  - phenomena/play-of-colour
+  - phenomena/iridescence
+tags:
+  - phenomena/fire
+  - phenomena/dispersion
+  - refraction
+  - diamond-simulants
+  - facet-design
+
+sections:
+  - title: Definition
+    content: |
+      Fire is the splitting of white light into its spectral colours (red, orange, yellow, green,
+      blue, violet) visible as coloured flashes in a faceted gemstone. It arises from dispersion —
+      the variation of refractive index with wavelength — and is enhanced by facet geometry and
+      viewing conditions.
+
+      Fire is not the same as play-of-colour (opal) or labradorescence: those spectral effects
+      arise from diffraction or thin-film interference. Fire results from differential refraction
+      at every facet interface.
+
+  - title: Mechanism
+    content: |
+      The physics of dispersion and fire:
+    subsections:
+      - title: Dispersion Defined
+        content: |
+          Refractive index (RI) varies with wavelength: shorter wavelengths (violet, blue) are
+          refracted more strongly at any interface than longer wavelengths (red, orange). This
+          wavelength-dependence of RI is dispersion. When white light enters a gem, each colour
+          component is refracted by a slightly different angle; on exit, the colours emerge at
+          different positions, producing visible spectral separation — fire.
+
+      - title: Why Dispersion is Not Diffraction
+        content: |
+          - **Diffraction** involves wave bending around apertures or at periodic structures
+            (silica sphere arrays in opal, nacre platelet stacks in pearl) — structural colour.
+          - **Dispersion** involves differential refraction at an interface between two media
+            of differing refractive index — a bulk optical property of the material.
+
+          Both produce spectral colours but at entirely different physical length scales and by
+          different mechanisms. In a faceted gem, fire is produced at each facet face; in opal,
+          colour arises from the photonic crystal structure of ~200 nm silica spheres.
+
+      - title: The B–G Interval
+        content: |
+          Gemmological dispersion is conventionally measured as the difference in refractive
+          index between Fraunhofer lines B (686.7 nm, deep red) and G (430.8 nm, violet):
+
+          **Dispersion = n_G − n_B**
+
+          A larger B–G value means greater potential for fire. Values are material constants,
+          independent of cut geometry.
+
+  - title: Named Dispersion Values
+    table:
+      caption: "B–G dispersion values for selected gem species and simulants. Source: Read (2008) [APPROXIMATE] — no single DOI-verified comprehensive dispersion table was located; diamond, zircon, and moissanite values confirmed across multiple textbook sources. CZ = 0.060 (Read 7th ed. preferred value); do NOT use 0.065 from uncited trade sources."
+      headers:
+        - Species
+        - B–G Dispersion
+        - Notes
+      rows:
+        - ["Strontium titanate (simulant)", "0.190", "Extremely high; immediately obvious excessive fire"]
+        - ["Rutile (TiO₂, historical simulant)", "0.280", "Far exceeds diamond; strong birefringence also diagnostic"]
+        - ["Synthetic moissanite", "0.104", "More than twice diamond; combined with birefringence is diagnostic"]
+        - ["Cubic zirconia (CZ)", "0.060", "Higher than diamond; conspicuous fire. Note: 0.060 is the Read 7th-edition canonical value; the value 0.065 appears in some trade sources without primary citation and is not used here"]
+        - ["GGG (gadolinium gallium garnet)", "0.045", "Higher than diamond; obsolete simulant"]
+        - ["Diamond", "0.044", "High for natural gems; the benchmark reference value"]
+        - ["Demantoid (andradite garnet)", "0.057", "Higher than diamond; contributes to demantoid's famous fire"]
+        - ["Sphene (titanite)", "0.051", "Very high; softness limits durability for jewellery"]
+        - ["YAG (yttrium aluminium garnet)", "0.028", "Moderate; obsolete simulant"]
+        - ["Almandine garnet", "0.027", "Moderate; low fire contributes to darker appearance"]
+        - ["Zircon (high type)", "0.039", "Moderate fire; good dispersion for affordable stone; also birefringent"]
+        - ["Sapphire (corundum)", "0.018", "Low; fire not a notable feature of sapphire"]
+        - ["Topaz", "0.014", "Low; relatively little fire"]
+        - ["Quartz", "0.013", "Low"]
+        - ["Fluorite", "0.007", "Very low; glass-like appearance"]
+
+  - title: Facet Design and Fire
+    content: |
+      Fire is not purely a material property — cut geometry strongly determines how much
+      dispersion is visible:
+    subsections:
+      - title: Cut Geometry
+        content: |
+          A brilliant cut allows white light to enter through the table, undergo total internal
+          reflection at the pavilion facets, and exit through the crown facets. Each reflection
+          and refraction event disperses the light further. The crown height, facet angles, and
+          number of facets all influence how the dispersed colours emerge to the viewer.
+
+          Very shallow or very deep pavilion angles reduce total internal reflection and therefore
+          reduce both brilliance and fire.
+
+      - title: Trade-off with Brilliance
+        content: |
+          High dispersion often correlates with high RI (both increase as electron density
+          increases). However, brilliance (white light return) and fire compete in cut design:
+
+          - A broad table suppresses fire (less crown facet area to produce coloured flashes)
+          - More and smaller crown facets generate more fire at the cost of some brilliance
+          - The classic round brilliant optimises both for diamond
+
+  - title: Distinguishing Fire from Other Spectral Effects
+    table:
+      caption: Fire versus diffraction-based and interference-based spectral colour effects
+      headers:
+        - Effect
+        - Mechanism
+        - Visual Character
+        - Host Material
+      rows:
+        - ["Fire (dispersion)", "Differential refraction at gem facets", "Coloured flashes that change with viewing angle; seen in faceted gems", "Faceted stones"]
+        - ["Play-of-colour (opal)", "Diffraction from silica sphere array (~200 nm)", "Spectral colour patches shifting with viewing angle; cabochon or rough", "Precious opal"]
+        - ["Labradorescence", "Thin-film interference in Bøggild intergrowth", "Directional broad colour zones in feldspar; not rapid flashes", "Labradorite feldspar"]
+        - ["Orient (pearl)", "Thin-film diffraction/interference in nacre platelets", "Soft iridescent surface bloom; not rapid flashes", "Nacre-covered pearls"]
+        - ["Iridescence (general)", "Thin-film interference or diffraction", "Broad spectral sheen associated with surface or near-surface structure", "Fire agate, ammolite, surface films"]
+
+  - title: Diagnostic Relevance
+    content: |
+      Using dispersion in gem identification:
+    subsections:
+      - title: High Fire as Diagnostic
+        content: |
+          Fire conspicuously greater than diamond narrows identification to a short list.
+          Combine dispersion observation with RI, SG, and optic character:
+
+          - Excessive fire + birefringence (doubling of facet edges) = moissanite
+          - Excessive fire + high SG, no birefringence = CZ or GGG (historical)
+          - Extreme fire + very high birefringence = rutile or synthetic rutile (historical)
+
+      - title: Low Fire as Diagnostic
+        content: |
+          A colourless stone with very little fire but high RI may be zircon (also birefringent
+          under magnification) or a heavy-element glass. Sapphire has low dispersion (0.018) so
+          shows little fire despite its relatively high RI.
+
+  - title: Sources
+    items:
+      - name: Read (2008)
+        description: "Gemmology (3rd ed.). Butterworth-Heinemann/Routledge. DOI: 10.4324/9780080507224. [APPROXIMATE — chapter confirmed; page references not independently verified] — Primary source for dispersion mechanism and B–G values. No single DOI-verified comprehensive dispersion table paper was located in the source research session; values are textbook-consensus and should be verified against a primary spectrophotometric source before formal examination use. [Confidence C for the full dispersion table]"
+      - name: Nassau (2001)
+        description: "The Physics and Chemistry of Color (2nd ed.). Wiley-Interscience. No DOI retrieved. [UNVERIFIED] — Conceptual support for dispersion mechanism."

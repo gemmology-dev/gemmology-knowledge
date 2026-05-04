@@ -1,0 +1,127 @@
+title: Lapis Lazuli — Sar-e-Sang, Afghanistan
+description: Sar-e-Sang (Badakhshan) lapis lazuli — the canonical ancient-world source, >7,000 years of continuous mining, geochemical fingerprinting, grades and quality.
+order: 2
+category: origin
+subcategory: afghanistan
+difficulty: intermediate
+icon: gem
+related:
+  - origin/afghanistan/overview
+  - origin/tajikistan
+  - species/lapis-lazuli
+tags:
+  - afghanistan
+  - sar-e-sang
+  - badakhshan
+  - lapis-lazuli
+  - lazurite
+  - origin/afghanistan
+
+sections:
+  - title: Introduction
+    content: |
+      The Sar-e-Sang deposit in the Kokcha River Valley of Badakhshan Province, Afghanistan,
+      is the world's oldest continuously operated gem mine — mined for more than 7,000 years
+      without interruption. It supplied lapis lazuli to the pharaohs of Egypt, the scribes
+      of Mesopotamia, and the craftspeople of the Indus Valley civilisation. Lo Giudice et al.
+      (2016) demonstrated through geochemical provenance protocols that ancient artefacts
+      from Egyptian museums were of "Afghan origin" — confirming the singular historical
+      primacy of this deposit.
+
+  - title: Mineralogy of Lapis Lazuli
+    content: |
+      Lapis lazuli is a rock, not a single mineral:
+    subsections:
+      - title: Principal Minerals
+        content: |
+          - **Lazurite**: The blue feldspathoid mineral responsible for the colour;
+            a member of the sodalite group containing sulfur as S₃⁻ chromophore
+          - **Calcite**: White to colourless; determines the grade (less calcite = higher
+            grade in the Sar-e-Sang system)
+          - **Pyrite**: Gold metallic flecks — characteristic and commercially valued
+            in Afghan material
+          - **Minor minerals**: Diopside, phlogopite, wollastonite from the contact
+            metamorphic environment
+
+      - title: Colour Mechanism
+        content: |
+          - The blue colour arises from the S₃⁻ radical anion (trisulfide) in the
+            lazurite structure — the same mechanism responsible for ultramarine pigment
+            produced synthetically since the 19th century
+          - Cu/Fe ratio in the broader mineral assemblage and S₃⁻ concentration control
+            the exact tone: deeper blue with higher S₃⁻
+
+  - title: Geochemical Provenance Fingerprinting
+    content: |
+      Afghan vs other lapis lazuli sources:
+
+      - Lo Giudice et al. (2016) developed a provenance protocol based on trace element
+        geochemistry and sulfur isotopes to distinguish Sar-e-Sang material from
+        Chilean and other sources
+      - **Sulfur isotopes (δ³⁴S)**: Afghan material has a characteristic isotopic range
+        distinct from Chilean lapis; this is the primary analytical criterion for
+        archaeological provenance studies
+      - **Trace element profile**: LA-ICP-MS fingerprinting of the lazurite and associated
+        minerals provides additional discrimination
+
+  - title: Quality Grades
+    table:
+      headers:
+        - Grade Name
+        - Appearance
+        - Quality
+      rows:
+        - ["Sara (Sar)", "Deep ultramarine blue; minimal calcite; uniform", "Highest"]
+        - ["Surkh", "Medium blue; some calcite veining", "Mid-grade"]
+        - ["Asmani", "Pale blue; heavy white calcite matrix", "Lower"]
+
+  - title: Pyrite Flecks
+    callout:
+      type: info
+      title: The Gold Flecks
+      text: |
+        The gold-coloured metallic flecks in lapis lazuli are PYRITE (FeS₂) — iron
+        sulfide. In Afghan Sar-e-Sang material, evenly distributed fine pyrite flecks
+        are considered a quality feature, indicating a natural, untreated stone from
+        the metamorphic contact zone.
+
+        Heavy calcite mottling WITHOUT pyrite can indicate Chilean material (Ovalle deposit),
+        which typically shows coarser white patches and less even blue distribution compared
+        to fine Afghan lapis.
+
+  - title: Distinction from Chilean Lapis
+    content: |
+      Trade-level comparison:
+
+      - **Afghan (Sar-e-Sang)**: Deep, even ultramarine blue; characteristic pyrite;
+        less calcite mottling in fine grades; richer, more saturated colour overall
+      - **Chilean (Ovalle deposit, Coquimbo)**: Typically more white calcite patches;
+        more mottled appearance; colour slightly lighter or more patchy
+      - **Geochemical discrimination**: Sulfur isotopes and trace element profiles
+        can distinguish sources analytically; trade-level visual assessment is less reliable
+
+  - title: Treatment Concerns
+    content: |
+      Common treatments to know:
+
+      - **Dyeing**: Poor-quality lapis is commonly dyed deep blue with organic or
+        inorganic dyes; detected by cotton swab test (dye bleeds) or FTIR/UV examination
+      - **Wax impregnation**: Stabilises porous or friable material; FTIR detection
+      - **Sodalite and lazurite simulants**: "Afghan lapis" may include material from
+        secondary sources with lower lazurite content; certified provenance adds value
+
+  - title: Historical Significance
+    content: |
+      The oldest gem provenance in the world:
+
+      - Lapis lazuli from Sar-e-Sang was found in Egyptian jewellery from 5,000 BCE
+      - The vivid ultramarine blue of medieval European paintings was ground from
+        Sar-e-Sang lapis imported via the Silk Road
+      - The Sanskrit word for blue (nila) and the Persian word for lapis (lazhward)
+        both derive from the cultural centrality of this material
+      - The mine has been operated under continuous human control for 70+ centuries —
+        arguably the longest-operating mine in human history
+
+sources:
+  - doi: "10.1007/s12520-016-0430-0"
+    citation: "Lo Giudice et al. (2016) Protocol for lapis lazuli provenance determination: evidence for Afghan origin. Archaeological and Anthropological Sciences."

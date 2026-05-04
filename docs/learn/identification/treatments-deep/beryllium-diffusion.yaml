@@ -1,0 +1,95 @@
+title: Beryllium Diffusion — Deep Diagnostic Reference
+description: Full per-method detection protocol for beryllium lattice diffusion in corundum, with disclosure standards and stability data.
+order: 1
+category: identification
+difficulty: advanced
+icon: beaker
+related:
+  - identification/treatments
+  - identification/inclusions
+  - species/corundum
+tags:
+  - beryllium-diffusion
+  - sapphire
+  - diffusion
+  - LA-ICP-MS
+  - SIMS
+
+sections:
+  - title: Process and Conditions
+    content: |
+      Rough sapphire is packed in beryllium-bearing powder (chrysoberyl or synthetic BeO)
+      and fired at **1700–1800 °C** in an oxidising atmosphere for 12–100 hours.
+
+      Be²⁺ ions (ionic radius 0.27 Å) are small enough to diffuse through the corundum
+      lattice — unlike Ti or Cr, which remain near-surface. They act as charge compensators
+      enabling trapped-hole colour centres (h-Fe: iron paired with oxygen vacancies),
+      producing strong orange/yellow absorption throughout the stone.
+
+      The Songea (Tanzania) case study (from 2001 onward) demonstrated that ordinary sapphire
+      could be transformed into commercially intense padparadscha-like material unachievable
+      by plain heat treatment.
+
+      Be²⁺ diffuses into corundum at processing temperatures by creating charge-compensated
+      trapped-hole chromophores responsible for the yellow-orange coloration (Emmett et al. 2003).
+      Diffusion of beryllium into various types of sapphire can shift their chemistry from
+      donor- to acceptor-dominated, forming the hole chromophore (Emmett et al. 2023).
+
+    callout:
+      type: warning
+      title: Cannot Be Detected by Standard Tools
+      text: |
+        Beryllium diffusion cannot be reliably detected by standard gem-testing instruments
+        (loupe, refractometer, UV lamp, spectroscope). LA-ICP-MS or SIMS is required for a
+        definitive result. Immersion microscopy provides indicative signs only.
+
+  - title: Detection — Full Protocol (Loupe to SIMS)
+    table:
+      caption: Detection Sequence — Beryllium Diffusion (simplest to most advanced)
+      headers:
+        - Method
+        - Finding
+        - Reliability
+        - Notes
+      rows:
+        - ["10× loupe / naked eye", "Colour may appear suspiciously homogeneous and intense for the origin; padparadscha oranges from Sri Lanka rarely achieve this saturation naturally", "Indicative only", "Cannot distinguish from plain heat"]
+        - ["Immersion microscope (40×, dark-field, di-iodomethane)", "In poorly-treated or small stones: slight colour concentration at facet junctions ('spider-web' faint); less pronounced than Ti surface diffusion because penetration is deeper; may appear where facets approach the girdle", "Suggestive — not conclusive", "More reliable for Ti surface diffusion; less reliable for Be"]
+        - ["Chelsea Colour Filter", "No specific diagnostic reaction", "Not useful", "Skip in workflow"]
+        - ["UV fluorescence (LWUV/SWUV)", "No reliable discrimination on its own", "Not useful", "Skip in workflow"]
+        - ["LA-ICP-MS (Laser Ablation ICP-MS)", "Be >1–2 ppm in orange/yellow corundum is diagnostic; natural corundum contains <0.1 ppm Be", "Definitive", "Industry standard for lab detection; Emmett et al. 2003 establishes ppm threshold"]
+        - ["SIMS (Secondary Ion Mass Spectrometry)", "Concentration profile from surface to interior; diffusion gradient (high at surface, declining inward) confirms treatment; flat low profile confirms natural", "Gold standard", "Highest sensitivity (~ppb); maps the Be gradient unambiguously"]
+        - ["LIBS (Laser-Induced Breakdown Spectroscopy)", "Detects Be semi-quantitatively; semi-destructive; less precise than LA-ICP-MS", "Supportive", "Occasionally used in trade; not preferred for definitive reports"]
+
+  - title: Effect on the Gem
+    content: |
+      - Colour is **lattice-deep**: re-cutting does not remove it (distinguish from Ti surface diffusion)
+      - Produces intense orange, yellow, or padparadscha (orange-pink) colours throughout the stone
+      - Some colour zoning may persist if natural chemistry was uneven
+      - Ruby subjected to Be diffusion can show reddening or colour improvement in marginally red stones
+
+  - title: Disclosure Standards
+    content: |
+      - **CIBJO / AGTA**: must be disclosed as a treatment; AGTA code "U" (diffusion)
+      - **GIA**: reports "lattice diffusion treatment — beryllium present"; NOT acceptable
+        to describe the stone simply as "heated"
+      - **LMHC**: classified as a treatment requiring specific disclosure separate from
+        plain heat treatment (H); coded H(b) or H(Be) on many laboratory reports
+      - **Gem-A**: students must understand that Be-diffusion is a fundamentally different
+        treatment from plain heating and requires a separate disclosure statement
+
+  - title: Stability
+    content: |
+      - **Permanent** under normal wearing conditions; lattice-level diffusion is not
+        reversible by light, heat, or solvents
+      - Re-polishing does NOT remove colour (distinguish from Ti surface diffusion)
+      - Ultrasonic and steam cleaning: safe
+      - The treatment itself is stable but does not affect overall corundum durability (Mohs 9)
+
+  - title: Sources
+    content: |
+      - Emmett, J.L. et al. 2003. Beryllium Diffusion of Ruby and Sapphire. *Gems & Gemology*.
+        DOI: 10.5741/gems.39.2.84 [VERIFIED — live Crossref API confirmed]
+      - Emmett, J.L. et al. 2023. Yellow Sapphire: Natural, Heat-Treated, Beryllium-Diffused,
+        and Synthetic. *Gems & Gemology*. DOI: 10.5741/gems.59.3.268 [VERIFIED]
+      - McClure, S.F. et al. 2010. Gemstone Enhancement and Its Detection in the 2000s.
+        *Gems & Gemology*. DOI: 10.5741/gems.46.3.218 [VERIFIED]

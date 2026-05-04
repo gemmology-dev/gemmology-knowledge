@@ -1,0 +1,112 @@
+title: USA — Gem Origins Overview
+description: US gem deposits — Montana sapphire, Utah red beryl, Arizona peridot, California and Maine tourmaline; geologically diverse patchwork provinces.
+order: 1
+category: origin
+subcategory: usa
+difficulty: intermediate
+icon: gem
+related:
+  - origin/overview
+  - origin/usa/montana-sapphire
+  - origin/usa/utah-red-beryl
+  - species/corundum
+  - species/beryl
+tags:
+  - usa
+  - montana
+  - utah
+  - arizona
+  - california
+  - sapphire
+  - red-beryl
+  - peridot
+  - origin/usa
+
+sections:
+  - title: Introduction
+    content: |
+      The United States hosts geologically diverse gem deposits with no single dominant
+      orogenic province. Major deposits include: Montana sapphire (lamprophyre and
+      alluvial), Utah red beryl (rhyolitic volcanic), Arizona peridot (basaltic xenocyrst),
+      and California/Maine tourmaline (LCT pegmatite). Each deposit reflects a distinct
+      geological setting; no common chemical or inclusion fingerprint links them.
+
+  - title: Major US Gem Deposits
+    table:
+      headers:
+        - State
+        - Deposit
+        - Host Rock
+        - Gems
+      rows:
+        - ["Montana", "Yogo Gulch, Rock Creek, Missouri River", "Lamprophyre dike + alluvial placers", "Sapphire"]
+        - ["Utah", "Wah Wah Mountains", "Topaz rhyolite (Eocene)", "Red beryl"]
+        - ["Arizona", "San Carlos Apache Reservation", "Quaternary alkali basalt (xenocryst)", "Peridot"]
+        - ["California", "Pala District, San Diego County", "Cretaceous LCT pegmatite", "Elbaite tourmaline"]
+        - ["Maine", "Oxford County pegmatites", "LCT granite pegmatite", "Elbaite tourmaline (blue/green)"]
+
+  - title: Montana Sapphire — Brief Overview
+    content: |
+      - Three deposit types: Yogo Gulch (lamprophyre), Rock Creek (alluvial), Missouri River
+      - Yogo: steely blue, rarely >2 ct, no heat treatment needed; low Fe; lamprophyre host
+      - Rock Creek / Missouri River: pastel multicolour; mostly heat-treated for commercial blue
+      - See dedicated file: origin/usa/montana-sapphire
+
+  - title: Utah Red Beryl — Brief Overview
+    content: |
+      - Wah Wah Mountains, Beaver County — the world's only commercial red beryl source
+      - Hosted in Eocene topaz rhyolite; Mn³⁺ chromophore; typically <0.5 ct
+      - See dedicated file: origin/usa/utah-red-beryl
+
+  - title: Arizona Peridot — San Carlos
+    content: |
+      San Carlos Apache Reservation (Gila County) produces an estimated 80–95% of
+      commercial peridot by volume:
+
+      - **Host**: Quaternary alkali basalt; peridot is a mantle xenocryst
+      - **Composition**: Mg₂SiO₄–Fe₂SiO₄ (olivine); San Carlos material ~Fo₈₆–Fo₉₂
+      - **Properties**: RI 1.654–1.712 (α–γ); biaxial positive; birefringence 0.035–0.038
+        (strong facet doubling at 10×); SG 3.28–3.48; Hardness 6.5–7
+      - **Colour**: Yellow-green to lime-green (Fe²⁺ chromophore)
+      - **Absorption**: Three-banded iron spectrum: 493, 473, 453 nm (Foundation examination requirement)
+      - **Key inclusions**: Chromite (spinel) with lily-pad tension fracture halos (Diploma
+        requirement); ludwigite platelets; biotite; fluid inclusions
+      - **Origin discrimination**: Not practical at bench level; San Carlos vs Hawaiian or
+        Chinese peridot requires quantitative microprobe analysis
+
+  - title: US Tourmaline (Brief)
+    content: |
+      California (Pala District) and Maine (Oxford County) tourmaline:
+
+      - Both produce elbaite (Na(Li,Al)₃Al₆(Si₆O₁₈)(BO₃)₃(OH)₄) from LCT-type pegmatites
+      - Colour range: pink/red rubellite, blue indicolite, bicolour, watermelon, parti
+      - RI: 1.614–1.679 (uniaxial negative); SG: 3.01–3.06; birefringence: 0.014–0.021
+      - California: historical Qing Dynasty export; Maine: first commercial North American tourmaline
+      - Discrimination between California and Maine deposits, and between US and other
+        tourmaline origins, is a laboratory-level task requiring trace element chemistry
+
+  - title: US Tourmaline and Arkansas Diamond — Notes
+    callout:
+      type: info
+      title: CITATION NEEDED Items
+      text: |
+        Two US gem localities cannot be described with specific origin diagnostics in
+        this curriculum because no peer-reviewed gemmological discrimination paper
+        was retrieved:
+
+        1. US TOURMALINE sub-deposit distinction (Maine vs California): No specific
+           inter-deposit discrimination paper retrieved — [CITATION NEEDED].
+           Include as brief item only without diagnostic claims.
+
+        2. ARKANSAS DIAMOND (Crater of Diamonds, Murfreesboro): Lamproite-hosted;
+           educational "finders-keepers" site; negligible commercial production.
+           No peer-reviewed gemological characterisation retrieved — [CITATION NEEDED].
+           Mention only as educational context; do not assign gemmological diagnostics.
+
+sources:
+  - doi: "10.5741/gems.54.2.184"
+    citation: "Renfro, Palke & Berg (2018) Gemological Characterization of Yogo Gulch Sapphires. Gems & Gemology."
+  - doi: "10.5741/gems.20.4.208"
+    citation: "Shigley & Foord (1984) Red Beryl, Wah Wah Mountains, Utah. Gems & Gemology."
+  - doi: "10.5741/gems.17.4.205"
+    citation: "Koivula (1981) San Carlos peridot. Gems & Gemology."

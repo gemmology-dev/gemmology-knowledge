@@ -1,0 +1,137 @@
+title: Schiller and Peristerescence
+description: Schiller and peristerescence in feldspar — the mechanism of non-spectral lamellar scattering, named species, and distinction from adularescence, labradorescence, aventurescence, and chatoyancy.
+order: 10
+category: phenomena
+difficulty: intermediate
+icon: layers
+related:
+  - phenomena/overview
+  - phenomena/adularescence
+  - phenomena/labradorescence
+  - phenomena/aventurescence
+  - phenomena/chatoyancy
+tags:
+  - phenomena/schiller
+  - moonstone
+  - peristerite
+  - feldspar
+  - exsolution
+
+sections:
+  - title: Definition
+    content: |
+      Schiller (from German "Schiller," shimmer) is a broad, non-spectral, white-to-bluish
+      internal reflectance sheen produced by lamellar microstructure within feldspar. It arises
+      from coherent scattering of white light at exsolution lamellae that are too thin to produce
+      spectral colour separation.
+
+      The term covers two closely related varieties:
+
+      - **Adularescence** — the schiller of orthoclase moonstone (albite lamellae in orthoclase host)
+      - **Peristerescence** — the schiller of peristerite (albite–oligoclase two-phase plagioclase, An0–An16)
+
+      Both produce a single-colour (blue or white) billowy glow, wholly distinct from the polychromatic
+      colour play of labradorescence.
+
+  - title: Mechanism
+    content: |
+      Physical cause of schiller in feldspar:
+    subsections:
+      - title: Exsolution Lamellae
+        content: |
+          During slow subsolidus cooling, a single feldspar separates into alternating lamellae of
+          two compositionally distinct phases. In orthoclase moonstone, albite (Ab) lamellae alternate
+          with orthoclase (Or) at the Huttenlocher-type intergrowth. In peristerite, albite alternates
+          with oligoclase.
+
+          The periodic layering has spacing on the order of visible wavelengths (approximately 60–500 nm).
+
+      - title: Layer Thickness and Colour
+        content: |
+          - **~60–150 nm layers**: Preferential constructive interference in the blue spectral region
+            → prized blue schiller
+          - **~200–300 nm layers**: Broad white-light scattering → silver-white sheen
+          - **>500 nm layers**: No optical effect; stone appears transparent
+
+          Thinner lamellae produce bluer schiller; the classic blue moonstone owes its colour to
+          exceptionally thin albite layers near 100 nm.
+
+      - title: Distinction from Labradorescence
+        content: |
+          Schiller (adularescence/peristerescence) involves non-spectral, single-hue scattering.
+          Labradorescence, by contrast, arises from the Bøggild intergrowth at a specific plagioclase
+          composition (An47–An58) and produces spectrally selective, polychromatic colour play —
+          multiple distinct spectral colours from different zones of the stone.
+
+          Miura, Tomisaka & Kato (1975) established the relationship between lamellae thickness and
+          the selectively reflected wavelengths in labradorite, confirming the structural basis for
+          the two distinct phenomena.
+
+  - title: Named Species
+    table:
+      caption: Feldspar varieties showing schiller or peristerescence
+      headers:
+        - Species / Variety
+        - Mineral
+        - Layer Structure
+        - Visual Character
+      rows:
+        - ["Orthoclase moonstone", "Orthoclase (KAlSi₃O₈)", "Albite exsolution, ~60–150 nm for blue", "Blue to white floating billowy glow; moves with viewing angle"]
+        - ["Sanidine moonstone", "Sanidine (high-T K-feldspar)", "Similar exsolution; higher formation temperature", "White to cream schiller; less common"]
+        - ["Peristerite moonstone", "Albite–oligoclase (An0–An16)", "Two-phase plagioclase; broader lamellae", "Pale blue to white sheen; body colour often darker than orthoclase moonstone"]
+        - ["'Rainbow moonstone' (trade)", "Labradorite (An~50)", "Bøggild intergrowth — NOT peristerescence", "Multicolour spectral flashes; different mechanism — see labradorescence"]
+
+  - title: Distinguishing from Related Phenomena
+    table:
+      caption: Comparison of schiller with related feldspar and inclusion-based phenomena
+      headers:
+        - Phenomenon
+        - Structural Cause
+        - Visual Signature
+        - Species
+      rows:
+        - ["Adularescence", "Orthoclase–albite exsolution lamellae", "Single-colour (blue/white) billowy floating glow", "Orthoclase moonstone"]
+        - ["Peristerescence / schiller", "Albite–oligoclase exsolution", "Single-colour (white/pale blue) sheen; often more diffuse", "Peristerite"]
+        - ["Labradorescence", "Bøggild intergrowth (An47–An58)", "Spectral polychromatic colour play in distinct patches", "Labradorite, spectrolite"]
+        - ["Aventurescence", "Metallic platelet inclusions (hematite, native copper)", "Metallic sparkle; gold/red/copper tones", "Aventurine feldspar (sunstone), aventurine quartz"]
+        - ["Chatoyancy", "Aligned needle/fibre inclusions", "Single bright band across cabochon; moves with rotation", "Cat's-eye chrysoberyl, many others"]
+
+  - title: Diagnostic Relevance
+    content: |
+      Gemmological separation of moonstone varieties:
+    subsections:
+      - title: Observation Technique
+        content: |
+          Examine in reflected light over a dark background while rocking the stone slowly.
+          A single-colour billowy glow identifies orthoclase or peristerite moonstone (schiller/adularescence).
+          Multiple spectral colour flashes indicate labradorite (labradorescence).
+
+          The schiller should appear to float just below the surface and move smoothly as the stone tilts.
+
+      - title: Refractive Index Separation
+        content: |
+          RI provides a reliable quantitative separation:
+
+          - Orthoclase moonstone: RI ~1.518–1.526
+          - Peristerite: RI ~1.525–1.536
+          - Labradorite: RI ~1.559–1.573
+
+          Any feldspar moonstone with RI above approximately 1.55 is likely labradorite,
+          not true orthoclase or peristerite moonstone.
+
+          Birefringence also assists: orthoclase δ ~0.005–0.008; labradorite δ ~0.009–0.011.
+
+      - title: Krzemnicki 2004 Note
+        content: |
+          Krzemnicki (2004) reported red and green labradorite from the Democratic Republic of Congo
+          showing spectral colour play, demonstrating that labradorescence colours vary with composition
+          and confirming that the distinction from schiller rests on mechanism and RI, not colour alone.
+
+  - title: Sources
+    items:
+      - name: Miura, Tomisaka & Kato (1975)
+        description: "Labradorescence and the ideal behavior of thicknesses of alternate lamellae in the Bøggild intergrowth. Mineralogical Journal 7(6), 526–541. DOI: 10.2465/minerj1953.7.526. [VERIFIED]"
+      - name: Krzemnicki (2004)
+        description: "Red and green labradorite feldspar from Congo. The Journal of Gemmology 29(1), 15–23. DOI: 10.15506/jog.2004.29.1.15. [VERIFIED]"
+      - name: Read (2008)
+        description: "Gemmology (3rd ed.). Butterworth-Heinemann/Routledge. DOI: 10.4324/9780080507224. [APPROXIMATE] — Chapter 'Colour, Lustre and Sheen'; layer-thickness figures and RI values."

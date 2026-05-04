@@ -1,0 +1,130 @@
+title: Iran — Nishapur (Neyshabur) Turquoise
+description: Persian turquoise from Neyshabur, Khorasan — the global colour standard; volcanic tuff host, spider-web matrix, Cu-Al phosphate, treatment assessment.
+order: 14
+category: origin
+difficulty: intermediate
+icon: gem
+related:
+  - origin/overview
+  - species/turquoise
+tags:
+  - iran
+  - persia
+  - nishapur
+  - neyshabur
+  - turquoise
+  - phosphate
+  - origin/iran
+
+sections:
+  - title: Introduction
+    content: |
+      Persian turquoise from the Neyshabur (Nishapur) district of Khorasan-e Razavi Province
+      is historically the most celebrated turquoise in the world — the deposit that defined
+      the colour "turquoise" as a colour category for Western culture and trade. Production
+      has continued for at least 2,000 years, making Neyshabur one of the world's longest-
+      continuously-operating gem sources. Shirdam et al. (2021) provided a comprehensive
+      review in Gems & Gemology.
+
+  - title: Geological Context
+    content: |
+      Neyshabur turquoise deposit geology:
+    subsections:
+      - title: Host Rock
+        content: |
+          - Turquoise occurs in hydrothermally altered volcanic tuffs and rhyolitic rocks
+            within the Neyshabur district
+          - Hydrothermal copper-bearing fluids altered the volcanic host, precipitating
+            secondary copper-aluminium phosphate (turquoise) in veins, fractures, and
+            nodules within the altered rhyolite
+          - The Cu source is the volcanic rock suite itself; Al and P from the alteration
+            system; the reaction occurs under near-surface, low-temperature conditions
+
+      - title: Formula
+        content: |
+          - Turquoise formula: CuAl₆(PO₄)₄(OH)₈·4H₂O
+          - Colour depends on Cu/Fe ratio: higher Fe shifts colour toward green
+          - The finest "robah" grade (see below) has the highest Cu relative to Fe
+
+  - title: Quality Grades
+    table:
+      headers:
+        - Grade
+        - Description
+        - Quality
+      rows:
+        - ["Robah (fox-hole)", "Even sky blue; no matrix; maximum colour saturation", "Highest — rarest"]
+        - ["Angi (vein)", "Vein material; sky blue; some matrix acceptable", "High"]
+        - ["Arabi (Arabic)", "Good colour; moderate matrix", "Medium"]
+        - ["Spider-web", "Matrix-patterned; mid-grade; commercially desirable", "Mid-grade commodity"]
+
+  - title: The Spider-Web Matrix
+    callout:
+      type: info
+      title: A Characteristic and Desirable Feature
+      text: |
+        The "spider-web" matrix of Persian turquoise — thin veins of brown limonite
+        or black manganese oxide running through the turquoise in an irregular network —
+        is characteristic of Neyshabur material and commercially desirable in mid-grade
+        pieces. Fine spider-web turquoise with an even blue background and well-defined
+        matrix commands premium prices in certain markets (Native American-influenced
+        US market and Middle Eastern markets).
+
+        American Sleeping Beauty turquoise (Arizona) is notably matrix-free and more
+        even blue — aesthetically different from spider-web Persian material.
+
+  - title: Origin Determination
+    content: |
+      Identifying Persian vs other turquoise origins:
+    subsections:
+      - title: Analytical Methods
+        content: |
+          - **Trace element geochemistry** (LA-ICP-MS or EDXRF): Cu, Al, Fe, Zn ratios;
+            Persian material has characteristic signatures documented by Shirdam et al. (2021)
+          - **Raman spectroscopy**: Confirms turquoise mineral species (vs dyed howlite,
+            magnesite, or stabilised materials)
+          - **FTIR**: Identifies stabilising resin/wax treatment (phosphate vs polymer
+            absorption bands)
+
+      - title: Visual Comparison
+        content: |
+          - **Persian vs Sleeping Beauty (Arizona)**: Persian more deeply blue, often with
+            spider-web matrix; Sleeping Beauty pale to medium blue, matrix-free, "cleaner"
+          - **Persian vs Chinese (Hubei)**: Hubei typically more green-blue, heavier
+            veining; different Cu/Fe/Zn profile
+          - Visual comparison is trade-level guidance only; analytical confirmation required
+
+  - title: Treatment — A Critical Issue
+    callout:
+      type: warning
+      title: Most Neyshabur Material Is Stabilised
+      text: |
+        Much of the commercial Neyshabur output is STABILISED — impregnated with wax,
+        resin, or plastic to improve durability, surface finish, and colour. This is
+        accepted trade practice but reduces value relative to untreated natural turquoise.
+
+        FTIR spectroscopy distinguishes:
+        - Untreated natural turquoise: Clean phosphate absorption pattern
+        - Wax-treated: Hydrocarbon C-H stretch bands present
+        - Resin/polymer treated: Polymer absorption bands present
+
+        "Natural" turquoise without stabilisation is increasingly rare and commands
+        premium pricing when certified by a laboratory.
+
+  - title: Properties
+    table:
+      headers:
+        - Property
+        - Value
+      rows:
+        - ["Composition", "CuAl₆(PO₄)₄(OH)₈·4H₂O"]
+        - ["Crystal system", "Triclinic; microcrystalline aggregate"]
+        - ["Hardness", "5–6 (Mohs); lower in porous material"]
+        - ["SG", "2.60–2.85"]
+        - ["RI", "1.61–1.65 (spot reading on curved surface)"]
+        - ["Fluorescence", "Inert to very weak"]
+        - ["Lustre", "Waxy to dull; polish improves appearance"]
+
+sources:
+  - doi: "10.5741/gems.57.3.240"
+    citation: "Shirdam et al. (2021) Persian Turquoise: The Ancient Treasure of Neyshabur. Gems & Gemology."

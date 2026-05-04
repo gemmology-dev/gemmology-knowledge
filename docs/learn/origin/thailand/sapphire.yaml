@@ -1,0 +1,130 @@
+title: Thai Sapphire — Bo Phloi and Kanchanaburi Types
+description: Basaltic high-Fe blue sapphire from Bo Phloi and Kanchanaburi; strong 450/460/470 nm iron triplet, common heat treatment, basalt-suite inclusions.
+order: 3
+category: origin
+subcategory: thailand
+difficulty: advanced
+icon: gem
+related:
+  - origin/thailand/overview
+  - origin/thailand/ruby
+  - origin/cambodia
+  - origin/kashmir
+  - origin/ceylon
+  - species/corundum
+tags:
+  - thailand
+  - sapphire
+  - bo-phloi
+  - kanchanaburi
+  - basaltic
+  - corundum
+
+sections:
+  - title: Introduction
+    content: |
+      Thai sapphire from the Bo Phloi district (Kanchanaburi Province) and surrounding
+      areas represents a classically basaltic, high-iron corundum type. Bo Phloi sapphires
+      were historically among Southeast Asia's most important blue sapphires and are
+      scientifically well-characterised. Commercial production is largely concluded but
+      the material remains a reference point for basaltic sapphire identification.
+
+  - title: Colour Range
+    content: |
+      Thai basaltic sapphires display a wider colour range than marble-hosted sapphires:
+
+      - **Blue**: Predominant; dark to very dark blue-green; often described as "inky"
+      - **Yellow**: Common in Bo Phloi; golden to greenish-yellow
+      - **Green**: Blue-green to green from high Fe content
+      - **Black star**: Star sapphire with opaque body
+      - **Golden star**: Asterism in yellowish material
+
+      The very dark tone of Thai blue sapphires — often darker than Kashmir or Ceylon —
+      results from the combined effect of high-Fe absorption across the visible spectrum.
+
+  - title: Diagnostic Inclusions
+    content: |
+      Khamloet et al. (2014) identified two groups of mineral inclusions from Bo Phloi:
+    subsections:
+      - title: Felsic Alkaline Suite
+        content: |
+          - Alkali feldspar (orthoclase/sanidine)
+          - Nepheline (feldspathoid)
+          - Sapphirine (deep crustal / high-P indicator)
+          - Biotite-phlogopite mica
+
+      - title: Contact-Metamorphic Suite
+        content: |
+          - Hercynitic spinel (dark, opaque)
+          - Zircon crystals — common; often with radiation damage halos
+          - Manganiferous ilmenite (black opaque)
+          - Silica-rich enstatite (pyroxene)
+          - Almandine-pyrope garnet
+          - Staurolite
+          - Calcite (occasional — from xenolith material)
+          - Monazite (rare, distinctive)
+
+  - title: Inclusion Significance
+    callout:
+      type: tip
+      title: Nepheline and Hercynitic Spinel
+      text: |
+        Nepheline (a feldspathoid, chemically distinct from feldspar) and hercynitic
+        spinel inclusions in sapphire are strongly associated with basaltic-hosted
+        corundum in a high-alkalinity magmatic environment. Their presence helps confirm
+        basaltic rather than metamorphic or pegmatitic origin.
+
+        Zircon with radiation halos is extremely common in Thai and Cambodian basaltic
+        sapphire and is a reliable pointer to basaltic parentage.
+
+  - title: Spectroscopic Properties
+    content: |
+      Characteristic UV-Vis features of Thai blue sapphire:
+    subsections:
+      - title: Iron Triplet
+        content: |
+          - Strong absorption at approximately 450, 460, and 470 nm (Fe²⁺–Ti⁴⁺ charge
+            transfer + Fe–Fe intervalence)
+          - This triplet is significantly stronger than in Kashmir or Ceylon sapphire
+          - The triplet contributes to the "steely" or "inky" dark tone
+          - Similar in strength to Cambodian material but distinct from Kashmir's velvety blue
+
+      - title: Fluorescence
+        content: |
+          - LWUV fluorescence: Inert to very weak
+          - High iron strongly suppresses any fluorescence
+          - Contrast with Kashmir sapphire: moderate chalky blue fluorescence
+          - Contrast with some Ceylon material: variable blue-white fluorescence
+
+  - title: Origin Determination by LA-ICP-MS
+    content: |
+      Chemical separation of Thai sapphire from other basaltic sources:
+
+      - **High Fe, high Ti**: Primary geochemical signature of basaltic parentage
+      - **Ga/Mg ratio**: Basaltic sapphires have elevated Ga and different Mg profiles
+        vs marble-hosted material
+      - **Fe/Ti discrimination**: Separates Thai from Cambodian (subtle difference),
+        and both from Kashmir, Ceylon, and Australian
+      - No rutile silk of the Kashmir type
+      - No calcite of the marble-hosted type
+
+  - title: Heat Treatment
+    callout:
+      type: warning
+      title: Treatment Is the Norm
+      text: |
+        The overwhelming majority of Thai blue sapphire in the trade is heat-treated.
+        Chanthaburi and Bangkok pioneered the technology for heating corundum to dissolve
+        rutile silk and improve colour. Unheated Thai sapphire is uncommon and carries
+        little origin premium.
+
+        After heating, Thai sapphires may lose some diagnostic inclusions (silk dissolves)
+        but the trace element signature and fluorescence inertness remain diagnostic.
+
+sources:
+  - doi: "10.1016/j.rgg.2014.08.004"
+    citation: "Khamloet, Pisutha-Arnond & Sutthirat (2014) Mineral inclusions in sapphire, Bo Phloi, Kanchanaburi. Russian Geology and Geophysics."
+  - doi: "10.1016/j.jseaes.2019.104068"
+    citation: "Sutthirat et al. (2019) Multistages of sapphire formation, Bo Phloi basaltic gem field. Journal of Asian Earth Sciences."
+  - doi: "10.5741/gems.55.4.536"
+    citation: "Palke et al. (2019) Geographic Origin Determination of Blue Sapphire. Gems & Gemology."

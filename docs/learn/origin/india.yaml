@@ -1,0 +1,146 @@
+title: India — Alexandrite, Diamond (Panna), and Garnet
+description: Indian gem deposits — Andhra Pradesh alexandrite and chrysoberyl, Panna kimberlite diamond, Orissa garnet; geological context; Koh-i-Noor attribution qualified.
+order: 13
+category: origin
+difficulty: advanced
+icon: gem
+related:
+  - origin/overview
+  - origin/ceylon
+  - origin/kashmir
+  - species/corundum
+  - species/chrysoberyl
+tags:
+  - india
+  - andhra-pradesh
+  - panna
+  - orissa
+  - alexandrite
+  - diamond
+  - kimberlite
+  - origin/india
+
+sections:
+  - title: Introduction
+    content: |
+      India's gem deposits reflect the country's diverse Precambrian and Proterozoic
+      geology. Significant production areas include Andhra Pradesh (chrysoberyl and
+      alexandrite in Eastern Ghats pegmatites), Madhya Pradesh (diamond in Panna
+      kimberlites), and Orissa (garnet). Kashmir sapphire, though commercially exhausted,
+      remains India's most famous gem locality and is covered separately.
+
+  - title: Geological Settings
+    table:
+      headers:
+        - Region
+        - Province
+        - Geological Setting
+        - Gems
+      rows:
+        - ["Visakhapatnam / East Godavari", "Andhra Pradesh", "Acidic pegmatites in Eastern Ghats khondalites", "Chrysoberyl, alexandrite"]
+        - ["Panna District", "Madhya Pradesh", "Majhgawan and Hinota kimberlite pipes (~1100 Ma)", "Diamond"]
+        - ["Orissa (Odisha)", "Various districts", "Archaean basement; Precambrian metamorphic rocks", "Pyrope and almandine garnet"]
+        - ["Tamil Nadu", "Southern India", "Garnet-bearing metamorphic basement", "Star garnet (almandine-pyrope)"]
+
+  - title: Alexandrite — Andhra Pradesh
+    content: |
+      Eastern Ghats chrysoberyl and alexandrite:
+    subsections:
+      - title: Geological Context
+        content: |
+          - Chrysoberyl (BeAl₂O₄) occurs in acidic pegmatites intruding khondalites
+            (metamorphic granulites) of the Eastern Ghats mobile belt
+          - Kasipathi (1996) confirmed: "Chrysoberyl occurs in the acidic pegmatite
+            intrusive into the khondalite of the Eastern Ghats of north coastal Andhra Pradesh"
+          - The pegmatite supplies Be and Al; the ultramafic country rock or metamorphic
+            khondalite supplies Cr for alexandrite variety formation
+
+      - title: Properties
+        content: |
+          - Colour change: Green in daylight / red in incandescent (Cr³⁺ in BeAl₂O₄)
+          - Fluorescence: Red LWUV (Cr³⁺)
+          - RI: 1.745–1.757 (α), biaxial positive
+          - SG: ~3.73; Hardness: 8.5
+
+      - title: Origin Determination Note
+        content: |
+          - Indian alexandrite is noted in the trade for its colour-change effect
+            but fine colour change quality — the definitive balance of green-to-red
+            response — is generally considered less striking than fine Ural (Russian)
+            material
+          - This is a generalisation based on trade consensus: the sourcing literature
+            does not provide a peer-reviewed comparison of Indian vs Ural quality as
+            a verified gemmological fact; individual stones vary
+
+  - title: Diamond — Panna District
+    content: |
+      India's only significant primary diamond source:
+    subsections:
+      - title: Geology
+        content: |
+          - Panna Diamond Belt, Madhya Pradesh: kimberlite pipes (Majhgawan and Hinota,
+            ~1100 Ma) emplaced in the Baghain Sandstone of the Vindhyan Supergroup
+          - The basement Bundelkhand granitoids underlie the Vindhyan sedimentary cover;
+            diamonds occur both in the primary kimberlite and in secondary alluvial
+            and conglomerate deposits derived from kimberlite erosion
+          - Active mining by NMDC (National Mineral Development Corporation)
+
+      - title: Koh-i-Noor Attribution — Critical Note
+        content: |
+          - Various famous diamonds including the Koh-i-Noor, Regent (Pitt Diamond),
+            and others are traditionally attributed to the alluvial workings of the
+            Golconda-Panna region of central India
+          - This attribution is TRADITIONALLY ACKNOWLEDGED in historical and gem trade
+            literature; it is NOT confirmed by modern gemmological peer-reviewed analysis
+          - The Rau (2007) paper on the Panna Diamond Belt confirms the geological
+            framework but does not attribute any specific famous diamond to Panna
+          - For examination purposes: state that famous historic diamonds including
+            the Koh-i-Noor are "traditionally attributed to" the Golconda/Panna
+            alluvial region of India — not that their Indian origin is a confirmed fact
+
+  - title: Koh-i-Noor Qualification
+    callout:
+      type: warning
+      title: VERIFIED.md Flag F-08 — Must Qualify Attribution
+      text: |
+        VERIFIED.md explicitly flags (F-08): "Remove or qualify [Koh-i-Noor Panna
+        attribution] with 'traditionally attributed'; do not present as verified
+        historical fact."
+
+        The correct statement is: "The Koh-i-Noor diamond is traditionally attributed
+        to the alluvial gem workings of the Golconda-Panna region of central India."
+
+        Do NOT state: "The Koh-i-Noor was found at Panna" or "The Koh-i-Noor certainly
+        originates from Golconda" — these statements go beyond what the peer-reviewed
+        record supports.
+
+  - title: Diamond Origin Determination Caveat
+    callout:
+      type: info
+      title: Individual Diamond Provenance
+      text: |
+        Geographic origin determination cannot be performed on individual diamonds
+        without reference samples and provenance documentation. No diagnostic inclusion
+        suite or chemical fingerprint uniquely identifies an individual diamond as Indian
+        rather than, for example, Australian kimberlitic. The Panna geological context
+        is well-established; attribution of individual historic stones is historical
+        tradition, not scientific determination.
+
+  - title: Orissa Garnet
+    content: |
+      Garnet from Orissa (Odisha):
+
+      - Pyrope and almandine garnet from Proterozoic metamorphic and Archaean basement
+        of Odisha; artisanal production
+      - Tamil Nadu produces 4-rayed and 6-rayed star garnet (almandine-pyrope with
+        rutile asterism inclusions); India is a significant source of star garnet
+      - No diagnostic origin-determination criteria specific to Indian garnet at the
+        bench level; provenance documentation required
+
+sources:
+  - doi: "10.17491/jgsi/1996/480412"
+    citation: "Kasipathi (1996) Chrysoberyl from Visakhapatnam and East Godavari Districts, Andhra Pradesh. Journal of the Geological Society of India."
+  - doi: "10.17491/jgsi/2007/690306"
+    citation: "Rau (2007) Panna Diamond Belt, Madhya Pradesh — A Critical Review. Journal of the Geological Society of India."
+  - doi: "10.5741/gems.46.3.188"
+    citation: "Shigley et al. (2010) Gem Localities of the 2000s. Gems & Gemology."

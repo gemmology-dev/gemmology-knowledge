@@ -1,0 +1,105 @@
+title: Katlang Pink Topaz — Pakistan
+description: Chromium-coloured pink to champagne topaz from Katlang, Mardan district; Cr³⁺ colouring diagnostic, calcite-vein hosted, rare among topaz globally.
+order: 4
+category: origin
+subcategory: pakistan
+difficulty: advanced
+icon: gem
+related:
+  - origin/pakistan/overview
+  - species/topaz
+tags:
+  - pakistan
+  - katlang
+  - topaz
+  - pink-topaz
+  - chromium
+  - origin/pakistan
+
+sections:
+  - title: Introduction
+    content: |
+      Pink topaz from the Katlang deposit in the Mardan district of Khyber Pakhtunkhwa
+      is exceptional among topaz varieties worldwide: its pink to pinkish-orange colour
+      is caused by trace chromium (Cr³⁺) — an extremely rare colouring mechanism for
+      topaz. Most pink topaz on the market is either irradiation-induced pink (colourless
+      topaz irradiated and heat-treated) or Mn-coloured. Katlang material is genuinely
+      Cr-coloured, making it diagnostically distinct and scientifically noteworthy.
+
+  - title: Geological Setting
+    content: |
+      Katlang mine geology:
+
+      - **Host**: Narrow calcite veins in recrystallised limestone (marble); the topaz
+        crystallises within vein cavities
+      - **Location**: Katlang, Mardan district, Khyber Pakhtunkhwa; the deposit was
+        documented by Spengler (1985) and Gübelin, Graziani and Kazmi (1986)
+      - **Crystal habit**: Well-formed prismatic crystals; sizes typically small (up to
+        3 cm reported); associated colourless, reddish-brown, and tan topaz also recovered
+      - **Topaz species**: Al₂SiO₄(F,OH)₂; the F/OH ratio at Katlang influences specific
+        physical constants (RI, optic axial angle, unit cell dimensions)
+
+  - title: Colour and Chromophore
+    content: |
+      What makes Katlang topaz unique:
+    subsections:
+      - title: Chromium Colouring
+        content: |
+          - **Confirmed chromophore**: Gübelin et al. (1986) confirmed "the color is due
+            to trace elements — principally chromium (Cr³⁺)"
+          - This Cr³⁺ substitution produces pink to pinkish-orange to champagne colour
+            through absorption in the yellow-green region (~550 nm)
+
+      - title: Colour Range
+        content: |
+          - **Pink**: Most prized; pure pink with slight orange modifier
+          - **Pinkish-orange (peach)**: Transition colour between pink and champagne
+          - **Champagne**: Golden-yellow with slight pinkish cast
+          - Colourless, reddish-brown, and tan material is also recovered from the
+            same vein system but lacks the Cr colouring
+
+  - title: Distinguishing Katlang from Other Pink Topaz
+    table:
+      headers:
+        - Property
+        - Katlang (Cr-coloured)
+        - Irradiated Pink Topaz
+        - Mn-Coloured Pink Topaz
+      rows:
+        - ["Chromophore", "Cr³⁺", "Colour centres (radiation)", "Mn³⁺"]
+        - ["Absorption spectrum", "Cr bands (~550 nm, ~670 nm)", "Different band pattern", "Mn band (~490 nm)"]
+        - ["Chelsea filter", "Reddish (Cr response)", "Inert or faint", "May show weak response"]
+        - ["Stability", "Stable", "May fade in light/heat", "Generally stable"]
+        - ["Origin", "Pakistan only (major source)", "Any country's colourless topaz", "Various sources"]
+        - ["Treatment", "Natural colour", "Treated", "Natural"]
+
+  - title: Chromium in Topaz
+    callout:
+      type: info
+      title: A Rare Chromophore
+      text: |
+        Chromium colouring is extremely rare in topaz. Most natural pink topaz owes its
+        colour to colour centres created by natural irradiation, which are unstable and
+        may fade on exposure to light or heat. Katlang topaz is one of very few localities
+        in the world producing topaz coloured by actual Cr³⁺ substitution into the lattice.
+
+        This makes Katlang material among the most scientifically interesting topaz types
+        and means it will not fade under normal wearing conditions — a practical advantage
+        over irradiation-treated pink topaz.
+
+  - title: Physical Properties
+    content: |
+      Properties of Katlang topaz:
+
+      - **Species formula**: Al₂SiO₄(F,OH)₂; orthorhombic; biaxial positive
+      - **RI**: 1.619–1.627 (α), 1.620–1.628 (β), 1.627–1.636 (γ); birefringence ~0.008–0.010
+      - **SG**: ~3.49–3.57
+      - **Hardness**: 8 (Mohs)
+      - **Note**: Gübelin et al. noted the F/OH ratio variation at Katlang affects
+        measured RI and optic axial angle compared to typical high-F topaz values
+
+sources:
+  - doi: "10.5741/gems.22.3.140"
+    citation: "Gübelin, Graziani & Kazmi (1986) Pink Topaz from Pakistan. Gems & Gemology."
+  - doi: "10.15506/jog.1985.19.8.664"
+    citation: "Spengler (1985) The Katlang Pink Topaz Mine, North West Frontier Province, Pakistan. Journal of Gemmology."

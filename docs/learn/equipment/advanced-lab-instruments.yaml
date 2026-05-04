@@ -1,0 +1,261 @@
+title: Advanced Laboratory Instruments
+description: Diploma-level awareness of FTIR, UV-Vis-NIR, Raman, EDXRF, LA-ICP-MS, and photoluminescence spectroscopy — what each detects and its key gemmological applications.
+order: 12
+category: equipment
+difficulty: advanced
+icon: flask
+related:
+  - equipment/spectroscope
+  - equipment/diamond-screening
+  - equipment/overview
+  - identification/treatments
+tags:
+  - equipment/advanced-lab
+  - FTIR
+  - Raman
+  - EDXRF
+  - LA-ICP-MS
+  - photoluminescence
+  - origin-determination
+  - treatment-detection
+
+sections:
+  - title: Introduction
+    content: |
+      This page covers the five principal advanced laboratory instruments encountered at Diploma
+      level. Students need awareness-depth knowledge only: what each instrument detects, its key
+      gemmological applications, and its cost and availability constraints. Operational training
+      is outside the scope of the FGA examination.
+
+      These instruments are available at major gem laboratories (GIA, Gübelin, SSEF, Gem-A
+      Laboratory, AGL) and increasingly at larger trade houses. They are not field instruments.
+
+  - title: FTIR Spectroscopy
+    content: |
+      **Fourier Transform Infrared (FTIR) spectroscopy** irradiates the sample with a broadband
+      infrared beam — mid-IR (~4000–400 cm⁻¹) or near-IR (~10000–4000 cm⁻¹). Chemical bonds
+      absorb IR radiation at characteristic frequencies; the resulting absorption pattern identifies
+      molecular functional groups and crystal lattice vibrations.
+
+      FTIR is the primary tool for detecting **filler substances**, **polymer impregnation**, and
+      **diamond nitrogen aggregation states** at major gem laboratories.
+    subsections:
+      - title: Key Gemmological Applications
+        content: |
+          - **Emerald oil and resin detection:** Natural fractures in emerald are commonly filled
+            with cedar oil, synthetic resins (Opticon), or epoxy. Each filler produces
+            characteristic IR absorption peaks distinct from the host beryl spectrum. Kiefert
+            et al. (2000) demonstrated that FTIR identifies the filler type (oil vs resin vs epoxy)
+            by peak position: Journal of Gemmology 26, 501–520 (DOI: 10.15506/jog.1999.26.8.501)
+            [VERIFIED].
+
+          - **Jadeite polymer treatment (Type B jade):** Bleached and polymer-impregnated jadeite
+            shows characteristic C–H and C=O absorption bands in the mid-IR that are absent in
+            untreated (Type A) jadeite. Tan et al. (2013) confirmed FTIR distinguishes treated from
+            untreated jade: COSMOS journal (DOI: 10.1142/s0219607713500031) [VERIFIED].
+
+          - **Diamond type classification:** FTIR distinguishes Type Ia (nitrogen in aggregates —
+            A and B centres), Type Ib (isolated nitrogen), Type IIa (nitrogen-free), and Type IIb
+            (boron-bearing, electrically conductive) by nitrogen absorption features in the mid-IR
+            one-phonon region (~1000–1300 cm⁻¹). Type IIa diamonds lack nitrogen absorptions and
+            are more likely candidates for HPHT treatment or CVD synthesis — triggering further
+            investigation.
+
+          - **Heat treatment indicator in sapphire:** Delaunay (2024) showed that the 3232 cm⁻¹
+            FTIR band provides new insights for identifying heat treatment in metamorphic-type blue
+            sapphires: Journal of Gemmology 39(1) (DOI: 10.15506/jog.2024.39.1.33) [VERIFIED].
+    callout:
+      type: info
+      title: Cost and Availability
+      text: |
+        FTIR spectrometers cost approximately £10,000–£60,000 new. Available at all major gem
+        laboratories and many university mineralogy departments. Portable FTIR instruments exist
+        (ATR attachment) but results are less reliable than transmission or reflectance modes.
+        Not a field instrument.
+
+  - title: UV-Vis-NIR Spectrophotometry
+    content: |
+      **UV-Vis-NIR spectrophotometry** records absorption across the ultraviolet (~200–400 nm),
+      visible (~400–700 nm), and near-infrared (~700–2500 nm) spectrum with high wavelength
+      resolution and quantitative transmission data.
+
+      It identifies **chromophores** and quantifies their concentrations more precisely than the
+      desk spectroscope. It can detect colour-related treatments and provide origin indicators.
+    subsections:
+      - title: Key Gemmological Applications
+        content: |
+          - **Beryllium-diffused sapphire detection:** Emmett et al. (2003) described UV-Vis-NIR
+            signatures associated with beryllium diffusion — the process causes orange colouration
+            in corundum through Fe³⁺–O²⁻ charge transfer bands in the UV, producing a reduction
+            in blue absorption and strengthening of an absorption feature near 390 nm: Gems &
+            Gemology 39(2), 84–135 (DOI: 10.5741/gems.39.2.84) [VERIFIED]. Be diffusion is
+            confirmed definitively only by LA-ICP-MS (see below) — UV-Vis-NIR provides supporting
+            evidence.
+
+          - **Chromophore quantification:** Distinguishes iron-coloured from chromium-coloured
+            stones by the shape and position of absorption bands; quantifies relative contributions
+            of Fe²⁺, Fe³⁺, Cr³⁺, and IVCT mechanisms.
+
+          - **Origin indicators:** The relative intensities of iron absorption bands in sapphire
+            correlate with geological source (basaltic vs metamorphic origin) when combined with
+            trace element data.
+    callout:
+      type: info
+      title: Cost and Availability
+      text: |
+        UV-Vis-NIR instruments range from £5,000 (UV-Vis only) to £30,000+ (full NIR range).
+        Available at major gem laboratories. Some universities provide access for gemmological
+        research. Requires polished, clean surfaces for reliable transmission measurements.
+
+  - title: Raman Spectroscopy
+    content: |
+      **Raman spectroscopy** uses laser excitation (typically 532 nm or 785 nm) to generate
+      inelastic light scattering (Raman shift). The frequency shifts are characteristic of
+      molecular bond vibrations and lattice phonon modes, providing a unique molecular fingerprint.
+
+      Raman is **non-destructive** and can be performed through glass or immersion media using a
+      confocal micro-probe — making it ideal for inclusion identification without opening cavities
+      or damaging the host.
+    subsections:
+      - title: Key Gemmological Applications
+        content: |
+          - **Inclusion identification without destruction:** The Raman spectrum of a solid inclusion
+            (calcite, apatite, rutile, zircon, pyrite) inside a gemstone can be measured through the
+            host stone using a confocal Raman micro-probe. Nassau (1981) was among the earliest to
+            demonstrate "Raman Spectroscopy as a Gemstone Test": Journal of Gemmology 17(5), 306–320
+            (DOI: 10.15506/jog.1981.17.5.306) [VERIFIED].
+
+          - **Filler identification in emerald:** Kiefert et al. (2000) used both IR and Raman to
+            identify filler substances in emeralds; Raman provides complementary data to FTIR for
+            distinguishing oil types (DOI: 10.15506/jog.1999.26.8.501).
+
+          - **Jade species determination:** Raman spectra of nephrite and jadeite are distinct; Tan
+            et al. (2013) confirmed Raman and FTIR together reliably separate the two jade species
+            (DOI: 10.1142/s0219607713500031).
+
+          - **Rapid portable screening:** Tsai et al. (2023) reported rapid gem mineral
+            identification using portable Raman: Journal of Raman Spectroscopy
+            (DOI: 10.1002/jrs.6518) [VERIFIED].
+    callout:
+      type: info
+      title: Cost and Availability
+      text: |
+        Confocal Raman micro-probe instruments: £30,000–£150,000. Portable handheld Raman
+        instruments: £5,000–£20,000 (reduced sensitivity). Strong fluorescence from organic
+        treatments or dyes can overwhelm the Raman signal in some stones. Requires a reference
+        spectral database for identification.
+
+  - title: EDXRF and LA-ICP-MS (Trace Element Analysis)
+    content: |
+      These two complementary techniques provide elemental analysis for **origin fingerprinting**
+      and **treatment detection**. They are the workhorses of modern origin determination
+      at major gem laboratories.
+    subsections:
+      - title: EDXRF — Non-Destructive Elemental Survey
+        content: |
+          **Energy-Dispersive X-ray Fluorescence (EDXRF):** An X-ray beam causes emission of
+          characteristic secondary X-rays from elements in the sample, providing non-destructive
+          elemental analysis down to ppm levels for elements with atomic number ≥ 11 (sodium).
+
+          - Non-destructive; no sample preparation required.
+          - Cannot detect elements below atomic number ~11 in standard configurations.
+          - **Cannot detect beryllium (atomic number 4)** — this is a critical limitation for
+            Be-diffusion treatment detection; only LA-ICP-MS can routinely detect Be.
+          - Schmetzer et al. (2009) used EDXRF for gem corundum origin fingerprinting: Gems &
+            Gemology 45(4), 264 (DOI: 10.5741/gems.45.4.264) [VERIFIED].
+
+      - title: LA-ICP-MS — Ultra-Trace Element Fingerprinting
+        content: |
+          **Laser Ablation Inductively Coupled Plasma Mass Spectrometry (LA-ICP-MS):** A laser
+          micro-beam ablates a tiny spot (10–100 µm); the ablated material is carried into an ICP
+          plasma and analysed by mass spectrometry, providing trace and ultra-trace element data
+          to ppb levels. Micro-destructive — leaves a tiny ablation pit.
+
+          - **Origin fingerprinting in corundum:** Basaltic-origin sapphires (Australia,
+            Thailand/Cambodia, Nigeria) have high Fe (>5000 ppm), high Ga/Al ratios, and are
+            essentially Cr-free. Metamorphic-origin sapphires (Kashmir, Sri Lanka, Myanmar) have
+            lower Fe, measurable Cr, higher Mg, and lower Ga. Sutherland et al. (2014) advanced
+            trace element fingerprinting for gem corundum using LA-ICP-MS and EDXRF: Minerals
+            5(1) (DOI: 10.3390/min5010061) [VERIFIED].
+          - **Beryllium detection:** Only LA-ICP-MS can routinely detect Be (atomic number 4),
+            making it the definitive test for Be diffusion treatment. Emmett et al. (2003) confirmed
+            this (DOI: 10.5741/gems.39.2.84).
+          - **Limitation:** Requires certified reference materials for calibration; results
+            depend on reference database quality for origin assignment.
+    callout:
+      type: info
+      title: Cost and Availability
+      text: |
+        EDXRF: £15,000–£100,000. LA-ICP-MS: £150,000–£500,000. Origin determination using these
+        techniques is performed primarily by GIA, Gübelin, SSEF, and the Gem-A Laboratory. Neither
+        instrument provides geographic origin assignment alone — statistical comparison against a
+        reference database of stones of known provenance is required.
+
+  - title: Photoluminescence at 77 K
+    content: |
+      **Photoluminescence (PL) spectroscopy** uses a laser to excite electronic transitions in the
+      sample. The emitted luminescence spectrum reveals specific defect centres and impurities.
+
+      Cooling to liquid-nitrogen temperature (**77 K**) dramatically narrows spectral lines,
+      resolving features that overlap at room temperature. PL at 77 K is used principally for
+      **diamond** identification and treatment detection.
+    subsections:
+      - title: Key Diamond Applications
+        content: |
+          - **HPHT-treated Type IIa diamonds:** HPHT treatment converts brown Type Ia diamonds to
+            near-colourless Type IIa stones by dissolving nitrogen aggregates. At 77 K, PL reveals
+            the presence or absence of the **637 nm NV⁰ centre** (neutral nitrogen-vacancy) and the
+            **575 nm NV⁻ centre** (negatively charged NV). Lim et al. (2010) demonstrated
+            discrimination between natural and HPHT-treated Type IIa diamonds using PL: Diamond and
+            Related Materials 19(10), 1254–1258 (DOI: 10.1016/j.diamond.2010.06.007) [VERIFIED].
+
+          - **CVD synthetic diamond:** Willems et al. (2011) explored luminescent regions in CVD
+            synthetic diamond using PL — CVD diamonds show characteristically different luminescence
+            patterns related to their growth sectors: Gems & Gemology 47(3), 202–207
+            (DOI: 10.5741/gems.47.3.202) [VERIFIED].
+
+          - **H3 and NV centre discrimination:** The presence of H3 (504 nm), NV⁻ (637 nm), and
+            their relative intensities at 77 K can distinguish HPHT-treated from natural fancy-colour
+            diamonds. Natural Type IIa diamonds have a characteristic PL signature distinct from
+            HPHT-treated Type Ia stones.
+    callout:
+      type: warning
+      title: Specialist Laboratory Equipment Only
+      text: |
+        Photoluminescence at 77 K requires liquid nitrogen and a purpose-built cryogenic stage,
+        costing £50,000–£200,000. This technique is not available outside major gem laboratories
+        (GIA, Gübelin, SSEF, Gem-A Laboratory). Results require expert interpretation and
+        comparison against reference databases. Not applicable to most coloured stones — it is
+        primarily a diamond tool.
+
+  - title: Sources
+    content: |
+      **Key citations for this topic:**
+
+      - Smith, B. et al. (2000). "Identification of filler substances in emeralds by IR and Raman."
+        *Journal of Gemmology* 26, 501–520. DOI: 10.15506/jog.1999.26.8.501 [VERIFIED]
+      - Kiefert, L. et al. (2000). Same as above (Kiefert is a co-author in the original Smith et
+        al. G&G citation).
+      - Tan, T. L. et al. (2013). "Nephrite and jadeite by FTIR and Raman." *COSMOS*.
+        DOI: 10.1142/s0219607713500031 [VERIFIED]
+      - Delaunay (2024). "Heat Treatment in Metamorphic-type Blue Sapphires FTIR." *Journal of
+        Gemmology* 39(1). DOI: 10.15506/jog.2024.39.1.33 [VERIFIED]
+      - Emmett, J. L. et al. (2003). "Beryllium Diffusion of Ruby and Sapphire." *Gems &
+        Gemology* 39(2), 84–135. DOI: 10.5741/gems.39.2.84 [VERIFIED]
+      - Nassau, K. (1981). "Raman Spectroscopy as a Gemstone Test." *Journal of Gemmology*
+        17(5), 306–320. DOI: 10.15506/jog.1981.17.5.306 [VERIFIED]
+      - Tsai et al. (2023). "Rapid gemstone mineral identification using portable Raman."
+        *Journal of Raman Spectroscopy*. DOI: 10.1002/jrs.6518 [VERIFIED]
+      - Sutherland, F. et al. (2014). "Trace Element Fingerprinting of Gem Corundum." *Minerals*
+        5(1). DOI: 10.3390/min5010061 [VERIFIED]
+      - Schmetzer, K. et al. (2009). *Gems & Gemology* 45(4), 264.
+        DOI: 10.5741/gems.45.4.264 [VERIFIED]
+      - Guillong et al. (2008). *Geostandards and Geoanalytical Research*.
+        DOI: 10.1111/j.1751-908X.2008.00875.x [VERIFIED]
+      - Lim, H. et al. (2010). "Discrimination of natural vs HPHT-treated Type IIa diamonds by PL."
+        *Diamond and Related Materials* 19(10), 1254–1258.
+        DOI: 10.1016/j.diamond.2010.06.007 [VERIFIED]
+      - Willems, B. et al. (2011). "Luminescent Regions in CVD Synthetic Diamond." *Gems &
+        Gemology* 47(3), 202–207. DOI: 10.5741/gems.47.3.202 [VERIFIED]
+      - Hainschwang, T. et al. (2012). *Gems & Gemology* 48(4), 252.
+        DOI: 10.5741/gems.48.4.252 [VERIFIED]

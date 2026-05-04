@@ -1,0 +1,157 @@
+title: Thai Ruby — Chanthaburi-Trat and Bo Rai Types
+description: Basaltic-hosted Siam ruby from Chanthaburi-Trat and Bo Rai; diagnostic high-Fe chemistry, 451/460/470 nm iron triplet, weak fluorescence, alluvial habit.
+order: 2
+category: origin
+subcategory: thailand
+difficulty: advanced
+icon: gem
+related:
+  - origin/thailand/overview
+  - origin/burma/ruby
+  - origin/cambodia
+  - origin/east-africa/ruby
+  - species/corundum
+tags:
+  - thailand
+  - ruby
+  - chanthaburi
+  - trat
+  - bo-rai
+  - basaltic
+  - corundum
+  - siam-ruby
+
+sections:
+  - title: Introduction
+    content: |
+      Thai ruby from the Chanthaburi-Trat province and adjacent Bo Rai (Trat Province)
+      represents the classic "Siam ruby" of the gem trade. All Thai ruby is basalt-hosted:
+      gems crystallised at mantle depth and were transported to the surface in alkali
+      basalt magmas, concentrating in alluvial placers. The high-iron basaltic environment
+      distinguishes Thai ruby sharply from low-iron marble-hosted Mogok material.
+
+  - title: Colour and Appearance
+    content: |
+      Characteristic appearance of Thai basaltic ruby:
+    subsections:
+      - title: Colour
+        content: |
+          - **Hue**: Red to slightly purplish-red; often darker than Mogok material
+          - **Brownish modifier**: Common due to high iron content; iron absorbs in the
+            blue-green region and shifts the colour toward brownish-red
+          - **Saturation**: High in fine material but rarely achieves the vivid "pigeon
+            blood" quality of Mogok ruby
+          - **Fluorescence response**: Colour appears dull or dead under UV — iron
+            strongly quenches chromium fluorescence
+
+      - title: Transparency and Cut
+        content: |
+          - Typically water-worn, rounded alluvial pebbles — evidence of secondary deposit
+          - Variable clarity; extensive rutile silk common
+          - Most commercial material is heat-treated to improve colour and clarity
+
+  - title: The Iron Absorption Triplet
+    callout:
+      type: info
+      title: Diagnostic UV-Vis Feature
+      text: |
+        The single most important spectroscopic diagnostic for Thai and Cambodian basaltic
+        ruby is the IRON ABSORPTION TRIPLET at approximately 451, 460, and 470 nm.
+
+        These three closely spaced bands in the blue-violet region arise from Fe²⁺–Ti⁴⁺
+        intervalence charge transfer and Fe–Fe interactions in the high-iron corundum lattice.
+        The triplet is VERY STRONG in basaltic ruby and produces the characteristic brownish
+        undertone by absorbing blue light. It is ABSENT or very weak in marble-hosted
+        (Mogok, Vietnam, Kashmir) material.
+
+  - title: Diagnostic Inclusions
+    table:
+      headers:
+        - Inclusion
+        - Description
+        - Significance
+      rows:
+        - ["Zircon crystals", "Common; often with radiation damage tension halos", "Basaltic parentage marker"]
+        - ["Ilmenite", "Manganiferous; black opaque", "High-Fe basaltic environment"]
+        - ["Enstatite", "Silica-rich; pyroxene group", "Diagnostic for xenolith-origin basaltic ruby"]
+        - ["Alkali feldspar", "White to colourless inclusions", "Deep crustal/mantle xenolith suite"]
+        - ["Almandine-pyrope garnet", "Rounded crystals", "Xenolith association"]
+        - ["Sapphirine", "Blue-green; rare but diagnostic", "High-P basaltic xenolith environment"]
+        - ["Biotite-phlogopite mica", "Brown platelets", "Basaltic mantle xenolith"]
+        - ["Rutile silk", "Coarse, irregular networks", "Differs from fine Mogok silk"]
+        - ["Calcite / apatite / sphene", "ABSENT", "Presence would indicate marble-hosted origin"]
+
+  - title: Inclusions Note
+    callout:
+      type: tip
+      title: What Is Absent Is As Diagnostic As What Is Present
+      text: |
+        The ABSENCE of marble-suite inclusions (calcite, apatite, sphene, pargasite) is
+        as diagnostic as the presence of basalt-suite minerals. If calcite rhombs are seen
+        in a red corundum, a marble-hosted origin (Mogok, Vietnam, Pakistan) must be considered.
+
+  - title: Origin Determination Criteria
+    content: |
+      Laboratory criteria for confirming Thai basaltic ruby origin:
+    subsections:
+      - title: Chemical Criteria (LA-ICP-MS)
+        content: |
+          - **Fe content**: High (>600 ppm; often >1,000 ppm) — primary criterion
+          - **Fe/Cr ratio**: High relative to marble-hosted ruby
+          - **Ga/Mg**: Basaltic sapphire signature; specific ratio differs from marble-hosted
+          - **Low Cr relative to Fe**: Weak chromium signal suppressed by high iron
+
+      - title: Optical / Spectroscopic Criteria
+        content: |
+          - Very strong 451/460/470 nm iron absorption triplet in UV-Vis
+          - LWUV fluorescence: Weak to inert (iron quenches chromium fluorescence)
+            — major contrast with marble-hosted ruby
+          - Chromium doublet at 692/694 nm present but may be accompanied by strong
+            broad iron absorption
+          - Chelsea filter: May appear weakly red (Cr present) but less vividly than
+            Mogok material
+
+      - title: Inclusion Criteria
+        content: |
+          - Basalt-xenolith mineral suite: zircon, ilmenite, enstatite, feldspar, sapphirine
+          - ABSENCE of calcite, apatite, sphene, pargasite
+          - Coarse, irregular rutile networks rather than fine short Mogok-type silk
+
+  - title: Comparison with Mogok Ruby
+    table:
+      headers:
+        - Feature
+        - Thai (Basaltic)
+        - Mogok (Marble-hosted)
+      rows:
+        - ["Fe content", "High (>600–1,000 ppm)", "Low (<300 ppm)"]
+        - ["LWUV fluorescence", "Weak to inert", "Strong red"]
+        - ["451/460/470 nm triplet", "Very strong", "Absent or very weak"]
+        - ["Colour modifier", "Often brownish-red", "Pure red / pigeon blood"]
+        - ["Key inclusions", "Zircon, ilmenite, enstatite", "Calcite, apatite, sphene, silk"]
+        - ["Silk character", "Coarse, irregular networks", "Fine, short rutile needles"]
+        - ["Geological host", "Cenozoic alkali basalt", "Precambrian marble"]
+        - ["Market premium", "Lower", "Highest"]
+
+  - title: Market and Treatment
+    content: |
+      Thai ruby in the modern gem trade:
+
+      - **Heat treatment**: Nearly universal for commercial material; dissolves silk,
+        improves colour; readily accepted and disclosed
+      - **Unheated Thai ruby**: Uncommon; little premium (basaltic character remains diagnostic)
+      - **Market position**: Below Mogok, Mozambique primary; valued for volume supply
+      - **Trade history**: Bo Rai deposits largely exhausted by 1990s; most "Thai ruby"
+        in trade today originates from Cambodia, Vietnam, or East Africa, heated in Thailand
+
+sources:
+  - doi: "10.5741/gems.55.3.354"
+    citation: "Promwongnan & Sutthirat (2019) Mineral Inclusions in Ruby from Bo Welu, Chanthaburi. Gems & Gemology."
+  - doi: "10.5741/gems.18.4.186"
+    citation: "Keller (1982) The Chanthaburi-Trat Gem Field, Thailand. Gems & Gemology."
+  - doi: "10.15506/jog.2019.36.7.634"
+    citation: "Promwongnan & Sutthirat (2019) Mineral Inclusions in Ruby from Bo Rai, Trat Province. Journal of Gemmology."
+  - doi: "10.1016/j.jseaes.2018.07.006"
+    citation: "Sutthirat et al. (2018) Mantle and deep crustal xenoliths in basalts, Bo Rai ruby deposit. Journal of Asian Earth Sciences."
+  - doi: "10.5741/gems.55.4.536"
+    citation: "Palke et al. (2019) Geographic Origin Determination of Blue Sapphire. Gems & Gemology."

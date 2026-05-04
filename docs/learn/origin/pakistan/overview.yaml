@@ -1,0 +1,104 @@
+title: Pakistan — Gem Origins Overview
+description: Himalayan collision zone gem deposits — Swat emerald, Hunza ruby, Katlang topaz, Skardu aquamarine; multiple geological settings.
+order: 1
+category: origin
+subcategory: pakistan
+difficulty: advanced
+icon: gem
+related:
+  - origin/overview
+  - origin/pakistan/emerald
+  - origin/pakistan/ruby
+  - origin/pakistan/topaz
+  - origin/afghanistan/overview
+  - origin/kashmir
+tags:
+  - pakistan
+  - swat
+  - hunza
+  - katlang
+  - skardu
+  - himalayan
+  - origin/pakistan
+
+sections:
+  - title: Introduction
+    content: |
+      Pakistan occupies a key position in the Himalayan collision zone, where the
+      convergence of the Indian and Eurasian plates has produced a diversity of gem
+      deposits unparalleled in a comparable geographic area. Three distinct geological
+      settings host different gem types: marble-hosted corundum in Hunza/Gilgit-Baltistan,
+      talc-carbonate ophiolite-hosted emerald in the Swat Valley, and calcite-vein pink
+      topaz at Katlang. Pegmatitic aquamarine and tourmaline from the Skardu region
+      complete Pakistan's gem portfolio.
+
+  - title: Geological Settings
+    table:
+      headers:
+        - Region
+        - Setting
+        - Principal Gems
+      rows:
+        - ["Hunza / Gilgit-Baltistan", "Marble-hosted corundum (Himalayan suture)", "Ruby, pink sapphire"]
+        - ["Swat Valley (Mingora)", "Talc-carbonate / ophiolite belt (Indus suture)", "Emerald"]
+        - ["Katlang, Mardan", "Calcite veins in recrystallised limestone", "Pink topaz"]
+        - ["Skardu / Shigar, Baltistan", "LCT granitic pegmatites (Karakoram)", "Aquamarine, tourmaline, kunzite"]
+
+  - title: Swat Valley Emerald — Brief Overview
+    content: |
+      - Hosted in carbonatised ultramafic rocks of the Indus suture zone; Cr sourced
+        from ophiolitic chromite
+      - Chromian muscovite and three-phase fluid inclusions are diagnostic
+      - Low Li (<200 ppmw) shared with Colombian and Afghan emerald
+      - See dedicated file: origin/pakistan/emerald
+
+  - title: Hunza Ruby — Brief Overview
+    content: |
+      - Marble-hosted; low-Fe, high-Cr chemistry analogous to Mogok
+      - Strong red LWUV fluorescence; calcite and carbonate inclusions
+      - Small-scale artisanal production; laboratory separation from Mogok requires
+        LA-ICP-MS trace element fingerprinting
+      - See dedicated file: origin/pakistan/ruby
+
+  - title: Katlang Pink Topaz — Brief Overview
+    content: |
+      - Colour caused by trace Cr³⁺ — rare in topaz globally
+      - Chromium colouring is the key diagnostic distinguishing from irradiation-induced
+        pink topaz or Mn-coloured topaz
+      - See dedicated file: origin/pakistan/topaz
+
+  - title: Skardu Aquamarine and Tourmaline
+    content: |
+      Pakistan is one of the world's finest aquamarine sources:
+
+      - **Host**: Granite pegmatites intruding high-grade metamorphic and granitic rocks
+        of the Karakoram; Baltistan and Gilgit-Baltistan produce world-class aquamarine,
+        rubellite, green tourmaline, and kunzite
+      - **Quality**: Skardu-region aquamarine is among the finest globally — typically
+        deeply coloured, large crystals with good clarity
+      - **Origin determination**: No distinctive chemical fingerprint for trade-level
+        origin determination beyond provenance documentation; properties are within the
+        normal species range
+
+  - title: Conflict and Mining
+    callout:
+      type: warning
+      title: Security and Access
+      text: |
+        Security conditions in Khyber Pakhtunkhwa (Swat Valley, Katlang area) have
+        periodically disrupted mining operations. The Swat region experienced significant
+        insurgency in 2007–2009; access for international buyers has been variable.
+        Hunza Valley (Gilgit-Baltistan) is generally more accessible but remains remote.
+
+        Ethical sourcing and chain-of-custody documentation are recommended for high-value
+        Pakistani gems, particularly Swat emeralds.
+
+sources:
+  - doi: "10.5741/gems.56.3.336"
+    citation: "Guo et al. (2020) Inclusion and Trace Element Characteristics of Emeralds from Swat Valley, Pakistan. Gems & Gemology."
+  - doi: "10.2343/geochemj.41.475"
+    citation: "Arif & Moon (2007) Nickel-rich chromian muscovite from the Indus suture ophiolite, NW Pakistan. Geochemical Journal."
+  - doi: "10.5741/gems.22.3.140"
+    citation: "Gübelin, Graziani & Kazmi (1986) Pink Topaz from Pakistan. Gems & Gemology."
+  - doi: "10.5741/gems.46.3.188"
+    citation: "Shigley et al. (2010) Gem Localities of the 2000s. Gems & Gemology."

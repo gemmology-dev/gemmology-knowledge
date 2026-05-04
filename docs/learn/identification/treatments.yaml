@@ -1,5 +1,5 @@
 title: Gemstone Treatments
-description: Heat treatment, filling, diffusion, coating, and detection methods for treated gemstones.
+description: Heat treatment, filling, diffusion, coating, and detection methods for treated gemstones — with per-species diagnostic depth.
 order: 5
 category: identification
 difficulty: intermediate
@@ -10,6 +10,10 @@ related:
   - market/professional-practice
   - care/gem-care-durability
   - species/diamond
+  - identification/treatments-deep/beryllium-diffusion
+  - identification/treatments-deep/lead-glass-ruby
+  - identification/treatments-deep/hpht-diamond
+  - identification/treatments-deep/cvd-diamond
 tags:
   - heat-treatment
   - market/disclosure
@@ -27,13 +31,14 @@ sections:
       title: Disclosure Requirement
       text: |
         All gemstone treatments must be disclosed at the point of sale. Major laboratories
-        (GIA, Gubelin, SSEF) provide treatment reports. Undisclosed treatments are
-        considered fraudulent.
+        (GIA, Gübelin, SSEF) provide treatment reports. Undisclosed treatments are
+        considered fraudulent in most jurisdictions.
 
-  - title: Heat Treatment
+  - title: Heat Treatment of Corundum
     content: |
-      The most common treatment, heat treatment permanently alters colour and clarity
-      by modifying the chemical state of chromophores or dissolving silk inclusions.
+      The most common treatment. Heat permanently alters colour and clarity by modifying
+      chromophore chemistry or dissolving silk inclusions. Plain heating (H) and flux-assisted
+      heating with borax (H(a)) are now classified separately by Gem-A and major laboratories.
     table:
       caption: Common Heat Treatments
       headers:
@@ -41,182 +46,413 @@ sections:
         - Effect
         - Temperature Range
       rows:
-        - ["Blue sapphire", "Improves blue colour, dissolves silk", "1400-1800°C"]
-        - ["Ruby", "Improves red colour, dissolves silk", "1200-1800°C"]
-        - ["Tanzanite", "Changes brown to blue-violet", "450-650°C"]
-        - ["Aquamarine", "Removes green tint (yellow component)", "400-450°C"]
-        - ["Citrine", "Heat-treated amethyst", "450-500°C"]
-        - ["Zircon", "Creates blue colour from brown", "900-1000°C"]
+        - ["Blue sapphire", "Improves blue colour, dissolves silk", "1400–1800 °C"]
+        - ["Ruby", "Improves red colour, dissolves silk", "1200–1800 °C"]
+        - ["Tanzanite", "Changes brown to blue-violet", "450–650 °C"]
+        - ["Aquamarine", "Removes green tint (yellow component)", "400–450 °C"]
+        - ["Citrine", "Heat-treated amethyst", "450–500 °C"]
+        - ["Zircon", "Creates blue colour from brown", "900–1000 °C"]
     subsections:
-      - title: Detection Signs
+      - title: Diagnostic Inclusion Changes (Darkfield 40–60×)
         content: |
-          - Dissolved or partially dissolved silk (dotted lines)
-          - Stress fractures around solid inclusions
-          - Altered/melted inclusions
-          - "Halo" fractures around zircon crystals
-          - Colour concentrations along fractures
-          - Altered absorption spectrum
+          - **Dissolved silk** — rutile needles partially resorbed; appear as dotted trails
+            or "fingerprint" remnants along former needle orientation; diagnostic for heat
+            above 1400 °C
+          - **Discoid (halo) fractures** — disc-shaped stress fractures around zircon,
+            apatite, or calcite inclusions from thermal expansion; highly diagnostic for
+            heat above 1600 °C
+          - **Flux residue droplets** — colourless rounded glass blebs at fracture mouths
+            (borax); show anomalous birefringence under crossed polars; diagnostic for
+            H(a) flux-healing treatment
+          - **Partially healed fractures** — feathered, partially recrystallised fractures
+            with residual fluid inclusions; distinct from natural growth features
 
-  - title: Fracture Filling
+      - title: FTIR Evidence for Unheated Sapphire
+        content: |
+          Goethite (dehydrates 300–325 °C) and diaspore (dehydrates 525–550 °C) have
+          diagnostic OH absorption peaks at ~3300–3400 cm⁻¹ that vanish on heating.
+          Their absence in stones from origins known to contain them is strong evidence
+          for heat treatment (Krzemnicki et al. 2023, 10.3390/min13121557, [VERIFIED]).
+
+          A 3232 cm⁻¹ FTIR band identifies heat-treated metamorphic-type blue sapphires
+          (Delaunay 2024, 10.15506/jog.2024.39.1.33, [VERIFIED]).
+
+      - title: Disclosure Status
+        content: |
+          - **H (plain heat)**: widely accepted; CIBJO and Gem-A require disclosure but value
+            impact is minimal for corundum
+          - **H(a) (flux/fracture healing)**: must be disclosed separately; value impact
+            is greater; GIA and Gem-A treat this as distinct from simple heating
+          - "No evidence of heat treatment" (NTE) on a laboratory report commands a
+            significant premium; verify by the inclusion criteria above
+
+  - title: Beryllium Diffusion — Lattice Diffusion (Sapphire)
     content: |
-      Surface-reaching fractures are filled with glass, oil, or resin to improve
-      apparent clarity. This treatment requires special care in handling.
-    table:
-      caption: Types of Fillers
-      headers:
-        - Filler Type
-        - Gemstone
-        - Stability
-      rows:
-        - ["Oil (cedar oil)", "Emerald", "Can dry out over time"]
-        - ["Opticon/resin", "Emerald", "More stable than oil"]
-        - ["Lead glass", "Ruby, Sapphire", "Damaged by heat, acids"]
-        - ["Polymer resins", "Various", "Variable"]
-    subsections:
-      - title: Detection Signs
-        content: |
-          - Flash effect (orange/blue flashes in fractures)
-          - Gas bubbles in filler
-          - Flow structures
-          - Different RI in filled areas
-          - Blue glow under UV (some resins)
-
-  - title: Lead Glass-Filled Rubies
+      Commercialised around 2001. Beryllium (Be²⁺) ions diffuse through the full corundum
+      lattice at 1700–1800 °C producing intense orange, yellow, or padparadscha colours.
+      Distinct from titanium surface diffusion in penetration depth.
     callout:
-      type: error
-      title: Lead Glass-Filled Rubies
+      type: warning
+      title: Standard Tools Are Insufficient
       text: |
-        Heavily fractured, low-quality ruby is sometimes filled with high-RI lead glass.
-        These stones can contain more glass than ruby and are extremely fragile. They
-        are damaged by heat, ultrasonic cleaning, and even lemon juice.
+        Beryllium diffusion cannot be reliably detected by standard gem-testing instruments.
+        LA-ICP-MS or SIMS is required for a definitive result. All corundum sold as
+        padparadscha or vivid-orange sapphire should carry a laboratory report.
 
-  - title: Diffusion Treatment
+        Full detection protocol: see Deep Reference — Beryllium Diffusion.
+    subsections:
+      - title: Process Overview
+        content: |
+          Rough is packed in BeO or chrysoberyl powder and fired at 1700–1800 °C in an
+          oxidising atmosphere for 12–100 hours. Be²⁺ (ionic radius 0.27 Å) penetrates
+          the full lattice, unlike Ti or Cr which remain within ~50–100 µm of the surface.
+          Colour is **lattice-deep** — re-cutting does not remove it.
+
+          Sources: Emmett et al. 2003 (10.5741/gems.39.2.84, [VERIFIED]);
+          Emmett et al. 2023 (10.5741/gems.59.3.268, [VERIFIED])
+
+      - title: Key Detection Points
+        content: |
+          - **10× loupe**: colour may appear suspiciously homogeneous; immersion spider-web
+            is faint (if present) — less pronounced than Ti surface diffusion
+          - **LA-ICP-MS**: Be >1–2 ppm in orange/yellow corundum is diagnostic; natural
+            corundum contains <0.1 ppm Be
+          - **SIMS**: diffusion gradient (high at surface, declining inward) confirms treatment
+          - **Stability**: permanent; colour survives repolishing, ultrasonic, and steam
+          - **Disclosure**: AGTA code U; GIA reports "lattice diffusion — beryllium present"
+
+  - title: Surface Diffusion vs Lattice Diffusion — The Depth Distinction
     content: |
-      Elements are diffused into the stone at high temperatures to alter colour.
-      This can be shallow (surface) or deep (lattice diffusion).
+      The critical diagnostic difference between titanium surface diffusion (Ti, pre-2001,
+      now rare) and beryllium lattice diffusion is colour penetration depth and the resulting
+      immersion microscopy appearance.
     table:
-      caption: Types of Diffusion
+      caption: Surface vs Lattice Diffusion — Key Differences
       headers:
-        - Type
-        - Element
-        - Result
+        - Property
+        - Ti Surface Diffusion
+        - Be Lattice Diffusion
       rows:
-        - ["Surface diffusion", "Titanium (Ti)", "Blue colour in sapphire (shallow)"]
-        - ["Lattice diffusion", "Beryllium (Be)", "Orange/yellow/pink sapphire (deep)"]
-        - ["Lattice diffusion", "Cobalt (Co)", "Blue glass-filled stones"]
+        - ["Penetration depth", "50–100 µm (skin only)", "Full lattice depth (mm scale)"]
+        - ["Immersion spider-web pattern", "Strongly visible under darkfield", "Faint or absent"]
+        - ["Re-cutting effect", "Removes colour on any recut facet", "No effect on colour"]
+        - ["Definitive detection", "Immersion microscope (practical)", "LA-ICP-MS / SIMS required"]
+        - ["Stability", "Fragile to repolishing", "Permanent"]
+        - ["AGTA code", "U", "U"]
+    subsections:
+      - title: Spider-Web Test (Ti Surface Diffusion)
+        content: |
+          Immerse the stone in di-iodomethane (or water) and observe under darkfield illumination
+          at 40–60× magnification. In titanium surface-diffused sapphire, colour accumulates as
+          a visible network following facet edges — the "spider-web". Where two surfaces meet,
+          the diffused zone doubles in thickness and appears darker.
+
+          Scratches, chips, or abrasions on facets will expose colourless material beneath.
+          Any repolishing through a facet removes colour entirely from that facet.
+
+          Source: Kane et al. 1990 (10.5741/gems.26.2.115, [VERIFIED])
+
+  - title: Fracture Filling of Emerald
+    content: |
+      Emeralds typically contain abundant surface-reaching fractures ("jardin"). Cedar oil
+      (RI ~1.51) and Opticon resin (RI ~1.55) are the most common fillers. They are detected
+      by the flash effect under darkfield and FTIR spectroscopy.
     subsections:
       - title: Detection Methods
-        content: |
-          - **Surface diffusion**: Immersion reveals colour concentration along facet edges and girdle
-          - **Beryllium diffusion**: LIBS or LA-ICP-MS analysis required for definitive detection
-          - Colour distribution patterns may indicate treatment
+        table:
+          caption: Emerald Fracture Filling Detection
+          headers:
+            - Method
+            - Finding
+          rows:
+            - ["10× loupe, reflected light", "Lustre difference at fracture mouths; slightly vitreous vs adamantine"]
+            - ["Darkfield microscope (40×) — flash effect", "Orange/yellowish-orange iridescent flash at filler–crystal interface when tilted (primary in-lab test)"]
+            - ["Gas bubbles / flow structures", "Spherical bubbles or swirling patterns in polymer; absent in natural fluid inclusions"]
+            - ["UV fluorescence (LWUV/SWUV)", "Opticon and resins: chalky-blue or yellowish-green glow; cedar oil: negligible fluorescence"]
+            - ["FTIR spectroscopy", "Resins: C–H stretching ~3000–3050 cm⁻¹; C=O stretching ~1700–1730 cm⁻¹; unfilled emerald shows no organic absorptions — definitive"]
 
-  - title: Coating and Surface Treatments
+          Source: Kammerling et al. 1991 (10.5741/gems.27.2.70, [VERIFIED])
+
+      - title: LMHC Fracture-Fill Disclosure Scale
+        content: |
+          The Laboratory Manual Harmonisation Committee (LMHC) has established a harmonised
+          grading scale for emerald fracture filling [PARTIALLY_SUPPORTED — institutional document;
+          not API-retrievable as peer-reviewed paper; cite via https://www.lmhc-gemmology.org]:
+
+          - **F1 (None)**: no filler; unfilled stone
+          - **F2 (Minor/Insignificant)**: trace filler; no material effect on appearance
+          - **F3 (Moderate)**: filler clearly present; requires disclosure
+          - **F4 (Significant)**: substantial filling; strongly impacts apparent clarity
+          - **F5 (Prominent/Prominent+)**: extreme filling; stone may approach composite character
+
+          Cedar oil at minor level is widely accepted but Gem-A and CIBJO now require disclosure
+          of all fillings. Polymer (Opticon, epoxy) filling always requires disclosure.
+
+      - title: Stability and Care
+        content: |
+          - **Cedar oil**: temporary; dries out over months to years; avoid ultrasonic, steam, solvents
+          - **Opticon/epoxy**: more stable; dissolved by acetone, alcohol; avoid ultrasonic, torch
+          - Advise all clients to avoid ultrasonic, steam, and alcohol-based cleaners for filled emeralds
+
+  - title: Lead Glass-Filled Ruby (Composite Ruby)
+    callout:
+      type: error
+      title: Composite Ruby — Distinct from Treated Ruby
+      text: |
+        Heavily fractured low-quality corundum filled with high-lead-content glass (PbO 70–95%)
+        is a composite material. CIBJO and GIA require the term "composite ruby" or "glass-filled
+        ruby" — not "treated ruby" or "enhanced ruby". Stones can contain more glass than ruby.
+
+        Damage agents: jeweller's torch, dilute acids (lemon juice), ultrasonic, steam.
+
+        Full detection protocol: see Deep Reference — Lead Glass-Filled Ruby.
+    subsections:
+      - title: Key Properties and Detection Summary
+        content: |
+          - **SG**: depressed from natural ruby ~4.00 to composite values as low as 3.60–3.80
+          - **Blue/orange flash effect** (darkfield, 40–60×): vivid blue flash one way, orange
+            flash the other, at the glass–ruby interface — the most reliable in-lab indicator
+          - **Gas bubbles**: spherical bubbles in glass fill; never in natural growth features
+          - **SW UV**: lead glass fluoresces chalky greenish — abnormal for ruby inclusions
+          - **EDXRF**: elevated Pb at surface is diagnostic; non-destructive, rapid
+          - **Acid test (destructive)**: lemon juice etches glass within minutes; corundum unaffected
+
+          Source: McClure et al. 2006 (10.5741/gems.42.1.22, [VERIFIED])
+
+  - title: HPHT Diamond Colour Treatment
+    content: |
+      HPHT annealing (5–6 GPa, 1700–2100 °C) can decolourise brown Type IIa diamonds to
+      near-colourless (D–H) or create fancy colours in other types. Cannot be detected by
+      standard tools — laboratory testing is required.
+    callout:
+      type: info
+      title: Deep Reference Available
+      text: |
+        Full detection protocol, type-by-type outcome table, DiamondView pattern comparison,
+        and photoluminescence signature detail: see Deep Reference — HPHT Diamond Treatment.
+    subsections:
+      - title: Key Signatures
+        content: |
+          - **Absent LWUV blue fluorescence**: ~80% of natural gem diamonds show blue LWUV;
+            HPHT-treated type IIa are typically inert — primary screening trigger
+          - **FTIR**: type IIa signature (no N >5 ppm); 270 nm brown absorption absent after
+            treatment; 1344 cm⁻¹ isolated-N peak may appear in partially decoloured stones
+          - **DiamondView**: cross-hatched or irregular green sectors (modified octahedral growth);
+            distinct from CVD columnar striations
+          - **PL at 77 K**: NV⁻ (637 nm) strong relative to NV⁰ (575 nm) in treated type IIa;
+            H3 (503 nm) may be prominent in type IaB treated stones
+          - **Stability**: permanent; disclose with AGTA code HPHT
+
+          Sources: Fisher & Spits 2000 (10.5741/gems.36.1.42, [VERIFIED]);
+          Eaton-Magana et al. 2017 (10.5741/gems.53.3.262, [VERIFIED])
+
+  - title: CVD Diamond Detection
+    content: |
+      CVD synthetic diamonds grow in columnar layers from carbon-bearing gas plasma at low
+      pressure and 700–1000 °C. They are typically Type IIa and require specialist laboratory
+      tools to distinguish from natural or HPHT-treated stones.
+    callout:
+      type: info
+      title: Deep Reference Available
+      text: |
+        Full detection protocol, comparison table (CVD vs HPHT vs natural), secondary HPHT
+        complication note, and citation for orange-red phosphorescence: see Deep Reference —
+        CVD Diamond Detection.
+    subsections:
+      - title: Key Diagnostic Features
+        content: |
+          - **DiamondView (225 nm SW UV)**: orange-red phosphorescence (diagnostic when present);
+            columnar/striated growth threads — no octahedral growth sectors
+            (Zhang et al. 2024, 10.3390/cryst14090804, [VERIFIED] — resolves VERIFIED.md F-03 flag)
+          - **PL at 77 K**: SiV⁻ doublet at 736.9/736.6 nm characteristic of CVD growth;
+            rarely present in natural or HPHT-treated stones
+          - **FTIR**: Type IIa signature; NV-H (3123 cm⁻¹) in some N-doped CVD samples
+          - **Disclosure**: must be disclosed as "synthetic diamond" or "laboratory-grown diamond";
+            "cultured" or "cultivated" are not acceptable per CIBJO
+
+          Sources: Martineau et al. 2004 (10.5741/gems.40.1.2, [VERIFIED]);
+          Zhang et al. 2024 (10.3390/cryst14090804, [VERIFIED])
+
+  - title: Pearl Colour Treatment
+    content: |
+      Pearl colour treatments include gamma irradiation (darkening the bead nucleus via MnCO₃
+      oxidation) and dyeing with organic dyes or silver nitrate. Irradiated Akoya pearls are
+      the most commercially significant treatment requiring detection.
+    subsections:
+      - title: Gamma Irradiation (Akoya)
+        content: |
+          Pearls are exposed to ⁶⁰Co gamma-ray sources at 0.1–100 kGy. Radiation oxidises
+          MnCO₃ in the bead nucleus to MnO₂ (dark brown/black), creating a dark body colour
+          visible through the nacre. The radiation also denatures conchiolin, detectable by ESR.
+
+          **ESR (Electron Spin Resonance)** detects the CO₂⁻ radical (g-factor 2.001 ± 0.002)
+          from radiation damage to carbonate — the gold-standard diagnostic for irradiation.
+          **LWUV fluorescence**: irradiated Akoya show no/very weak fluorescence (radiation
+          damages conchiolin fluorophore); natural black Tahitian show reddish-pink/red glow.
+          **EDXRF**: elevated Ag = silver-nitrate dye; Mn/Fe nucleus profiling for irradiation.
+          **X-radiography**: dark nucleus in irradiated Akoya vs involvement of nacre and nucleus
+          in naturally dark Tahitian pearls.
+
+          Source: Kim et al. 2012 (10.5741/gems.48.4.292, [VERIFIED])
+
+      - title: Silver Nitrate Dyeing
+        content: |
+          Pearls are immersed in AgNO₃ solution then exposed to H₂S gas or sunlight,
+          precipitating Ag₂S (silver sulphide) in the nacre layers, producing blue-grey to
+          black colour. [PARTIALLY_SUPPORTED — Ag₂S mechanism is established trade knowledge;
+          the specific precipitation chemistry details are not independently confirmed to
+          peer-reviewed paper level at this time; present as trade knowledge.]
+
+          Detection: EDXRF detects elevated Ag; drill-hole inspection shows dye concentration
+          at and around the entry point.
+
+          Source: Karampelas et al. 2007 (10.12681/bgsg.16720, [VERIFIED])
+
+      - title: Disclosure and Stability
+        content: |
+          - **Disclosure**: CIBJO and Gem-A require disclosure of all colour treatments in pearls;
+            irradiated Akoya sold as Tahitian substitutes constitutes fraud
+          - **Irradiation stability**: permanent at normal temperatures; some fading in prolonged
+            strong UV; nucleus darkening is stable
+          - **Organic dyes**: fade in light, heat, sweat, cosmetics; variable stability
+          - **Silver nitrate**: Ag₂S relatively stable; altered by strong reducing agents
+          - Avoid ultrasonic, bleaches, steam for all treated pearls
+
+  - title: Jade Treatments (A-jade, B-jade, C-jade)
+    content: |
+      Jadeite treatments range from traditional waxing (A-jade, accepted) to aggressive
+      bleaching, polymer impregnation (B-jade), and dyeing (C-jade). The A/B/C classification
+      is standard in the trade.
     table:
+      caption: Jadeite Treatment Classification
       headers:
+        - Type
         - Treatment
-        - Description
-        - Detection
+        - Status
       rows:
-        - ["Thin-film coating", "Metallic oxide layer for colour", "Wear marks, different colour in scratches"]
-        - ["Backing", "Foil or paint behind stone", "Visible in mounted stones, immersion"]
-        - ["Waxing", "Surface wax for lustre", "Hot needle test, solvent test"]
-        - ["Dyeing", "Colour added to porous stones", "Colour concentrations, swab test"]
+        - ["A-jade", "Untreated (waxing accepted)", "Natural; highest commercial value"]
+        - ["B-jade", "Bleached in acid + vacuum polymer impregnation", "Treated; must be disclosed"]
+        - ["C-jade", "Dyed (Cr-green or other pigments)", "Treated; must be disclosed"]
+        - ["B+C-jade", "Both bleaching/impregnation and dyeing", "Treated; must be disclosed"]
+    subsections:
+      - title: Detection
+        content: |
+          **B-jade process**: jadeite is immersed in dilute HCl or H₂SO₄ for days to weeks
+          (bleaching), then vacuum-impregnated with epoxy resin (restores structural integrity).
+          The acid permanently damages the interlocking grain structure.
+
+          **Detection methods:**
+          - **10× loupe**: polymer filaments or threads along grain boundaries (reticulate pattern
+            absent in A-jade); C-jade shows colour concentrated in fractures and grain boundaries
+          - **SW UV**: B-jade shows chalky blue fluorescence from polymer; A-jade inert or faint
+            whitish glow
+          - **Chelsea filter**: C-jade (Cr-green dye) reacts red; A-jade (Fe-green) does not
+          - **FTIR (definitive)**: C–H stretching at 2800–3000 cm⁻¹; C=O at ~1700 cm⁻¹;
+            absent in untreated jadeite
+
+          Source: Fritsch et al. 1992 (10.5741/gems.28.3.176, [VERIFIED])
+
+      - title: Disclosure and Stability
+        content: |
+          - **CIBJO**: "jade" without qualification implies A-jade; B and C must specify treatment
+          - **AGTA codes**: B (bleaching), D (dyeing), F (filling) as applicable
+          - **Gem-A**: "treated jadeite" with treatment type specified
+          - B-jade: avoid ultrasonic (acid-damaged matrix permanently weakened); solvents dissolve
+            polymer; C-jade organic dyes may fade in light
+
+  - title: Thin-Film Coating (Mystic Topaz)
+    content: |
+      Colourless topaz is coated with a multilayer TiO₂/SiO₂/Nb₂O₅ thin-film stack by PVD
+      (Physical Vapour Deposition) at low temperatures. The multilayer interference film produces
+      vivid iridescent "rainbow" colours varying with viewing angle.
+
+      [PARTIALLY_SUPPORTED — mystic topaz TiO₂/SiO₂ multilayer PVD specifics are from industry
+      literature; Shigley et al. 2012 (10.5741/gems.48.1.18, [VERIFIED]) confirms the detection
+      principle and coated gem methodology via study of coated CZ (Diamantine).]
+    subsections:
+      - title: Detection and Stability
+        content: |
+          **Detection:**
+          - **10× loupe**: visible chipping or abrasion at facet junctions; underlying colourless
+            topaz visible through scratches
+          - **Angle-dependent colour shift**: colour pattern shifts predictably with angle
+            (thin-film interference) — different from random play-of-colour of precious opal
+          - **Acetone swab (cautious, on pavilion)**: some coatings lift on contact
+          - **EDXRF**: anomalous Ti, Nb, or Si at the surface — topaz itself contains neither
+
+          **Stability:**
+          - Poor wear resistance; coating hardness lower than topaz (Mohs 8);
+            daily wear damages coating at exposed facet edges; avoid ultrasonic, steam, solvents
+          - Disclosure: CIBJO requires "coated"; AGTA code C; GIA: "surface coating present"
 
   - title: Irradiation
     content: |
-      Exposure to radiation (gamma rays, electrons, neutrons) can create or modify colour.
+      Exposure to radiation (gamma rays, electrons, neutrons) creates or modifies colour.
     table:
       headers:
         - Gemstone
         - Starting Colour
         - Result
       rows:
-        - ["Blue topaz", "Colourless", "Blue (followed by heat)"]
+        - ["Blue topaz", "Colourless", "Blue (followed by heat annealing for stability)"]
         - ["Fancy diamond", "Various", "Green, blue, yellow, pink"]
-        - ["Kunzite", "Pink", "Deeper pink (may fade)"]
+        - ["Kunzite", "Pink", "Deeper pink (may fade in light)"]
         - ["Smoky quartz", "Colourless", "Brown/smoky"]
+        - ["Akoya pearl", "Light cream", "Dark grey to black (nucleus darkening)"]
 
-  - title: Treatment Acceptance
+  - title: Quench-Crackling of Quartz
+    callout:
+      type: info
+      title: Confidence C — Citation Gap
+      text: |
+        The process and detection features below are from established gemmological teaching
+        material (consistent with Read 7th ed. and Gem-A textbooks). No peer-reviewed
+        journal paper dedicated to quench-crackled quartz identification was returned by API
+        in the R5 research session. Crossref returned a dictionary entry (DOI
+        10.1007/978-3-540-72816-0_17924) confirming this as a defined trade category.
+        Present with caution; do not cite as peer-review-verified.
+    content: |
+      Rock crystal (colourless quartz) is heated to 300–400 °C then rapidly quenched in cold
+      water or a dye solution. Thermal shock creates a dense internal fracture network
+      which absorbs dye. Sold as "cherry quartz", "blue quartz", or "crackled quartz".
+    subsections:
+      - title: Detection
+        content: |
+          - **10× loupe**: dense, uniform, pervasive fracture network with no preferred
+            crystallographic orientation — diagnostic; contrast with sparse, irregular,
+            curved natural quartz fractures
+          - **Transmitted light**: dye visible only in fractures; quartz crystals between
+            fractures remain colourless; no natural quartz variety has colour only in fractures
+          - **UV fluorescence**: organic dyes may fluoresce; natural quartz inclusions do not
+          - **FTIR / Raman**: organic C–H peaks at ~3000 cm⁻¹; dye-specific peaks; pure
+            quartz shows no organic absorptions
+
+          This material is an imitation/simulation: CIBJO requires "dyed crackled quartz"
+          or "quench-crackled quartz" — not a natural quartz variety designation.
+
+  - title: Treatment Acceptance Summary
     comparison:
       items:
         - title: Widely Accepted
           variant: success
           points:
             - Heat treatment (corundum)
-            - Oil in emerald (cedar oil)
+            - Oil in emerald (cedar oil, minor)
             - Waxing (turquoise, jade)
-        - title: Accepted with Disclosure
+        - title: Accepted with Full Disclosure
           variant: warning
           points:
-            - Resin filling
-            - Beryllium diffusion
-            - Irradiation
-        - title: Controversial
+            - Resin filling (polymer) — emerald
+            - Beryllium lattice diffusion
+            - Irradiation (most types)
+            - HPHT diamond (permanent — must disclose)
+        - title: Controversial / Explicit Disclosure Required
           variant: danger
           points:
-            - Lead glass filling
-            - Surface diffusion
-            - Coatings
-
-  - title: HPHT Diamond Treatment
-    content: |
-      High Pressure High Temperature (HPHT) treatment can permanently alter diamond colour.
-      Originally developed for industrial applications, it's now used to improve gem-quality
-      diamonds.
-    subsections:
-      - title: Type IIa Diamonds
-        content: |
-          Type IIa diamonds (nitrogen-free) can be decolourised by HPHT treatment:
-
-          - **Starting material**: Brown Type IIa diamonds
-          - **Result**: Near-colourless (D-F colour possible)
-          - **Mechanism**: Removes plastic deformation that causes brown colour
-          - **Stability**: Permanent; colour won't revert
-
-      - title: Fancy Colour Creation
-        table:
-          headers:
-            - Starting Type
-            - HPHT Result
-            - Mechanism
-          rows:
-            - ["Type Ia (cape series)", "Intense yellow or green-yellow", "Modifies nitrogen centres"]
-            - ["Type IaB", "Yellow or green", "Creates H3/H4 centres"]
-            - ["Type Ib", "Orange or brownish-orange", "Modifies isolated nitrogen"]
-            - ["Type IIa (brown)", "Colourless or pink", "Removes deformation"]
-            - ["Type IIb", "Enhanced blue", "Possible but uncommon"]
-
-      - title: Detection Methods
-        content: |
-          HPHT-treated diamonds can be identified by:
-
-          - **Photoluminescence spectroscopy**: Characteristic centres
-          - **Infrared spectroscopy**: Modified nitrogen aggregation
-          - **DiamondView imaging**: Unusual fluorescence patterns
-          - **Graining patterns**: May show altered internal structure
-          - **Laboratory testing required**: Cannot be detected with standard tools
-
-  - title: Cobalt Diffusion
-    content: |
-      Cobalt can be diffused into gems during high-temperature treatment, most commonly
-      in lead glass-filled rubies where it creates artificial blue colour in the glass.
-    subsections:
-      - title: Cobalt in Glass-Filled Stones
-        content: |
-          Some lead glass fillings contain cobalt to add blue colour:
-
-          - Creates bluish tinge that masks brown/orange body colours
-          - Concentrated in fractures and surface areas
-          - Can be mistaken for better quality material
-          - Flash effect may show blue rather than typical orange
-
-      - title: Detection
-        content: |
-          - **Blue flash effect**: Unusual blue colour in fractures under magnification
-          - **Chelsea filter**: Strong red reaction from cobalt
-          - **Spectroscopy**: Cobalt absorption bands (around 550nm)
-          - **Chemical analysis**: LIBS or LA-ICP-MS confirms cobalt presence
+            - Lead glass filling (composite ruby)
+            - Ti surface diffusion
+            - Thin-film coatings
+            - B-jade / C-jade
 
   - title: Treatment Stability Chart
     table:
@@ -227,35 +463,34 @@ sections:
         - Sensitive To
         - Care Notes
       rows:
-        - ["Heat (corundum)", "Permanent", "N/A", "No special care needed"]
-        - ["Heat (zircon)", "Stable", "Extreme heat may affect", "Avoid jeweller's torch"]
-        - ["Oil (emerald)", "Temporary", "Heat, solvents, time", "Re-oil periodically; avoid ultrasonic"]
-        - ["Resin (emerald)", "Semi-permanent", "Heat, strong solvents", "Avoid ultrasonic and steam"]
-        - ["Lead glass (ruby)", "Fragile", "Heat, acids, ultrasonic", "Extreme care required"]
+        - ["Heat (corundum — plain H)", "Permanent", "N/A", "No special care needed"]
+        - ["Flux heating H(a)", "Permanent colour; flux residues stable", "N/A", "Disclose separately from plain H"]
+        - ["Heat (zircon)", "Stable", "Extreme heat", "Avoid jeweller's torch"]
+        - ["Oil (emerald)", "Temporary", "Heat, solvents, time", "Re-oil periodically; no ultrasonic"]
+        - ["Resin (emerald)", "Semi-permanent", "Heat, strong solvents", "No ultrasonic; no steam"]
+        - ["Lead glass (ruby)", "Fragile", "Heat, acids, ultrasonic", "Extreme care; no ultrasonic or acids"]
         - ["Beryllium diffusion", "Permanent", "N/A", "No special care needed"]
-        - ["Surface diffusion", "Shallow only", "Repolishing removes", "Avoid recutting"]
-        - ["Irradiation (topaz)", "Usually stable", "Some may fade", "Stable once processed"]
-        - ["Coating", "Fragile", "Abrasion, solvents", "Will wear off over time"]
+        - ["Ti surface diffusion", "Fragile", "Repolishing removes colour", "Avoid recutting"]
+        - ["Irradiation (topaz)", "Usually stable", "Strong UV light (some types)", "Stable once processed"]
+        - ["Coating (mystic topaz)", "Fragile", "Abrasion, solvents, ultrasonic", "Will wear off at facet edges"]
         - ["HPHT (diamond)", "Permanent", "N/A", "No special care needed"]
+        - ["B-jade polymer", "Moderate; matrix permanently weakened", "Solvents, ultrasonic, impact", "No ultrasonic; handle carefully"]
+        - ["Pearl irradiation", "Stable (normal conditions)", "Prolonged UV", "Avoid bleaches; gentle care only"]
 
   - title: Treatment Stability Warning
     callout:
       type: warning
-      title: Unstable Treatments
+      title: Unstable Treatments Requiring Ongoing Care
       text: |
-        Some treatments require ongoing care or will degrade:
+        - **Oil in emerald**: may dry out; requires periodic re-oiling
+        - **Lead glass filling**: damaged by heat, acids (even lemon juice), and ultrasonic
+        - **Coatings (mystic topaz)**: wear off at facet edges; cannot be cleaned aggressively
+        - **Some irradiation**: certain colours (kunzite, some topaz) may fade in light
+        - **B-jade**: ultrasonic cleaning dangerous; acid-damaged matrix permanently weakened
 
-        - **Oil in emerald**: May dry out; requires periodic re-oiling
-        - **Lead glass filling**: Extremely fragile; damaged by heat, acids, even lemon juice
-        - **Coatings**: Will wear off; cannot be cleaned aggressively
-        - **Some irradiation**: Certain colours may fade in light
-
-        Always advise customers about care requirements for treated gems.
+        Always advise clients about care requirements for treated gems.
 
   - title: Laboratory Report Terminology
-    content: |
-      Understanding laboratory report terminology is essential for interpreting treatment
-      status and communicating accurately.
     subsections:
       - title: Treatment Codes
         table:
@@ -266,40 +501,34 @@ sections:
           rows:
             - ["N or NTE", "No treatment evidence", "No indication of any treatment"]
             - ["H", "Heat treatment", "Evidence of heating detected"]
-            - ["H(a)", "Heat with foreign residue", "Borax or similar flux present"]
-            - ["H(b) or H(Be)", "Beryllium diffusion", "Lattice diffusion treatment"]
+            - ["H(a)", "Heat with flux residue / fracture healing", "Borax or similar flux — disclosed separately from plain H"]
+            - ["H(b) or H(Be)", "Beryllium diffusion", "Lattice diffusion; LA-ICP-MS required"]
             - ["O(minor)", "Minor oil", "Light oiling; typical for emerald"]
-            - ["O(moderate)", "Moderate oil", "Moderate enhancement"]
-            - ["O(significant)", "Significant oil", "Heavy treatment"]
+            - ["O(moderate)", "Moderate oil", "Moderate enhancement; requires disclosure"]
+            - ["O(significant)", "Significant oil", "Heavy treatment; strongly impacts clarity"]
             - ["R", "Resin", "Polymer-filled fractures"]
-            - ["F", "Filled", "Fracture or cavity filling"]
+            - ["F", "Filled", "Fracture or cavity filling (glass, resin)"]
             - ["C", "Coated", "Surface coating present"]
+            - ["HPHT", "HPHT treatment", "High pressure high temperature colour modification"]
 
-      - title: Interpreting Reports
+      - title: Key Report Phrases
         content: |
-          Key phrases on laboratory reports:
-
-          - **"No indication of heat treatment"**: Stone appears unheated
-          - **"Evidence of heat treatment"**: Heating detected
-          - **"Filler detected"**: Fracture filling present
-          - **"Clarity enhanced"**: Treatment improved apparent clarity
-          - **"Colour possibly enhanced"**: Colour may not be natural
-          - **"Origin undeterminable"**: Insufficient evidence for origin
+          - **"No indication of heat treatment"** — stone appears unheated; high commercial value
+          - **"Lattice diffusion treatment — beryllium present"** — Be-diffusion; not plain heating
+          - **"Composite ruby"** — glass-filled composite; not a standard ruby report
+          - **"HPHT Processed"** — diamond colour modified by HPHT treatment
+          - **"Filler detected"** — fracture filling present; type will be specified
 
   - title: Trade Organisation Standards
-    content: |
-      Industry organisations establish treatment disclosure standards.
     subsections:
       - title: CIBJO Blue Books
         content: |
-          CIBJO (World Jewellery Confederation) publishes standardised terminology:
+          CIBJO (World Jewellery Confederation) requires full disclosure of all treatments:
 
-          - **Natural**: Formed in nature without human intervention
-          - **Treated**: Natural material altered beyond cutting/polishing
-          - **Synthetic**: Man-made, same properties as natural
-          - **Imitation**: Any material resembling another
-
-          Full disclosure of treatments is required under CIBJO standards.
+          - **Natural**: formed in nature without human intervention
+          - **Treated**: natural material altered beyond cutting/polishing
+          - **Synthetic**: man-made with same properties as natural
+          - **Imitation**: any material resembling another
 
       - title: AGTA Enhancement Codes
         table:
@@ -314,13 +543,14 @@ sections:
             - ["D", "Dyeing"]
             - ["B", "Bleaching"]
             - ["C", "Coating"]
-            - ["U", "Diffusion"]
+            - ["U", "Diffusion (surface or lattice)"]
             - ["R", "Irradiation"]
+            - ["HPHT", "High pressure high temperature"]
             - ["ASBL", "Assembled (composite)"]
 
       - title: Disclosure Chain
         content: |
-          Treatment information must pass through the supply chain:
+          Treatment information must pass through the entire supply chain:
 
           1. Treater → dealer (must disclose)
           2. Dealer → retailer (must disclose)

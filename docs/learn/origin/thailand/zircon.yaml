@@ -1,0 +1,105 @@
+title: Thai Blue Zircon — Heat-Treatment Hub
+description: Thailand as the global centre for heat-treating Cambodian and Vietnamese zircon rough into blue zircon; origin, treatment process, and identification.
+order: 4
+category: origin
+subcategory: thailand
+difficulty: intermediate
+icon: gem
+related:
+  - origin/thailand/overview
+  - origin/cambodia
+  - species/zircon
+tags:
+  - thailand
+  - zircon
+  - blue-zircon
+  - heat-treatment
+  - chanthaburi
+
+sections:
+  - title: Introduction
+    content: |
+      Thailand — primarily Chanthaburi and Bangkok — is the world's dominant centre
+      for the production of faceted blue zircon. The majority of blue zircon on the
+      market has not been mined in Thailand but has been heat-treated there: brownish
+      to colourless zircon rough from Cambodia and Vietnam is imported and heated to
+      produce the prized blue colour.
+
+  - title: Why Thailand Treats Zircon
+    content: |
+      Thailand's role in the zircon trade:
+
+      - Chanthaburi has operated as Southeast Asia's gem processing centre since the
+        1970s; corundum heating infrastructure and expertise extend naturally to zircon
+      - Cambodian zircon from Ratanakiri Province and Vietnamese deposits supply most
+        of the rough
+      - Low-cost, high-volume treatment capacity allows Thailand to handle bulk supply
+      - Finished blue zircon is exported globally through Bangkok gem dealers
+
+  - title: The Heat-Treatment Process
+    content: |
+      Converting brownish or colourless zircon to blue:
+    subsections:
+      - title: Mechanism
+        content: |
+          - Brownish zircon owes its colour partly to radiation damage (metamict zones)
+            and partly to charge-transfer absorption related to Fe and other trace elements
+          - Heating at 900–1000°C in an OXIDISING atmosphere (air or with oxidising agents)
+            anneals radiation damage and changes the valence state of iron and other
+            chromophores, producing the characteristic blue-green colour
+          - The blue is not caused by a single chromophore but by a combination of
+            charge-transfer mechanisms in the heated zircon structure
+
+      - title: Colour Results
+        content: |
+          - **Blue to blue-green**: The primary commercial goal — the classic "blue zircon"
+          - **Colourless**: Some rough heats to colourless (diamond simulant use)
+          - **Golden to orange**: Produced by heating in reducing conditions (less common)
+          - **Colour stability**: Blue zircon colour can fade slightly in strong light over
+            time but is generally stable under normal conditions
+
+  - title: Zircon Identification Essentials
+    table:
+      headers:
+        - Property
+        - Value / Description
+      rows:
+        - ["Composition", "ZrSiO₄ (zirconium silicate)"]
+        - ["RI", "1.925–1.984 (high, uniaxial positive); birefringence up to 0.059"]
+        - ["SG", "4.67–4.70 (high)"]
+        - ["Hardness", "7–7.5"]
+        - ["Dispersion", "0.038 (B–G interval; high fire)"]
+        - ["Crystal system", "Tetragonal; uniaxial positive"]
+        - ["Key test", "High SG; strong doubling of back facets at 10x"]
+
+  - title: Doubling of Facets
+    callout:
+      type: tip
+      title: The Doubling Diagnostic
+      text: |
+        High birefringence in blue zircon causes STRONG DOUBLING of back facets when
+        viewed through the table at 10× magnification. This is one of the most reliable
+        field-level diagnostics for zircon and distinguishes it from aquamarine (low DR),
+        blue topaz (low DR), and tanzanite (moderate DR but different appearance).
+
+        The doubling effect is especially clear in blue zircon due to the stone's high
+        RI and refractive index contrast.
+
+  - title: Distinguishing Thai-Treated Zircon
+    content: |
+      Treatment and origin notes:
+
+      - Virtually all commercial blue zircon is heat-treated; untreated blue zircon
+        from primary sources is extremely rare
+      - Treatment is accepted and standard; laboratories report it as "Evidence of
+        heat treatment" on origin reports
+      - Chemical origin determination of zircon (Cambodia vs Vietnam vs elsewhere)
+        uses U-Pb age dating and trace element profiles — not routine in the gem trade
+      - "Thai blue zircon" as a label refers to the treatment location, not the mining
+        origin of the rough
+
+sources:
+  - doi: "10.5741/gems.18.4.186"
+    citation: "Keller (1982) The Chanthaburi-Trat Gem Field, Thailand. Gems & Gemology."
+  - doi: "10.5741/gems.45.4.236"
+    citation: "Shor & Weldon (2009) Ruby and Sapphire Production and Distribution: A Quarter Century of Change. Gems & Gemology."
