@@ -228,3 +228,187 @@ sections:
             - Peridot
             - Chrysoberyl
             - Tanzanite
+
+  - title: The 32 Point Groups
+    content: |
+      A point group is the set of symmetry operations (rotation axes, mirror planes, inversion
+      centre) that leave at least one point of a crystal unmoved. There are exactly 32 unique
+      combinations possible in crystals (the 32 crystal classes), expressed in Hermann–Mauguin
+      (H–M) notation.
+
+      **Key notational elements:**
+      - **n** = n-fold rotation axis (2, 3, 4, or 6)
+      - **m** = mirror plane
+      - **n̄** = rotoinversion axis (improper rotation)
+      - **1̄** = inversion centre
+      - **n/m** = rotation axis perpendicular to a mirror plane
+
+      Point groups determine whether a crystal can be piezoelectric (no centre of inversion),
+      pyroelectric (polar point group), or optically active (enantiomorphic point group).
+
+      The gem species assignments below are drawn from standard mineralogical sources. Where
+      no common gem species is assigned to a class, the entry is shown as a dash; these classes
+      exist and are crystallographically established even without a prominent gem example.
+
+      *Source: Schwarzenbach, Journal of Applied Crystallography, 2003.
+      DOI: 10.1107/s0021889803014778 [VERIFIED]; Read 3rd ed.
+      DOI: 10.4324/9780080507224 [VERIFIED]*
+    table:
+      caption: The 32 Point Groups with gem species examples
+      headers:
+        - System
+        - Point Group (H–M)
+        - Type
+        - Gem Example
+      rows:
+        - ["Cubic", "23", "Enantiomorphic", "—"]
+        - ["Cubic", "m3̄", "Centrosymmetric", "Pyrite"]
+        - ["Cubic", "432", "Enantiomorphic", "—"]
+        - ["Cubic", "4̄3m", "Non-centrosymmetric", "Diamond (some); sphalerite"]
+        - ["Cubic", "m3̄m", "Holohedral (holosymmetric)", "Diamond (most gem diamonds); garnet; fluorite; spinel"]
+        - ["Tetragonal", "4", "Polar", "—"]
+        - ["Tetragonal", "4̄", "Non-centrosymmetric", "—"]
+        - ["Tetragonal", "4/m", "Centrosymmetric", "Scheelite"]
+        - ["Tetragonal", "422", "Enantiomorphic", "—"]
+        - ["Tetragonal", "4mm", "Polar", "—"]
+        - ["Tetragonal", "4̄2m", "Non-centrosymmetric", "Chalcopyrite"]
+        - ["Tetragonal", "4/mmm", "Holohedral", "Zircon; rutile; cassiterite; vesuvianite"]
+        - ["Orthorhombic", "222", "Enantiomorphic", "—"]
+        - ["Orthorhombic", "mm2", "Polar", "—"]
+        - ["Orthorhombic", "mmm", "Holohedral", "Topaz; peridot/olivine; tanzanite/zoisite; andalusite; danburite"]
+        - ["Trigonal", "3", "Polar, enantiomorphic", "—"]
+        - ["Trigonal", "3̄", "Centrosymmetric", "—"]
+        - ["Trigonal", "32", "Enantiomorphic", "Quartz (explains optical activity — left/right handed)"]
+        - ["Trigonal", "3m", "Polar", "Tourmaline (piezoelectric/pyroelectric); calcite group"]
+        - ["Trigonal", "3̄m", "Holohedral", "Corundum (ruby, sapphire); hematite"]
+        - ["Hexagonal", "6", "Polar, enantiomorphic", "—"]
+        - ["Hexagonal", "6̄", "Non-centrosymmetric", "—"]
+        - ["Hexagonal", "6/m", "Centrosymmetric", "Apatite"]
+        - ["Hexagonal", "622", "Enantiomorphic", "—"]
+        - ["Hexagonal", "6mm", "Polar", "Wurtzite"]
+        - ["Hexagonal", "6̄m2", "Non-centrosymmetric", "Benitoite"]
+        - ["Hexagonal", "6/mmm", "Holohedral", "Beryl (emerald, aquamarine, morganite)"]
+        - ["Monoclinic", "2", "Polar, enantiomorphic", "—"]
+        - ["Monoclinic", "m", "Polar", "—"]
+        - ["Monoclinic", "2/m", "Centrosymmetric", "Orthoclase/microcline; diopside; jadeite; spodumene; malachite"]
+        - ["Triclinic", "1", "Polar", "—"]
+        - ["Triclinic", "1̄", "Centrosymmetric", "Labradorite/plagioclase; kyanite; rhodonite; turquoise"]
+
+  - title: Point Group Notes
+    content: |
+      Several point groups have gemmologically significant consequences:
+
+      - **Quartz (point group 32):** the enantiomorphic class explains why quartz is optically
+        active (rotates plane of polarisation), exists as left-handed and right-handed crystals,
+        and shows the Brazil and Dauphiné twin laws. No centre of inversion → piezoelectric.
+      - **Tourmaline (point group 3m):** polar axis along c responsible for piezoelectricity and
+        pyroelectricity. The polar nature also produces pyroelectric discharge when temperature
+        changes — tourmaline crystals attract dust.
+      - **Corundum (point group 3̄m):** has a centre of inversion (the 3̄ inversion axis);
+        therefore neither piezoelectric nor optically active. Uniaxial negative with pleochroism
+        oriented along the c-axis.
+      - **Diamond (point group m3̄m):** highest possible cubic symmetry (Oh); isotropic; single RI;
+        no birefringence, no pleochroism.
+      - **Benitoite (point group 6̄m2):** hexagonal symmetry class; notable for intense SWUV
+        fluorescence and dispersion equal to diamond (0.044); uniaxial positive.
+
+    callout:
+      type: info
+      title: Point Group vs Crystal System
+      text: |
+        Each crystal system contains multiple point groups — not a single one. A crystal system
+        defines the axial geometry; the point group specifies the exact symmetry elements present.
+        For example, the trigonal system contains point groups 3, 3̄, 32, 3m, and 3̄m — each
+        giving different physical properties (optical activity, piezoelectricity, centrosymmetry).
+
+  - title: Miller Indices — 3-Index and 4-Index Notation
+    content: |
+      Miller indices {hkl} describe the orientation of a crystal face or plane by the reciprocals
+      of its fractional intercepts on the crystallographic axes.
+
+      **Three-index notation {hkl}** — used for cubic, tetragonal, orthorhombic, monoclinic, and
+      triclinic systems (three axes: a, b, c):
+      - {100}: intercepts a at 1, parallel to b and c.
+      - {111}: intercepts all three axes equally — the octahedral face in cubic.
+      - {110}: intercepts a and b at 1, parallel to c — the dodecahedral face in cubic.
+
+      **Four-index (Bravais–Miller) notation {hkil}** — required for trigonal and hexagonal
+      systems, which have three equivalent horizontal axes (a₁, a₂, a₃) at 120° and one vertical
+      c-axis:
+      - The **closure relation** i = −(h+k) always holds; i is not an independent variable but
+        makes the symmetry equivalence of faces explicit in the notation.
+      - {10-10}: the hexagonal prism face. i = -(1+0) = -1, confirming h + k + i = 0.
+      - {0001}: the basal pinacoid — perpendicular to the c-axis; the "table" of a hexagonal crystal.
+      - {10-11}: the rhombohedral face in trigonal — the twin and parting plane of corundum.
+
+      **Why the redundant index?** In a 6-fold-symmetric hexagonal crystal there are six
+      equivalent prism faces. The 4-index notation makes this equivalence explicit: {10-10},
+      {01-10}, {-1100}, {-1010}, {0-110}, {1-100} are all the same form, and the notation
+      allows this to be seen by inspection.
+
+      *Source: Schwarzenbach, Journal of Applied Crystallography, 2003.
+      DOI: 10.1107/s0021889803014778 [VERIFIED]*
+    subsections:
+      - title: Worked examples
+        table:
+          headers:
+            - Crystal / face
+            - Notation
+            - Notes
+          rows:
+            - ["Cubic diamond, octahedral face", "{111}", "Three equal intercepts on a, b, c"]
+            - ["Cubic diamond, cube face", "{100}", "Intersects a; parallel to b and c"]
+            - ["Quartz (trigonal), prism face", "{10-10}", "Four-index; i = -(1+0) = -1; the common m-face"]
+            - ["Quartz, pyramid face", "{10-11}", "Four-index; also the rhombohedral face r"]
+            - ["Corundum, basal pinacoid", "{0001}", "Perpendicular to c; parting plane"]
+            - ["Corundum, rhombohedral parting", "{10-11}", "Twin and parting plane; four-index required (trigonal)"]
+
+      - title: Examination note
+        content: |
+          The distinction between 3-index and 4-index notation is a common examination point at
+          Diploma level. The only formula to remember is: **i = −(h+k)**.
+
+          Understanding this relation explains why trigonal/hexagonal crystals have 6-fold or
+          3-fold equivalence of side faces — each set of equivalent faces has the same set of
+          |h|, |k|, |i| values in different permutations.
+
+  - title: Parting (False Cleavage)
+    content: |
+      Parting is a tendency for a crystal to break along planes that are not true cleavage planes.
+      It resembles cleavage (producing flat, reflective fracture surfaces) but is caused by
+      repeated twinning lamellae or by exsolution of a second phase along a crystallographic plane.
+
+      **Distinction from cleavage:**
+      - **Cleavage** is universal — every crystal of the species will cleave along the same planes,
+        because the planes reflect inherently weak bonds in the crystal structure.
+      - **Parting** is contingent — only crystals that happen to be twinned or to have undergone
+        exsolution show parting. It may be restricted to parts of the crystal and is not universal
+        across all specimens of the species.
+
+      *Source: Read 3rd ed. DOI: 10.4324/9780080507224 [VERIFIED];
+      Pignatelli 2024, DOI: 10.1007/s00710-024-00858-1 [VERIFIED]*
+    subsections:
+      - title: Corundum parting
+        content: |
+          Corundum (ruby and sapphire) has no true cleavage. It shows two parting directions from
+          polysynthetic twinning:
+
+          - **{10-11} rhombohedral parting** — the most prominent; arises from repeated polysynthetic
+            twinning on the rhombohedral plane. Visible as parallel flat steps on broken corundum
+            rough, and as iridescent flat internal planes in faceted stones.
+          - **{0001} basal parting** — from twinning on the basal pinacoid; less consistent.
+
+          A common Diploma examination error is stating "corundum has perfect basal cleavage."
+          The correct answer is: corundum has **no cleavage**; the flat surfaces observed are
+          parting along twin planes.
+
+      - title: Other parting examples
+        table:
+          headers:
+            - Mineral
+            - Parting plane
+            - Cause
+          rows:
+            - ["Corundum (ruby, sapphire)", "{10-11} and {0001}", "Polysynthetic twinning on those planes"]
+            - ["Pyroxene (diopside, enstatite)", "{100}", "Exsolution or twinning; combined with {110} cleavage gives two-direction breakage"]
+            - ["Magnetite", "{111}", "Spinel-law twinning; relevant when magnetite is an inclusion"]

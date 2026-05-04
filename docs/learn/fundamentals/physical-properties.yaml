@@ -341,6 +341,210 @@ sections:
           Most synthetic moissanite (SiC) is an electrical semiconductor, while
           natural diamond (except rare Type IIb blue) is an insulator.
 
+  - title: Tenacity — Resistance to Mechanical Deformation
+    content: |
+      Tenacity describes how a mineral resists breaking, bending, or deformation. It is distinct
+      from hardness (resistance to scratching) and from cleavage (the mode of fracture). The
+      principal tenacity terms used in gemmology are:
+
+      - **Brittle:** fractures without plastic deformation; shatter on impact or under stress.
+        The fracture surface is conchoidal, uneven, or hackly. Essentially all silicates and
+        oxides in common gemmology are brittle.
+      - **Tough:** high resistance to fracture despite lower hardness than brittle gems; typically
+        an interlocking aggregate structure disperses crack energy. Nephrite and jadeite are the
+        gemmological standards.
+      - **Sectile:** can be cut with a knife into shavings without crumbling; deforms plastically
+        under a sharp edge. Not common in gem minerals; talc (H1) is sectile.
+      - **Malleable:** can be hammered into thin sheets without crumbling. Metals only — native
+        gold inclusions in quartz are malleable.
+      - **Ductile:** can be drawn into a wire. Native gold, platinum. Not a gemmological property
+        of the gem minerals themselves.
+      - **Flexible:** thin plates or sheets can be bent without breaking but do not return to
+        shape (plastic deformation). Talc, chlorite, gypsum selenite plates.
+      - **Elastic:** thin plates can be bent and spring back to original shape without permanent
+        deformation. Distinguishes muscovite mica (elastic) from chlorite (flexible but not elastic).
+
+      *Source: Read, Gemmology 3rd ed. DOI: 10.4324/9780080507224 [VERIFIED]*
+    subsections:
+      - title: Tenacity in gem identification
+        table:
+          caption: Tenacity terms with gem examples
+          headers:
+            - Tenacity
+            - Gem/mineral examples
+            - Diagnostic application
+          rows:
+            - ["Brittle", "Diamond, corundum, quartz, tourmaline, topaz, garnet, spinel", "Most faceted gems; conchoidal or uneven fracture surface"]
+            - ["Tough", "Nephrite (H 6–6.5), jadeite (H 6.5–7)", "Nephrite tougher than diamond despite lower hardness — fibrous interlocking structure"]
+            - ["Sectile", "Amber (slightly under knife), talc", "Amber can be shaved; relevant in amber vs plastic vs copal testing"]
+            - ["Malleable", "Native gold (inclusion in quartz)", "Gold leaf inclusions spread under pressure"]
+            - ["Flexible (not elastic)", "Talc, chlorite, gypsum selenite", "Chlorite inclusions in gems flex under probe but do not spring back"]
+            - ["Elastic", "Muscovite, phlogopite mica", "Mica inclusions spring back when probe is removed — distinguishes from chlorite"]
+
+      - title: Toughness vs hardness
+        content: |
+          The toughness/hardness distinction is examinable at Diploma level:
+
+          - **Hardness** = resistance to scratching (Mohs scale, a surface property).
+          - **Toughness** = resistance to fracture (a bulk property of the interlocked structure).
+
+          Nephrite jade (H 6–6.5) is tougher than diamond (H 10) because its densely interlocking
+          fibrous tremolite–actinolite structure prevents crack propagation. Diamond, despite maximum
+          hardness, has perfect octahedral cleavage and brittle tenacity — a sharp blow in the {111}
+          direction will cleave it.
+
+  - title: Magnetism in Gems
+    content: |
+      Gem minerals may be diamagnetic, paramagnetic, or ferromagnetic/ferrimagnetic. A strong N52
+      neodymium magnet provides a rapid, non-destructive field test that correlates with
+      iron (Fe) and manganese (Mn) content.
+
+      **Magnetic behaviour types:**
+      - **Diamagnetic:** all materials without unpaired electrons have a very weak repulsive
+        response to a magnetic field. Most gem silicates with no transition metal are effectively
+        diamagnetic (quartz, topaz, diamond, spinel).
+      - **Paramagnetic:** materials with unpaired electrons in the 3d shell are weakly attracted.
+        Susceptibility follows the Curie law (χ ∝ 1/T). Fe²⁺ (4 unpaired electrons), Fe³⁺
+        (5 unpaired), Mn²⁺ (5 unpaired), Cr³⁺ (3 unpaired) all contribute. Gems with high Fe
+        or Mn content are detectably paramagnetic with a strong N52 magnet.
+      - **Ferrimagnetic:** exchange-coupled spins; found in iron oxide inclusions (magnetite
+        Fe₃O₄) rather than in gem silicates themselves. A stone with sufficient magnetite
+        inclusions can be attracted even if the host is diamagnetic.
+
+      *Source: Hoover, Williams, Williams & Mitchell, J. Gemmology, 2008.
+      DOI: 10.15506/jog.2008.31.3.91 [VERIFIED]; Hoover, Gems & Gemology, 2011.
+      DOI: 10.5741/gems.47.4.272 [VERIFIED]*
+    subsections:
+      - title: Gem species magnetic response
+        table:
+          caption: Magnetic response of common gem species to N52 neodymium magnet
+          headers:
+            - Gem species
+            - Response
+            - Reason
+          rows:
+            - ["Almandine garnet (Fe-rich)", "Strongly attracted", "High Fe²⁺/Fe³⁺; largest susceptibility among garnets"]
+            - ["Spessartine garnet (Mn-rich)", "Attracted", "Mn²⁺ (5 unpaired electrons); varies with Mn content"]
+            - ["Demantoid garnet (andradite, Fe³⁺)", "Attracted", "Paramagnetic from Fe³⁺; useful vs green tourmaline"]
+            - ["Tsavorite (grossular with V, Cr)", "Weakly attracted", "Cr and V paramagnetic; weaker than almandine"]
+            - ["Pyrope (pure end-member)", "Very weakly attracted or diamagnetic", "Low Fe, low Mn; rhodolite (pyrope-almandine) intermediate"]
+            - ["Peridot (Fe²⁺ in olivine)", "Attracted", "Fe²⁺ essential; separable from green tourmaline or green sapphire"]
+            - ["Blue/indicolite tourmaline (Fe-bearing)", "Weakly attracted", "Fe-bearing but weaker response than Fe-rich garnets"]
+            - ["Fe-bearing sapphire", "Weakly attracted", "Fe paramagnetic; less than garnets"]
+            - ["Diamond, quartz, spinel, topaz", "No response (diamagnetic)", "No unpaired d-electrons in pure form"]
+            - ["Magnetite inclusions (in star sapphire, star diopside etc.)", "Strongly attracted", "Ferrimagnetic Fe₃O₄; even if host is diamagnetic"]
+
+      - title: Diagnostic applications
+        content: |
+          - **Rapid field separation:** a N52 magnet separates almandine, spessartine, and demantoid
+            from diamagnetic simulants (glass, CZ) without instruments.
+          - **Garnet composition:** Hoover (2008, 2011) demonstrated that magnetic susceptibility
+            measurement can resolve garnet species and compositions more precisely than RI alone,
+            especially for mixed-composition stones in the almandine–pyrope–spessartine series.
+          - **Above-refractometer garnets:** demantoid RI (~1.89) exceeds the standard refractometer
+            range (~1.79). The magnet test complements by confirming the garnet identification.
+          - **Safety note:** N52 neodymium magnets are extremely strong; handle with care around
+            electronic equipment, credit cards, and polishing compounds.
+
+  - title: Brewster's Angle and Reflection Polarisation
+    content: |
+      Brewster's angle (θ_B) is the angle of incidence at which light reflected from a polished
+      gem surface becomes completely plane-polarised. At this angle, the reflected and refracted
+      rays are perpendicular to each other.
+
+      **Formula:** tan(θ_B) = n (for air/gem interface, n₁ = 1, n₂ = n of gem)
+
+      **Derivation:** At Brewster's angle, the reflected and refracted beams are at 90°. By Snell's
+      law: n₁ sin(θ_B) = n₂ sin(90° − θ_B) = n₂ cos(θ_B), giving tan(θ_B) = n₂/n₁ = n.
+
+      **Worked example — diamond:**
+      n(diamond) = 2.417; θ_B = arctan(2.417) = approximately 67.5°.
+      At this angle, light reflected from the diamond surface vibrates only in the plane
+      perpendicular to the plane of incidence — fully polarised.
+
+      A polaroid filter held at the appropriate angle above a gem surface eliminates surface
+      glare at Brewster's angle, improving transparency during examination. The immersion method
+      in the polariscope similarly exploits this suppression of surface reflections.
+
+      *Source: Read, P.G. "An Experimental Brewster-Angle Refractometer." J. Gemmology, 1979.
+      DOI: 10.15506/jog.1979.16.8.537 [VERIFIED]; Read, P. "Further development of the
+      Brewster-angle refractometer." J. Gemmology, 1988. DOI: 10.15506/jog.1988.21.1.36 [VERIFIED]*
+    subsections:
+      - title: Brewster angle reference values
+        content: |
+          The values below are calculated from the formula θ_B = arctan(n) using the known RI
+          of each gem material. Brewster's angle increases with RI — higher-RI stones require a
+          steeper angle of incidence to achieve full polarisation of the reflected beam.
+        table:
+          caption: Brewster angle calculated from RI (formula confirmed; individual RI values from Read 3rd ed.)
+          headers:
+            - Gem
+            - RI (n, mean or single value)
+            - Brewster angle (arctan n)
+          rows:
+            - ["Fluorite", "1.434", "~55.1°"]
+            - ["Quartz", "1.548 (mean)", "~57.1°"]
+            - ["Sapphire/corundum", "1.770 (mean)", "~60.6°"]
+            - ["Zircon (high)", "~1.92 (mean)", "~62.4°"]
+            - ["CZ (cubic zirconia)", "~2.17", "~65.2°"]
+            - ["Diamond", "2.417", "~67.5°"]
+
+      - title: Brewster-angle refractometer
+        content: |
+          Peter Read developed an experimental Brewster-angle refractometer (1979, 1988) that
+          extends RI measurement beyond the standard contact-liquid refractometer limit of ~1.79
+          by detecting the angle at which reflected light becomes fully polarised. This allows
+          measurement of high-RI stones such as diamond (2.417), CZ (2.17), and high zircon
+          (up to 1.99).
+
+  - title: Dispersion — Named Values (B–G Interval)
+    content: |
+      Dispersion in gemmology is measured as the difference in refractive index between the
+      Fraunhofer B line (686.7 nm, red) and the G line (430.8 nm, violet):
+
+      **Dispersion = n(G) − n(B)**
+
+      A high dispersion means white light is strongly separated into spectral colours ("fire")
+      when internally reflected and refracted. Fire is visible to the eye only in stones with
+      dispersion > ~0.025 under ideal conditions.
+
+      High dispersion correlates with: (a) high mean RI, (b) proximity of strong absorption
+      bands to the visible range (steepening the dispersion curve).
+
+      *Source: Read, Gemmology 3rd ed. DOI: 10.4324/9780080507224 [VERIFIED];
+      Nassau, Physics and Chemistry of Color, 2001, pp. 52–56 [VERIFIED]*
+    table:
+      caption: Dispersion (B–G interval) for gem materials — CZ value is 0.060 (Read 7th; VERIFIED; NOT 0.065)
+      headers:
+        - Material
+        - Dispersion (B–G)
+        - Fire quality / notes
+      rows:
+        - ["Rutile (TiO₂ synthetic)", "0.280", "Extreme; rarely faceted due to very high birefringence"]
+        - ["Strontium titanate (SrTiO₃)", "0.190", "Synthetic; formerly 'fabulite'; highest of gem simulants"]
+        - ["Synthetic moissanite (SiC)", "0.104", "Higher than diamond; noticeable fire in faceted stones"]
+        - ["Cubic zirconia (ZrO₂)", "0.060", "Higher than diamond; conspicuous fire — diagnostic vs. diamond (Read 3rd ed. confirmed)"]
+        - ["Sphene / titanite", "0.051", "Very high; 'adamantine to sub-adamantine' fire; visible coloured flashes"]
+        - ["Demantoid garnet", "0.057", "Highest of natural garnets; visible fire even through green bodycolour"]
+        - ["GGG (gadolinium gallium garnet)", "0.045", "Synthetic diamond simulant"]
+        - ["Diamond", "0.044", "Benchmark for comparison; high fire by natural gem standards"]
+        - ["Zircon", "0.039", "High; noticeable fire; high birefringence also contributes to scintillation"]
+        - ["YAG (yttrium aluminium garnet)", "0.028", "Synthetic; moderate fire"]
+        - ["Almandine garnet", "0.027", "Moderate; noticeable in bright lighting"]
+        - ["Spinel", "0.020", "Moderate"]
+        - ["Corundum (ruby, sapphire)", "0.018", "Low; fire rarely visible in coloured stones"]
+        - ["Glass (typical)", "0.010–0.020", "Varies widely with composition and heavy-metal content"]
+        - ["Quartz", "0.013", "Low"]
+        - ["Fluorite", "0.007", "Very low; 'dead' appearance despite sometimes vivid colour"]
+
+    callout:
+      type: warning
+      title: CZ Dispersion — Confirmed Value
+      text: |
+        Cubic zirconia dispersion = **0.060** (Read, Gemmology 3rd ed.; DOI-verified source).
+        A figure of 0.065 sometimes appears in trade literature but is unverified by a peer-reviewed
+        source and should not be used. The canonical gemmological value is 0.060.
+
   - title: Practice with Interactive Tools
     callout:
       type: tip

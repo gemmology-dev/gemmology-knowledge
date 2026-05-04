@@ -1,0 +1,101 @@
+title: Hunza Ruby — Pakistan
+description: Marble-hosted ruby from Hunza/Gilgit-Baltistan; low-Fe high-Cr chemistry analogous to Mogok; marble-suite inclusions; strong LWUV fluorescence.
+order: 3
+category: origin
+subcategory: pakistan
+difficulty: advanced
+icon: gem
+related:
+  - origin/pakistan/overview
+  - origin/burma/ruby
+  - origin/vietnam
+  - origin/afghanistan/ruby
+  - species/corundum
+tags:
+  - pakistan
+  - hunza
+  - gilgit-baltistan
+  - ruby
+  - marble-hosted
+  - corundum
+  - origin/pakistan
+
+sections:
+  - title: Introduction
+    content: |
+      Ruby from the Hunza Valley (Gilgit-Baltistan) is marble-hosted corundum formed in
+      the Himalayan suture zone — the same broad orogenic setting that produced Mogok
+      (Burma), Luc Yen (Vietnam), and Kuh-i-Lal (Tajikistan) gems. Hunza ruby shares
+      the low-iron, high-chromium chemistry of marble-hosted corundum globally and can
+      approach Mogok quality in fine material, though production scale is small and
+      artisanal.
+
+  - title: Geological Setting
+    content: |
+      Hunza ruby formation:
+
+      - **Host rock**: Corundum-bearing marble; Okrusch, Bunch, and Bank (1976) established
+        the petrogenesis of the Hunza marble corundum — a "corundum-bearing marble" in
+        the Himalayan collision zone
+      - **Tectonic context**: Himalayan suture zone analogous to Mogok; carbonate platform
+        rocks metamorphosed during continental collision produced marble-hosted corundum
+        under low-Fe conditions
+      - **Location**: Gilgit-Baltistan; artisanal mining in remote high-altitude valleys
+
+  - title: Properties
+    content: |
+      Marble-hosted chemical signature:
+    subsections:
+      - title: Colour
+        content: |
+          - Pinkish-red to red; fine quality material is comparable in colour to Mogok
+          - Absence of iron darkening (low-Fe marble chemistry) allows Cr to dominate
+            the optical response — vivid, pure red
+          - Some material has pink modifiers; range includes pink corundum/sapphire
+            transitional material
+
+      - title: Fluorescence
+        content: |
+          - **Strong red LWUV fluorescence**: High Cr, low Fe — same principle as Mogok
+          - This is a primary distinguishing feature from Thai/Cambodian basaltic ruby
+            where iron quenches fluorescence
+
+      - title: Inclusions
+        content: |
+          - Calcite and carbonate minerals (marble-hosted suite)
+          - Primary fluid inclusions: CO₂-rich with multi-solid residues — as confirmed
+            in Asian marble ruby deposits by Giuliani et al. (2015); brine compositions
+            differ between Asian marble ruby localities
+          - Low-Fe mineral assemblage consistent with marble protolith
+
+  - title: Distinction from Mogok
+    content: |
+      Laboratory separation of Hunza from Mogok ruby:
+
+      - Both share: low Fe (<300 ppm), strong red fluorescence, marble-suite inclusions
+      - **LA-ICP-MS required**: Trace element ratios (Ga/Mg and other patterns) can
+        separate Hunza from Mogok — this is a laboratory-level criterion
+      - **Oxygen isotopes**: Values differ subtly between marble ruby localities;
+        isotope analysis adds discrimination power
+      - **Specific fluid inclusion salt chemistry**: Differs between Asian marble ruby
+        deposits; brine composition from fluid inclusion microthermometry assists
+
+  - title: Market Notes
+    callout:
+      type: info
+      title: Small-Scale Production
+      text: |
+        Hunza ruby production is artisanal and small-scale; the material rarely appears
+        in large volumes on the international market. Fine quality Hunza ruby commands
+        origin interest but does not achieve Mogok premiums on the current market.
+
+        Security and access in Gilgit-Baltistan have improved in recent years; production
+        continuity has been variable historically.
+
+sources:
+  - doi: "10.1007/bf00203079"
+    citation: "Okrusch, Bunch & Bank (1976) Paragenesis of corundum-bearing marble at Hunza. Mineralium Deposita."
+  - doi: "10.1127/ejm/2015/0027-2442"
+    citation: "Giuliani et al. (2015) Fluid inclusions in ruby from Asian marble deposits. European Journal of Mineralogy."
+  - doi: "10.5741/gems.55.4.536"
+    citation: "Palke et al. (2019) Geographic Origin Determination of Blue Sapphire. Gems & Gemology."

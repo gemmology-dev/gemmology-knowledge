@@ -1,0 +1,133 @@
+title: Swat Valley Emerald — Pakistan
+description: Ophiolite-hosted Cr-rich emerald from Mingora, Swat Valley; three-phase fluid inclusions, chromian muscovite, low Li chemistry, talc-carbonate paragenesis.
+order: 2
+category: origin
+subcategory: pakistan
+difficulty: advanced
+icon: gem
+related:
+  - origin/pakistan/overview
+  - origin/afghanistan/emerald
+  - origin/colombia
+  - origin/zambia
+  - species/emerald
+tags:
+  - pakistan
+  - swat
+  - mingora
+  - emerald
+  - ophiolite
+  - chromium
+  - origin/pakistan
+
+sections:
+  - title: Introduction
+    content: |
+      The Swat Valley (Mingora area) of Khyber Pakhtunkhwa Province hosts one of the
+      world's significant emerald deposits, distinguished by its unique geological setting:
+      chromium-rich hydrothermal fluids from ophiolitic ultramafic rocks produced emerald
+      in talc-carbonate fracture systems along the Indus suture zone. Swat material is
+      noted for small stones with high colour saturation.
+
+  - title: Geological Setting
+    content: |
+      Swat Valley emerald genesis:
+    subsections:
+      - title: Host Rock — Ophiolite Belt
+        content: |
+          - Hosted in carbonatised ultramafic rocks (ophiolite belt) of the Indus suture
+            zone, in the Mingora area of Swat Valley
+          - The Indus suture zone represents the ancient tectonic collision boundary
+            between the Indian and Eurasian plates; ophiolitic peridotite and chromite
+            are the Cr source
+          - Emerald-forming hydrothermal fluids penetrated fracture systems in the
+            talc-carbonate host rock derived from serpentinised ultramafic protolith
+
+      - title: Chromium Source
+        content: |
+          - Chromium is sourced from ophiolitic chromite through hydrothermal fluid
+            interaction with the peridotite/serpentinite country rock
+          - Arif and Moon (2007) documented chromian muscovite and tourmaline in
+            emerald-bearing quartz veins: the muscovite shows "high Mg/Fe ratios (4–9)
+            and variable Ni" — geochemical evidence linking Cr directly to the ophiolitic
+            ultramafic host
+
+  - title: Properties and Appearance
+    content: |
+      Characteristic features of Swat emerald:
+
+      - **Colour**: Medium to deep green; highly saturated
+      - **Size**: Typically small (<2 ct clean); "small stones with saturated color"
+        is the standard trade descriptor; reserves estimated at ~70 million carats but
+        mostly small crystal size
+      - **Chromophore**: Cr³⁺ dominant; Cr/V ratio distinguishes ophiolite-hosted (Cr
+        dominant) from other deposit types
+      - **Fluorescence**: Strong red LWUV fluorescence driven by high Cr³⁺
+      - **Chelsea Colour Filter**: Strong red (Cr dominant)
+
+  - title: Diagnostic Inclusions
+    content: |
+      Guo et al. (2020) documented the inclusions of Swat emerald:
+    subsections:
+      - title: Fluid Inclusions
+        content: |
+          - **Three-phase fluid inclusions**: Liquid + gas + solid phases — documented
+            for the first time in Swat emeralds by Guo et al. (2020); diagnostic for
+            the high-salinity, high-temperature ophiolitic hydrothermal system
+
+      - title: Mineral Inclusions
+        content: |
+          - **Chromian muscovite (chrome mica)**: Tabular brownish-green platelets;
+            very diagnostic for the ophiolite-belt genesis; rare in emeralds from
+            other deposit types
+          - **Actinolite needles**: Green amphibole; consistent with ultramafic host
+          - **Biotite platelets**: Brown tabular mica
+          - **Talc**: From the talc-carbonate host rock; soft and platy
+
+  - title: Trace Element Chemistry
+    content: |
+      Chemical fingerprinting for origin determination:
+    subsections:
+      - title: Shared Low-Li Signature
+        content: |
+          - **Li < 200 ppmw** (lithium content): Shared with Colombian and Afghan emerald;
+            distinguishes from high-Li Zambian, Zimbabwe, and Ethiopian material
+          - The low-Li signature reflects a sediment/ophiolite geological heritage
+            rather than granitic pegmatite host
+
+      - title: Separation from Other Low-Li Origins
+        content: |
+          - **Cr/V ratio**: Swat is Cr-dominant (ophiolite-Cr source); Colombian Chivor
+            is more V-dominant; Panjshir (Afghanistan) also Cr-dominant but with higher
+            Fe and distinct fluid inclusions
+          - **Other elements**: Sc, Mn, Co, Ni, Zn, Ga provide additional discrimination
+            in multivariate trace element analysis
+          - **UV-Vis**: Afghan Panjshir has "pronounced iron-related bands" not typical
+            of Colombian; Swat has its own spectral profile
+
+  - title: Deposit Type Classification
+    callout:
+      type: info
+      title: Talc-Carbonate (Ophiolite-Belt) Type
+      text: |
+        Swat Valley emerald belongs to the "talc-carbonate" or "ophiolite-hosted" deposit
+        type — distinct from:
+
+        - SCHIST-BELT type (Zambia, Zimbabwe, Russia, Ethiopia): schist host at
+          granite-ultramafic contact
+        - BLACK-SHALE type (Colombia): hydrothermal in sedimentary host with no igneous
+          proximity
+        - PEGMATITIC type (Brazil Carnaíba, parts of Brazil): emerald in pegmatites
+
+        The ophiolite-belt context makes Swat inclusion suite (chromian muscovite, actinolite,
+        three-phase inclusions) unique among the major emerald sources.
+
+sources:
+  - doi: "10.5741/gems.56.3.336"
+    citation: "Guo et al. (2020) Inclusion and Trace Element Characteristics of Emeralds from Swat Valley, Pakistan. Gems & Gemology."
+  - doi: "10.2343/geochemj.41.475"
+    citation: "Arif & Moon (2007) Nickel-rich chromian muscovite from the Indus suture ophiolite, NW Pakistan. Geochemical Journal."
+  - doi: "10.3390/min9090561"
+    citation: "Karampelas et al. (2019) Emeralds from the Most Important Occurrences: Chemical and Spectroscopic Data. Minerals."
+  - doi: "10.5741/gems.55.4.614"
+    citation: "Saeseaw et al. (2019) Geographic Origin Determination of Emerald. Gems & Gemology."

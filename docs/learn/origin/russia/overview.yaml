@@ -1,0 +1,106 @@
+title: Russia — Ural Gem Deposits Overview
+description: Ural Mountains gem belt — demantoid garnet, alexandrite, emerald; Yakutia diamond; serpentinite and mica-schist geological settings.
+order: 1
+category: origin
+subcategory: russia
+difficulty: advanced
+icon: gem
+related:
+  - origin/overview
+  - origin/russia/demantoid
+  - origin/russia/alexandrite
+  - origin/russia/emerald
+  - species/garnet
+  - species/chrysoberyl
+tags:
+  - russia
+  - urals
+  - demantoid
+  - alexandrite
+  - emerald
+  - yakutia
+  - origin/russia
+
+sections:
+  - title: Introduction
+    content: |
+      The Ural Mountains of Russia host one of the world's most remarkable concentrations
+      of rare and collectible gem varieties: demantoid garnet (the finest andradite), the
+      benchmark alexandrite (the standard of colour-change quality), and Ural emerald from
+      the Malyshevsky deposit. The Ural belt stretches ~2,500 km and formed during
+      Late Palaeozoic (350–290 Ma) suturing of the Russian and Siberian plates.
+
+      Russia also hosts the world's largest diamond production by volume in Yakutia
+      (Sakha Republic, eastern Siberia) — geographically and geologically distinct
+      from the Ural gem belt.
+
+  - title: Geological Settings
+    table:
+      headers:
+        - Setting
+        - Location
+        - Gems Produced
+      rows:
+        - ["Serpentinised ultramafic bodies", "Central/south-central Urals", "Demantoid garnet, chrysotile serpentine"]
+        - ["Mica-schist / phlogopite contact zones", "Tokovaya River district", "Alexandrite, emerald"]
+        - ["Kimberlite pipes", "Yakutia / Sakha Republic (eastern Siberia)", "Diamond (Russian diamond)"]
+
+  - title: Demantoid Garnet — Brief Overview
+    content: |
+      - Discovered 1860s; Bobrovka River and Sysert area, Sverdlovsk Oblast
+      - Andradite garnet (Ca₃Fe₂(SiO₄)₃), Cr³⁺-coloured; highest dispersion of
+        any natural garnet (0.057 — exceeds diamond 0.044)
+      - "Horsetail" inclusion is the single most diagnostic Ural feature
+      - See dedicated file: origin/russia/demantoid
+
+  - title: Alexandrite — Brief Overview
+    content: |
+      - Discovered 1830; Tokovaya River district, ~80 km east of Yekaterinburg
+      - Named for Tsarevich Alexander (later Tsar Alexander II)
+      - Russian alexandrite = global benchmark for colour-change quality
+      - See dedicated file: origin/russia/alexandrite
+
+  - title: Ural Emerald — Brief Overview
+    content: |
+      - Izumrudnye Kopi (Emerald Mines) + Malyshevsky deposit; ~90 km NE of Yekaterinburg
+      - Phlogopite mica inclusions are most diagnostic feature for Ural provenance
+      - Cr³⁺ + V³⁺ chromophores; mica-schist host at granite contact
+      - See dedicated file: origin/russia/emerald
+
+  - title: Russian Diamond (Yakutia)
+    content: |
+      Russia is the world's largest diamond producer by volume (Alrosa company operations):
+
+      - **Mir pipe** (Mirny): Discovered 1955; one of the largest kimberlite pipes;
+        underground mining continues
+      - **Udachnaya, Aikhal, Jubilee pipes** (Nyurba field): Major modern producers
+      - Russian Yakutian diamonds show the standard kimberlitic inclusion suite
+        (olivine/forsterite, pyrope garnet, chrome diopside, graphite) — no unique
+        macro-diagnostic features that distinguish them from other kimberlitic origins
+        at the gemmological bench level
+      - Separation from HPHT or CVD synthetic diamond uses standard spectroscopic
+        methods; origin determination of individual natural diamonds is not routinely
+        possible
+
+  - title: Russia Diamond Diagnostics Note
+    callout:
+      type: warning
+      title: Russian Diamond Gemmological Diagnostics Unverified
+      text: |
+        No peer-reviewed gemmological paper specifically characterising Yakutian
+        kimberlitic diamond diagnostics was retrieved from the research database.
+        Russian diamonds are commercially significant but there are no specific
+        bench-level indicators that distinguish them from, for example, Botswanan or
+        Canadian kimberlitic diamonds.
+
+        Standard diamond testing methods (fluorescence, spectroscopy, DiamondView,
+        DiamondSure) apply universally. Do not claim Russian-specific diamond
+        gemmological diagnostics without sourced literature.
+
+sources:
+  - doi: "10.5741/gems.30.4.243"
+    citation: "Kissin (1994) Ruby and Sapphire from the Southern Ural Mountains. Gems & Gemology."
+  - doi: "10.5741/gems.35.4.192"
+    citation: "Krzemnicki (1999) Diopside needles as inclusions in demantoid garnet. Gems & Gemology."
+  - doi: "10.5741/gems.31.2.106"
+    citation: "Laskovenkov & Zhernakov (1995) The Ural Emerald Mines. Gems & Gemology."

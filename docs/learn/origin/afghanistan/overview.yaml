@@ -1,0 +1,99 @@
+title: Afghanistan — Gem Origins Overview
+description: Hindu Kush gem province — lapis lazuli (Sar-e-Sang), Panjshir emerald, Nuristan kunzite; multiple geological settings; conflict and artisanal mining context.
+order: 1
+category: origin
+subcategory: afghanistan
+difficulty: advanced
+icon: gem
+related:
+  - origin/overview
+  - origin/afghanistan/lapis
+  - origin/afghanistan/emerald
+  - origin/tajikistan
+  - origin/pakistan/overview
+tags:
+  - afghanistan
+  - sar-e-sang
+  - panjshir
+  - badakhshan
+  - nuristan
+  - lapis-lazuli
+  - emerald
+  - origin/afghanistan
+
+sections:
+  - title: Introduction
+    content: |
+      Afghanistan sits at the convergence of the Hindu Kush, Pamir, and Karakoram ranges
+      and hosts some of the world's most historically significant gem deposits. The Sar-e-Sang
+      lapis lazuli mines in Badakhshan are the canonical ancient-world lapis source — mined
+      continuously for more than 7,000 years and supplying Egypt, Mesopotamia, and the
+      Indus Valley civilisations. Panjshir Valley emerald and Nuristan kunzite complete
+      a portfolio that makes Afghanistan a geologically extraordinary gem province.
+
+  - title: Geological Settings
+    table:
+      headers:
+        - Region
+        - Geological Setting
+        - Principal Gems
+      rows:
+        - ["Sar-e-Sang, Badakhshan", "Contact-metasomatic marble (ancient plutonic belt)", "Lapis lazuli"]
+        - ["Panjshir Valley", "Hydrothermal veins in black shales/phyllites", "Emerald"]
+        - ["Jagdalak, Kabul Province", "Marble-hosted corundum", "Ruby [CITATION NEEDED — see note]"]
+        - ["Nuristan / Kunar", "LCT granite pegmatites", "Kunzite, tourmaline, aquamarine"]
+
+  - title: Mining Under Conflict
+    callout:
+      type: warning
+      title: Four Decades of Disruption
+      text: |
+        Afghan gem mining has been severely disrupted by successive conflicts: the Soviet
+        invasion (1979), civil war (1992–1996), Taliban era (1996–2001), and post-2001
+        insurgency. Artisanal mining continued throughout under the control of various
+        armed groups.
+
+        The gem sector has been a priority for development efforts, but progress is
+        fragmented. International gem laboratories increasingly receive Afghan-origin
+        material for origin certification, requiring careful chain-of-custody documentation.
+
+  - title: Nuristan — Kunzite and Pegmatite Gems
+    content: |
+      Nuristan Province and adjacent Kunar Province host one of the world's finest
+      sources of gem kunzite (pink-lilac spodumene, LiAlSi₂O₆, Mn-coloured) in
+      LCT-type granitic pegmatites. Additional pegmatite gems include:
+
+      - Green tourmaline (elbaite)
+      - Aquamarine (blue-green beryl)
+      - Rubellite (red tourmaline)
+      - Hiddenite (green spodumene — rare)
+
+      Afghan kunzite crystals are among the largest and most saturated in the trade.
+      No dedicated origin-determination paper for Nuristan kunzite specifically was
+      retrieved; this material is identified by physical properties and geological provenance.
+
+  - title: Jagdalak Ruby — Citation Note
+    callout:
+      type: warning
+      title: CITATION NEEDED
+      text: |
+        Jagdalak (Kabul Province) is noted in geological literature as a marble-hosted
+        ruby locality related to the Hunza/Mogok marble-ruby belt. However, no dedicated
+        peer-reviewed gemmological characterisation paper for Jagdalak ruby was retrieved.
+        The marble-hosted chemistry is inferred from the general Asian marble ruby group
+        literature (Giuliani et al. 2015).
+
+        This locality is not described in detail here pending dedicated literature.
+        Builders and FGA candidates should note that Jagdalak ruby origin determination
+        would rely on the general marble-hosted ruby criteria (low Fe, strong fluorescence,
+        carbonate inclusions) rather than locality-specific diagnostics.
+
+sources:
+  - doi: "10.5741/gems.27.1.26"
+    citation: "Bowersox et al. (1991) Emeralds of the Panjshir Valley, Afghanistan. Gems & Gemology."
+  - doi: "10.1007/s12520-016-0430-0"
+    citation: "Lo Giudice et al. (2016) Protocol for lapis lazuli provenance determination: Afghan origin. Archaeological and Anthropological Sciences."
+  - doi: "10.5741/gems.46.3.188"
+    citation: "Shigley et al. (2010) Gem Localities of the 2000s. Gems & Gemology."
+  - doi: "10.1127/ejm/2015/0027-2442"
+    citation: "Giuliani et al. (2015) Fluid inclusions in ruby from Asian marble deposits. European Journal of Mineralogy."

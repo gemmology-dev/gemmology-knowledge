@@ -1,0 +1,245 @@
+title: Diamond Screening Instruments
+description: Thermal conductivity probes, electrical conductivity testers, DiamondView, DiamondSure, and reflectance meters — the tools used to screen loose diamonds and detect synthetic and simulant materials.
+order: 13
+category: equipment
+difficulty: intermediate
+icon: gem
+related:
+  - equipment/advanced-lab-instruments
+  - equipment/spectroscope
+  - equipment/refractometer
+  - equipment/uv-lamp
+tags:
+  - equipment/diamond-screening
+  - diamond
+  - moissanite
+  - synthetic-diamond
+  - simulants
+  - identification
+
+sections:
+  - title: Introduction
+    content: |
+      Diamonds require dedicated screening instruments because their refractive index (2.417) and
+      specific gravity (3.52) exceed the range of the standard gemmological refractometer and are
+      therefore not directly confirmable by the standard tool set. The instruments on this page
+      address that gap — from rapid in-trade thermal probes through to laboratory-grade UV imaging
+      systems used to detect synthetic growth patterns.
+
+  - title: Thermal Conductivity Probe
+    content: |
+      **Principle:** Diamond has the highest thermal conductivity of any natural substance —
+      approximately 2000–2200 W·m⁻¹·K⁻¹, compared with ~100 W·m⁻¹·K⁻¹ for most gem minerals.
+      A diamond tester consists of a heated tip; when pressed against the stone surface, the rate of
+      heat dissipation is measured electronically. Diamond dissipates heat so rapidly that the meter
+      deflects into the "diamond" zone, while glass, cubic zirconia (CZ), and most gem minerals
+      dissipate heat slowly and read below the threshold.
+    subsections:
+      - title: Procedure
+        content: |
+          1. Allow the probe tip to warm to operating temperature — the LED ready indicator on
+             the unit confirms when the tip is at calibrated temperature.
+          2. Hold the stone firmly on a clean, flat surface.
+          3. Touch the probe tip perpendicularly to a polished facet with gentle, consistent
+             pressure; do not allow the stone to rock.
+          4. Read the result: "diamond" (deflects into upper zone) or "not diamond" (lower zone).
+          5. For any "diamond" reading: confirm with an electrical conductivity test (see below)
+             and, if still uncertain, with a spectroscope or polariscope (moissanite shows strong
+             birefringence; diamond does not).
+
+      - title: Thermal Test Fails for Moissanite
+        content: |
+          **Moissanite (synthetic silicon carbide, SiC)** has a thermal conductivity of
+          approximately 490 W·m⁻¹·K⁻¹ — lower than diamond but high enough to trigger the
+          "diamond" reading on most standard single-probe thermal testers.
+
+          Henn (2021) reported that synthetic moissanite testing as "diamond" using standard
+          diamond testers is a well-documented problem: Journal of Gemmology 37(8), 778–779
+          (DOI: 10.15506/jog.2021.37.8.778) [VERIFIED].
+
+          Speich et al. (2022) reported a synthetic moissanite with diamond-level reflectivity that
+          also defeated thermal testers, reinforcing the need for the dual electrical test:
+          Journal of Gemmology 38(4), 323–325 (DOI: 10.15506/jog.2022.38.4.323) [VERIFIED].
+
+  - title: Electrical Conductivity Overlay
+    content: |
+      **Why electrical testing is needed:** Type IIb natural diamond (containing boron impurities)
+      is a p-type semiconductor with measurable electrical conductivity. Most natural diamonds
+      (Type Ia, Ib, IIa) are electrical insulators. Moissanite is a semiconductor — it conducts
+      electricity at gem-testing voltages.
+
+      **Dedicated moissanite testers** (combining thermal and electrical measurement) exploit this
+      difference:
+
+      | Result | Thermal | Electrical | Conclusion |
+      |--------|---------|------------|------------|
+      | Diamond (Type Ia/Ib/IIa) | High (diamond zone) | Insulator | Diamond |
+      | Diamond (Type IIb — blue/grey) | High | Conductor | Natural Type IIb diamond — do not reject as moissanite |
+      | Moissanite | High (passes thermal) | Conductor | Moissanite |
+      | CZ and most simulants | Low (fails thermal) | Insulator | Non-diamond simulant |
+
+      The combined thermal + electrical test discriminates all three major categories. When
+      testing a blue or grey diamond suspected of being Type IIb: test thermally first, then
+      electrically — Type IIb will pass thermal and pass electrical, while moissanite also passes
+      both. Further confirmation (spectroscope: moissanite shows strong birefringence; diamond
+      does not) is required for blue/grey stones.
+    callout:
+      type: warning
+      title: HPHT and CVD Synthetic Diamonds Cannot Be Detected by Probe Testers
+      text: |
+        HPHT and CVD synthetic diamonds (both colourless and coloured) test positive on both
+        thermal and combined electrical probes — they are genuine diamond (carbon) and have the
+        same thermal and electrical properties as natural diamond. Probe testers cannot
+        distinguish synthetic diamond from natural diamond. For this, DiamondView, photoluminescence
+        spectroscopy (77 K), or FTIR diamond type classification is required.
+
+  - title: DiamondView (Deep-UV Fluorescence Imaging)
+    content: |
+      **Principle:** DiamondView (a De Beers/Element Six instrument) irradiates the diamond surface
+      with very short-wavelength UV light below 230 nm — beyond the range of standard SW-UV lamps
+      (~254 nm). This deep UV excites strong surface fluorescence in diamond, revealing growth
+      sector patterns.
+    subsections:
+      - title: Fluorescence Pattern Interpretation
+        content: |
+          Natural diamond, HPHT synthetic diamond, and CVD synthetic diamond show distinctly
+          different fluorescence patterns because their growth sectors and defect distributions
+          differ:
+
+          - **Natural diamond:** typically blue or blue-green fluorescence; irregular,
+            non-geometric patterns without sharp sector boundaries.
+          - **HPHT synthetic diamond:** characteristic cuboctahedral growth sector pattern —
+            distinct coloured sectors (blue, yellow-green, orange) in a geometrically regular
+            arrangement corresponding to the growth faces ({111}, {100}, {110}).
+          - **CVD synthetic diamond:** often orange-red or green striped fluorescence layers
+            parallel to the growth direction; characteristically layered.
+
+          Willems et al. (2011) describe luminescent regions in CVD diamond directly observable
+          under DiamondView conditions: Gems & Gemology 47(3), 202–207
+          (DOI: 10.5741/gems.47.3.202) [VERIFIED].
+
+          Wang (2007) reported on latest-generation CVD-grown synthetic diamonds and their
+          fluorescence character: Gems & Gemology 43(4), 294
+          (DOI: 10.5741/gems.43.4.294) [VERIFIED].
+
+          Note: detailed DiamondView instrument specifications are proprietary and not available
+          in open peer-reviewed literature. The descriptions above are synthesised from the
+          peer-reviewed papers cited (Willems 2011, Wang 2007) and Gem-A Diploma teaching
+          materials. Willems et al. and Wang et al. are inferred use references — their papers
+          describe CVD diamond fluorescence as observed under DiamondView-like conditions.
+
+      - title: DiamondView Limitations
+        content: |
+          - Does not work reliably on very small melee diamonds (below ~0.05 ct) where growth
+            pattern detail is unresolvable.
+          - Cannot be used on stones set in jewellery — requires all-round UV illumination of the
+            bare stone.
+          - Training is required to interpret fluorescence patterns reliably.
+          - Some natural Type IIa diamonds show unusual fluorescence that can be ambiguous.
+
+  - title: DiamondSure (415 nm Spectral Screener)
+    content: |
+      **Principle:** DiamondSure (also a De Beers instrument) measures the optical absorption
+      spectrum of the stone, specifically checking for the presence or absence of the **415.5 nm
+      N3 absorption line** (the Cape series diamond marker).
+
+      Most natural diamonds are Type Ia and show the N3 line at 415.5 nm. Stones that lack this
+      line — Type IIa diamonds, CVD synthetic diamonds — are referred by DiamondSure for further
+      testing. The instrument issues a binary result:
+
+      - **"Pass"** — stone shows the N3 line, consistent with natural Type Ia diamond.
+      - **"Refer"** — stone lacks the N3 line; further laboratory testing is required.
+
+      A "refer" result means the stone is unusual, **not** necessarily synthetic. Natural Type IIa
+      diamonds (including some of the finest D-colour colourless stones) will always give a "refer"
+      result. DiamondSure only screens — it does not confirm synthetic origin.
+
+      Note: the DiamondSure screening principle and its use of the 415 nm line are documented in
+      Gem-A Diploma materials and in peer-reviewed papers (Breeding & Shigley 2009, DOI:
+      10.5741/gems.45.2.96 [VERIFIED]); specific instrument documentation is proprietary.
+
+  - title: Reflectance Meter (Reflectivity Meter)
+    content: |
+      **Principle:** A reflectance meter measures the percentage of normally incident light
+      reflected from a polished facet. At normal incidence, the Fresnel equation gives:
+
+      > R = [(n − 1) / (n + 1)]²
+
+      for transparent non-absorbing stones, where n is the refractive index. Higher RI produces
+      higher reflectance.
+
+      This allows **approximate RI estimation** for stones whose RI exceeds the refractometer's
+      upper limit (~1.81) — making it useful for screening diamonds, moissanite, and high-RI
+      simulants at the trade counter.
+    subsections:
+      - title: Reflectance Reference Values
+        content: |
+          Values below are approximate; exact figures depend on illuminant and detector design.
+        table:
+          caption: Approximate Reflectance (%) for High-RI Gems
+          headers:
+            - Species
+            - Approximate R (%)
+            - Notes
+          rows:
+            - ["Diamond (RI 2.417)", "~17", "Highest R of any natural gem; typical thermal probe positive"]
+            - ["Moissanite (SiC)", "~17", "Near-identical to diamond — cannot be separated by reflectance alone"]
+            - ["CZ (RI ~2.15)", "~13–14", "Clearly below diamond; fails thermal probe"]
+            - ["Zircon (high, RI ~1.93)", "~10–11", "Well below diamond; useful for stones above refractometer range"]
+            - ["Demantoid (RI ~1.89)", "~10", "Similar to zircon in R"]
+            - ["Glass (SG 2.0–4.2)", "~4–8", "Low R; confirms simulant for most lead-glass types"]
+
+      - title: Important Limitations
+        content: |
+          - **Moissanite cannot be separated from diamond by reflectance alone** — both give ~17% R.
+            The electrical conductivity test (see above) must be used first.
+          - Polished surface quality critically affects the reading — a scratched, frosted, or dirty
+            facet gives erroneously low R.
+          - Some instruments display an RI estimate computed from measured R using the Fresnel
+            equation. The accuracy of such an estimate is limited and was not confirmed in
+            retrieved primary literature during source verification — treat as approximate guidance
+            only; do not rely on it for definitive RI determination.
+          - Hodgkinson (2016) reported anomalous reflectance meter behaviour on a Sumitomo
+            synthetic diamond — illustrating that synthetic diamonds can produce unexpected readings:
+            Journal of Gemmology 35(4), 274–275 (DOI: 10.15506/jog.2016.35.4.274) [VERIFIED].
+
+  - title: When to Refer to a Laboratory
+    content: |
+      In-trade screening instruments (thermal/electrical probes, DiamondSure, reflectance meter)
+      are first-line tools only. Refer to a major gem laboratory when:
+
+      - A diamond probe gives "diamond" but the stone is suspected to be synthetic (especially for
+        high-value or unusually large stones).
+      - DiamondSure gives a "refer" result.
+      - The stone shows unusual fluorescence under a standard SW-UV lamp (orange, chalky white,
+        or inert in a parcel that is otherwise predominantly blue fluorescent).
+      - The stone shows strong birefringence under the polariscope (moissanite; diamond is
+        isotropic SR).
+      - A blue or grey diamond is found in a parcel (Type IIb: electrical conductivity positive).
+      - Any stone of significant value where synthetic or treatment history is commercially relevant.
+
+  - title: Sources
+    content: |
+      **Key citations for this topic:**
+
+      - Henn, U. (2021). "Synthetic Moissanite Testing as 'Diamond' Using Diamond Testers."
+        *Journal of Gemmology* 37(8), 778–779. DOI: 10.15506/jog.2021.37.8.778 [VERIFIED]
+      - Speich, L., Chalain, J.-P. & Krzemnicki, M. S. (2022). "Synthetic Moissanite with the
+        Reflectivity of Diamond." *Journal of Gemmology* 38(4), 323–325.
+        DOI: 10.15506/jog.2022.38.4.323 [VERIFIED]
+      - Hodgkinson, A. (2016). "Anomalous Behaviour of a Sumitomo Synthetic Diamond on the
+        Reflectance Meter." *Journal of Gemmology* 35(4), 274–275.
+        DOI: 10.15506/jog.2016.35.4.274 [VERIFIED]
+      - Willems, B., Tallaire, A. & Barjon, J. (2011). "Exploring the Origin and Nature of
+        Luminescent Regions in CVD Synthetic Diamond." *Gems & Gemology* 47(3), 202–207.
+        DOI: 10.5741/gems.47.3.202 [VERIFIED]
+      - Wang (2007). "Latest-Generation CVD-Grown Synthetic Diamonds From Apollo Diamond Inc."
+        *Gems & Gemology* 43(4), 294. DOI: 10.5741/gems.43.4.294 [VERIFIED]
+      - Breeding, C. M. & Shigley, J. E. (2009). "The Type Classification System of Diamonds
+        and Its Importance in Gemology." *Gems & Gemology* 45(2), 96.
+        DOI: 10.5741/gems.45.2.96 [VERIFIED]
+      - Read, P. G. (ed.). *Gems* 7th ed., chapter "Luminescent, electrical and thermal properties
+        of gemstones." DOI: 10.4324/9780080507224-17 [VERIFIED]
+      - Martineau, P. M. et al. (2004). "Identification of Synthetic Diamond Grown Using Chemical
+        Vapour Deposition at Temperatures Below 1000°C." *Gems & Gemology* 40(1), 2.
+        DOI: 10.5741/gems.40.1.2 [VERIFIED]

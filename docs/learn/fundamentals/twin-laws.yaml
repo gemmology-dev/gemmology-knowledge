@@ -1,0 +1,256 @@
+title: Twin Laws in Gemmology
+description: Named twin laws — spinel, Carlsbad, Manebach, Baveno, albite, pericline, Brazil, Dauphiné, Japan — and corundum parting, with diagnostic applications.
+order: 1.6
+category: fundamentals
+difficulty: advanced
+icon: gem
+related:
+  - fundamentals/crystal-systems
+  - fundamentals/crystallography-advanced
+  - fundamentals/physical-properties
+tags:
+  - twinning
+  - twin-laws
+  - crystallography
+  - parting
+  - identification
+
+sections:
+  - title: What is Twinning?
+    content: |
+      A crystal twin is an intergrowth of two or more crystal individuals of the same species that
+      share some lattice points but have different crystallographic orientations. The geometric
+      relationship between the parts is defined by the **twin law** — a symmetry operation
+      (reflection across a twin plane, or rotation about a twin axis) that is not a symmetry
+      element of the point group of the untwinned crystal.
+
+      **Types of twin by geometry:**
+      - **Contact twin:** individuals joined at a flat, planar composition surface (the twin plane).
+        The boundary is visible as a straight line on the crystal face.
+      - **Penetration twin:** individuals interpenetrate; no single planar boundary. The composition
+        surface is irregular or concave.
+      - **Polysynthetic (lamellar) twin:** repeated alternating thin lamellae, each related by the
+        same twin law. Produces parallel striations on crystal faces or cleavage surfaces.
+      - **Cyclic twin:** more than two individuals, each related by the same twin operation, arranged
+        around a common axis; may produce cross-, star-, or ring-shaped habits.
+
+      The twin plane or axis is described in Miller index notation of the host crystal system.
+
+      *Source: Read, P. Gemmology, 3rd ed. DOI: 10.4324/9780080507224 [VERIFIED]*
+
+  - title: Spinel Law — Cubic {111}
+    content: |
+      The spinel law is the defining twin law of the cubic system, operating on the {111} octahedral
+      planes.
+
+      - **System:** Cubic
+      - **Twin element:** {111} twin plane
+      - **Type:** Contact twin (occasionally polysynthetic as "contact polysynthetic")
+      - **Recognition feature:** Produces flat, triangular "macle" — an octahedron that appears
+        compressed perpendicular to the {111} plane. The contact face shows a re-entrant notch
+        (triangular depression) where the two individuals meet at the composition surface.
+      - **Gem species:**
+        - **Spinel:** flat triangular octahedra ("spinels" in the geological sense); the macle habit
+          is diagnostic for rough spinel in alluvial deposits.
+        - **Diamond:** flat triangular macles ("macle diamonds"), characteristic of some alluvial
+          diamond rough. The triangular table and re-entrant notch are recognisable sight-holder
+          features.
+
+    callout:
+      type: info
+      title: Macle — FGA Terminology
+      text: |
+        "Macle" (from French) is the traditional term for a contact twin on the spinel law — a flat,
+        triangular crystal that looks like two octahedra compressed along {111}. The term is used
+        in FGA examination contexts for both spinel and diamond.
+
+  - title: Carlsbad, Manebach, and Baveno Laws — Monoclinic Feldspars
+    content: |
+      Three named twin laws apply to monoclinic feldspars (orthoclase, sanidine), distinguished
+      by their twin element and the geometry of the resulting composition surface.
+    subsections:
+      - title: Carlsbad law
+        content: |
+          - **System:** Monoclinic
+          - **Twin element:** c-axis ([001]) as twin axis — a penetration twin
+          - **Type:** Penetration twin
+          - **Recognition:** Two individuals interpenetrate; the composition surface is irregular
+            and oblique to the long axis of the crystal. Produces a characteristic elongated
+            crystal with an irregular diagonal composition surface visible on the prism face.
+            The two halves of the crystal may show slightly different colours or lustre.
+          - **Gem species:** Orthoclase feldspar (moonstone), sanidine.
+
+      - title: Manebach law
+        content: |
+          - **System:** Monoclinic
+          - **Twin element:** {001} pinacoidal twin plane — contact twin
+          - **Type:** Contact twin
+          - **Recognition:** The {001} pinacoidal cleavage face of orthoclase is also the
+            composition surface. The twin appears as a book-like intergrowth where the cleavage
+            and the twin boundary coincide. Less commonly encountered than Carlsbad.
+          - **Gem species:** Orthoclase.
+
+      - title: Baveno law
+        content: |
+          - **System:** Monoclinic
+          - **Twin element:** {021} twin plane — contact twin
+          - **Type:** Contact twin
+          - **Recognition:** The {021} face produces a re-entrant notch (triangular depression) at
+            the junction of the two individuals. The Baveno law produces a triangular re-entrant
+            angle on the crystal face, distinguishing it from Carlsbad.
+          - **Gem species:** Orthoclase. Also known to occur in some plagioclase.
+
+  - title: Albite and Pericline Laws — Triclinic Plagioclase
+    content: |
+      Plagioclase feldspars (albite, oligoclase, labradorite, bytownite, anorthite) are triclinic
+      and characteristically show two simultaneous polysynthetic twin laws that produce the
+      diagnostic striations used to distinguish plagioclase from orthoclase.
+    subsections:
+      - title: Albite law
+        content: |
+          - **System:** Triclinic
+          - **Twin element:** {010} twin plane — polysynthetic contact
+          - **Type:** Polysynthetic (lamellar) contact twin
+          - **Recognition:** Produces fine parallel striations running across the {001} cleavage
+            face of plagioclase. The striations are perpendicular to the cleavage step edges and
+            are gemmologically diagnostic: plagioclase feldspars show these striations; orthoclase
+            does not. Visible under a loupe (10×) as fine parallel lines on the cleavage surface.
+          - **Gem species:** Labradorite, sunstone, albite, oligoclase (all plagioclase).
+
+      - title: Pericline law
+        content: |
+          - **System:** Triclinic
+          - **Twin element:** b-axis (the "rhombic section") — polysynthetic penetration
+          - **Type:** Polysynthetic penetration twin
+          - **Recognition:** Produces striations on the {010} face at right angles to the
+            albite-law striations. Both laws operate simultaneously in plagioclase, giving a
+            grid-like pattern at the microscopic scale. The pericline striations are parallel to
+            the cleavage traces on the {010} pinacoid.
+          - **Gem species:** Labradorite, albite; typically co-occurs with albite law.
+
+    callout:
+      type: tip
+      title: Diagnostic Test — Plagioclase vs. Orthoclase
+      text: |
+        Albite-law polysynthetic twinning striations on the {001} cleavage face reliably
+        distinguish plagioclase (striations present) from orthoclase (no striations) without
+        instruments. Use 10× loupe under oblique illumination to see the fine parallel lines.
+
+  - title: Brazil Law — Trigonal Quartz (Left/Right Sectors)
+    content: |
+      - **System:** Trigonal
+      - **Twin element:** {11̄20} twin plane — polysynthetic penetration twin
+      - **Type:** Polysynthetic penetration twin
+      - **Recognition:** Sectors of opposite optical handedness (left-handed and right-handed
+        quartz) are intergrown within a single crystal. There is no external morphological
+        distinction between the two sectors — the twin is invisible optically by normal
+        transmitted light. Detection requires:
+        - **Etch figures:** acid etching of the r-face produces triangular etch pits of opposite
+          orientation in left- vs. right-handed sectors.
+        - **X-ray diffraction:** Laue photographs show the handedness.
+      - **Effect on properties:** Brazil-law twins cancel piezoelectric response in alternating
+        sectors. This is why natural quartz must be checked for Brazil twinning before use in
+        precision frequency applications; only single-handed quartz is useful. Gem-quality natural
+        quartz for piezoelectric use must be twin-free.
+      - **Gem species:** All varieties of quartz (amethyst, citrine, rock crystal, smoky quartz).
+
+  - title: Dauphiné Law — Trigonal Quartz (Electrical Twin)
+    content: |
+      - **System:** Trigonal
+      - **Twin element:** c-axis (rotation of 60° or 180°) — penetration twin
+      - **Type:** Penetration twin
+      - **Recognition:** Dauphiné-law twins are crystallographically rotated by 60° about the
+        c-axis, but this operation is equivalent to a 180° rotation in the point group 32 (the
+        quartz class). They are **indistinguishable externally**: no striations, no colour
+        difference, and no change in RI or birefringence.
+        - Under the polariscope, Dauphiné twinning causes sector-by-sector anomalous extinction
+          — different sectors extinguish at slightly different angles, producing an irregular
+          "flashing" pattern under crossed polars. This can confuse the gemmologist if not
+          recognised.
+        - The twin does NOT change the optical handedness of the quartz (unlike Brazil law),
+          so it has no effect on optical rotation.
+        - **Electrical twin:** Dauphiné twinning reverses the direction of the a-axes. In sectors
+          separated by the twin, the piezoelectric polarity is reversed. This is the origin of the
+          term "electrical twin."
+      - **Gem species:** Quartz (common; many quartz crystals contain Dauphiné domains).
+
+  - title: Japan Law — Quartz Heart-Shaped Twin
+    content: |
+      - **System:** Trigonal
+      - **Twin element:** {11̄22} twin plane — contact twin
+      - **Type:** Contact twin
+      - **Recognition:** Produces a heart-shaped or V-shaped contact twin. The two prism faces of
+        the two individuals meet at a re-entrant angle of approximately 84°, giving the
+        characteristic heart ("macle") shape. The composition surface is a flat plane coinciding
+        with the {11̄22} face.
+      - **Named for:** Specimens from Yamanashi prefecture, Japan, where this twin habit is
+        particularly well developed. Also found in Brazilian and Alpine quartz.
+      - **Gem species:** Quartz.
+
+  - title: Corundum Twinning and Parting
+    content: |
+      Corundum (ruby and sapphire) has no true cleavage. Instead, it commonly shows parting on
+      two planes that arise from polysynthetic twinning on those planes. This is a classic
+      examination trap: the Diploma requires candidates to know that corundum has **no cleavage**,
+      only parting.
+
+      **Twin plane:** {10-11} (rhombohedral plane, trigonal four-index notation).
+
+      Repeated polysynthetic twinning on {10-11} produces closely spaced lamellae of alternating
+      orientation. The composition planes between twin individuals are slightly weaker than the
+      bulk crystal, producing the {10-11} parting.
+
+      Additionally, corundum shows {0001} basal parting (c-parting) from polysynthetic twinning
+      on the basal pinacoid plane.
+
+      *Source: Pignatelli, Nespolo & Pardieu, Mineralogy and Petrology, 2024.
+      DOI: 10.1007/s00710-024-00858-1 [VERIFIED]*
+    subsections:
+      - title: Recognition of corundum parting
+        content: |
+          On broken corundum rough, parting appears as a series of parallel flat steps (not a
+          smooth conchoidal fracture curve) at a consistent angle — the {10-11} or {0001} plane.
+          In faceted stones, parting planes appear as reflective internal planes, sometimes showing
+          interference colour (iridescence), and can be mistaken for cleavage cracks.
+
+          The {10-11} parting is exploited in oriented cutting of corundum rough:
+          - Cutters can split rough along the parting to orient the table perpendicular to the c-axis.
+          - This exploits the parting as a controlled guide plane.
+
+      - title: Parting vs cleavage — examination point
+        table:
+          headers:
+            - Feature
+            - Cleavage
+            - Parting
+          rows:
+            - ["Cause", "Weak bonding along crystallographic planes inherent to structure", "Twinning lamellae or exsolution planes (not inherent)"]
+            - ["Universality", "Present in all crystals of the species", "Only in crystals that are twinned or have undergone exsolution"]
+            - ["Corundum", "NONE", "Yes — {10-11} and {0001}"]
+            - ["Topaz", "{001} perfect cleavage", "Not significant"]
+            - ["Diamond", "{111} perfect octahedral cleavage", "Not significant"]
+
+  - title: Diagnostic Relevance
+    content: |
+      Named twin laws appear at multiple points in gemmological identification:
+
+      - **Spinel macle / diamond macle:** sight-holder feature for alluvial rough; flat triangular
+        habit with re-entrant notch is immediately recognisable.
+      - **Albite striations on plagioclase cleavage:** fastest loupe test to distinguish plagioclase
+        from orthoclase without instruments; decisive when RI values overlap.
+      - **Dauphiné twinning in quartz:** explains anomalous extinction patterns under the polariscope;
+        without this knowledge a gemmologist might mistake the stone for biaxial.
+      - **Brazil twinning:** explains why some quartz shows alternating optical effects; relevant
+        when evaluating quartz for piezoelectric use.
+      - **Corundum parting vs cleavage:** stating "corundum has perfect basal cleavage" is a
+        Diploma-level examination error. The correct answer is parting along {0001} and {10-11}.
+      - **Labradorescence:** the polysynthetic albite and pericline twinning lamellae in labradorite
+        create the thin-film interference responsible for labradorescence — twinning is directly
+        linked to the phenomenon.
+
+  - title: Sources
+    content: |
+      - Read, P. *Gemmology*, 3rd ed. Routledge, 2012. DOI: 10.4324/9780080507224. [VERIFIED]
+      - Pignatelli, I.; Nespolo, M.; Pardieu, V. et al. "Basal twinning of Greenland corundum."
+        *Mineralogy and Petrology*, 2024. DOI: 10.1007/s00710-024-00858-1. [VERIFIED]
+      - Gem-A Diploma syllabus §3.1: twinning types and named twin laws.

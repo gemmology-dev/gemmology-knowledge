@@ -1,0 +1,122 @@
+title: Thailand — Gem Origins Overview
+description: Southeast Asian gem province centred on Chanthaburi, Trat, Kanchanaburi, Bo Phloi, and Bo Rai; world leader in corundum heat treatment and trading.
+order: 1
+category: origin
+subcategory: thailand
+difficulty: advanced
+icon: gem
+related:
+  - origin/overview
+  - origin/thailand/ruby
+  - origin/thailand/sapphire
+  - origin/thailand/zircon
+  - origin/cambodia
+  - origin/burma/ruby
+  - species/corundum
+tags:
+  - thailand
+  - chanthaburi
+  - trat
+  - kanchanaburi
+  - basaltic
+  - origin/thailand
+
+sections:
+  - title: Introduction
+    content: |
+      Thailand hosts one of the most important gem-producing provinces in Southeast Asia,
+      centred on Cenozoic alkali basalt fields in the east (Chanthaburi-Trat) and west
+      (Kanchanaburi). Though primary ruby deposits are largely exhausted, Bangkok and
+      Chanthaburi remain the world's dominant centres for corundum heat treatment and
+      the international ruby and sapphire trade.
+
+  - title: Geological Context
+    content: |
+      All Thai corundum deposits share a basaltic origin:
+    subsections:
+      - title: Basaltic Province
+        content: |
+          - **Setting**: Cenozoic intraplate alkali basalt fields along the Indochina block
+          - **Age**: Neogene to Quaternary volcanic activity
+          - **Transport**: Corundum crystallised at mantle depth and was transported to
+            the surface by alkali basalt magmas
+          - **Concentration**: Gems accumulate in alluvial and eluvial placers derived
+            from weathered basalt
+          - **Chemistry**: Basaltic environment imposes high-Fe, low-Cr signature on
+            corundum — the defining geochemical contrast with marble-hosted Mogok ruby
+
+      - title: Tectonic Context
+        content: |
+          - Post-subduction intraplate extension of the Indochina microplate
+          - Multi-stage sapphire formation at Bo Phloi reflects separate pulses
+            of basaltic magmatism
+          - Same Southeast Asian alkaline basalt province as Cambodian Pailin field
+            — deposits merge across the border
+
+  - title: Mining Areas
+    table:
+      headers:
+        - District
+        - Province
+        - Products
+        - Status
+      rows:
+        - ["Bo Rai", "Trat", "Ruby (historic 'Siam ruby')", "Largely exhausted"]
+        - ["Bo Welu / Khlung", "Chanthaburi", "Ruby, blue/yellow sapphire", "Limited activity"]
+        - ["Bo Phloi", "Kanchanaburi", "Blue and yellow sapphire", "Mostly closed, well-studied"]
+        - ["Kanchanaburi town area", "Kanchanaburi", "Blue sapphire", "Historic"]
+
+  - title: Production History
+    content: |
+      Thailand's rise and evolution as a gem hub:
+    subsections:
+      - title: Rise to Prominence
+        content: |
+          - 1970s–1980s: Thailand became the world's dominant ruby source after Mogok
+            production declined; Keller (1982) noted Thailand had become "the world's
+            major source of gem ruby" following "the recent drastic decline in production
+            from the classic ruby mines of Burma"
+          - Bo Rai ruby production peaked in the 1970s–1980s; now essentially exhausted
+
+      - title: Treatment and Trading Hub
+        content: |
+          - Bangkok and Chanthaburi developed into the world's dominant ruby and sapphire
+            heat-treatment and trading centres
+          - Thailand pioneered the technology of heating Thai and Burmese rough to dissolve
+            silk and improve colour
+          - Material from Thailand, Cambodia, Vietnam, Burma, and East Africa is routinely
+            treated and traded through Chanthaburi
+
+  - title: Zircon Trade Hub
+    content: |
+      Beyond ruby and sapphire, Thailand is the global centre for blue zircon production:
+
+      - Cambodian and Vietnamese zircon rough is imported to Chanthaburi and Bangkok
+      - Heat treatment in oxidising conditions at 900–1000°C converts brownish rough
+        to the prized "blue zircon" colour
+      - Thailand exports the majority of the world's faceted blue zircon
+
+  - title: Basaltic vs Marble-Hosted Corundum
+    callout:
+      type: info
+      title: The Key Distinction
+      text: |
+        All Thai corundum is basaltic-hosted. This produces a fundamentally different
+        geochemical and gemmological profile from marble-hosted material (Burma, Kashmir,
+        Vietnam, Pakistan):
+
+        - HIGH iron content (>600 ppm, often >1,000 ppm Fe)
+        - WEAK to INERT LWUV fluorescence (iron quenches chromium fluorescence)
+        - STRONG 450–470 nm iron absorption triplet in UV-Vis spectra
+        - BASALT-SUITE inclusions (zircon, ilmenite, alkali feldspar, enstatite)
+        - ABSENT: calcite, apatite, sphene typical of marble-hosted material
+
+sources:
+  - doi: "10.5741/gems.18.4.186"
+    citation: "Keller (1982) The Chanthaburi-Trat Gem Field, Thailand. Gems & Gemology."
+  - doi: "10.5741/gems.55.3.354"
+    citation: "Promwongnan & Sutthirat (2019) Mineral Inclusions in Ruby from Bo Welu, Chanthaburi. Gems & Gemology."
+  - doi: "10.1016/j.jseaes.2019.104068"
+    citation: "Sutthirat et al. (2019) Multistages of sapphire formation, Bo Phloi. Journal of Asian Earth Sciences."
+  - doi: "10.5741/gems.45.4.236"
+    citation: "Shor & Weldon (2009) Ruby and Sapphire Production and Distribution. Gems & Gemology."

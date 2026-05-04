@@ -1,0 +1,166 @@
+title: Alexandrite Effect — Physical Mechanism
+description: Deep dive into the alexandrite effect — Cr³⁺ in trigonal crystal field, the dual transmission window, photopic peak balance, named species including garnets, sapphire, and synthetic spinel, and how to test colour change under standardised illuminants.
+order: 16
+category: phenomena
+difficulty: advanced
+icon: sun-moon
+related:
+  - phenomena/colour-change
+  - phenomena/tenebrescence
+  - species/chrysoberyl
+  - species/garnet
+tags:
+  - phenomena/alexandrite-effect
+  - alexandrite
+  - chromium
+  - colour-change
+  - crystal-field
+
+sections:
+  - title: Definition
+    content: |
+      The alexandrite effect is the reversible, repeatable shift in apparent body colour of a
+      gemstone when the illuminant changes from daylight (approximately 6500 K, blue-rich) to
+      incandescent light (approximately 2700–3200 K, red-rich).
+
+      It is caused by a dual transmission window in the gem's absorption spectrum: the stone
+      transmits both red (~650–700 nm) and blue-green (~450–510 nm) wavelengths simultaneously.
+      Which colour the eye perceives as dominant depends on the spectral power distribution of
+      the illuminant in those two regions.
+
+      This page provides the physical mechanism underpinning colour change as described in the
+      overview page. For grading, quality factors, and broader colour-change gem survey, see
+      the companion page on Colour Change.
+
+  - title: Mechanism
+    content: |
+      The crystal field physics of Cr³⁺ in chrysoberyl:
+    subsections:
+      - title: Chromophore and Crystal Field
+        content: |
+          In alexandrite (the colour-change variety of chrysoberyl, BeAl₂O₄), the colour-active
+          ion is Cr³⁺ substituting for Al³⁺ in a distorted octahedral site. The octahedral
+          crystal field splits the Cr³⁺ d-orbital energy levels, creating two broad absorption
+          bands:
+
+          - One centred around 550–580 nm (yellow-green)
+          - One in the UV/violet (~400 nm)
+
+          These two bands leave two transmission windows:
+          - Red window (~650–700 nm)
+          - Blue-green window (~450–510 nm)
+
+          The stone transmits both simultaneously — this is the structural prerequisite for the
+          alexandrite effect.
+
+      - title: The Photopic Peak and Illuminant Dependence
+        content: |
+          Human daylight (photopic) vision is most sensitive near 555 nm. The Cr³⁺ absorption
+          at ~560 nm sits exactly at the photopic peak, suppressing the eye's most sensitive
+          wavelength range. What remains to dominate the perceived colour depends entirely on
+          illuminant composition:
+
+          - **Daylight (D65, ~6500 K)** — strong blue-green component in the illuminant
+            preferentially excites the blue-green transmission window → stone appears green to teal
+          - **Incandescent (~2700 K, tungsten)** — weak blue, strong red in the illuminant
+            preferentially excites the red transmission window → stone appears red to purplish-red
+
+          Qiu & Guo (2021) confirmed this mechanism in pyrope-spessartine colour-change garnets:
+          "As they exhibit the same capacity to transmit light, the colour of the gem is
+          determined by the external light source."
+
+      - title: Crystal Field Context
+        content: |
+          Why does Cr³⁺ produce red in ruby, green in emerald, and teal-green/red in alexandrite?
+
+          The octahedral crystal field strength (Δo) differs by host mineral:
+          - **Corundum (ruby)**: Strong octahedral field → Cr³⁺ absorbs at shorter wavelengths
+            → absorption band shifts toward blue-green → red light passes → red colour
+          - **Beryl (emerald)**: Weaker field → absorption band shifts toward longer wavelengths
+            → red light partially absorbed → green light passes
+          - **Chrysoberyl (alexandrite)**: Intermediate field → two absorption bands straddle
+            the visible spectrum, leaving both red and blue-green to pass → alexandrite effect
+
+  - title: Named Species
+    table:
+      caption: Gem species showing the alexandrite effect. [PARTIALLY_SUPPORTED] for diaspore — no DOI-verified primary spectroscopic paper on diaspore colour-change mechanism was retrieved in the source research session; the effect is well-known but the ion assignment relies on standard references [PARTIALLY_SUPPORTED].
+      headers:
+        - Species / Variety
+        - Active Ion(s)
+        - Daylight Colour
+        - Incandescent Colour
+        - Quality / Notes
+      rows:
+        - ["Alexandrite (chrysoberyl var.)", "Cr³⁺", "Green to teal", "Red to purplish-red", "Strongest and most complete change known; benchmark for all colour-change gems. Schmetzer & Malsy (2011) [VERIFIED]"]
+        - ["Colour-change garnet (pyrope-spessartine)", "Cr³⁺ + V³⁺", "Blue-green to teal", "Purple to red", "Very strong; best specimens rival alexandrite in completeness. Qiu & Guo (2021) [VERIFIED]"]
+        - ["Colour-change sapphire (corundum)", "V³⁺ (± Cr³⁺)", "Blue to violet", "Purple to red", "Variable; often greyish intermediate colour; locality affects quality"]
+        - ["Colour-change diaspore ('zultanite', 'csarite')", "V³⁺ + Cr³⁺ (proposed)", "Kiwi green", "Pinkish champagne", "Subtle but characteristic change; spectroscopic assignment [PARTIALLY_SUPPORTED] — no dedicated DOI-verified primary paper retrieved"]
+        - ["Colour-change synthetic spinel (Co-doped)", "Co²⁺", "Blue-green", "Red-pink", "Common in older synthetic 'alexandrite' simulants; chalky blue-white SW fluorescence distinguishes from alexandrite"]
+        - ["Colour-change fluorite (some)", "[CITATION NEEDED]", "Various", "Various", "Weak; mechanism not confirmed; not diagnostically significant"]
+
+  - title: How to Test the Alexandrite Effect
+    content: |
+      Standardised testing conditions for colour-change assessment:
+    subsections:
+      - title: Light Source Requirements
+        content: |
+          - **Daylight equivalent**: D65 fluorescent lamp or north-facing window light (overcast sky).
+            Avoid mixed LED lighting — LED spectra vary widely and may not reproduce the effect
+            consistently.
+          - **Incandescent**: Standard tungsten bulb (~2700 K). Not LED or halogen at high colour
+            temperature; these do not have sufficient red component to show the full change.
+
+          Observe the stone under each source in turn and note the dominant hue in each condition.
+
+      - title: Grading the Change
+        content: |
+          - **Complete change** (100%): Pure green/teal in daylight; pure red in incandescent; no
+            intermediate or residual colour of the other type
+          - **Strong** (75–99%): Clearly different hues with minor residual component
+          - **Moderate** (50–74%): Distinct but less dramatic shift
+          - **Weak** (<50%): Slight shift only; marginally perceptible
+
+          Laboratory reports use CIE colorimetry under D65 vs Standard Illuminant A to quantify
+          change objectively.
+
+      - title: Species Identification After Colour Change Confirmation
+        content: |
+          Confirming the alexandrite effect does not identify the species. Use RI, SG, and
+          spectroscopic data to determine the mineral:
+
+          - Green → strong red; RI 1.746–1.755; SG ~3.73 → alexandrite (chrysoberyl)
+          - Blue-green → strong red; RI 1.740–1.760; SG ~3.8–4.0 → colour-change garnet
+          - Blue-grey → weak purple; RI 1.760–1.770; SG ~4.0 → colour-change sapphire
+          - Green → pinkish champagne; RI 1.700–1.750; SG ~3.3–3.4 → diaspore
+
+  - title: Synthetic Alexandrite Diagnostics
+    content: |
+      Separating natural alexandrite from synthetic varieties:
+    subsections:
+      - title: Growth Features
+        content: |
+          Natural alexandrite shows planar growth zones (fingerprints, two-phase fluid inclusions,
+          chrysotile fibres) typical of metamorphic or pegmatitic origin. Schmetzer, Bernhardt &
+          Hainschwang (2013) documented titanium-bearing synthetic alexandrite grown by flux and
+          hydrothermal methods, noting curved growth planes and specific UV-Vis absorption
+          differences (Ti⁴⁺ bands) absent in natural material.
+
+      - title: Fluorescence Contrast
+        content: |
+          Natural alexandrite: moderate red LWUV fluorescence (Cr³⁺, low-quenching chrysoberyl).
+          Synthetic colour-change spinel simulant: chalky blue-white SW fluorescence (Co²⁺ or
+          Ti⁴⁺) — completely different response, immediately diagnostic.
+
+          Synthetic alexandrite (Cr-doped) shows similar LWUV red to natural but lacks natural
+          inclusion types; growth features are definitive under magnification.
+
+  - title: Sources
+    items:
+      - name: Qiu & Guo (2021)
+        description: "Explaining Colour Change in Pyrope-Spessartine Garnets. Minerals 11(8), 865. DOI: 10.3390/min11080865. [VERIFIED] — Quantitative UV-Vis spectroscopic confirmation of dual transmission window mechanism; abstract explicitly describes the two transmittance zones and illuminant-dependence."
+      - name: Schmetzer & Malsy (2011)
+        description: "Alexandrite and colour-change chrysoberyl from the Lake Manyara alexandrite-emerald deposit in northern Tanzania. The Journal of Gemmology 32(5), 179–209. DOI: 10.15506/jog.2011.32.5.179. [VERIFIED] — Detailed optical characterisation of alexandrite; Cr³⁺ as chromophore confirmed."
+      - name: Schmetzer, Bernhardt & Hainschwang (2013)
+        description: "Titanium-bearing synthetic alexandrite and chrysoberyl. The Journal of Gemmology 33(5), 137–148. DOI: 10.15506/jog.2013.33.5.137. [VERIFIED] — Synthetic alexandrite diagnostics; Ti⁴⁺ absorption differences."
+      - name: Read (2008)
+        description: "Gemmology (3rd ed.). Butterworth-Heinemann/Routledge. DOI: 10.4324/9780080507224. [APPROXIMATE] — Crystal field context and named species survey."

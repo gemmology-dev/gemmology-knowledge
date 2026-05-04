@@ -1,0 +1,131 @@
+title: Panjshir Emerald — Afghanistan
+description: Hydrothermal-sediment hosted Panjshir emerald; high Fe UV-Vis bands, low Li, three-phase inclusions in black shale context; distinction from Colombian.
+order: 3
+category: origin
+subcategory: afghanistan
+difficulty: advanced
+icon: gem
+related:
+  - origin/afghanistan/overview
+  - origin/pakistan/emerald
+  - origin/colombia
+  - origin/zambia
+  - species/emerald
+tags:
+  - afghanistan
+  - panjshir
+  - emerald
+  - hydrothermal
+  - sediment-hosted
+  - origin/afghanistan
+
+sections:
+  - title: Introduction
+    content: |
+      Panjshir Valley emerald (Parwan/Kapisa Province, Afghanistan) has been mined since
+      at least the 19th century but gained systematic international attention after the
+      Soviet withdrawal; Bowersox et al. (1991) provided the first systematic gemological
+      description. The deposit is hydrothermally hosted in black shales and phyllites —
+      a sediment-hosted type genetically different from Colombian black-shale (no igneous
+      proximity) and from ophiolite-hosted Swat emeralds. The Panjshir is one of the few
+      major emerald sources without associated igneous rocks nearby.
+
+  - title: Geological Setting
+    content: |
+      Panjshir emerald genesis:
+
+      - **Host rock**: Hydrothermal veins in black shales and phyllites — the "sediment-
+        hosted" model; unlike Colombian black-shale type, Panjshir lacks documented
+        proximal igneous rocks as the Be/Cr source
+      - **Formation**: Hydrothermal fluids exploited fracture systems in the organic-rich
+        black shales; the Cr derives from the shale geochemical reservoir; Be from the
+        same fluid system
+      - **Location**: Panjshir Valley, a river valley NE of Kabul; the valley was famous
+        as an anti-Soviet resistance stronghold; production resumed post-1989
+
+  - title: Appearance and Properties
+    content: |
+      Panjshir emerald characteristics:
+    subsections:
+      - title: Colour
+        content: |
+          - Medium to deep green; highly saturated fine material is available
+          - "Pronounced iron-related bands" in UV-Vis spectroscopy characterise Afghan
+            emeralds and distinguish them from Colombian (Fe-poor) material
+          - Fluorescence: Red LWUV (Cr³⁺ dominant) but intensity varies with Fe content;
+            lower than Colombian or Sandawana due to Fe quenching
+
+      - title: Chromophores
+        content: |
+          - Cr³⁺ (primary); some V³⁺; Fe (as chromophore and fluorescence quencher)
+          - The Fe spectral bands are a key analytical criterion — much stronger than
+            in Colombian material
+
+  - title: Trace Element Chemistry
+    content: |
+      Chemical fingerprinting for Panjshir emerald:
+    subsections:
+      - title: Low-Li Signature
+        content: |
+          - **Li < 200 ppmw**: Shared with Colombian, Swat (Pakistan), and some Brazilian
+            deposits; distinguishes from Zambian, Zimbabwean, Ethiopian material which
+            show higher Li
+          - This signature reflects a non-pegmatitic heritage
+
+      - title: Separation from Colombian
+        content: |
+          - **UV-Vis iron bands**: Panjshir shows "pronounced iron-related bands"
+            not typical of Colombian emerald, which is Fe-poor and therefore shows
+            stronger red fluorescence — the UV-Vis spectral difference is a primary
+            analytical criterion
+          - **Alkali elements, Sc, Mn, Co, Ni, Zn, Ga**: Multivariate trace element
+            patterns provide further discrimination; laboratory LA-ICP-MS required
+          - **Three-phase vs Colombian three-phase**: Both have three-phase inclusions
+            but Colombian includes diagnostic halite cubes and parisite; Panjshir
+            lacks both of these
+
+  - title: Diagnostic Inclusions
+    content: |
+      Panjshir inclusion suite:
+
+      - **Three-phase fluid inclusions**: Reported in Panjshir emeralds; less consistently
+        documented than in Colombian material; the nature of the trapped solid phases
+        differs (no halite cubes; no parisite)
+      - **Carbon-rich black particles**: From the black shale host (carbonaceous matter)
+      - **Two-phase inclusions**: Liquid + gas; common
+      - **Absence of parisite**: This Ca-rare earth fluorocarbonate crystal is specific
+        to Colombian (Muzo-type) material; its absence helps exclude Colombian origin
+
+  - title: Inclusion Comparison
+    table:
+      headers:
+        - Feature
+        - Panjshir (Afghanistan)
+        - Colombian Muzo
+        - Swat (Pakistan)
+      rows:
+        - ["Three-phase inclusions", "Present (varies)", "Yes — with halite cube", "Yes (documented)"]
+        - ["Parisite crystals", "Absent", "Diagnostic — present", "Absent"]
+        - ["Host context clues", "Black shale carbon", "Albite + calcite", "Chromian muscovite"]
+        - ["Fe bands in UV-Vis", "Pronounced", "Absent/minimal", "Moderate"]
+        - ["Li content", "<200 ppmw", "<200 ppmw", "<200 ppmw"]
+        - ["Fluorescence", "Moderate (Fe quenches)", "Strong (low Fe)", "Strong (high Cr)"]
+
+  - title: Mining and Market
+    content: |
+      Panjshir in the trade:
+
+      - Operated by various factions during conflict periods; gem sector rehabilitation
+        is ongoing
+      - Afghan emeralds appear regularly on the international market; laboratory
+        certification is increasingly sought for high-value stones
+      - Panjshir does not command the Colombian premium in the market; pricing
+        reflects Afghanistan's lower trade reputation and security concerns
+
+sources:
+  - doi: "10.5741/gems.27.1.26"
+    citation: "Bowersox et al. (1991) Emeralds of the Panjshir Valley, Afghanistan. Gems & Gemology."
+  - doi: "10.3390/min9090561"
+    citation: "Karampelas et al. (2019) Emeralds from the Most Important Occurrences: Chemical and Spectroscopic Data. Minerals."
+  - doi: "10.5741/gems.55.4.614"
+    citation: "Saeseaw et al. (2019) Geographic Origin Determination of Emerald. Gems & Gemology."

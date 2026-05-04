@@ -1,0 +1,144 @@
+title: Russian Alexandrite — Tokovaya District, Ural Mountains
+description: Tokovaya district alexandrite — 1830 discovery, named for Tsar Alexander II; benchmark colour change; mica-schist host; market position vs synthetic.
+order: 3
+category: origin
+subcategory: russia
+difficulty: advanced
+icon: gem
+related:
+  - origin/russia/overview
+  - origin/russia/emerald
+  - origin/ceylon
+  - species/chrysoberyl
+tags:
+  - russia
+  - urals
+  - alexandrite
+  - chrysoberyl
+  - colour-change
+  - tokovaya
+  - sanarka
+  - origin/russia
+
+sections:
+  - title: Introduction
+    content: |
+      Russian alexandrite from the Tokovaya River district is the global benchmark for
+      chrysoberyl colour-change quality. Discovered in 1830 and named for the future
+      Tsar Alexander II, the stone exhibits the most valued colour-change in the gem world:
+      a distinctly blue-green to green in daylight shifting to raspberry-red to purple-red
+      under incandescent light. No other alexandrite source consistently matches this
+      quality of colour change.
+
+  - title: Discovery and History
+    content: |
+      Tokovaya district history:
+
+      - **1830**: Russian alexandrite discovered in mica schists of the Tokovaya River
+        district (Sanarka basin), approximately 80 km east of Yekaterinburg, Southern Urals
+      - Named in honour of Tsarevich Alexander (later Tsar Alexander II) — the discovery
+        reportedly occurred on the day of his coming of age
+      - The locality also hosts the Izumrudnye Kopi (Emerald Mines) district — the same
+        mica-schist geological setting produces both alexandrite and emerald
+      - Russian alexandrite was fashionable in late 19th century European jewellery;
+        stones remain among the most valuable chrysoberyl specimens
+
+  - title: Geological Setting
+    content: |
+      Host rock and genesis:
+
+      - **Host rock**: Mica schist (phlogopite-bearing) at the contact between
+        granitic pegmatites and Cr-enriched ultramafic country rocks
+      - **Genetic model**: Pegmatite supplies Be and Al; ultramafic country rock supplies Cr
+      - This Be + Al + Cr combination is the universal alexandrite-forming system,
+        also seen at Brazil (Minas Gerais), Sri Lanka, and India (Andhra Pradesh)
+      - Sanarka River basin = additional related locality
+
+  - title: Properties
+    table:
+      headers:
+        - Property
+        - Value
+      rows:
+        - ["Composition", "BeAl₂O₄ (chrysoberyl), Cr³⁺ substituting Al³⁺"]
+        - ["Crystal system", "Orthorhombic; biaxial positive"]
+        - ["RI", "1.745–1.757 (α); birefringence 0.008–0.010"]
+        - ["SG", "3.73"]
+        - ["Hardness", "8.5 (Mohs)"]
+        - ["Pleochroism", "Trichroic — green / orange-yellow / red (strong)"]
+        - ["Chelsea Colour Filter", "Pinkish-red to red (Cr³⁺ response)"]
+        - ["Fluorescence", "Moderate red under LWUV; stronger under SWUV"]
+        - ["Key absorption", "680 nm Cr doublet; 645 nm; 580 nm band"]
+
+  - title: Colour Change — The Russian Standard
+    content: |
+      What defines Russian alexandrite quality:
+    subsections:
+      - title: Daylight Colour
+        content: |
+          - Distinctly blue-green to green; often described as "emerald green" or
+            "peacock blue" in fine stones
+          - The saturation and clarity of the green is the first criterion of quality
+
+      - title: Incandescent Colour
+        content: |
+          - Raspberry red to purple-red; vivid and saturated in fine material
+          - The change should be complete — not a muddy intermediate
+          - "The Russian standard": the most balanced and distinct colour change
+            of any alexandrite source
+
+      - title: Mechanism
+        content: |
+          - Cr³⁺ in BeAl₂O₄ creates two transmission windows: ~550 nm (green) and
+            ~680 nm (red)
+          - Under daylight (blue-rich illuminant), the eye perceives green
+          - Under incandescent light (red-rich), the eye perceives red
+          - The sharpness of the change depends on how cleanly Cr³⁺ absorbs the
+            intermediate wavelengths (~580–640 nm)
+
+  - title: Inclusions
+    content: |
+      Russian alexandrite inclusions:
+
+      - **Phlogopite mica flakes**: From the mica-schist host; brownish tabular platelets
+      - **Two-phase fluid inclusions**: Liquid + gas
+      - **Fingerprints / healed fractures**
+      - **Elongated crystals** parallel to crystallographic axes
+      - Russian alexandrite is characteristically cleaner than Brazilian material;
+        clean stones >1 ct are extremely rare and correspondingly valuable
+
+  - title: Distinguishing from Synthetic Alexandrite
+    callout:
+      type: warning
+      title: Natural vs Synthetic Alexandrite
+      text: |
+        Synthetic alexandrite (Czochralski and flux methods) has the identical Cr³⁺
+        absorption spectrum and colour-change mechanism as natural. Distinction REQUIRES
+        microscopic inclusion examination:
+
+        - **Czochralski synthetic**: Curved growth striae (parallel to growth front);
+          nail-head spicules characteristic of pulled-from-melt growth
+        - **Flux synthetic**: Twisted fingerprints; wispy veils; Pt platelets possible;
+          no curved striae
+        - **Natural Russian**: Phlogopite mica flakes; two-phase inclusions; no curved
+          striae; no Pt platelets
+
+        UV fluorescence alone is NOT sufficient to separate natural from synthetic.
+
+  - title: Market Position
+    content: |
+      Russian alexandrite in the market:
+
+      - **Highest premiums**: Fine Russian Ural alexandrite with strong colour change
+        and good size commands the highest prices in the alexandrite market
+      - **Typical values**: Fine stones >1 ct: $10,000–50,000/ct depending on change
+        quality, colour saturation, clarity, and size
+      - **Unheated premium**: Natural colour — no treatment issue in alexandrite;
+        focus is on natural vs synthetic and origin origin
+      - **Alternative sources**: Brazil, Sri Lanka, India, and East Africa produce
+        alexandrite; none consistently match Ural quality; Brazilian material is the
+        primary commercial alternative for larger stones
+
+sources:
+  - doi: "10.5741/gems.30.4.243"
+    citation: "Kissin (1994) Ruby and Sapphire from the Southern Ural Mountains, Russia. Gems & Gemology."

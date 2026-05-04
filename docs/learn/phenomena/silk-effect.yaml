@@ -1,0 +1,128 @@
+title: Silk Effect
+description: The silk effect in Kashmir sapphire and Burmese ruby — velvety appearance from rutile-needle clouds, mechanism, distinction from asterism, and diagnostic significance for origin and heat-treatment detection.
+order: 11
+category: phenomena
+difficulty: intermediate
+icon: feather
+related:
+  - phenomena/overview
+  - phenomena/asterism
+  - phenomena/chatoyancy
+tags:
+  - phenomena/silk-effect
+  - kashmir-sapphire
+  - corundum
+  - rutile
+  - heat-treatment
+  - origin-determination
+
+sections:
+  - title: Definition
+    content: |
+      The silk effect is the soft, velvety diffuse glow visible in the body of fine Kashmir sapphires
+      and some Burmese rubies. It is caused by dense clouds of very fine rutile (TiO₂) needles that
+      scatter incident light internally, giving the stone an appearance likened to crushed velvet or
+      a sleepy quality.
+
+      Silk is entirely distinct from asterism: asterism requires long, perfectly oriented needles
+      that concentrate light into a star; silk involves shorter, less-oriented needles at higher
+      density, producing overall haziness rather than a localised star pattern.
+
+  - title: Mechanism
+    content: |
+      Physical cause of the silk effect:
+    subsections:
+      - title: Inclusion Type
+        content: |
+          Very fine, randomly or sub-randomly oriented rutile (TiO₂) needles, typically less than
+          5 µm in length and less than 1 µm in diameter, often partially dissolved during
+          metamorphic or reheating events. In Kashmir sapphire, these may be accompanied by thin
+          films of boehmite (AlO(OH)) on crystal surfaces.
+
+      - title: Optical Cause
+        content: |
+          Rayleigh/Mie scattering by a dense cloud of sub-micron needles. Because the needles are
+          shorter than a full visible wavelength in many cases, they scatter blue and violet light
+          preferentially. This diffuses light throughout the stone and reduces the windowing effect
+          that makes some sapphires appear dark from certain angles.
+
+          The result is the characteristic cool, hazy blue body appearance of Kashmir sapphire —
+          the stone appears illuminated from within.
+
+          Note: The Rayleigh/Mie scattering assignment is consistent with standard optics for
+          sub-micron particles; a dedicated peer-reviewed paper on this specific scattering
+          mechanism in Kashmir silk was not retrieved in the source research session.
+          [PARTIALLY_SUPPORTED]
+
+      - title: Heat Treatment and Silk Dissolution
+        content: |
+          Heating above approximately 1200 °C dissolves the rutile needles back into the corundum
+          lattice. Loss of silk is therefore one of the primary microscopic indicators of heat
+          treatment in sapphire. Hänni (1990) documented that the characteristic veil-like inclusions
+          of Kashmir sapphire — which produce its "sleepy or velvety appearance" — are absent or
+          disrupted in heated material.
+
+  - title: Named Species
+    table:
+      caption: Species and varieties showing silk
+      headers:
+        - Species
+        - Silk Character
+        - Significance
+      rows:
+        - ["Kashmir sapphire (unheated)", "Dense clouds of fine rutile needles + boehmite films; partially re-dissolved", "'Velvety' or 'sleepy' blue; highly diagnostic for unheated Kashmir origin; lost on heating"]
+        - ["Burmese (Mogok) ruby (unheated)", "Fine rutile silk clouds; less dense than Kashmir; iron-poor composition", "Soft pigeon's-blood red with velvety depth; partially reduced by heat treatment"]
+        - ["Sri Lankan sapphire (unheated)", "Rutile silk present but needles longer; more likely to produce weak asterism or chatoyancy", "Less velvety than Kashmir; coarser silk"]
+        - ["Thai/Cambodian corundum (typically heated)", "Silk dissolved by heat treatment; needles absent", "Clean, bright appearance but no velvety character; indicates heating"]
+
+  - title: Distinguishing Silk from Related Phenomena
+    table:
+      caption: Silk versus asterism, chatoyancy, and adularescence
+      headers:
+        - Phenomenon
+        - Structural Cause
+        - Visual Result
+      rows:
+        - ["Silk effect", "Dense short rutile needles; Mie/Rayleigh scattering throughout body", "Velvety body glow visible face-up and in oblique light; no star"]
+        - ["Asterism", "Long oriented rutile needles in three directions 120° apart (corundum)", "Six-ray star concentrated under point-source light on cabochon"]
+        - ["Chatoyancy", "Single orientation of needles or tubes producing Mie scattering", "Single bright band across cabochon; moves with rotation"]
+        - ["Adularescence", "Feldspar lamellae interference scattering", "Blue floating glow in moonstone; not corundum; different host mineral"]
+
+  - title: Diagnostic Relevance
+    content: |
+      Silk in gemmological practice:
+    subsections:
+      - title: Unheated Indicator
+        content: |
+          Presence of fine needle clouds under high-magnification darkfield illumination is a
+          primary indicator of an unheated corundum. Under darkfield, the needles appear as bright
+          scattering points rather than long parallel fibres (which would indicate potential asterism).
+
+          The combination of silk with characteristic curved growth zones and fingerprint inclusions
+          is a key element in Kashmir origin determination by major laboratories (Gübelin, SSEF, GRS).
+
+      - title: Heat Treatment Indicator
+        content: |
+          Absence of silk in a sapphire or ruby that would be expected to carry it — particularly
+          Kashmir and Mogok material — is strong evidence of heat treatment. Labs also look for
+          healed fingerprints and absence of needles in stones whose other properties (colour zone,
+          SG, RI) suggest a high-quality natural origin.
+
+          Hänni (1990) remains the primary peer-reviewed reference for Kashmir sapphire diagnostic
+          inclusion characteristics.
+
+      - title: Star Ruby / Silk Relationship
+        content: |
+          In star ruby, the same rutile mineral forms the inclusions, but the needles are long,
+          complete, and perfectly oriented in three directions 60° apart. Silk and asterism
+          represent two end-members of rutile inclusion development: short and dense (silk) versus
+          long and oriented (star). Intermediate stages produce hazy, poorly defined asterism.
+
+  - title: Sources
+    items:
+      - name: Hänni (1990)
+        description: "A contribution to the distinguishing characteristics of sapphire from Kashmir. The Journal of Gemmology 22(2), 67–75. DOI: 10.15506/jog.1990.22.2.67. [VERIFIED] — Primary peer-reviewed reference for Kashmir silk inclusions and velvety appearance."
+      - name: Keller (1983)
+        description: "The Rubies of Burma: A Review of the Mogok Stone Tract. Gems & Gemology 19(4), 209–219. DOI: 10.5741/gems.19.4.209. [VERIFIED] — Documents inclusion types including silk in Mogok ruby."
+      - name: Read (2008)
+        description: "Gemmology (3rd ed.). Butterworth-Heinemann/Routledge. DOI: 10.4324/9780080507224. [APPROXIMATE] — Chapter 'Colour, Lustre and Sheen'; silk terminology and heat treatment effects."

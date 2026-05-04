@@ -1,0 +1,141 @@
+title: Tajikistan — Kuh-i-Lal Spinel (Balas Ruby)
+description: Kuh-i-Lal Gorno-Badakhshan red and pink spinel — historic "Balas ruby" of the Persian courts; Cr-coloured marble-hosted; trace element distinction from Mogok and Luc Yen.
+order: 12
+category: origin
+difficulty: advanced
+icon: gem
+related:
+  - origin/overview
+  - origin/burma/spinel
+  - origin/vietnam
+  - origin/afghanistan/overview
+  - species/spinel
+tags:
+  - tajikistan
+  - kuh-i-lal
+  - badakhshan
+  - spinel
+  - balas-ruby
+  - marble-hosted
+  - himalayan
+  - origin/tajikistan
+
+sections:
+  - title: Introduction
+    content: |
+      The Kuh-i-Lal deposit in the Gorno-Badakhshan Autonomous Region of Tajikistan is
+      the world's most historically celebrated red spinel locality. Known for centuries
+      as the source of "Balas ruby" — a Persian trade name for red spinel before spinel
+      was distinguished from ruby as a separate species — it supplied the gem courts of
+      the Islamic world, Persia, and Mughal India. The Black Prince's Ruby (set in the
+      Imperial State Crown of the United Kingdom) and the Timur Ruby are both Kuh-i-Lal
+      red spinels. The deposit lies in the same Himalayan orogenic belt as Mogok (Burma)
+      and Luc Yen (Vietnam).
+
+  - title: Geological Context
+    content: |
+      Kuh-i-Lal sits at the junction of the Pamir Mountains and the Afghan border:
+    subsections:
+      - title: Himalayan Belt Affiliation
+        content: |
+          - Located in Badakhshan, geographically adjacent to Afghanistan's Sar-e-Sang
+            lapis mines — both deposits sit in the same Badakhshan province
+          - Part of the marble-hosted gem spinel belt extending from Mogok (Myanmar)
+            through Luc Yen (Vietnam) to Kuh-i-Lal; Malsy and Klemm (2010) stated
+            "Gem spinel deposits in Myanmar, Vietnam and Tajikistan have their formation
+            in association with Himalayan orogenesis"
+          - All are marble-hosted in regionally metamorphosed carbonate sequences
+
+      - title: Mining
+        content: |
+          - High-altitude artisanal mining in marble outcrops of the Gorno-Badakhshan
+            Autonomous Region; accessibility is difficult
+          - Modern production is small-scale; material appears on the international market
+            but volumes are modest
+          - The "Kuhilal" mine name is also spelled Kuh-e-Lal or Kuh-i-Lal
+
+  - title: Properties
+    content: |
+      Kuh-i-Lal spinel characteristics:
+    subsections:
+      - title: Colour
+        content: |
+          - Vivid red, orange-red, hot pink, mauve-pink; the historic "pigeon blood"
+            red spinel from this deposit set the standard for red spinel globally
+          - Colour caused by Cr³⁺ substituting Mg²⁺ in the spinel structure
+          - Liu et al. (2022) confirmed the Cr³⁺ colouring mechanism for Kuh-i-Lal
+            material through UV-Vis spectroscopy
+
+      - title: Inclusion Suite
+        content: |
+          - Marble-hosted inclusions: calcite, apatite, dolomite, negative crystals
+          - Absence of titanite inclusions (which characterise Luc Yen)
+          - Absence of cobalt-blue colour variety (unique to Luc Yen)
+          - Octahedral negative crystals consistent with marble genesis
+
+      - title: Fluorescence
+        content: |
+          - Strong red fluorescence under LWUV — Cr³⁺ dominant, relatively low Fe
+          - Similar in principle to Mogok ruby and Luc Yen spinel fluorescence
+
+  - title: Trace Element Origin Determination
+    content: |
+      Separating Kuh-i-Lal from Mogok and Luc Yen spinels:
+    subsections:
+      - title: Key Chemical Differences
+        content: |
+          - Malsy and Klemm (2010) showed that trace element differences exist: "Ti, Fe,
+            Ni, Zn, Zr and Sn differ slightly in spinels from the sources investigated"
+          - Kuh-i-Lal spinels differ in **Ni, Zn, Sn** profiles from Luc Yen and Mogok
+
+      - title: Diagnostic Table
+        items:
+          - name: Horsetail inclusions (demantoid reference)
+            description: N/A (not applicable to spinel)
+          - name: Titanite inclusions
+            description: Absent
+          - name: Co-blue colour variety
+            description: Absent
+          - name: "Ni, Zn, Sn profile"
+            description: Kuh-i-Lal characteristic pattern
+          - name: Host rock
+            description: Marble (calcite, apatite, negative crystals)
+
+  - title: The Kuh-i-Lal Comparison Table
+    table:
+      headers:
+        - Feature
+        - Kuh-i-Lal (Tajikistan)
+        - Luc Yen (Vietnam)
+        - Mogok (Burma)
+      rows:
+        - ["Titanite inclusions", "Absent", "Present (diagnostic)", "Absent"]
+        - ["Cobalt-blue spinel", "Not produced", "Diagnostic feature", "Rare"]
+        - ["Marble inclusions", "Calcite, apatite, neg crystals", "Calcite, marble suite", "Apatite, calcite, neg crystals"]
+        - ["Ni/Zn/Sn profile", "Kuh-i-Lal characteristic", "Different", "Different"]
+        - ["Mn/Ti vs Cr+V", "Distinctive range", "Different range", "Different range"]
+        - ["LWUV fluorescence", "Strong red (Cr)", "Strong red (Cr)", "Strong red (Cr)"]
+
+  - title: Historic "Balas Ruby" Name
+    callout:
+      type: info
+      title: The Balas Ruby Mystery Resolved
+      text: |
+        Before the 18th century, red spinel and ruby were not distinguished as separate
+        gem species. The name "Balas ruby" (from Balascia, the medieval name for Badakhshan)
+        referred to red stones from the Kuh-i-Lal region — most of which are spinel.
+
+        Famous "rubies" in royal collections worldwide were later identified as Kuh-i-Lal
+        spinel:
+        - **Black Prince's Ruby** (Imperial State Crown, UK): A 170-carat red spinel
+        - **Timur Ruby** (Royal Collection Trust, UK): An historic red spinel inscribed
+          with names of its Mughal owners
+
+        This historical confusion was resolved in the 19th century when mineralogists
+        distinguished spinel from corundum by crystal system and composition.
+
+sources:
+  - doi: "10.2533/chimia.2010.741"
+    citation: "Malsy & Klemm (2010) Distinction of Gem Spinels from the Himalayan Mountain Belt. CHIMIA International Journal for Chemistry."
+  - doi: "10.5741/gems.58.3.338"
+    citation: "Liu et al. (2022) Color Mechanism and Spectroscopic Thermal Variation of Pink Spinel from Kuh-i-Lal, Tajikistan. Gems & Gemology."
