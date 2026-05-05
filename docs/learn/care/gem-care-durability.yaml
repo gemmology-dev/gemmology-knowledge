@@ -53,7 +53,7 @@ sections:
 
   - title: Hardness Considerations
     content: |
-      The Mohs scale is ordinal, not linear—the jump from 9 to 10 is enormous. Household
+      The Mohs scale is ordinal, not linear – the jump from 9 to 10 is enormous. Household
       dust contains quartz particles (H 7), so gems below 7 will gradually accumulate
       scratches during normal wear.
     table:
@@ -72,7 +72,7 @@ sections:
 
   - title: Toughness and Cleavage
     content: |
-      Cleavage—the tendency to break along crystallographic planes—significantly affects
+      Cleavage – the tendency to break along crystallographic planes – significantly affects
       toughness. Even hard gems can be brittle.
     subsections:
       - title: High-Risk Cleavage Gems

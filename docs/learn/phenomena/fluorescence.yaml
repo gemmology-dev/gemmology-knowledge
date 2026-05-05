@@ -1,5 +1,5 @@
 title: Fluorescence and Phosphorescence
-description: Fluorescence and phosphorescence in gemstones — Stokes shift mechanism, LWUV vs SWUV regimes, species reaction table, phosphorescence afterglow, and diagnostic applications for natural vs synthetic identification.
+description: Fluorescence and phosphorescence in gemstones – Stokes shift mechanism, LWUV vs SWUV regimes, species reaction table, phosphorescence afterglow, and diagnostic applications for natural vs synthetic identification.
 order: 12
 category: phenomena
 difficulty: intermediate
@@ -32,7 +32,7 @@ sections:
       Both are distinct from the gem-testing instrument context (UV lamp selection, geometry,
       box design) covered separately under equipment.
 
-  - title: Mechanism — Stokes Shift
+  - title: Mechanism – Stokes Shift
     content: |
       The physical basis of fluorescence:
     subsections:
@@ -40,7 +40,7 @@ sections:
         content: |
           When a gem absorbs a UV photon, electrons are promoted to a higher energy level. Before
           emitting a photon of their own, they lose some energy to lattice vibrations (phonons).
-          The emitted photon therefore has lower energy — longer wavelength — than the absorbed
+          The emitted photon therefore has lower energy – longer wavelength – than the absorbed
           photon. This energy difference is the Stokes shift.
 
           Consequence: emitted light is always at longer wavelength (redder) than the exciting
@@ -48,11 +48,11 @@ sections:
 
       - title: Activators and Chromophores
         content: |
-          - **Cr³⁺** — intense red emission ~692–694 nm (ruby R-lines); low-iron corundum
-          - **N3 centre** (three N atoms + vacancy in diamond) — absorbs at ~415 nm; emits blue (~440–460 nm) under LWUV
-          - **Mn²⁺** — broad orange-red emission in calcite, scheelite, some fluorites
-          - **UO₂²⁺ (uranyl ion)** — sharp green bands ~490–570 nm in hyalite opal
-          - **Ti⁴⁺** — blue emission in Verneuil synthetic spinel (chalky character)
+          - **Cr³⁺** – intense red emission ~692–694 nm (ruby R-lines); low-iron corundum
+          - **N3 centre** (three N atoms + vacancy in diamond) – absorbs at ~415 nm; emits blue (~440–460 nm) under LWUV
+          - **Mn²⁺** – broad orange-red emission in calcite, scheelite, some fluorites
+          - **UO₂²⁺ (uranyl ion)** – sharp green bands ~490–570 nm in hyalite opal
+          - **Ti⁴⁺** – blue emission in Verneuil synthetic spinel (chalky character)
 
   - title: LWUV vs SWUV Regimes
     content: |
@@ -71,7 +71,7 @@ sections:
           SWUV reactions often separate natural from synthetic where LWUV cannot.
 
           The two lamps test different electronic levels and commonly produce different fluorescence
-          colours and intensities from the same stone — together they provide a two-point diagnostic.
+          colours and intensities from the same stone – together they provide a two-point diagnostic.
 
   - title: Fluorescence Reactions by Species
     table:
@@ -83,13 +83,13 @@ sections:
         - Activator / Defect
         - Notes
       rows:
-        - ["Ruby — Mogok (Burma)", "Strong red", "Moderate to strong red", "Cr³⁺", "Low Fe content; minimal quenching; strong LW fluorescence is characteristic of Mogok material (Keller 1983)"]
-        - ["Ruby — Thai/Cambodian", "Weak to inert", "Inert", "Cr³⁺ quenched by Fe²⁺", "High Fe (>1000 ppm) suppresses Cr³⁺ fluorescence; diagnostic contrast with Mogok"]
+        - ["Ruby – Mogok (Burma)", "Strong red", "Moderate to strong red", "Cr³⁺", "Low Fe content; minimal quenching; strong LW fluorescence is characteristic of Mogok material (Keller 1983)"]
+        - ["Ruby – Thai/Cambodian", "Weak to inert", "Inert", "Cr³⁺ quenched by Fe²⁺", "High Fe (>1000 ppm) suppresses Cr³⁺ fluorescence; diagnostic contrast with Mogok"]
         - ["Flux synthetic ruby (Ramaura, Kashan, Chatham)", "Strong to very strong red", "Strong red", "Cr³⁺ (no Fe quenching in flux growth)", "Often stronger than natural Mogok due to very low Fe; combine with inclusion observation to confirm synthetic"]
-        - ["Diamond — type Ia (N3)", "Blue to blue-white (strong to moderate)", "Weak to moderate; may show yellow SW", "N3 centre (415 nm)", "Most natural colourless/near-colourless diamonds; LWUV blue is the most common response"]
-        - ["Diamond — type IIa", "Usually inert", "Usually inert", "No N3; no aggregated N", "Some type IIa show weak blue LWUV; absence of fluorescence combined with high transparency is characteristic"]
-        - ["Diamond — CVD synthetic", "Inert to weak orange/yellow LW", "Orange, red, or persistent orange-red SW", "NV centres, Si-V, interstitial defects", "Persistent SW phosphorescence is an important diagnostic indicator for CVD — see phosphorescence section below; note: primary peer-reviewed paper for this specific response not yet confirmed [CITATION NEEDED]"]
-        - ["Diamond — HPHT synthetic", "Yellow-green to inert LW", "Yellow-green SW; may show persistent blue-green phosphorescence", "N-V centre, H3 centre", "Zhu et al. (2024) documented an HPHT diamond with engineered N3-derived blue LW fluorescence mimicking type Ia; requires FTIR confirmation"]
+        - ["Diamond – type Ia (N3)", "Blue to blue-white (strong to moderate)", "Weak to moderate; may show yellow SW", "N3 centre (415 nm)", "Most natural colourless/near-colourless diamonds; LWUV blue is the most common response"]
+        - ["Diamond – type IIa", "Usually inert", "Usually inert", "No N3; no aggregated N", "Some type IIa show weak blue LWUV; absence of fluorescence combined with high transparency is characteristic"]
+        - ["Diamond – CVD synthetic", "Inert to weak orange/yellow LW", "Orange, red, or persistent orange-red SW", "NV centres, Si-V, interstitial defects", "Persistent SW phosphorescence is an important diagnostic indicator for CVD – see phosphorescence section below; note: primary peer-reviewed paper for this specific response not yet confirmed [CITATION NEEDED]"]
+        - ["Diamond – HPHT synthetic", "Yellow-green to inert LW", "Yellow-green SW; may show persistent blue-green phosphorescence", "N-V centre, H3 centre", "Zhu et al. (2024) documented an HPHT diamond with engineered N3-derived blue LW fluorescence mimicking type Ia; requires FTIR confirmation"]
         - ["Synthetic spinel (Verneuil)", "Chalky blue-white (intense)", "Chalky green-blue (intense)", "Ti⁴⁺ or related activator", "Highly diagnostic; chalky SW response is the single most reliable indicator of Verneuil synthetic spinel"]
         - ["Natural spinel (Cr-rich red)", "Orange-red", "Orange", "Cr³⁺", "Moderate to strong; far less intense than the chalky SW response of Verneuil spinel"]
         - ["Natural emerald (Colombian)", "Inert to very weak red LW", "Inert", "Cr³⁺ quenched by Fe", "Colombian emerald characteristically very weak or inert"]
@@ -101,7 +101,7 @@ sections:
         - ["Scheelite (CaWO₄)", "Bright blue-white LW", "Intense blue-white SW", "W⁶⁺ / Mo⁶⁺", "SW fluorescence is diagnostic for scheelite vs visually similar stones [PARTIALLY_SUPPORTED]"]
         - ["Benitoite (BaTiSi₃O₉)", "Intense blue LW", "Intense blue SW", "Ti⁴⁺", "Extremely intense blue SW; one of the brightest naturally occurring SW fluorescences known [PARTIALLY_SUPPORTED]"]
         - ["Calcite", "Red to pink LW", "Red to pink SW", "Mn²⁺", "Useful for detecting calcite in composite stones; many limestone-derived materials fluoresce"]
-        - ["Pearl (Akoya, cultured)", "Chalky white to blue-white LW", "Variable", "Organic matrix + Mn²⁺", "Weak fluorescence common; treated dark Akoya (gamma-irradiated) may show red LW — treatment indicator"]
+        - ["Pearl (Akoya, cultured)", "Chalky white to blue-white LW", "Variable", "Organic matrix + Mn²⁺", "Weak fluorescence common; treated dark Akoya (gamma-irradiated) may show red LW – treatment indicator"]
 
   - title: Phosphorescence
     content: |
@@ -130,7 +130,7 @@ sections:
           rows:
             - ["Hackmanite (sodalite var.)", "Yellow-orange", "Several seconds", "Normal feature of tenebrescence cycle; Kondo & Beaton 2009 [VERIFIED]"]
             - ["HPHT synthetic diamond", "Blue-green (H3 or N-related)", "Several seconds", "Diagnostic for HPHT type; natural equivalents rare; Zhu et al. 2024 [VERIFIED]"]
-            - ["CVD synthetic diamond", "Orange to red", "30 s to several minutes", "Highly diagnostic; almost never seen in natural diamonds — note: primary peer-reviewed paper not yet confirmed [CITATION NEEDED]"]
+            - ["CVD synthetic diamond", "Orange to red", "30 s to several minutes", "Highly diagnostic; almost never seen in natural diamonds – note: primary peer-reviewed paper not yet confirmed [CITATION NEEDED]"]
             - ["Type IIb natural diamond (boron-bearing)", "Blue", "Several seconds", "Very rare; boron acceptor trap; natural examples confirmed"]
             - ["ZnS-imitation 'gems'", "Bright green", "Minutes to hours", "Clear indicator of novelty/fake material; ZnS phosphor pigment"]
 
@@ -156,7 +156,7 @@ sections:
           Most natural diamonds are type Ia and show blue LWUV. Most HPHT synthetics show
           yellow-green (H3 centre). CVD synthetics frequently show phosphorescence under SWUV.
           However, Zhu et al. (2024) demonstrated that some HPHT diamonds can be engineered
-          with N3-derived blue LWUV fluorescence that mimics natural type Ia — requiring
+          with N3-derived blue LWUV fluorescence that mimics natural type Ia – requiring
           FTIR confirmation for definitive classification.
 
       - title: Iron Quenching Effect
@@ -168,14 +168,14 @@ sections:
   - title: Sources
     items:
       - name: Keller (1983)
-        description: "The Rubies of Burma: A Review of the Mogok Stone Tract. Gems & Gemology 19(4), 209–219. DOI: 10.5741/gems.19.4.209. [VERIFIED] — Documents strong red LWUV fluorescence as characteristic of Mogok ruby."
+        description: "The Rubies of Burma: A Review of the Mogok Stone Tract. Gems & Gemology 19(4), 209–219. DOI: 10.5741/gems.19.4.209. [VERIFIED] – Documents strong red LWUV fluorescence as characteristic of Mogok ruby."
       - name: Zhu et al. (2024)
         description: "A Near-Colourless HPHT-grown Diamond with Natural-appearing Blue Fluorescence from N3 Centres. The Journal of Gemmology 39(1), 24–26. DOI: 10.15506/jog.2024.39.1.24. [VERIFIED]"
       - name: Zhu et al. (2022)
         description: "Melee-Sized Colourless HPHT-Grown Synthetic Diamond with Red Fluorescence. The Journal of Gemmology 38(2), 128–129. DOI: 10.15506/jog.2022.38.2.128. [VERIFIED]"
       - name: Kondo & Beaton (2009)
-        description: "Hackmanite/Sodalite from Myanmar and Afghanistan. Gems & Gemology 45(1), 38–43. DOI: 10.5741/gems.45.1.38. [VERIFIED] — Hackmanite yellow-orange phosphorescence."
+        description: "Hackmanite/Sodalite from Myanmar and Afghanistan. Gems & Gemology 45(1), 38–43. DOI: 10.5741/gems.45.1.38. [VERIFIED] – Hackmanite yellow-orange phosphorescence."
       - name: Radomskaya et al. (2021)
-        description: "Sulfur-Bearing Sodalite, Hackmanite, in Alkaline Pegmatites of the Inagli Massif. Geology of Ore Deposits 63(7). DOI: 10.1134/s1075701521070060. [VERIFIED] — Hackmanite luminescence and crystal chemistry."
+        description: "Sulfur-Bearing Sodalite, Hackmanite, in Alkaline Pegmatites of the Inagli Massif. Geology of Ore Deposits 63(7). DOI: 10.1134/s1075701521070060. [VERIFIED] – Hackmanite luminescence and crystal chemistry."
       - name: Read (2008)
-        description: "Gemmology (3rd ed.). Butterworth-Heinemann/Routledge. DOI: 10.4324/9780080507224. [APPROXIMATE] — Fluorescence reactions by species; general mechanism."
+        description: "Gemmology (3rd ed.). Butterworth-Heinemann/Routledge. DOI: 10.4324/9780080507224. [APPROXIMATE] – Fluorescence reactions by species; general mechanism."

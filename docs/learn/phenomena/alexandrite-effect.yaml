@@ -1,5 +1,5 @@
-title: Alexandrite Effect — Physical Mechanism
-description: Deep dive into the alexandrite effect — Cr³⁺ in trigonal crystal field, the dual transmission window, photopic peak balance, named species including garnets, sapphire, and synthetic spinel, and how to test colour change under standardised illuminants.
+title: Alexandrite Effect – Physical Mechanism
+description: Deep dive into the alexandrite effect – Cr³⁺ in trigonal crystal field, the dual transmission window, photopic peak balance, named species including garnets, sapphire, and synthetic spinel, and how to test colour change under standardised illuminants.
 order: 16
 category: phenomena
 difficulty: advanced
@@ -50,7 +50,7 @@ sections:
           - Red window (~650–700 nm)
           - Blue-green window (~450–510 nm)
 
-          The stone transmits both simultaneously — this is the structural prerequisite for the
+          The stone transmits both simultaneously – this is the structural prerequisite for the
           alexandrite effect.
 
       - title: The Photopic Peak and Illuminant Dependence
@@ -60,9 +60,9 @@ sections:
           wavelength range. What remains to dominate the perceived colour depends entirely on
           illuminant composition:
 
-          - **Daylight (D65, ~6500 K)** — strong blue-green component in the illuminant
+          - **Daylight (D65, ~6500 K)** – strong blue-green component in the illuminant
             preferentially excites the blue-green transmission window → stone appears green to teal
-          - **Incandescent (~2700 K, tungsten)** — weak blue, strong red in the illuminant
+          - **Incandescent (~2700 K, tungsten)** – weak blue, strong red in the illuminant
             preferentially excites the red transmission window → stone appears red to purplish-red
 
           Qiu & Guo (2021) confirmed this mechanism in pyrope-spessartine colour-change garnets:
@@ -83,7 +83,7 @@ sections:
 
   - title: Named Species
     table:
-      caption: Gem species showing the alexandrite effect. [PARTIALLY_SUPPORTED] for diaspore — no DOI-verified primary spectroscopic paper on diaspore colour-change mechanism was retrieved in the source research session; the effect is well-known but the ion assignment relies on standard references [PARTIALLY_SUPPORTED].
+      caption: Gem species showing the alexandrite effect. [PARTIALLY_SUPPORTED] for diaspore – no DOI-verified primary spectroscopic paper on diaspore colour-change mechanism was retrieved in the source research session; the effect is well-known but the ion assignment relies on standard references [PARTIALLY_SUPPORTED].
       headers:
         - Species / Variety
         - Active Ion(s)
@@ -94,7 +94,7 @@ sections:
         - ["Alexandrite (chrysoberyl var.)", "Cr³⁺", "Green to teal", "Red to purplish-red", "Strongest and most complete change known; benchmark for all colour-change gems. Schmetzer & Malsy (2011) [VERIFIED]"]
         - ["Colour-change garnet (pyrope-spessartine)", "Cr³⁺ + V³⁺", "Blue-green to teal", "Purple to red", "Very strong; best specimens rival alexandrite in completeness. Qiu & Guo (2021) [VERIFIED]"]
         - ["Colour-change sapphire (corundum)", "V³⁺ (± Cr³⁺)", "Blue to violet", "Purple to red", "Variable; often greyish intermediate colour; locality affects quality"]
-        - ["Colour-change diaspore ('zultanite', 'csarite')", "V³⁺ + Cr³⁺ (proposed)", "Kiwi green", "Pinkish champagne", "Subtle but characteristic change; spectroscopic assignment [PARTIALLY_SUPPORTED] — no dedicated DOI-verified primary paper retrieved"]
+        - ["Colour-change diaspore ('zultanite', 'csarite')", "V³⁺ + Cr³⁺ (proposed)", "Kiwi green", "Pinkish champagne", "Subtle but characteristic change; spectroscopic assignment [PARTIALLY_SUPPORTED] – no dedicated DOI-verified primary paper retrieved"]
         - ["Colour-change synthetic spinel (Co-doped)", "Co²⁺", "Blue-green", "Red-pink", "Common in older synthetic 'alexandrite' simulants; chalky blue-white SW fluorescence distinguishes from alexandrite"]
         - ["Colour-change fluorite (some)", "[CITATION NEEDED]", "Various", "Various", "Weak; mechanism not confirmed; not diagnostically significant"]
 
@@ -105,7 +105,7 @@ sections:
       - title: Light Source Requirements
         content: |
           - **Daylight equivalent**: D65 fluorescent lamp or north-facing window light (overcast sky).
-            Avoid mixed LED lighting — LED spectra vary widely and may not reproduce the effect
+            Avoid mixed LED lighting – LED spectra vary widely and may not reproduce the effect
             consistently.
           - **Incandescent**: Standard tungsten bulb (~2700 K). Not LED or halogen at high colour
             temperature; these do not have sufficient red component to show the full change.
@@ -149,7 +149,7 @@ sections:
         content: |
           Natural alexandrite: moderate red LWUV fluorescence (Cr³⁺, low-quenching chrysoberyl).
           Synthetic colour-change spinel simulant: chalky blue-white SW fluorescence (Co²⁺ or
-          Ti⁴⁺) — completely different response, immediately diagnostic.
+          Ti⁴⁺) – completely different response, immediately diagnostic.
 
           Synthetic alexandrite (Cr-doped) shows similar LWUV red to natural but lacks natural
           inclusion types; growth features are definitive under magnification.
@@ -157,10 +157,10 @@ sections:
   - title: Sources
     items:
       - name: Qiu & Guo (2021)
-        description: "Explaining Colour Change in Pyrope-Spessartine Garnets. Minerals 11(8), 865. DOI: 10.3390/min11080865. [VERIFIED] — Quantitative UV-Vis spectroscopic confirmation of dual transmission window mechanism; abstract explicitly describes the two transmittance zones and illuminant-dependence."
+        description: "Explaining Colour Change in Pyrope-Spessartine Garnets. Minerals 11(8), 865. DOI: 10.3390/min11080865. [VERIFIED] – Quantitative UV-Vis spectroscopic confirmation of dual transmission window mechanism; abstract explicitly describes the two transmittance zones and illuminant-dependence."
       - name: Schmetzer & Malsy (2011)
-        description: "Alexandrite and colour-change chrysoberyl from the Lake Manyara alexandrite-emerald deposit in northern Tanzania. The Journal of Gemmology 32(5), 179–209. DOI: 10.15506/jog.2011.32.5.179. [VERIFIED] — Detailed optical characterisation of alexandrite; Cr³⁺ as chromophore confirmed."
+        description: "Alexandrite and colour-change chrysoberyl from the Lake Manyara alexandrite-emerald deposit in northern Tanzania. The Journal of Gemmology 32(5), 179–209. DOI: 10.15506/jog.2011.32.5.179. [VERIFIED] – Detailed optical characterisation of alexandrite; Cr³⁺ as chromophore confirmed."
       - name: Schmetzer, Bernhardt & Hainschwang (2013)
-        description: "Titanium-bearing synthetic alexandrite and chrysoberyl. The Journal of Gemmology 33(5), 137–148. DOI: 10.15506/jog.2013.33.5.137. [VERIFIED] — Synthetic alexandrite diagnostics; Ti⁴⁺ absorption differences."
+        description: "Titanium-bearing synthetic alexandrite and chrysoberyl. The Journal of Gemmology 33(5), 137–148. DOI: 10.15506/jog.2013.33.5.137. [VERIFIED] – Synthetic alexandrite diagnostics; Ti⁴⁺ absorption differences."
       - name: Read (2008)
-        description: "Gemmology (3rd ed.). Butterworth-Heinemann/Routledge. DOI: 10.4324/9780080507224. [APPROXIMATE] — Crystal field context and named species survey."
+        description: "Gemmology (3rd ed.). Butterworth-Heinemann/Routledge. DOI: 10.4324/9780080507224. [APPROXIMATE] – Crystal field context and named species survey."

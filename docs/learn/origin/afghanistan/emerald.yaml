@@ -1,4 +1,4 @@
-title: Panjshir Emerald — Afghanistan
+title: Panjshir Emerald – Afghanistan
 description: Hydrothermal-sediment hosted Panjshir emerald; high Fe UV-Vis bands, low Li, three-phase inclusions in black shale context; distinction from Colombian.
 order: 3
 category: origin
@@ -25,7 +25,7 @@ sections:
       Panjshir Valley emerald (Parwan/Kapisa Province, Afghanistan) has been mined since
       at least the 19th century but gained systematic international attention after the
       Soviet withdrawal; Bowersox et al. (1991) provided the first systematic gemological
-      description. The deposit is hydrothermally hosted in black shales and phyllites —
+      description. The deposit is hydrothermally hosted in black shales and phyllites – 
       a sediment-hosted type genetically different from Colombian black-shale (no igneous
       proximity) and from ophiolite-hosted Swat emeralds. The Panjshir is one of the few
       major emerald sources without associated igneous rocks nearby.
@@ -34,7 +34,7 @@ sections:
     content: |
       Panjshir emerald genesis:
 
-      - **Host rock**: Hydrothermal veins in black shales and phyllites — the "sediment-
+      - **Host rock**: Hydrothermal veins in black shales and phyllites – the "sediment-
         hosted" model; unlike Colombian black-shale type, Panjshir lacks documented
         proximal igneous rocks as the Be/Cr source
       - **Formation**: Hydrothermal fluids exploited fracture systems in the organic-rich
@@ -58,7 +58,7 @@ sections:
       - title: Chromophores
         content: |
           - Cr³⁺ (primary); some V³⁺; Fe (as chromophore and fluorescence quencher)
-          - The Fe spectral bands are a key analytical criterion — much stronger than
+          - The Fe spectral bands are a key analytical criterion – much stronger than
             in Colombian material
 
   - title: Trace Element Chemistry
@@ -76,7 +76,7 @@ sections:
         content: |
           - **UV-Vis iron bands**: Panjshir shows "pronounced iron-related bands"
             not typical of Colombian emerald, which is Fe-poor and therefore shows
-            stronger red fluorescence — the UV-Vis spectral difference is a primary
+            stronger red fluorescence – the UV-Vis spectral difference is a primary
             analytical criterion
           - **Alkali elements, Sc, Mn, Co, Ni, Zn, Ga**: Multivariate trace element
             patterns provide further discrimination; laboratory LA-ICP-MS required
@@ -104,8 +104,8 @@ sections:
         - Colombian Muzo
         - Swat (Pakistan)
       rows:
-        - ["Three-phase inclusions", "Present (varies)", "Yes — with halite cube", "Yes (documented)"]
-        - ["Parisite crystals", "Absent", "Diagnostic — present", "Absent"]
+        - ["Three-phase inclusions", "Present (varies)", "Yes – with halite cube", "Yes (documented)"]
+        - ["Parisite crystals", "Absent", "Diagnostic – present", "Absent"]
         - ["Host context clues", "Black shale carbon", "Albite + calcite", "Chromian muscovite"]
         - ["Fe bands in UV-Vis", "Pronounced", "Absent/minimal", "Moderate"]
         - ["Li content", "<200 ppmw", "<200 ppmw", "<200 ppmw"]

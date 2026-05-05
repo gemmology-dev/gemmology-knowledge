@@ -1,5 +1,5 @@
-title: USA — Gem Origins Overview
-description: US gem deposits — Montana sapphire, Utah red beryl, Arizona peridot, California and Maine tourmaline; geologically diverse patchwork provinces.
+title: USA – Gem Origins Overview
+description: US gem deposits – Montana sapphire, Utah red beryl, Arizona peridot, California and Maine tourmaline; geologically diverse patchwork provinces.
 order: 1
 category: origin
 subcategory: usa
@@ -45,20 +45,20 @@ sections:
         - ["California", "Pala District, San Diego County", "Cretaceous LCT pegmatite", "Elbaite tourmaline"]
         - ["Maine", "Oxford County pegmatites", "LCT granite pegmatite", "Elbaite tourmaline (blue/green)"]
 
-  - title: Montana Sapphire — Brief Overview
+  - title: Montana Sapphire – Brief Overview
     content: |
       - Three deposit types: Yogo Gulch (lamprophyre), Rock Creek (alluvial), Missouri River
       - Yogo: steely blue, rarely >2 ct, no heat treatment needed; low Fe; lamprophyre host
       - Rock Creek / Missouri River: pastel multicolour; mostly heat-treated for commercial blue
       - See dedicated file: origin/usa/montana-sapphire
 
-  - title: Utah Red Beryl — Brief Overview
+  - title: Utah Red Beryl – Brief Overview
     content: |
-      - Wah Wah Mountains, Beaver County — the world's only commercial red beryl source
+      - Wah Wah Mountains, Beaver County – the world's only commercial red beryl source
       - Hosted in Eocene topaz rhyolite; Mn³⁺ chromophore; typically <0.5 ct
       - See dedicated file: origin/usa/utah-red-beryl
 
-  - title: Arizona Peridot — San Carlos
+  - title: Arizona Peridot – San Carlos
     content: |
       San Carlos Apache Reservation (Gila County) produces an estimated 80–95% of
       commercial peridot by volume:
@@ -85,7 +85,7 @@ sections:
       - Discrimination between California and Maine deposits, and between US and other
         tourmaline origins, is a laboratory-level task requiring trace element chemistry
 
-  - title: US Tourmaline and Arkansas Diamond — Notes
+  - title: US Tourmaline and Arkansas Diamond – Notes
     callout:
       type: info
       title: CITATION NEEDED Items
@@ -95,12 +95,12 @@ sections:
         was retrieved:
 
         1. US TOURMALINE sub-deposit distinction (Maine vs California): No specific
-           inter-deposit discrimination paper retrieved — [CITATION NEEDED].
+           inter-deposit discrimination paper retrieved – [CITATION NEEDED].
            Include as brief item only without diagnostic claims.
 
         2. ARKANSAS DIAMOND (Crater of Diamonds, Murfreesboro): Lamproite-hosted;
            educational "finders-keepers" site; negligible commercial production.
-           No peer-reviewed gemological characterisation retrieved — [CITATION NEEDED].
+           No peer-reviewed gemological characterisation retrieved – [CITATION NEEDED].
            Mention only as educational context; do not assign gemmological diagnostics.
 
 sources:

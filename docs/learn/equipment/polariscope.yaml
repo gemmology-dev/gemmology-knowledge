@@ -38,7 +38,7 @@ sections:
       - title: Crossed Polars Position
         content: |
           When the polariser and analyser are at 90° to each other, light cannot
-          pass through—the field appears dark. This is the "crossed polars" position
+          pass through – the field appears dark. This is the "crossed polars" position
           used for most tests.
 
           When aligned parallel, maximum light passes through (bright field).

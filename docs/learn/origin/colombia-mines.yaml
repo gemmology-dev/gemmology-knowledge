@@ -1,4 +1,4 @@
-title: Colombian Emerald Mines — Sub-Distinctions
+title: Colombian Emerald Mines – Sub-Distinctions
 description: Mine-level diagnostics for Muzo (parisite + halite), Chivor (pyrite dominant), Coscuez, La Pita, and trapiche emerald; cross-reference to colombia.yaml.
 order: 6
 category: origin
@@ -29,21 +29,21 @@ sections:
       "black shale" or sedimentary-hosted hydrothermal model: Cretaceous black shales
       (Villeta Formation) host emerald-forming brines without associated igneous rocks.
       All three major mines share the diagnostic Colombian three-phase inclusion (liquid +
-      gas + halite cube) — the halite being unique to Colombian emerald worldwide. The
+      gas + halite cube) – the halite being unique to Colombian emerald worldwide. The
       mine-level distinctions below allow laboratory sub-classification.
 
-  - title: Colombian Deposit Type — The Black Shale Model
+  - title: Colombian Deposit Type – The Black Shale Model
     content: |
       All Colombian mines share these features:
 
       - **Host rock**: Hydrothermal veins in Cretaceous black shales/phyllites; no
-        nearby igneous rocks — purely sediment-hosted
+        nearby igneous rocks – purely sediment-hosted
       - **Brine**: NaCl-saturated hydrothermal fluid at ~300°C in a thrust-belt setting
-      - **Three-phase inclusions**: Liquid + gas + halite (NaCl) cube — the halite is
+      - **Three-phase inclusions**: Liquid + gas + halite (NaCl) cube – the halite is
         the critical discriminator from ALL other emerald origins worldwide; no other
         major source traps NaCl cubes in three-phase inclusions
       - **Chromophore**: Cr³⁺ ± V³⁺; ratio varies by mine; affects colour tone
-      - **Li content**: <200 ppmw — shared with Afghan and Pakistani emerald
+      - **Li content**: <200 ppmw – shared with Afghan and Pakistani emerald
 
   - title: Muzo Mine
     content: |
@@ -57,15 +57,15 @@ sections:
 
       - title: Chromophore Profile
         content: |
-          - Higher **Cr** relative to V — "warmer" green, typically a pure vivid
+          - Higher **Cr** relative to V – "warmer" green, typically a pure vivid
             medium green; often the most valued pure green Colombian colour
 
       - title: Diagnostic Inclusions
         content: |
-          - **Three-phase inclusions**: Liquid + gas + halite (NaCl) cube — as all
+          - **Three-phase inclusions**: Liquid + gas + halite (NaCl) cube – as all
             Colombian
           - **Parisite**: Calcium rare-earth fluorocarbonate; yellow-orange hexagonal
-            crystals; highly diagnostic for Muzo specifically — absent in Chivor
+            crystals; highly diagnostic for Muzo specifically – absent in Chivor
           - **Albite**: White platy crystals
           - **Calcite rhombs**
           - **Pyrite**: Present but less abundant than Chivor
@@ -85,13 +85,13 @@ sections:
 
       - title: Chromophore Profile
         content: |
-          - Generally **higher V relative to Cr** than Muzo — cooler, often bluish-green
+          - Generally **higher V relative to Cr** than Muzo – cooler, often bluish-green
             to teal at lower saturations; sometimes described as more "electric" blue-green
 
       - title: Diagnostic Inclusions
         content: |
           - **Three-phase inclusions**: Liquid + gas + halite (same diagnostic as all Colombian)
-          - **Pyrite**: Cubic metallic inclusions — far more abundant and larger at Chivor
+          - **Pyrite**: Cubic metallic inclusions – far more abundant and larger at Chivor
             than at Muzo; THIS IS THE MOST RELIABLE VISUAL MINE-LEVEL DISTINCTION
           - **Albite** crystals (white platy)
           - **Calcite** and dolomite
@@ -123,7 +123,7 @@ sections:
       - **Trapiche emerald** was first associated with Coscuez and the adjacent Peñas
         Blancas area
 
-  - title: Newer Mines — La Pita, La Pava, Cunas
+  - title: Newer Mines – La Pita, La Pava, Cunas
     content: |
       Post-1990s mining in Boyacá Department:
 
@@ -148,7 +148,7 @@ sections:
           - O'Donoghue (1971) first described this in the Journal of Gemmology:
             "Trapiche Emerald"
           - Sun, Gao, and Deng (2023) documented a rare "'Star of David' Pattern
-            Produced by a Trapiche Emerald from Colombia" — a geometric variant
+            Produced by a Trapiche Emerald from Colombia" – a geometric variant
 
       - title: Formation Mechanism
         content: |
@@ -161,7 +161,7 @@ sections:
 
       - title: Occurrence
         content: |
-          - Primarily Coscuez and Peñas Blancas zones — NOT from Chivor
+          - Primarily Coscuez and Peñas Blancas zones – NOT from Chivor
           - Exceptional rarity: strong collector premium
           - Distinguished from trapiche ruby (Myanmar; different genesis) and
             trapiche sapphire (very rare)
@@ -179,8 +179,8 @@ sections:
         - ["Zone", "Western", "Eastern", "Western"]
         - ["Chromophore", "Cr dominant", "V > Cr", "Cr dominant (like Muzo)"]
         - ["Colour tone", "Warm pure green", "Cooler blue-green", "Similar to Muzo"]
-        - ["Parisite", "YES — diagnostic", "ABSENT", "Present (like Muzo)"]
-        - ["Pyrite", "Minor", "Abundant — diagnostic", "Present"]
+        - ["Parisite", "YES – diagnostic", "ABSENT", "Present (like Muzo)"]
+        - ["Pyrite", "Minor", "Abundant – diagnostic", "Present"]
         - ["Three-phase halite", "YES (all Colombian)", "YES (all Colombian)", "YES (all Colombian)"]
         - ["Trapiche association", "No", "No", "YES (Coscuez + Peñas Blancas)"]
 

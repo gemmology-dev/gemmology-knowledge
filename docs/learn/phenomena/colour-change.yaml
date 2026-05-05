@@ -19,7 +19,7 @@ sections:
     content: |
       Colour-change gems display different colours under different light sources
       (typically daylight vs incandescent). The most famous is alexandrite, which
-      appears green in daylight and red in incandescent light—often described as
+      appears green in daylight and red in incandescent light – often described as
       "emerald by day, ruby by night."
 
       This phenomenon results from the gem's absorption spectrum interacting
@@ -45,7 +45,7 @@ sections:
 
   - title: Alexandrite
     content: |
-      Alexandrite is colour-change chrysoberyl—the most famous and valuable
+      Alexandrite is colour-change chrysoberyl – the most famous and valuable
       colour-change gem.
     subsections:
       - title: The Colour Change

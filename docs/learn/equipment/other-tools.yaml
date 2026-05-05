@@ -58,7 +58,7 @@ sections:
             - ["Zambian emerald", "Weak/greenish", "—", "Higher Fe, lower Cr"]
             - ["Synthetic emerald", "—", "Very strong red", "Often higher Cr than natural"]
             - ["Ruby", "Strong red (brighter)", "Very strong red", "Cr fluorescence"]
-            - ["Blue sapphire", "Remains blue", "Remains blue", "No Cr — no reaction"]
+            - ["Blue sapphire", "Remains blue", "Remains blue", "No Cr – no reaction"]
             - ["Alexandrite", "Red (enhanced)", "Very strong red", "Strong Cr content"]
             - ["Demantoid garnet", "Greenish", "—", "Cr present but weak reaction"]
             - ["Green tourmaline", "Remains green", "—", "No Cr content"]
@@ -201,10 +201,10 @@ sections:
             - Safety
           rows:
             - ["Water (baseline)", "1.00", "None (all gems sink)", "All gemstones", "Safe"]
-            - ["Toluene", "0.87", "Amber (SG 0.96–1.10)", "All other gems", "Toxic fumes — use fume hood"]
-            - ["Bromoform", "2.89", "Quartz, feldspar, beryl, opal", "Tourmaline, diamond, corundum", "Toxic — use gloves"]
-            - ["Methylene iodide (pure)", "3.32", "Quartz, beryl, tourmaline", "Diamond, corundum, spinel, topaz", "Very toxic — gloves + fume hood"]
-            - ["MI + toluene (diluted)", "3.06", "Quartz, beryl, tourmaline hovers", "Diamond, corundum, topaz", "Toxic — gloves + fume hood"]
+            - ["Toluene", "0.87", "Amber (SG 0.96–1.10)", "All other gems", "Toxic fumes – use fume hood"]
+            - ["Bromoform", "2.89", "Quartz, feldspar, beryl, opal", "Tourmaline, diamond, corundum", "Toxic – use gloves"]
+            - ["Methylene iodide (pure)", "3.32", "Quartz, beryl, tourmaline", "Diamond, corundum, spinel, topaz", "Very toxic – gloves + fume hood"]
+            - ["MI + toluene (diluted)", "3.06", "Quartz, beryl, tourmaline hovers", "Diamond, corundum, topaz", "Toxic – gloves + fume hood"]
             - ["Clerici solution", "4.25", "Diamond, corundum, topaz, spinel", "Zircon, cassiterite", "Toxic and corrosive"]
 
       - title: Float/Sink Reference by Gem
@@ -239,9 +239,9 @@ sections:
 
             - Use only in well-ventilated areas or fume hoods
             - Wear appropriate gloves and safety glasses
-            - Never mouth-pipette — use bulb pipettes
+            - Never mouth-pipette – use bulb pipettes
             - Store in sealed containers away from light (prevents decomposition)
-            - Never use with porous or fractured stones — liquid can be absorbed
+            - Never use with porous or fractured stones – liquid can be absorbed
             - Dispose according to hazardous waste regulations
 
             Many modern laboratories prefer hydrostatic weighing due to safety concerns.

@@ -31,10 +31,10 @@ sections:
       - **Biaxial negative (B−):** β is closer to γ: γ − β < β − α.
 
       The optic sign can be determined by two methods:
-      1. **Refractometer rotation** (uniaxial stones only) — observing which shadow edge moves as
+      1. **Refractometer rotation** (uniaxial stones only) – observing which shadow edge moves as
          the stone is rotated.
-      2. **Conoscopic interference figure** with an accessory plate (lambda plate or quartz wedge)
-         — reading the colour change in the isochromatic rings.
+      2. **Conoscopic interference figure** with an accessory plate (lambda plate or quartz wedge),
+         reading the colour change in the isochromatic rings.
 
       The interference-figure method uses **Newton's colour series** (the interference colour
       sequence seen between crossed polars as retardation increases): yellow → orange → red →
@@ -46,12 +46,12 @@ sections:
       *Source: Sturman, B.D., J. Gemmology, 2007. DOI: 10.15506/jog.2007.30.7.443. [VERIFIED];
       Read, P., Gemmology 3rd ed. DOI: 10.4324/9780080507224 [VERIFIED]*
 
-  - title: Uniaxial Procedure — Refractometer Method
+  - title: Uniaxial Procedure – Refractometer Method
     content: |
       For uniaxial stones with measurable birefringence, the refractometer can be used directly:
 
       1. Place the stone table-down on the refractometer hemisphere with contact liquid.
-      2. Observe the shadow edge (or edges). A uniaxial stone shows two shadow edges —
+      2. Observe the shadow edge (or edges). A uniaxial stone shows two shadow edges – 
          the fixed edge (ω, ordinary ray) and the moving edge (ε, extraordinary ray).
       3. Rotate the stone slowly through 360°. The ε edge moves; the ω edge stays fixed.
       4. If the moving edge (ε) is **above** the fixed edge (ω) at maximum separation:
@@ -63,7 +63,7 @@ sections:
       (c-axis pointing up into the contact liquid), both readings coincide as a single shadow
       edge at the ω position. Rotate the stone off this orientation to see both edges.
 
-  - title: Uniaxial Procedure — Interference Figure (Lambda Plate)
+  - title: Uniaxial Procedure – Interference Figure (Lambda Plate)
     content: |
       The conoscope (convergent polarised light through the polariscope, using a high-powered
       condensing lens or the stone itself as a condenser) produces an interference figure for
@@ -84,12 +84,12 @@ sections:
         retardations add → colours **rise** in Newton's series (toward blue, 2nd order).
       - In the other two quadrants: retardations subtract → colours **fall** (toward yellow).
 
-      **Reading the sign (principle — without committing to a specific diagram convention):**
+      **Reading the sign (principle – without committing to a specific diagram convention):**
 
       The orientation rule for the plate-in-figure is described in standard optical mineralogy
       texts (Read 3rd ed.; Sturman 2007). The key relationship is: in the quadrants where the
       crystal's slow ray aligns with the plate slow direction, rising colours indicate the slow
-      direction of the crystal in that quadrant — from which the sign follows. Consult your
+      direction of the crystal in that quadrant – from which the sign follows. Consult your
       course's specific diagram orientation, as the convention depends on the physical direction
       the plate is inserted relative to the polariser/analyser orientation.
 
@@ -111,10 +111,10 @@ sections:
         with the plate oriented differently. Learn the principle (addition = rising colour in the
         slow-slow quadrant) and apply it consistently to your instrument setup.
 
-  - title: Biaxial Procedure — Acute Bisectrix Figure
+  - title: Biaxial Procedure – Acute Bisectrix Figure
     content: |
       For biaxial stones, the acute bisectrix (Bxa) interference figure is used. The stone must
-      be oriented with the acute bisectrix perpendicular to the polariscope stage — typically
+      be oriented with the acute bisectrix perpendicular to the polariscope stage – typically
       requiring the stone to be oriented by trial and error (or by knowledge of the optic
       orientation of the species).
 
@@ -165,7 +165,7 @@ sections:
         the isochromatic rings to tiny concentric circles near the melatope; the lambda plate effect
         is harder to read. Thinner sections (or smaller stones) help.
       - **Low birefringence:** very low birefringence (e.g. apatite 0.002–0.006) produces very few
-        or no isochromatic rings — the figure shows only the isogyre cross against a near-uniform
+        or no isochromatic rings – the figure shows only the isogyre cross against a near-uniform
         background. The lambda plate still produces a colour shift in the quadrants; read the shift
         in the area immediately around the melatope.
       - **Dauphiné twinning in quartz:** sector-by-sector anomalous extinction can mimic biaxial
