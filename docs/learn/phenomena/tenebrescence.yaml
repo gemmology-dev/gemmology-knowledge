@@ -1,5 +1,5 @@
 title: Tenebrescence
-description: Tenebrescence — reversible photochromic colour change in hackmanite driven by S₂⁻ radical colour centres, mechanism, named species, and diagnostic distinction from the alexandrite effect and irradiation-induced colour changes.
+description: Tenebrescence – reversible photochromic colour change in hackmanite driven by S₂⁻ radical colour centres, mechanism, named species, and diagnostic distinction from the alexandrite effect and irradiation-induced colour changes.
 order: 15
 category: phenomena
 difficulty: advanced
@@ -26,7 +26,7 @@ sections:
       in darkness.
 
       The effect is driven by the photochemical creation and annihilation of S₂⁻ radical colour
-      centres within the sodalite framework. It is fully reversible — the same stone can be
+      centres within the sodalite framework. It is fully reversible – the same stone can be
       darkened and bleached thousands of times without degradation.
 
   - title: Mechanism
@@ -35,7 +35,7 @@ sections:
     subsections:
       - title: Mineral Chemistry
         content: |
-          Hackmanite is the chromatic variety of sodalite — Na₈[Al₆Si₆O₂₄](Cl,S)₂ — in which
+          Hackmanite is the chromatic variety of sodalite – Na₈[Al₆Si₆O₂₄](Cl,S)₂ – in which
           some Cl⁻ is replaced by the S₂⁻ disulfide radical anion. The sodalite framework
           provides cage-like sites (β-cages) that host the color-active sulfur species.
 
@@ -47,7 +47,7 @@ sections:
       - title: S₂⁻ Colour Centre
         content: |
           The S₂⁻ radical anion absorbs visible light around 530–560 nm (yellow-green), giving
-          the stone its purple/violet appearance — the complementary colour to yellow-green.
+          the stone its purple/violet appearance – the complementary colour to yellow-green.
 
           In the colourless state, sulfur is present in a configuration that does not absorb
           significantly in the visible range. UV exposure converts some sulfur species to S₂⁻,
@@ -62,16 +62,16 @@ sections:
         content: |
           After UV exposure, hackmanite shows a yellow-orange persistent afterglow as the excited
           S₂⁻ centres partially relax via spin-forbidden transitions. This phosphorescence is an
-          associated feature of the tenebrescence cycle — both arise from the same colour centre.
+          associated feature of the tenebrescence cycle – both arise from the same colour centre.
           See also Fluorescence and Phosphorescence for further detail.
 
       - title: Reversibility
         content: |
           The colour change is fully reversible over thousands of cycles under normal conditions.
           This distinguishes tenebrescence from:
-          - Irradiation-induced colour changes (e.g., maxixe beryl, blue topaz) — these are
+          - Irradiation-induced colour changes (e.g., maxixe beryl, blue topaz) – these are
             permanent or fade only slowly under prolonged light exposure
-          - Heat treatment effects — permanent structural changes
+          - Heat treatment effects – permanent structural changes
 
   - title: Named Species
     table:
@@ -82,7 +82,7 @@ sections:
         - Tenebrescence Character
       rows:
         - ["Hackmanite (sodalite var.)", "Myanmar (Sagaing Region), Afghanistan (Badakhshan), Canada (Ontario), Russia (Inagli Massif), Greenland", "Colourless/grey → violet/pink in UV; reverses under incandescent light or warming; primary tenebrescent gem species"]
-        - ["Tugtupite (beryllosodalite)", "Greenland", "Related photochromic effect; deep red → brighter red under UV; same S₂⁻ mechanism variant [PARTIALLY_SUPPORTED — no separate tugtupite primary paper retrieved]"]
+        - ["Tugtupite (beryllosodalite)", "Greenland", "Related photochromic effect; deep red → brighter red under UV; same S₂⁻ mechanism variant [PARTIALLY_SUPPORTED – no separate tugtupite primary paper retrieved]"]
         - ["Some synthetic sodalites", "Laboratory", "Strong engineered tenebrescence; used in persistent luminescence research"]
 
   - title: Distinguishing Tenebrescence from the Alexandrite Effect
@@ -93,12 +93,12 @@ sections:
         - Tenebrescence
         - Alexandrite Effect
       rows:
-        - ["Reversibility", "Fully reversible by light or mild heat", "Reversible in the same sense — colour shifts immediately with light source change"]
+        - ["Reversibility", "Fully reversible by light or mild heat", "Reversible in the same sense – colour shifts immediately with light source change"]
         - ["Cause", "Photochemical creation/destruction of S₂⁻ colour centre", "Fixed Cr³⁺ (or V³⁺) absorption window; colour depends on illuminant spectral power"]
-        - ["UV activation required?", "Yes — UV or short-wavelength visible light triggers the colour state", "No — colour change is passive, driven by visible illuminant composition only"]
+        - ["UV activation required?", "Yes – UV or short-wavelength visible light triggers the colour state", "No – colour change is passive, driven by visible illuminant composition only"]
         - ["Mineral group", "Sodalite group (tectosilicate)", "Chrysoberyl (alexandrite), garnet, sapphire, diaspore"]
         - ["State persistence", "Coloured state persists in darkness until reversed by visible light or heat", "Colour reverts immediately when illuminant changes; no residual state"]
-        - ["Test lamp needed?", "Yes — SWUV lamp to induce colour", "No — observe under daylight and incandescent only"]
+        - ["Test lamp needed?", "Yes – SWUV lamp to induce colour", "No – observe under daylight and incandescent only"]
 
   - title: How to Test for Tenebrescence
     content: |
@@ -106,12 +106,12 @@ sections:
     subsections:
       - title: Test Procedure
         content: |
-          1. Observe the stone under incandescent or ambient light — note colourless to pale grey
+          1. Observe the stone under incandescent or ambient light – note colourless to pale grey
              body colour.
           2. Illuminate with shortwave UV (SWUV, 254 nm) for 10–30 seconds in subdued conditions.
-          3. Remove UV source and observe immediately under incandescent light — dramatic violet
+          3. Remove UV source and observe immediately under incandescent light – dramatic violet
              to purple colour should be visible.
-          4. Leave in ordinary light or warm gently — colour fades to near-colourless within
+          4. Leave in ordinary light or warm gently – colour fades to near-colourless within
              seconds to minutes.
 
           The effect is instantaneous and dramatic in fine material. Even in weak hackmanite,
@@ -134,17 +134,17 @@ sections:
 
       - Distinguish from irradiation-induced colour changes (e.g., maxixe beryl, blue topaz,
         treated pink diamonds): irradiation-induced colours do not reverse under ordinary
-        daylight exposure — they are permanent or fade only under prolonged high-intensity light
+        daylight exposure – they are permanent or fade only under prolonged high-intensity light
         or high temperature.
 
-      - Hackmanite also shows yellow-orange phosphorescence after UV excitation — a feature
+      - Hackmanite also shows yellow-orange phosphorescence after UV excitation – a feature
         confirmed by both Kondo & Beaton (2009) and Radomskaya et al. (2021).
 
   - title: Sources
     items:
       - name: Kondo & Beaton (2009)
-        description: "Hackmanite/Sodalite from Myanmar and Afghanistan. Gems & Gemology 45(1), 38–43. DOI: 10.5741/gems.45.1.38. [VERIFIED] — Primary gemmological source for tenebrescence in hackmanite; documents colour change, phosphorescence, and locality characteristics."
+        description: "Hackmanite/Sodalite from Myanmar and Afghanistan. Gems & Gemology 45(1), 38–43. DOI: 10.5741/gems.45.1.38. [VERIFIED] – Primary gemmological source for tenebrescence in hackmanite; documents colour change, phosphorescence, and locality characteristics."
       - name: Goettlicher et al. (2013)
-        description: "Sulfur K X-ray absorption near edge structure spectroscopy on the photochrome sodalite variety hackmanite. Zeitschrift für Kristallographie – Crystalline Materials 228(3), 157–171. DOI: 10.1524/zkri.2013.1587. [VERIFIED] — Confirms S₂⁻ radical as photochromic agent via XANES."
+        description: "Sulfur K X-ray absorption near edge structure spectroscopy on the photochrome sodalite variety hackmanite. Zeitschrift für Kristallographie – Crystalline Materials 228(3), 157–171. DOI: 10.1524/zkri.2013.1587. [VERIFIED] – Confirms S₂⁻ radical as photochromic agent via XANES."
       - name: Radomskaya et al. (2021)
-        description: "Sulfur-Bearing Sodalite, Hackmanite, in Alkaline Pegmatites of the Inagli Massif. Geology of Ore Deposits 63(7). DOI: 10.1134/s1075701521070060. [VERIFIED] — Crystal chemistry, photochromism, and luminescence of Russian hackmanite."
+        description: "Sulfur-Bearing Sodalite, Hackmanite, in Alkaline Pegmatites of the Inagli Massif. Geology of Ore Deposits 63(7). DOI: 10.1134/s1075701521070060. [VERIFIED] – Crystal chemistry, photochromism, and luminescence of Russian hackmanite."

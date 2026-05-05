@@ -1,4 +1,4 @@
-title: HPHT Diamond Treatment — Deep Diagnostic Reference
+title: HPHT Diamond Treatment – Deep Diagnostic Reference
 description: Full detection protocol for HPHT-treated natural diamonds, including type-by-type outcomes, DiamondView patterns, and photoluminescence signatures.
 order: 3
 category: identification
@@ -19,7 +19,7 @@ sections:
   - title: Process and Conditions
     content: |
       High Pressure High Temperature (HPHT) annealing subjects natural diamonds to conditions
-      of 5–6 GPa pressure and 1700–2100 °C — replicating diamond formation conditions. The
+      of 5–6 GPa pressure and 1700–2100 °C – replicating diamond formation conditions. The
       mechanism differs by diamond type. Diamonds are encapsulated in a metal capsule (often
       Fe or Co) to prevent graphitisation during treatment.
 
@@ -40,7 +40,7 @@ sections:
 
   - title: Outcomes by Diamond Type
     table:
-      caption: HPHT Treatment — Mechanisms and Results by Type
+      caption: HPHT Treatment – Mechanisms and Results by Type
       headers:
         - Starting Diamond Type
         - Mechanism
@@ -56,7 +56,7 @@ sections:
     content: |
       The N3 centre (415 nm, three-nitrogen + vacancy) is responsible for the blue LWUV
       fluorescence seen in ~80% of natural gem diamonds (type Ia). HPHT-treated type IIa
-      diamonds frequently show **no blue LWUV fluorescence** — anomalous for gem-quality
+      diamonds frequently show **no blue LWUV fluorescence** – anomalous for gem-quality
       colourless stones. This absence is the primary screening trigger.
 
       Additional spectroscopic changes:
@@ -73,7 +73,7 @@ sections:
       Hainschwang et al. 2012 (10.5741/gems.48.4.252, [VERIFIED]);
       Zhu 2024 (10.15506/jog.2024.39.1.24, [VERIFIED])
 
-  - title: Detection Methods — Full Protocol
+  - title: Detection Methods – Full Protocol
     table:
       caption: HPHT Diamond Detection (simplest to most advanced)
       headers:
@@ -82,7 +82,7 @@ sections:
         - Reliability
         - Notes
       rows:
-        - ["LWUV fluorescence (365 nm)", "Inert / no blue fluorescence in colourless stone — anomalous; ~80% of natural diamonds show at least weak blue", "Primary screening trigger", "Absence of fluorescence alone does not confirm HPHT; triggers lab testing"]
+        - ["LWUV fluorescence (365 nm)", "Inert / no blue fluorescence in colourless stone – anomalous; ~80% of natural diamonds show at least weak blue", "Primary screening trigger", "Absence of fluorescence alone does not confirm HPHT; triggers lab testing"]
         - ["Crossed polarisers (microscope)", "Anomalous birefringence: strain patterns, planar annealing fronts, cross-hatched strain halos distinct from untreated type IIa graining", "Strong indicator", "Requires dark-field polarised light microscopy"]
         - ["FTIR spectroscopy", "Type IIa: no nitrogen absorption (<5 ppm N); 270 nm band absent; 1344 cm⁻¹ isolated-N peak may appear in partially decoloured stones; loss of A-centre peaks", "Instrument test", "Instrument accessible at major labs"]
         - ["Photoluminescence (PL) at 77 K", "NV⁻/NV⁰ ratio diagnostic; specific centres absent or modified; H3 (503 nm) prominent in some treated types; specialist technique", "Advanced diagnostic", "Hainschwang 2012: NV⁻ 637 nm / NV⁰ 575 nm ratio characteristic"]
@@ -108,7 +108,7 @@ sections:
       **Disclosure:**
       - Mandatory under CIBJO, AGTA (code HPHT), and all major laboratory standards
       - GIA practice: "HPHT Processed" laser-inscribed on the girdle (GE POL programme);
-        all major labs issue treatment notation — no standard grading report without disclosure
+        all major labs issue treatment notation – no standard grading report without disclosure
       - LMHC: HPHT treatment is a permanent modification; must be disclosed at every
         transaction in the supply chain
 

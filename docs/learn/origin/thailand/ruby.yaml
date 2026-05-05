@@ -1,4 +1,4 @@
-title: Thai Ruby — Chanthaburi-Trat and Bo Rai Types
+title: Thai Ruby – Chanthaburi-Trat and Bo Rai Types
 description: Basaltic-hosted Siam ruby from Chanthaburi-Trat and Bo Rai; diagnostic high-Fe chemistry, 451/460/470 nm iron triplet, weak fluorescence, alluvial habit.
 order: 2
 category: origin
@@ -41,12 +41,12 @@ sections:
             blue-green region and shifts the colour toward brownish-red
           - **Saturation**: High in fine material but rarely achieves the vivid "pigeon
             blood" quality of Mogok ruby
-          - **Fluorescence response**: Colour appears dull or dead under UV — iron
+          - **Fluorescence response**: Colour appears dull or dead under UV – iron
             strongly quenches chromium fluorescence
 
       - title: Transparency and Cut
         content: |
-          - Typically water-worn, rounded alluvial pebbles — evidence of secondary deposit
+          - Typically water-worn, rounded alluvial pebbles – evidence of secondary deposit
           - Variable clarity; extensive rutile silk common
           - Most commercial material is heat-treated to improve colour and clarity
 
@@ -96,7 +96,7 @@ sections:
     subsections:
       - title: Chemical Criteria (LA-ICP-MS)
         content: |
-          - **Fe content**: High (>600 ppm; often >1,000 ppm) — primary criterion
+          - **Fe content**: High (>600 ppm; often >1,000 ppm) – primary criterion
           - **Fe/Cr ratio**: High relative to marble-hosted ruby
           - **Ga/Mg**: Basaltic sapphire signature; specific ratio differs from marble-hosted
           - **Low Cr relative to Fe**: Weak chromium signal suppressed by high iron
@@ -104,8 +104,8 @@ sections:
       - title: Optical / Spectroscopic Criteria
         content: |
           - Very strong 451/460/470 nm iron absorption triplet in UV-Vis
-          - LWUV fluorescence: Weak to inert (iron quenches chromium fluorescence)
-            — major contrast with marble-hosted ruby
+          - LWUV fluorescence: Weak to inert (iron quenches chromium fluorescence),
+            a major contrast with marble-hosted ruby
           - Chromium doublet at 692/694 nm present but may be accompanied by strong
             broad iron absorption
           - Chelsea filter: May appear weakly red (Cr present) but less vividly than

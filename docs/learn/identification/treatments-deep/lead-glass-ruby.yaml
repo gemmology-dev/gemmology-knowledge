@@ -1,4 +1,4 @@
-title: Lead Glass-Filled Ruby — Deep Diagnostic Reference
+title: Lead Glass-Filled Ruby – Deep Diagnostic Reference
 description: Full detection protocol for composite (lead glass-filled) ruby, with nomenclature, durability, and disclosure standards.
 order: 2
 category: identification
@@ -31,7 +31,7 @@ sections:
       include cobalt oxide to add blue tinting to mask brownish or orange body tones.
     callout:
       type: error
-      title: Composite Ruby — Not a Treated Ruby
+      title: Composite Ruby – Not a Treated Ruby
       text: |
         Stones containing significant glass fill are composite materials, not treated rubies.
         CIBJO and GIA require the term "composite ruby" or "glass-filled ruby". The term
@@ -42,7 +42,7 @@ sections:
 
   - title: Physical Properties of Composite Ruby
     table:
-      caption: Composite Ruby vs Natural Ruby — Physical Comparison
+      caption: Composite Ruby vs Natural Ruby – Physical Comparison
       headers:
         - Property
         - Natural Ruby
@@ -54,7 +54,7 @@ sections:
         - ["UV fluorescence (SWUV)", "Variable red/orange Cr fluorescence", "Glass may fluoresce chalky greenish"]
         - ["Acid resistance", "Unaffected by dilute acid", "Glass etched and clouded by lemon juice or HCl"]
 
-  - title: Detection Methods — Full Protocol
+  - title: Detection Methods – Full Protocol
     table:
       caption: Lead Glass-Filled Ruby Detection (simplest to most advanced)
       headers:
@@ -64,14 +64,14 @@ sections:
         - Notes
       rows:
         - ["10× loupe, reflected light", "Glassy/vitreous lustre patches interrupting ruby's adamantine lustre; depressions or pits where glass has eroded", "Strong indicator", "Most accessible first check"]
-        - ["Darkfield microscope (40–60×) — blue/orange flash", "Blue flash when tilted one way, orange flash the other, at fracture–ruby interface (thin-film interference from glass fill–corundum boundary)", "Most reliable in-lab indicator", "Primary diagnostic; described in McClure et al. 2006"]
-        - ["Gas bubbles (40–60×, darkfield)", "Spherical or elongated bubbles trapped in glass fill — not present in natural growth features (feathers, fingerprints)", "Diagnostic", "Natural features never contain spherical bubbles"]
+        - ["Darkfield microscope (40–60×) – blue/orange flash", "Blue flash when tilted one way, orange flash the other, at fracture–ruby interface (thin-film interference from glass fill–corundum boundary)", "Most reliable in-lab indicator", "Primary diagnostic; described in McClure et al. 2006"]
+        - ["Gas bubbles (40–60×, darkfield)", "Spherical or elongated bubbles trapped in glass fill – not present in natural growth features (feathers, fingerprints)", "Diagnostic", "Natural features never contain spherical bubbles"]
         - ["Flow structures (40–60×)", "Swirling patterns in glass under darkfield; absent in natural feathers and liquid inclusions", "Diagnostic", "Confirms glass rather than resin"]
         - ["Hydrostatic SG", "Values <3.90 in a ruby-sized stone strongly suggest significant glass content", "Strong screening", "Natural ruby ~4.00; composite values as low as 3.60"]
         - ["Chelsea Colour Filter (cobalt variant)", "If cobalt in glass: red reaction from Co; combined glass-fill + cobalt gives anomalous result vs pure Cr ruby", "Useful if cobalt glass suspected", "Natural ruby reacts red from Cr only"]
         - ["SW UV fluorescence", "Lead glass frequently fluoresces chalky greenish or shows abnormal fluorescence patterns not seen in natural ruby inclusions", "Supporting", "Not conclusive alone"]
-        - ["Acid sensitivity test (destructive)", "A drop of lemon juice (citric acid, pH ~2) or dilute HCl on pavilion girdle: glass etches and clouds within minutes; corundum unaffected", "Conclusive if positive", "Destructive — use only on obscure area, when other evidence inconclusive"]
-        - ["EDXRF", "Elevated Pb signal at surface or in fractures — Pb is diagnostic of glass fill; non-destructive, rapid", "Definitive confirmation", "Most labs use EDXRF as first confirmatory step"]
+        - ["Acid sensitivity test (destructive)", "A drop of lemon juice (citric acid, pH ~2) or dilute HCl on pavilion girdle: glass etches and clouds within minutes; corundum unaffected", "Conclusive if positive", "Destructive – use only on obscure area, when other evidence inconclusive"]
+        - ["EDXRF", "Elevated Pb signal at surface or in fractures – Pb is diagnostic of glass fill; non-destructive, rapid", "Definitive confirmation", "Most labs use EDXRF as first confirmatory step"]
         - ["LA-ICP-MS", "Quantifies Pb at trace and major element levels; unambiguous confirmation of glass fill", "Definitive", "Used in research-level reports"]
 
   - title: Disclosure and Nomenclature
@@ -85,12 +85,12 @@ sections:
         "enhanced ruby" is considered insufficient; correct terminology is "glass-filled
         composite ruby"
       - **Gem-A**: distinction between "treated ruby" (heated, oiled) and "glass-filled
-        composite ruby" is categorically important — these are different disclosure situations
+        composite ruby" is categorically important – these are different disclosure situations
         and different value categories
 
   - title: Stability and Care
     table:
-      caption: Lead Glass-Filled Ruby — Care Warnings
+      caption: Lead Glass-Filled Ruby – Care Warnings
       headers:
         - Risk Factor
         - Effect

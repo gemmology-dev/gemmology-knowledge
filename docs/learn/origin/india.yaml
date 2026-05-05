@@ -1,5 +1,5 @@
-title: India — Alexandrite, Diamond (Panna), and Garnet
-description: Indian gem deposits — Andhra Pradesh alexandrite and chrysoberyl, Panna kimberlite diamond, Orissa garnet; geological context; Koh-i-Noor attribution qualified.
+title: India – Alexandrite, Diamond (Panna), and Garnet
+description: Indian gem deposits – Andhra Pradesh alexandrite and chrysoberyl, Panna kimberlite diamond, Orissa garnet; geological context; Koh-i-Noor attribution qualified.
 order: 13
 category: origin
 difficulty: advanced
@@ -42,7 +42,7 @@ sections:
         - ["Orissa (Odisha)", "Various districts", "Archaean basement; Precambrian metamorphic rocks", "Pyrope and almandine garnet"]
         - ["Tamil Nadu", "Southern India", "Garnet-bearing metamorphic basement", "Star garnet (almandine-pyrope)"]
 
-  - title: Alexandrite — Andhra Pradesh
+  - title: Alexandrite – Andhra Pradesh
     content: |
       Eastern Ghats chrysoberyl and alexandrite:
     subsections:
@@ -65,14 +65,14 @@ sections:
       - title: Origin Determination Note
         content: |
           - Indian alexandrite is noted in the trade for its colour-change effect
-            but fine colour change quality — the definitive balance of green-to-red
-            response — is generally considered less striking than fine Ural (Russian)
+            but fine colour change quality – the definitive balance of green-to-red
+            response – is generally considered less striking than fine Ural (Russian)
             material
           - This is a generalisation based on trade consensus: the sourcing literature
             does not provide a peer-reviewed comparison of Indian vs Ural quality as
             a verified gemmological fact; individual stones vary
 
-  - title: Diamond — Panna District
+  - title: Diamond – Panna District
     content: |
       India's only significant primary diamond source:
     subsections:
@@ -85,7 +85,7 @@ sections:
             and conglomerate deposits derived from kimberlite erosion
           - Active mining by NMDC (National Mineral Development Corporation)
 
-      - title: Koh-i-Noor Attribution — Critical Note
+      - title: Koh-i-Noor Attribution – Critical Note
         content: |
           - Various famous diamonds including the Koh-i-Noor, Regent (Pitt Diamond),
             and others are traditionally attributed to the alluvial workings of the
@@ -96,12 +96,12 @@ sections:
             framework but does not attribute any specific famous diamond to Panna
           - For examination purposes: state that famous historic diamonds including
             the Koh-i-Noor are "traditionally attributed to" the Golconda/Panna
-            alluvial region of India — not that their Indian origin is a confirmed fact
+            alluvial region of India – not that their Indian origin is a confirmed fact
 
   - title: Koh-i-Noor Qualification
     callout:
       type: warning
-      title: VERIFIED.md Flag F-08 — Must Qualify Attribution
+      title: VERIFIED.md Flag F-08 – Must Qualify Attribution
       text: |
         VERIFIED.md explicitly flags (F-08): "Remove or qualify [Koh-i-Noor Panna
         attribution] with 'traditionally attributed'; do not present as verified
@@ -111,7 +111,7 @@ sections:
         to the alluvial gem workings of the Golconda-Panna region of central India."
 
         Do NOT state: "The Koh-i-Noor was found at Panna" or "The Koh-i-Noor certainly
-        originates from Golconda" — these statements go beyond what the peer-reviewed
+        originates from Golconda" – these statements go beyond what the peer-reviewed
         record supports.
 
   - title: Diamond Origin Determination Caveat
@@ -141,6 +141,6 @@ sources:
   - doi: "10.17491/jgsi/1996/480412"
     citation: "Kasipathi (1996) Chrysoberyl from Visakhapatnam and East Godavari Districts, Andhra Pradesh. Journal of the Geological Society of India."
   - doi: "10.17491/jgsi/2007/690306"
-    citation: "Rau (2007) Panna Diamond Belt, Madhya Pradesh — A Critical Review. Journal of the Geological Society of India."
+    citation: "Rau (2007) Panna Diamond Belt, Madhya Pradesh – A Critical Review. Journal of the Geological Society of India."
   - doi: "10.5741/gems.46.3.188"
     citation: "Shigley et al. (2010) Gem Localities of the 2000s. Gems & Gemology."

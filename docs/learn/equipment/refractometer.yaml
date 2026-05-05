@@ -125,15 +125,15 @@ sections:
     subsections:
       - title: "Patterns I-III: Isotropic and Uniaxial"
         content: |
-          **Pattern I** — A single constant shadow edge confirms the material is isotropic.
+          **Pattern I** – A single constant shadow edge confirms the material is isotropic.
           Ensure the reading stays truly constant during a full rotation.
 
-          **Pattern II** — Two constant, parallel shadow edges that never move. This occurs when
+          **Pattern II** – Two constant, parallel shadow edges that never move. This occurs when
           the c-axis is perpendicular to the table facet. The minimum and maximum RI and
           birefringence can be determined, but the optic sign cannot without testing on
           an alternative facet.
 
-          **Pattern III** — One constant and one variable edge that join together at one point
+          **Pattern III** – One constant and one variable edge that join together at one point
           during rotation. This confirms uniaxial character with the c-axis parallel to the
           table. The optic sign is determinable:
 
@@ -142,16 +142,16 @@ sections:
 
       - title: "Patterns IV-VII: Biaxial Determination"
         content: |
-          **Pattern IV** — One constant edge, one variable edge, not touching. This ambiguous
+          **Pattern IV** – One constant edge, one variable edge, not touching. This ambiguous
           pattern can occur in both uniaxial (oblique c-axis) and biaxial stones.
 
-          **Pattern V** — Shadow edges intersect (cross each other). This confirms biaxial
+          **Pattern V** – Shadow edges intersect (cross each other). This confirms biaxial
           character. The edges may both converge towards beta.
 
-          **Pattern VI** — Both edges move but do not touch. Confirms biaxial, but the optic
+          **Pattern VI** – Both edges move but do not touch. Confirms biaxial, but the optic
           sign cannot be determined without additional information.
 
-          **Pattern VII** — Both edges move and touch at one point. Confirms biaxial with
+          **Pattern VII** – Both edges move and touch at one point. Confirms biaxial with
           determinable optic sign.
 
       - title: Optic Sign Determination
@@ -164,7 +164,7 @@ sections:
           **Biaxial optic sign** (when both edges move):
 
           - Observe which shadow edge crosses the point halfway between the maximum
-            (gamma) and minimum (alpha) values — this edge gives beta
+            (gamma) and minimum (alpha) values – this edge gives beta
           - Beta closer to alpha → **biaxial positive**
           - Beta closer to gamma → **biaxial negative**
 

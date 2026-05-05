@@ -1,4 +1,4 @@
-title: Beryllium Diffusion — Deep Diagnostic Reference
+title: Beryllium Diffusion – Deep Diagnostic Reference
 description: Full per-method detection protocol for beryllium lattice diffusion in corundum, with disclosure standards and stability data.
 order: 1
 category: identification
@@ -22,7 +22,7 @@ sections:
       and fired at **1700–1800 °C** in an oxidising atmosphere for 12–100 hours.
 
       Be²⁺ ions (ionic radius 0.27 Å) are small enough to diffuse through the corundum
-      lattice — unlike Ti or Cr, which remain near-surface. They act as charge compensators
+      lattice – unlike Ti or Cr, which remain near-surface. They act as charge compensators
       enabling trapped-hole colour centres (h-Fe: iron paired with oxygen vacancies),
       producing strong orange/yellow absorption throughout the stone.
 
@@ -43,9 +43,9 @@ sections:
         (loupe, refractometer, UV lamp, spectroscope). LA-ICP-MS or SIMS is required for a
         definitive result. Immersion microscopy provides indicative signs only.
 
-  - title: Detection — Full Protocol (Loupe to SIMS)
+  - title: Detection – Full Protocol (Loupe to SIMS)
     table:
-      caption: Detection Sequence — Beryllium Diffusion (simplest to most advanced)
+      caption: Detection Sequence – Beryllium Diffusion (simplest to most advanced)
       headers:
         - Method
         - Finding
@@ -53,7 +53,7 @@ sections:
         - Notes
       rows:
         - ["10× loupe / naked eye", "Colour may appear suspiciously homogeneous and intense for the origin; padparadscha oranges from Sri Lanka rarely achieve this saturation naturally", "Indicative only", "Cannot distinguish from plain heat"]
-        - ["Immersion microscope (40×, dark-field, di-iodomethane)", "In poorly-treated or small stones: slight colour concentration at facet junctions ('spider-web' faint); less pronounced than Ti surface diffusion because penetration is deeper; may appear where facets approach the girdle", "Suggestive — not conclusive", "More reliable for Ti surface diffusion; less reliable for Be"]
+        - ["Immersion microscope (40×, dark-field, di-iodomethane)", "In poorly-treated or small stones: slight colour concentration at facet junctions ('spider-web' faint); less pronounced than Ti surface diffusion because penetration is deeper; may appear where facets approach the girdle", "Suggestive – not conclusive", "More reliable for Ti surface diffusion; less reliable for Be"]
         - ["Chelsea Colour Filter", "No specific diagnostic reaction", "Not useful", "Skip in workflow"]
         - ["UV fluorescence (LWUV/SWUV)", "No reliable discrimination on its own", "Not useful", "Skip in workflow"]
         - ["LA-ICP-MS (Laser Ablation ICP-MS)", "Be >1–2 ppm in orange/yellow corundum is diagnostic; natural corundum contains <0.1 ppm Be", "Definitive", "Industry standard for lab detection; Emmett et al. 2003 establishes ppm threshold"]
@@ -70,7 +70,7 @@ sections:
   - title: Disclosure Standards
     content: |
       - **CIBJO / AGTA**: must be disclosed as a treatment; AGTA code "U" (diffusion)
-      - **GIA**: reports "lattice diffusion treatment — beryllium present"; NOT acceptable
+      - **GIA**: reports "lattice diffusion treatment – beryllium present"; NOT acceptable
         to describe the stone simply as "heated"
       - **LMHC**: classified as a treatment requiring specific disclosure separate from
         plain heat treatment (H); coded H(b) or H(Be) on many laboratory reports
@@ -88,7 +88,7 @@ sections:
   - title: Sources
     content: |
       - Emmett, J.L. et al. 2003. Beryllium Diffusion of Ruby and Sapphire. *Gems & Gemology*.
-        DOI: 10.5741/gems.39.2.84 [VERIFIED — live Crossref API confirmed]
+        DOI: 10.5741/gems.39.2.84 [VERIFIED – live Crossref API confirmed]
       - Emmett, J.L. et al. 2023. Yellow Sapphire: Natural, Heat-Treated, Beryllium-Diffused,
         and Synthetic. *Gems & Gemology*. DOI: 10.5741/gems.59.3.268 [VERIFIED]
       - McClure, S.F. et al. 2010. Gemstone Enhancement and Its Detection in the 2000s.

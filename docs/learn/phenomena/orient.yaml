@@ -1,5 +1,5 @@
 title: Pearl Orient
-description: Pearl orient — the soft iridescent surface bloom of fine nacre, arising from thin-film diffraction and interference at aragonite tablet layers, distinguished from body colour, lustre, and fluorescence.
+description: Pearl orient – the soft iridescent surface bloom of fine nacre, arising from thin-film diffraction and interference at aragonite tablet layers, distinguished from body colour, lustre, and fluorescence.
 order: 14
 category: phenomena
 difficulty: intermediate
@@ -24,9 +24,9 @@ sections:
       the layered aragonite platelet structure of nacre.
 
       Orient is entirely distinct from:
-      - **Body colour** — the dominant saturation and hue of the pearl (white, cream, golden, black)
-      - **Lustre** — the intensity and quality of the surface reflection
-      - **Fluorescence** — emission under UV excitation
+      - **Body colour** – the dominant saturation and hue of the pearl (white, cream, golden, black)
+      - **Lustre** – the intensity and quality of the surface reflection
+      - **Fluorescence** – emission under UV excitation
 
       A pearl may have high lustre but weak orient (thin nacre), or a deep body colour with strong
       orient. All four qualities are assessed independently in professional pearl grading.
@@ -56,14 +56,14 @@ sections:
 
       - title: Distinction from Lustre
         content: |
-          Lustre is the quality and intensity of surface reflection — related to the smoothness
+          Lustre is the quality and intensity of surface reflection – related to the smoothness
           and translucency of the outermost nacre layers. Orient is the iridescent hue-shifting
           effect superimposed on lustre. Both depend on nacre quality, but lustre responds to
           surface smoothness while orient responds to layer periodicity and thickness uniformity.
 
   - title: Named Pearl Types and Orient Character
     table:
-      caption: Orient characteristics across major pearl types. [PARTIALLY_SUPPORTED] — no single DOI-verified paper comparing orient across all types was retrieved; characteristics are consensus from standard gemmological references (Read 2008)
+      caption: Orient characteristics across major pearl types. [PARTIALLY_SUPPORTED] – no single DOI-verified paper comparing orient across all types was retrieved; characteristics are consensus from standard gemmological references (Read 2008)
       headers:
         - Pearl Type
         - Mollusc / Species
@@ -72,7 +72,7 @@ sections:
       rows:
         - ["Akoya", "Pinctada fucata", "~0.4–0.5 µm; relatively uniform", "Delicate rose to green overtone; characteristic 'rosé' overtone prized in Japanese Akoya; quantified by Ozaki et al. 2017 [VERIFIED]"]
         - ["South Sea", "Pinctada maxima", "Thicker tablets ~0.6–0.8 µm; silver or golden body", "Soft, broad orient; less intense iridescence than Akoya due to thicker layers; very high lustre"]
-        - ["Tahitian", "Pinctada margaritifera", "Intermediate thickness; dark body", "Peacock orient — green to reddish iridescence over dark body; the characteristic Tahitian overtone"]
+        - ["Tahitian", "Pinctada margaritifera", "Intermediate thickness; dark body", "Peacock orient – green to reddish iridescence over dark body; the characteristic Tahitian overtone"]
         - ["Natural seawater", "Various Pinctada spp.", "Variable; often thicker nacre than cultured (years of growth)", "Often strong orient; nacre thickness benefits from longer time in the water"]
         - ["Freshwater cultured", "Hyriopsis spp.", "Variable; all-nacre (no shell-bead nucleus)", "Improving quality; solid nacre throughout; orient variable depending on processing"]
 
@@ -93,7 +93,7 @@ sections:
       - title: Freshwater All-Nacre Structure
         content: |
           Freshwater cultured pearls (mantle-tissue nucleated, no shell bead) are composed
-          entirely of nacre. This structure — similar to natural pearls in composition — can
+          entirely of nacre. This structure – similar to natural pearls in composition – can
           produce genuine orient, though layer uniformity affects quality. The finest Chinese
           freshwater pearls increasingly approach Akoya orient quality.
 
@@ -106,7 +106,7 @@ sections:
         - Pearl-specific?
         - Test
       rows:
-        - ["Orient", "Thin-film diffraction/interference in nacre aragonite layers", "Yes — defining feature of fine nacre", "Visible under ordinary white light; soft multi-tonal iridescence"]
+        - ["Orient", "Thin-film diffraction/interference in nacre aragonite layers", "Yes – defining feature of fine nacre", "Visible under ordinary white light; soft multi-tonal iridescence"]
         - ["Body colour", "Organic pigment (porphyrins) + optical depth effects", "Yes", "Colour visible in direct light; does not shift spectrally with angle"]
         - ["Lustre", "Surface reflectance quality of outermost nacre", "Yes", "Sharpness of reflected image; independent of orient"]
         - ["Fluorescence", "UV-induced emission (organic matrix + Mn²⁺)", "Yes", "Visible only under UV lamp; inert under ordinary light"]
@@ -138,6 +138,6 @@ sections:
   - title: Sources
     items:
       - name: Ozaki et al. (2017)
-        description: "Calculation of Reflection Spectrum with Actual Layer Thickness Profile in Nacre of Akoya Pearl Oyster. Journal of Physics: Conference Series 924(1), 012011. DOI: 10.1088/1742-6596/924/1/012011. [VERIFIED] — Quantitative structural basis for orient in Akoya pearl."
+        description: "Calculation of Reflection Spectrum with Actual Layer Thickness Profile in Nacre of Akoya Pearl Oyster. Journal of Physics: Conference Series 924(1), 012011. DOI: 10.1088/1742-6596/924/1/012011. [VERIFIED] – Quantitative structural basis for orient in Akoya pearl."
       - name: Read (2008)
-        description: "Gemmology (3rd ed.). Butterworth-Heinemann/Routledge. DOI: 10.4324/9780080507224. [APPROXIMATE] — Pearl orient mechanism, lustre distinction, species characteristics."
+        description: "Gemmology (3rd ed.). Butterworth-Heinemann/Routledge. DOI: 10.4324/9780080507224. [APPROXIMATE] – Pearl orient mechanism, lustre distinction, species characteristics."

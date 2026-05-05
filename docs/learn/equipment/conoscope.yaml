@@ -1,5 +1,5 @@
 title: Conoscopic Observation and Interference Figures
-description: Using convergent polarised light to observe interference figures that reveal a gemstone's optic character (uniaxial or biaxial) and optic sign — an advanced polariscope technique.
+description: Using convergent polarised light to observe interference figures that reveal a gemstone's optic character (uniaxial or biaxial) and optic sign – an advanced polariscope technique.
 order: 11
 category: equipment
 difficulty: advanced
@@ -18,7 +18,7 @@ tags:
 sections:
   - title: Introduction
     content: |
-      The conoscope converts the polariscope into a device for examining **interference figures** —
+      The conoscope converts the polariscope into a device for examining **interference figures** – 
       patterns produced by convergent polarised light passing through an anisotropic gemstone. These
       figures reveal whether a stone is uniaxial or biaxial and, with an accessory plate, allow
       determination of the optic sign.
@@ -34,14 +34,14 @@ sections:
     subsections:
       - title: Polariscope vs Conoscope vs Bertrand Lens
         content: |
-          - **Polariscope (orthoscopic mode):** Standard test — parallel polarised light; stone
+          - **Polariscope (orthoscopic mode):** Standard test – parallel polarised light; stone
             rotated to identify SR, DR, or ADR behaviour. Does not show interference figures.
           - **Conoscope (convergent mode):** Converging lens added above or below the stone
             to bring a strongly convergent cone of polarised light to focus within the gem.
             The resulting interference figure is observed through a Bertrand lens or hand lens
             above the analyser.
           - **Bertrand lens:** A small supplementary lens inserted above the analyser that focuses
-            the back focal plane of the objective or converging lens — making the interference
+            the back focal plane of the objective or converging lens – making the interference
             figure visible and centred.
 
       - title: Improvised Setup
@@ -51,7 +51,7 @@ sections:
           simple converging element. This improvised setup is described in standard Gem-A teaching
           materials for use when a conoscope attachment is not available. Note: this improvised
           method is widely described in gemmological teaching but a specific peer-reviewed paper
-          confirming its parameters was not retrieved during source verification — treat the
+          confirming its parameters was not retrieved during source verification – treat the
           principle as established curriculum practice rather than a citable primary finding.
 
   - title: Conoscopic Procedure
@@ -63,7 +63,7 @@ sections:
           1. Select a clean, well-polished large flat facet (ideally the table or a large pavilion
              main facet).
           2. Orient the stone so the suspected optic axis is approximately perpendicular to the
-             facet being examined — this usually means examining the table facet of a well-cut
+             facet being examined – this usually means examining the table facet of a well-cut
              stone.
           3. For round brilliants: the table facet is a good starting orientation; for elongated
              stones (marquise, oval), try both the table and a large pavilion facet.
@@ -81,7 +81,7 @@ sections:
 
   - title: Uniaxial Interference Figure
     content: |
-      Crystals of the trigonal, tetragonal, and hexagonal systems are uniaxial — they have one
+      Crystals of the trigonal, tetragonal, and hexagonal systems are uniaxial – they have one
       optic axis (the c-axis).
     subsections:
       - title: Appearance of the Centred Uniaxial Figure
@@ -89,11 +89,11 @@ sections:
           When the optic axis is perpendicular to the polished face, the centred uniaxial figure
           shows:
 
-          - A stationary dark **isogyre cross** (Maltese cross) — the cross arms run north-south
+          - A stationary dark **isogyre cross** (Maltese cross) – the cross arms run north-south
             and east-west and remain fixed as the stage rotates.
           - Concentric **isochromatic rings** surrounding the cross, corresponding to regions of
             equal retardation. Higher birefringence means more rings.
-          - The centre of the cross (where the arms intersect) is the **melatope** — the point
+          - The centre of the cross (where the arms intersect) is the **melatope** – the point
             where the optic axis emerges.
 
       - title: Off-Centre Figure
@@ -121,7 +121,7 @@ sections:
 
   - title: Biaxial Interference Figure
     content: |
-      Crystals of the orthorhombic, monoclinic, and triclinic systems are biaxial — they have
+      Crystals of the orthorhombic, monoclinic, and triclinic systems are biaxial – they have
       two optic axes.
     subsections:
       - title: Acute Bisectrix (Bxa) Figure
@@ -171,7 +171,7 @@ sections:
         - ["Topaz", "Orthorhombic", "Biaxial; two melatopes clearly separated", "Positive", "2V ~65°; good teaching example of biaxial figure"]
         - ["Sphene (titanite)", "Monoclinic", "Biaxial; complex figure", "Positive", "Very high birefringence; many rings; 2V ~17–40°"]
         - ["Tourmaline", "Trigonal", "Uniaxial; strong birefringence; many rings", "Negative", "Rings numerous; may be hard to count"]
-        - ["Peridot", "Orthorhombic", "Biaxial; nearly optic normal", "Positive", "2V ~82–90°; melatopes far apart — may need optic axis figure"]
+        - ["Peridot", "Orthorhombic", "Biaxial; nearly optic normal", "Positive", "2V ~82–90°; melatopes far apart – may need optic axis figure"]
 
   - title: Limitations
     callout:
@@ -179,7 +179,7 @@ sections:
       title: Practical Constraints on Conoscopic Observation in Cut Gems
       text: |
         - **Optic axis orientation:** A usable figure requires the optic axis to be approximately
-          perpendicular to the table facet — this is not always achievable in a standard cut.
+          perpendicular to the table facet – this is not always achievable in a standard cut.
         - **Small stones:** Very small stones produce inadequate light convergence; minimum useful
           size is approximately 3 mm diameter.
         - **Included or turbid stones:** Reduce light transmission and obscure the figure.
@@ -207,5 +207,5 @@ sections:
         determinations of the optic sign or optic character of a gemstone." *The Journal of
         Gemmology* 32(1–4), 90–100. DOI: 10.15506/jog.2010.32.1-4.90 [VERIFIED]
       - Hofmeister, A. M. & Mao, H.-K. (2002). American Mineralogist.
-        DOI: 10.2138/am-2002-0414 [APPROXIMATELY — paper is on IR polarised spectra; polariscope
+        DOI: 10.2138/am-2002-0414 [APPROXIMATELY – paper is on IR polarised spectra; polariscope
         operational description is curriculum-level]

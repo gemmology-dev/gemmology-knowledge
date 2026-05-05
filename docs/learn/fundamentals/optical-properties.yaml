@@ -81,7 +81,7 @@ sections:
     content: |
       Birefringence is the difference between maximum and minimum RI values in
       anisotropic (non-cubic) crystals. Light entering the stone splits into two
-      rays traveling at different speeds.
+      rays travelling at different speeds.
 
       **Formula:** `Birefringence = RI(max) - RI(min)`
 
@@ -179,7 +179,7 @@ sections:
       text: |
         Practise with our interactive optical property tools:
 
-        - [Refractometer simulator](/tools/optical) — practise reading shadow edges
-        - [Dichroscope lookup](/tools/optical) — identify gems by observed colours
-        - [Polariscope guide](/tools/optical) — interpret isotropic vs anisotropic reactions
-        - [RI calculator](/tools/calculator) — look up gems by refractive index
+        - [Refractometer simulator](/tools/optical) – practise reading shadow edges
+        - [Dichroscope lookup](/tools/optical) – identify gems by observed colours
+        - [Polariscope guide](/tools/optical) – interpret isotropic vs anisotropic reactions
+        - [RI calculator](/tools/calculator) – look up gems by refractive index

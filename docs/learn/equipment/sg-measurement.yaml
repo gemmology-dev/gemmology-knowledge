@@ -1,5 +1,5 @@
 title: Specific Gravity Measurement
-description: Hydrostatic weighing and heavy-liquid methods for measuring specific gravity — the density-based property used to identify and confirm gem species.
+description: Hydrostatic weighing and heavy-liquid methods for measuring specific gravity – the density-based property used to identify and confirm gem species.
 order: 10
 category: equipment
 difficulty: beginner
@@ -18,7 +18,7 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Specific gravity (SG) — also called relative density — is the ratio of a substance's weight
+      Specific gravity (SG) – also called relative density – is the ratio of a substance's weight
       to the weight of an equal volume of water. It is a fundamental physical property that helps
       identify gem species, particularly when refractive index and optical tests are inconclusive.
 
@@ -52,24 +52,24 @@ sections:
     subsections:
       - title: Required Components
         content: |
-          - **Analytical balance** — single-pan electronic or two-pan beam balance; ±0.01 g
+          - **Analytical balance** – single-pan electronic or two-pan beam balance; ±0.01 g
             resolution minimum (±0.001 g preferred for stones below 0.5 g)
-          - **Bridge or cradle frame** — mounted over or beside the balance pan; holds the beaker
+          - **Bridge or cradle frame** – mounted over or beside the balance pan; holds the beaker
             of water while the stone hangs suspended below on a wire
-          - **Fine wire sling or fibre-basket** — suspends the stone fully immersed without
+          - **Fine wire sling or fibre-basket** – suspends the stone fully immersed without
             touching the beaker walls or base
           - **Beaker of distilled water** with one drop of wetting agent (household detergent) to
             reduce surface tension and prevent air bubbles
-          - **Thermometer** — for temperature corrections if precision is required
-          - **Tweezers** — for stone handling; avoid fingers which add grease
+          - **Thermometer** – for temperature corrections if precision is required
+          - **Tweezers** – for stone handling; avoid fingers which add grease
 
       - title: Procedure
         content: |
           1. Tare the balance with the wire sling hanging freely in air above the beaker.
           2. Place the stone in the sling, lower it so it hangs freely in air. Record **W_air**.
-          3. Raise the beaker of distilled water so the stone is fully immersed — check no
+          3. Raise the beaker of distilled water so the stone is fully immersed – check no
              air bubbles are visible on the stone surface; gently agitate if needed.
-          4. Record **W_water** (the apparent weight under water — numerically less than W_air).
+          4. Record **W_water** (the apparent weight under water – numerically less than W_air).
           5. Calculate: **SG = W_air / (W_air − W_water)**.
           6. Repeat at least twice; take the mean.
 
@@ -94,7 +94,7 @@ sections:
       This gives a rapid qualitative SG bracket in seconds. Liquids may be diluted (with acetone
       for organic liquids, or water for sodium polytungstate) to adjust density to intermediate
       values. Shannon (1985) described the gemmological use of heavy liquids in Gems & Gemology
-      (DOI: 10.1080/00357529.1985.11764366) [PARTIALLY_SUPPORTED — title and DOI confirmed;
+      (DOI: 10.1080/00357529.1985.11764366) [PARTIALLY_SUPPORTED – title and DOI confirmed;
       abstract not retrieved].
     table:
       caption: Heavy Liquids Used in Gemmological Laboratories
@@ -105,15 +105,15 @@ sections:
         - Hazard Class
         - Status
       rows:
-        - ["Di-iodomethane (CH₂I₂)", "Methylene iodide", "~3.32 at 20 °C", "Toxic vapour; photodegrades; stains skin", "Still in common use — handle in fume cupboard"]
+        - ["Di-iodomethane (CH₂I₂)", "Methylene iodide", "~3.32 at 20 °C", "Toxic vapour; photodegrades; stains skin", "Still in common use – handle in fume cupboard"]
         - ["Bromoform (CHBr₃)", "Bromoform", "~2.89 at 20 °C", "Toxic; suspected carcinogen; volatile", "Being phased out in many laboratories"]
-        - ["Clerici solution (thallium formate–malonate)", "Clerici", "Up to ~4.2 (adjustable)", "Acutely toxic — thallium absorbed through skin", "Banned or restricted in many jurisdictions; avoid"]
+        - ["Clerici solution (thallium formate–malonate)", "Clerici", "Up to ~4.2 (adjustable)", "Acutely toxic – thallium absorbed through skin", "Banned or restricted in many jurisdictions; avoid"]
         - ["Sodium polytungstate (Na₆[H₂W₁₂O₄₀])", "SPT", "~2.7–3.1 (adjustable with water)", "Non-toxic; water-soluble", "Modern alternative; does not reach 3.32+ SG range"]
 
   - title: Safety
     callout:
       type: warning
-      title: Heavy Liquid Hazards — Read Before Use
+      title: Heavy Liquid Hazards – Read Before Use
       text: |
         **Clerici solution** is the most dangerous heavy liquid used in gemmological laboratories.
         It contains thallium salts; thallium is absorbed through intact skin and mucous membranes,
@@ -121,9 +121,9 @@ sections:
         use under COSHH regulations. Where Clerici is still used: full PPE (nitrile gloves, fume
         cupboard, closed containers) is mandatory. **Never use Clerici without training.**
 
-        **Di-iodomethane:** toxic vapour — use in ventilated area or fume cupboard.
+        **Di-iodomethane:** toxic vapour – use in ventilated area or fume cupboard.
         Photodegrades on exposure to light/air (turns brown/orange; store in amber bottles).
-        Can irreversibly stain organic gems (pearls, amber, coral) — not suitable for these.
+        Can irreversibly stain organic gems (pearls, amber, coral) – not suitable for these.
 
         **Bromoform:** volatile, toxic, possible carcinogen; not to be used without fume cupboard.
 
@@ -151,10 +151,10 @@ sections:
         - ["Corundum (ruby/sapphire)", "3.80–4.05", "Sinks", "Sinks", "Wide range due to Fe/Ti content"]
         - ["Spinel (natural)", "3.58–3.61", "Sinks", "Sinks", "Isotropic"]
         - ["Spinel (Verneuil synthetic)", "3.61–3.67", "Sinks", "Sinks", "Slightly higher than natural"]
-        - ["Topaz", "3.50–3.60", "Sinks", "Sinks", "Perfect basal cleavage — handle carefully"]
+        - ["Topaz", "3.50–3.60", "Sinks", "Sinks", "Perfect basal cleavage – handle carefully"]
         - ["Peridot", "3.32–3.37", "Floats / suspends", "Sinks", "SG overlaps di-iodomethane closely"]
         - ["Jadeite", "3.30–3.36", "Floats / suspends", "Sinks", "Aggregate material"]
-        - ["Nephrite", "2.80–3.10", "Floats", "Floats / suspends", "Lower than jadeite — useful diagnostic"]
+        - ["Nephrite", "2.80–3.10", "Floats", "Floats / suspends", "Lower than jadeite – useful diagnostic"]
         - ["Beryl (all varieties)", "2.65–2.80", "Floats", "Floats", "Includes emerald, aquamarine, morganite"]
         - ["Quartz (crystalline)", "2.65", "Floats", "Floats", "Very consistent; useful balance calibration standard"]
         - ["Amber", "1.05–1.10", "Floats", "Floats", "Floats in saturated salt water (SG ~1.13)"]
@@ -166,16 +166,16 @@ sections:
     subsections:
       - title: Measurement Errors
         content: |
-          - **Air bubbles on the stone surface** — reduce the apparent weight of displaced water,
+          - **Air bubbles on the stone surface** – reduce the apparent weight of displaced water,
             giving a falsely high SG reading. Remove by gently agitating or by using a wetting
             agent in the water.
-          - **Mounted stones** — metal settings introduce unknown mass; the method is unreliable
+          - **Mounted stones** – metal settings introduce unknown mass; the method is unreliable
             for set stones without dismounting.
-          - **Porous or treated stones** — water absorption (opal, turquoise, some coral) alters
+          - **Porous or treated stones** – water absorption (opal, turquoise, some coral) alters
             the reading over time as the stone absorbs liquid.
-          - **Very small stones** — weighing error becomes proportionally large; minimum useful
+          - **Very small stones** – weighing error becomes proportionally large; minimum useful
             stone weight is approximately 0.15–0.20 g for ±0.01 g balance resolution.
-          - **Fracture-filled stones** — filler material (glass, resin) changes the apparent SG
+          - **Fracture-filled stones** – filler material (glass, resin) changes the apparent SG
             from the host mineral.
 
       - title: Balance Calibration
@@ -196,7 +196,7 @@ sections:
       - Mitchell (1980). "Anderson on Heavy Liquids." *The Journal of Gemmology* 17(4), 230.
         DOI: 10.15506/jog.1980.17.4.230 [VERIFIED]
       - Shannon (1985). "Determining Specific Gravity Using Heavy Liquids." *Gems & Gemology*.
-        DOI: 10.1080/00357529.1985.11764366 [PARTIALLY_SUPPORTED — title and DOI confirmed;
+        DOI: 10.1080/00357529.1985.11764366 [PARTIALLY_SUPPORTED – title and DOI confirmed;
         abstract not retrieved]
       - Munsterman, D. & Kerstholt, S. (1996). "Sodium polytungstate, a new non-toxic alternative
         to bromoform in heavy liquid separation." *Review of Palaeobotany and Palynology* 91,
