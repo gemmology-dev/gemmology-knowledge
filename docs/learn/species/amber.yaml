@@ -15,10 +15,38 @@ tags:
   - identification/inclusions
   - organic
 
+references:
+  - id: anderson-1992
+    kind: journal
+    authors:
+      - family: Anderson
+        given: K.B.
+      - family: Botto
+        given: R.E.
+    title: "The nature and fate of natural resins in the geosphere—II. Identification, classification and nomenclature of resinites"
+    journal: "Organic Geochemistry"
+    volume: 18
+    issue: 6
+    pages: "829–841"
+    year: 1992
+    doi: "10.1016/0146-6380(92)90051-x"
+
+  - id: read-3rd
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: "Gemmology"
+    edition: 3rd
+    publisher: "Butterworth-Heinemann"
+    year: 2008
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-7506-6449-3"
+
 sections:
   - title: Introduction
     content: |
-      Amber is fossilised tree resin, typically 20-100+ million years old. Valued
+      Amber is fossilised tree resin, typically 20–100+ million years old. Valued
       for its warm golden colour, transparency, and remarkable preservation of
       ancient life forms, amber provides a window into prehistoric ecosystems.
 
@@ -36,24 +64,25 @@ sections:
           3. Resin is buried by sediment
           4. Over millions of years, polymerisation occurs
           5. Volatile compounds evaporate; resin hardens
-          6. Becomes amber after ~2-10 million years
+          6. Becomes amber after ~2–10 million years
 
       - title: Composition
         content: |
           - **Organic polymers**: No fixed chemical formula
           - **Main components**: Carbon, hydrogen, oxygen
           - **Variable**: Composition differs by source tree
-          - **Succinic acid**: Baltic amber contains 3-8%
+          - **Succinic acid**: Baltic amber contains 3–8% {cite:anderson-1992}
 
   - title: Physical Properties
+    citations: [read-3rd]
     table:
       headers:
         - Property
         - Value
       rows:
-        - ["Hardness", "2-2.5 Mohs (very soft)"]
-        - ["Specific gravity", "1.05-1.10 (floats in salt water)"]
-        - ["Refractive index", "1.539-1.545 (spot)"]
+        - ["Hardness", "2–2.5 Mohs (very soft)"]
+        - ["Specific gravity", "1.05–1.10 (floats in salt water)"]
+        - ["Refractive index", "1.539–1.545 (spot)"]
         - ["Lustre", "Resinous"]
         - ["Fracture", "Conchoidal"]
         - ["Static electricity", "Attracts paper when rubbed"]
@@ -65,11 +94,11 @@ sections:
         - Age
         - Characteristics
       rows:
-        - ["Baltic (Europe)", "40-50 million years", "Yellow to cognac; succinite; most common"]
-        - ["Dominican Republic", "20-30 million years", "Blue fluorescence; rare blue amber"]
+        - ["Baltic (Europe)", "40–50 million years", "Yellow to cognac; succinite; most common"]
+        - ["Dominican Republic", "20–30 million years", "Blue fluorescence; rare blue amber"]
         - ["Myanmar (Burmese)", "~100 million years", "Cretaceous; scientifically valuable"]
-        - ["Mexican (Chiapas)", "20-30 million years", "Similar to Dominican"]
-        - ["Indonesian", "20-30 million years", "Various qualities"]
+        - ["Mexican (Chiapas)", "20–30 million years", "Similar to Dominican"]
+        - ["Indonesian", "20–30 million years", "Various qualities"]
 
   - title: Colour Varieties
     content: |
@@ -126,7 +155,7 @@ sections:
         - Often sold as "young amber" (misrepresentation)
         - Much lower value than true amber
 
-        Test: Acetone softens copal surface but not true amber.
+        Test: Acetone softens copal surface but not true amber. {cite:read-3rd}
 
   - title: Identification Tests
     table:
@@ -157,7 +186,7 @@ sections:
       - title: Other Treatments
         content: |
           - **Dyeing**: Changes colour (especially green, cherry)
-          - **Heated/pressed**: Reconstituded from small pieces
+          - **Heated/pressed**: Reconstituted from small pieces
           - **Coated**: Surface enhancement
           - **Filled**: Repairs or creates fake inclusions
 
@@ -180,7 +209,7 @@ sections:
     content: |
       Amber requires gentle handling:
 
-      - **Hardness**: 2-2.5 (very easily scratched)
+      - **Hardness**: 2–2.5 (very easily scratched)
       - **Solvents**: Avoid alcohol, perfume, hairspray
       - **Heat**: Can crack or cloud
       - **Sunlight**: May darken over time

@@ -16,6 +16,79 @@ tags:
   - HPHT
   - CVD
 
+references:
+  - id: breeding-shigley-2009
+    kind: journal
+    authors:
+      - family: Breeding
+        given: C.M.
+      - family: Shigley
+        given: J.E.
+    title: "The \"Type\" Classification System of Diamonds and Its Importance in Gemology"
+    journal: "Gems & Gemology"
+    volume: 45
+    issue: 2
+    pages: "96–111"
+    year: 2009
+    doi: "10.5741/gems.45.2.96"
+
+  - id: fritsch-rossman-1988-pt3
+    kind: journal
+    authors:
+      - family: Fritsch
+        given: E.
+      - family: Rossman
+        given: G.R.
+    title: "An Update on Color in Gems. Part 3: Colors Caused By Band Gaps and Physical Phenomena"
+    journal: "Gems & Gemology"
+    volume: 24
+    issue: 2
+    pages: "81–102"
+    year: 1988
+    doi: "10.5741/gems.24.2.81"
+
+  - id: fisher-spits-2000
+    kind: journal
+    authors:
+      - family: Fisher
+        given: D.
+      - family: Spits
+        given: R.A.
+    title: "Spectroscopic Evidence of GE POL HPHT-Treated Natural Type IIa Diamonds"
+    journal: "Gems & Gemology"
+    volume: 36
+    issue: 1
+    pages: "42–49"
+    year: 2000
+    doi: "10.5741/gems.36.1.42"
+
+  - id: fritsch-rossman-1988-pt2
+    kind: journal
+    authors:
+      - family: Fritsch
+        given: E.
+      - family: Rossman
+        given: G.R.
+    title: "An Update on Color in Gems. Part 2: Colors Involving Multiple Atoms and Color Centers"
+    journal: "Gems & Gemology"
+    volume: 24
+    issue: 1
+    pages: "3–15"
+    year: 1988
+    doi: "10.5741/gems.24.1.3"
+
+  - id: read-3rd
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: "Gemmology"
+    edition: 3rd
+    publisher: "Butterworth-Heinemann"
+    year: 2008
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-7506-6449-3"
+
 sections:
   - title: Introduction
     content: |
@@ -35,6 +108,7 @@ sections:
       to treatments.
     subsections:
       - title: Type System Overview
+        citations: [breeding-shigley-2009]
         table:
           headers:
             - Type
@@ -46,14 +120,14 @@ sections:
             - ["Type IaA", "Paired nitrogen (A centres)", "Near-colourless to light yellow", "Common"]
             - ["Type IaB", "Clustered nitrogen (B centres)", "Less yellow; may show H3/H4 centres", "Less common"]
             - ["Type Ib", "Isolated nitrogen", "Intense yellow or brown", "~0.1% natural; common synthetic"]
-            - ["Type IIa", "No nitrogen", "Colourless or brown; often finest quality", "~1-2% natural"]
-            - ["Type IIb", "Boron (no nitrogen)", "Blue; electrically conductive", "Very rare"]
+            - ["Type IIa", "No nitrogen", "Colourless or brown; often finest quality", "~1–2% natural"]
+            - ["Type IIb", "Boron (no nitrogen)", "Blue; electrically conductive {cite:breeding-shigley-2009}{cite:fritsch-rossman-1988-pt3}", "Very rare"]
 
       - title: Type Significance
         content: |
           Understanding diamond type is important because:
 
-          - **Treatment response**: Type IIa brown diamonds can be HPHT-treated to colourless
+          - **Treatment response**: Type IIa brown diamonds can be HPHT-treated to colourless {cite:fisher-spits-2000}
           - **Colour origin**: Type determines cause of colour
           - **Value**: Type IIa diamonds are often exceptional
           - **Synthetic identification**: Type Ib common in HPHT synthetics
@@ -158,16 +232,17 @@ sections:
           - **Poor**: Significant performance issues
 
       - title: Cut Quality Factors
+        citations: [read-3rd]
         table:
           headers:
             - Factor
             - Excellent Range
             - Effect
           rows:
-            - ["Table %", "54-57%", "Balance of brilliance and fire"]
-            - ["Depth %", "59-62.3%", "Light return and face-up size"]
-            - ["Crown angle", "34-35°", "Fire and brilliance balance"]
-            - ["Pavilion angle", "40.6-41°", "Critical for light return"]
+            - ["Table %", "54–57%", "Balance of brilliance and fire"]
+            - ["Depth %", "59–62.3%", "Light return and face-up size"]
+            - ["Crown angle", "34–35°", "Fire and brilliance balance"]
+            - ["Pavilion angle", "40.6–41°", "Critical for light return"]
             - ["Girdle", "Thin to slightly thick", "Durability and face-up size"]
 
       - title: Light Performance
@@ -185,7 +260,7 @@ sections:
 
   - title: Carat Weight
     content: |
-      Carat is the metric unit for gemstone weight: 1 carat = 0.200 grams = 200 milligrams.
+      Carat is the metric unit for gemstone weight: 1 carat = 0.200 grams = 200 milligrams. {cite:read-3rd}
     subsections:
       - title: Weight-Size Relationship
         content: |
@@ -203,7 +278,7 @@ sections:
           Price per carat increases at threshold weights:
 
           - 0.30, 0.40, 0.50, 0.70, 0.90 ct: Minor jumps
-          - 1.00 ct: Major threshold (20-40% jump)
+          - 1.00 ct: Major threshold (20–40% jump)
           - 1.50, 2.00, 3.00 ct: Significant premiums
           - 5.00+ ct: Exceptional premiums
 
@@ -240,8 +315,8 @@ sections:
             - ["Yellow", "Nitrogen (isolated)", "Common fancy colour"]
             - ["Brown", "Plastic deformation", "Most common"]
             - ["Blue", "Boron", "Very rare"]
-            - ["Green", "Radiation exposure", "Rare"]
-            - ["Pink/Red", "Plastic deformation", "Very rare; most valuable"]
+            - ["Green", "Radiation exposure {cite:fritsch-rossman-1988-pt2}", "Rare"]
+            - ["Pink/Red", "Plastic deformation {cite:fritsch-rossman-1988-pt2}", "Very rare; most valuable"]
             - ["Orange", "Nitrogen + deformation", "Rare"]
             - ["Black", "Graphite inclusions", "Relatively common"]
             - ["White", "Milky inclusions", "Uncommon"]
@@ -281,7 +356,7 @@ sections:
           - **Brown tint**: Often HPHT post-treated
           - **Unusual fluorescence**: Orange or other colours
           - **Very clean**: Few inclusions typically
-          - **Type**: Usually Type IIa
+          - **Type**: Usually Type IIa {cite:breeding-shigley-2009}
 
       - title: Detection Methods
         table:

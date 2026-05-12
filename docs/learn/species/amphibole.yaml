@@ -13,6 +13,19 @@ tags:
   - actinolite
   - tremolite
 
+references:
+  - id: read-3rd
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: "Gemmology"
+    edition: 3rd
+    publisher: "Butterworth-Heinemann"
+    year: 2008
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-7506-6449-3"
+
 sections:
   - title: Introduction
     content: |
@@ -22,7 +35,7 @@ sections:
       toughness and subtle beauty.
 
       Nephrite is composed of interlocking fibrous crystals of actinolite and
-      tremolite, making it the toughest natural material known.
+      tremolite, making it the toughest natural material known. {cite:read-3rd}
 
   - title: Nephrite
     content: |
@@ -30,6 +43,7 @@ sections:
       and carving qualities.
     subsections:
       - title: Properties
+        citations: [read-3rd]
         table:
           headers:
             - Property
@@ -37,9 +51,9 @@ sections:
           rows:
             - ["Composition", "Ca₂(Mg,Fe)₅Si₈O₂₂(OH)₂"]
             - ["Crystal system", "Monoclinic (but cryptocrystalline aggregate)"]
-            - ["Hardness", "6-6.5 Mohs"]
-            - ["Specific gravity", "2.90-3.02"]
-            - ["Refractive index", "1.606-1.632 (spot)"]
+            - ["Hardness", "6–6.5 Mohs"]
+            - ["Specific gravity", "2.90–3.02"]
+            - ["Refractive index", "1.606–1.632 (spot)"]
             - ["Character", "Aggregate (fibrous)"]
             - ["Toughness", "Exceptional"]
 
@@ -67,7 +81,7 @@ sections:
       type: info
       title: Toughest Natural Material
       text: |
-        Nephrite's interlocking fibrous structure makes it tougher than steel.
+        Nephrite's interlocking fibrous structure makes it tougher than steel. {cite:read-3rd}
         This exceptional toughness made it valuable for prehistoric tools and
         weapons – the name "jade" comes from Spanish "piedra de ijada" (stone
         of the side), referring to its supposed healing properties.
@@ -81,8 +95,8 @@ sections:
           variant: default
           points:
             - Amphibole (actinolite-tremolite)
-            - SG 2.90-3.02 (lower)
-            - RI 1.606-1.632 (lower)
+            - SG 2.90–3.02 (lower) {cite:read-3rd}
+            - RI 1.606–1.632 (lower)
             - Greasy to waxy lustre
             - More subdued greens
             - Generally more affordable
@@ -91,8 +105,8 @@ sections:
           variant: default
           points:
             - Pyroxene (sodium aluminium)
-            - SG 3.30-3.38 (higher)
-            - RI 1.654-1.667 (higher)
+            - SG 3.30–3.38 (higher)
+            - RI 1.654–1.667 (higher)
             - Vitreous lustre
             - 'Vivid "Imperial" green possible'
             - Higher value for fine material
@@ -120,7 +134,7 @@ sections:
         White nephrite from Hetian (Khotan) in Xinjiang, China, is the most
         valued jade in Chinese culture – more so than green jadeite. Called
         "mutton fat jade" for its warm, creamy appearance, fine Hetian nephrite
-        has been treasured for over 5,000 years.
+        has been treasured for over 5,000 years. {cite:read-3rd}
 
         River-worn pebbles ("seed jade") command higher prices than mined material.
 
@@ -142,7 +156,7 @@ sections:
           - Traditional weapons (mere) and ornaments (hei-tiki)
           - Passed down through generations
           - Spiritual significance
-          - Protected under New Zealand law
+          - Protected under New Zealand law [CITATION NEEDED]
 
   - title: Identification
     content: |
@@ -150,20 +164,21 @@ sections:
     subsections:
       - title: Key Tests
         content: |
-          - **Specific gravity**: 2.90-3.02 (flotation test)
+          - **Specific gravity**: 2.90–3.02 (flotation test) {cite:read-3rd}
           - **Spot RI**: ~1.61 (distinguishes from jadeite)
           - **Structure**: Fibrous under magnification
           - **Feel**: Greasy/waxy to touch
           - **Toughness**: Exceptional (doesn't chip easily)
 
       - title: Common Simulants
+        citations: [read-3rd]
         table:
           headers:
             - Material
             - Distinction
           rows:
-            - ["Serpentine", "Lower SG (2.5-2.6); softer (H 2.5-5)"]
-            - ["Chrysoprase", "Different RI (1.53-1.54); SG 2.6"]
+            - ["Serpentine", "Lower SG (2.5–2.6); softer (H 2.5–5)"]
+            - ["Chrysoprase", "Different RI (1.53–1.54); SG 2.6"]
             - ["Aventurine quartz", "Different RI (1.54); sparkle from inclusions"]
             - ["Hydrogrossular garnet", "Higher SG (3.4+); SR"]
             - ["Glass", "Gas bubbles; different feel"]
@@ -176,5 +191,5 @@ sections:
       - Clean with warm soapy water
       - Ultrasonic generally safe (solid pieces)
       - Can be oiled to enhance lustre
-      - Surface can be scratched (H 6-6.5)
+      - Surface can be scratched (H 6–6.5)
       - Excellent for carvings and daily-wear jewellery

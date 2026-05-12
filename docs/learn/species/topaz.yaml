@@ -14,6 +14,32 @@ tags:
   - blue-topaz
   - sherry-topaz
 
+references:
+  - id: ashbaugh-1988
+    kind: journal
+    authors:
+      - family: Ashbaugh
+        given: C.E.
+    title: "Gemstone Irradiation and Radioactivity"
+    journal: "Gems & Gemology"
+    volume: 24
+    issue: 4
+    pages: "196–213"
+    year: 1988
+    doi: "10.5741/gems.24.4.196"
+
+  - id: read-3rd
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: "Gemmology"
+    edition: 3rd
+    publisher: "Butterworth-Heinemann"
+    year: 2008
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-7506-6449-3"
+
 sections:
   - title: Introduction
     content: |
@@ -35,15 +61,16 @@ sections:
           - **Fracture**: Conchoidal
 
       - title: Physical Properties
+        citations: [read-3rd]
         table:
           headers:
             - Property
             - Value
           rows:
             - ["Hardness", "8 Mohs"]
-            - ["Specific gravity", "3.50-3.57"]
-            - ["Refractive index", "1.619-1.627"]
-            - ["Birefringence", "0.008-0.010"]
+            - ["Specific gravity", "3.50–3.57"]
+            - ["Refractive index", "1.619–1.627"]
+            - ["Birefringence", "0.008–0.010"]
             - ["Optic character", "Biaxial positive"]
             - ["Pleochroism", "Weak to distinct (varies by colour)"]
             - ["Lustre", "Vitreous"]
@@ -54,7 +81,7 @@ sections:
       title: Perfect Basal Cleavage
       text: |
         Topaz has perfect cleavage in one direction, making it vulnerable to
-        chipping if struck. This requires care in:
+        chipping if struck. {cite:read-3rd} This requires care in:
 
         - Cutting and polishing
         - Setting (protective settings recommended)
@@ -70,7 +97,7 @@ sections:
           The most valuable topaz variety:
 
           - **Colour**: Orange to pink-orange to reddish-orange
-          - **Source**: Primarily Ouro Preto, Brazil
+          - **Source**: Primarily Ouro Preto, Brazil {cite:read-3rd}
           - **Cause**: Chromium in some; colour centres
           - **Rarity**: True imperial colour is rare
           - **Value**: Commands significant premiums
@@ -84,7 +111,7 @@ sections:
 
           - **Colour**: Named for sherry wine colour
           - **Sources**: Brazil, Sri Lanka, Pakistan
-          - **Note**: May fade with light exposure
+          - **Note**: May fade with light exposure {cite:read-3rd}
           - **Value**: Lower than imperial; higher than colourless
 
       - title: Blue Topaz
@@ -92,7 +119,7 @@ sections:
           The most common market topaz today:
 
           - **Natural**: Rare and typically pale
-          - **Treated**: Virtually all commercial blue topaz
+          - **Treated**: Virtually all commercial blue topaz {cite:ashbaugh-1988}
           - **Treatment**: Irradiation + heat
           - **Trade names**: Sky Blue (light), Swiss Blue (medium), London Blue (dark)
 
@@ -132,12 +159,12 @@ sections:
           rows:
             - ["Sky Blue", "Light, clear blue", "Electron or gamma irradiation"]
             - ["Swiss Blue", "Medium saturated blue", "Combination irradiation"]
-            - ["London Blue", "Deep greyish-blue", "Neutron irradiation + heat"]
+            - ["London Blue", "Deep greyish-blue", "Neutron irradiation + heat {cite:ashbaugh-1988}"]
 
       - title: Safety Note
         content: |
           Neutron-irradiated topaz (London Blue) must be held for radiation
-          decay before sale. Reputable suppliers ensure this, but the delay
+          decay before sale. {cite:ashbaugh-1988} Reputable suppliers ensure this, but the delay
           period can be months.
 
   - title: Major Sources
@@ -168,7 +195,7 @@ sections:
       type: info
       title: Nomenclature History
       text: |
-        Historical "topaz" often referred to other gems:
+        Historical "topaz" often referred to other gems: {cite:read-3rd}
 
         - **"Oriental topaz"**: Actually yellow sapphire (deprecated)
         - **"Spanish topaz"**: Actually citrine
@@ -182,10 +209,10 @@ sections:
     content: |
       Key features for topaz identification:
 
-      - **RI**: 1.619-1.627 (useful range)
-      - **SG**: 3.53 (overlaps diamond!)
-      - **Birefringence**: 0.008-0.010
-      - **Optic sign**: Biaxial positive
+      - **RI**: 1.619–1.627 (useful range)
+      - **SG**: 3.53 (overlaps diamond!) {cite:read-3rd}
+      - **Birefringence**: 0.008–0.010
+      - **Optic sign**: Biaxial positive {cite:read-3rd}
       - **Cleavage**: Perfect basal (visible under magnification)
       - **Spectrum**: Often no diagnostic features
 
@@ -195,8 +222,8 @@ sections:
         - Gem
         - Key Distinction from Topaz
       rows:
-        - ["Citrine", "Lower RI (1.544-1.553), lower SG (2.65)"]
+        - ["Citrine", "Lower RI (1.544–1.553), lower SG (2.65)"]
         - ["Aquamarine", "Lower RI (~1.58), lower SG (2.72)"]
-        - ["Yellow sapphire", "Higher RI (1.76-1.77), higher SG (4.00)"]
+        - ["Yellow sapphire", "Higher RI (1.76–1.77), higher SG (4.00)"]
         - ["Danburite", "Lower SG (3.00), different crystal system"]
         - ["Heliodor", "Lower RI (~1.58), lower SG (~2.72)"]

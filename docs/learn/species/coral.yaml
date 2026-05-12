@@ -14,6 +14,19 @@ tags:
   - angel-skin
   - organic
 
+references:
+  - id: read-3rd
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: "Gemmology"
+    edition: 3rd
+    publisher: "Butterworth-Heinemann"
+    year: 2008
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-7506-6449-3"
+
 sections:
   - title: Introduction
     content: |
@@ -32,7 +45,7 @@ sections:
         content: |
           - Colonial marine organisms (polyps)
           - Secrete calcium carbonate skeleton
-          - Deep water (100-300+ metres)
+          - Deep water (100–300+ metres) {cite:read-3rd}
           - Slow growing (1mm per year or less)
           - Tree-like branching structure
 
@@ -44,14 +57,15 @@ sections:
           - **Grain**: Wood-like growth pattern visible when polished
 
   - title: Physical Properties
+    citations: [read-3rd]
     table:
       headers:
         - Property
         - Value
       rows:
-        - ["Hardness", "3-4 Mohs (soft)"]
-        - ["Specific gravity", "2.60-2.70"]
-        - ["Refractive index", "1.486-1.658 (spot)"]
+        - ["Hardness", "3–4 Mohs (soft)"]
+        - ["Specific gravity", "2.60–2.70"]
+        - ["Refractive index", "1.486–1.658 (spot)"]
         - ["Character", "Aggregate; often shows grain"]
         - ["Lustre", "Waxy to vitreous when polished"]
         - ["Composition", "Calcium carbonate (calcite)"]
@@ -147,7 +161,7 @@ sections:
       title: Conservation Status
       text: |
         Many coral species are protected under CITES (Convention on International
-        Trade in Endangered Species):
+        Trade in Endangered Species): [CITATION NEEDED]
 
         - Trade regulations vary by species and country
         - Documentation required for international trade
@@ -189,7 +203,7 @@ sections:
       text: |
         Coral is soft and sensitive:
 
-        - **Hardness**: 3-4 (easily scratched)
+        - **Hardness**: 3–4 (easily scratched)
         - **Acids**: Reacts with acids (including perspiration)
         - **Heat**: Can be damaged by heat
         - **Cleaning**: Warm water, soft cloth only

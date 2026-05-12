@@ -15,6 +15,55 @@ tags:
   - cymophane
   - colour-change
 
+references:
+  - id: sun-2019-alexandrite
+    kind: journal
+    authors:
+      - family: Sun
+        given: Z.
+      - family: Palke
+        given: A.C.
+      - family: Muyal
+        given: J.
+      - family: DeGhionno
+        given: D.
+      - family: McClure
+        given: S.F.
+    title: "Geographic Origin Determination of Alexandrite"
+    journal: "Gems & Gemology"
+    volume: 55
+    issue: 4
+    pages: "660–690"
+    year: 2019
+    doi: "10.5741/gems.55.4.660"
+
+  - id: fritsch-rossman-1987
+    kind: journal
+    authors:
+      - family: Fritsch
+        given: E.
+      - family: Rossman
+        given: G.R.
+    title: "An Update on Color in Gems. Part 1: Introduction and Colors Caused by Dispersed Metal Ions"
+    journal: "Gems & Gemology"
+    volume: 23
+    issue: 3
+    pages: "126–139"
+    year: 1987
+    doi: "10.5741/gems.23.3.126"
+
+  - id: read-3rd
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: "Gemmology"
+    edition: 3rd
+    publisher: "Butterworth-Heinemann"
+    year: 2008
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-7506-6449-3"
+
 sections:
   - title: Introduction
     content: |
@@ -36,15 +85,16 @@ sections:
           - **Twinning**: Trillings (three-part twins) common
 
       - title: Physical Properties
+        citations: [read-3rd]
         table:
           headers:
             - Property
             - Value
           rows:
             - ["Hardness", "8.5 Mohs"]
-            - ["Specific gravity", "3.71-3.75"]
-            - ["Refractive index", "1.746-1.755"]
-            - ["Birefringence", "0.008-0.010"]
+            - ["Specific gravity", "3.71–3.75"]
+            - ["Refractive index", "1.746–1.755"]
+            - ["Birefringence", "0.008–0.010"]
             - ["Optic character", "Biaxial positive"]
             - ["Pleochroism", "Strong (trichroic) in alexandrite"]
             - ["Lustre", "Vitreous"]
@@ -70,7 +120,7 @@ sections:
         content: |
           - **Daylight/fluorescent**: Green to blue-green
           - **Incandescent**: Red to purple-red
-          - **Cause**: Chromium (Cr³⁺) absorption spectrum
+          - **Cause**: Chromium (Cr³⁺) absorption spectrum {cite:fritsch-rossman-1987}
 
           The alexandrite effect occurs because chromium creates a
           transmission window between red and green, and light sources
@@ -81,8 +131,8 @@ sections:
           Colour change is assessed as percentage shift:
 
           - **100%**: Complete change (green ↔ red, no overlap)
-          - **75-99%**: Strong colour change
-          - **50-74%**: Moderate colour change
+          - **75–99%**: Strong colour change
+          - **50–74%**: Moderate colour change
           - **<50%**: Weak colour change
 
           Both colours should be attractive; muddy colours reduce value.
@@ -94,7 +144,7 @@ sections:
             - Characteristics
             - Market Position
           rows:
-            - ["Russia (Urals)", "Classic green/red change; historic", "Highest premium (depleted)"]
+            - ["Russia (Urals)", "Classic green/red change; historic {cite:sun-2019-alexandrite}", "Highest premium (depleted)"]
             - ["Brazil", "Good change; more bluish-green", "Major current source"]
             - ["Sri Lanka", "Often yellowish; variable change", "Historic source"]
             - ["Tanzania", "Some fine material", "Limited production"]
@@ -115,7 +165,7 @@ sections:
       title: The Classic Standard
       text: |
         Russian (Ural) alexandrite discovered in 1830 set the standard for
-        colour change. The green matched the Russian military colour; the
+        colour change. {cite:sun-2019-alexandrite} The green matched the Russian military colour; the
         red honoured the Tsar.
 
         Fine Russian alexandrites are essentially unavailable today. Stones
@@ -156,8 +206,8 @@ sections:
 
       - title: Nomenclature
         content: |
-          Only chrysoberyl may be called simply "cat's eye" – all other
-          chatoyant gems require qualification:
+          Only chrysoberyl may be called simply "cat's eye"—all other
+          chatoyant gems require qualification: {cite:read-3rd}
 
           - "Cat's eye" = chrysoberyl cat's eye
           - "Quartz cat's eye" = chatoyant quartz
@@ -181,7 +231,7 @@ sections:
     subsections:
       - title: Synthetic Alexandrite
         content: |
-          - Czochralski-pulled alexandrite exists
+          - Czochralski-pulled alexandrite exists {cite:read-3rd}
           - Shows colour change but often different colours
           - May show curved striae or gas bubbles
           - Flux-grown synthetic also produced
@@ -197,9 +247,9 @@ sections:
     content: |
       Key features for chrysoberyl identification:
 
-      - **RI**: 1.746-1.755 (distinctive range)
+      - **RI**: 1.746–1.755 (distinctive range)
       - **SG**: 3.73 (characteristic)
-      - **Birefringence**: 0.008-0.010
+      - **Birefringence**: 0.008–0.010
       - **Hardness**: 8.5 (very hard)
       - **Trichroism**: Strong in alexandrite
       - **Colour change**: Diagnostic for alexandrite

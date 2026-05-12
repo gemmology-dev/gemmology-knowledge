@@ -15,6 +15,61 @@ tags:
   - diopside
   - jade
 
+references:
+  - id: hughes-2000-jade
+    kind: journal
+    authors:
+      - family: Hughes
+        given: R.W.
+      - family: Galibert
+        given: O.
+      - family: Bosshart
+        given: G.
+      - family: Ward
+        given: F.
+      - family: Oo
+        given: T.
+      - family: Smith
+        given: C.P.
+      - family: Sun
+        given: T.T.
+      - family: Harlow
+        given: G.E.
+    title: "Burmese Jade: The Inscrutable Gem"
+    journal: "Gems & Gemology"
+    volume: 36
+    issue: 1
+    pages: "2–26"
+    year: 2000
+    doi: "10.5741/gems.36.1.2"
+
+  - id: fritsch-rossman-1987
+    kind: journal
+    authors:
+      - family: Fritsch
+        given: E.
+      - family: Rossman
+        given: G.R.
+    title: "An Update on Color in Gems. Part 1: Introduction and Colors Caused by Dispersed Metal Ions"
+    journal: "Gems & Gemology"
+    volume: 23
+    issue: 3
+    pages: "126–139"
+    year: 1987
+    doi: "10.5741/gems.23.3.126"
+
+  - id: read-3rd
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: "Gemmology"
+    edition: 3rd
+    publisher: "Butterworth-Heinemann"
+    year: 2008
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-7506-6449-3"
+
 sections:
   - title: Introduction
     content: |
@@ -29,15 +84,16 @@ sections:
       prized especially in Asian cultures.
     subsections:
       - title: Properties
+        citations: [hughes-2000-jade]
         table:
           headers:
             - Property
             - Value
           rows:
             - ["Crystal system", "Monoclinic"]
-            - ["Hardness", "6.5-7 Mohs"]
-            - ["Specific gravity", "3.30-3.38"]
-            - ["Refractive index", "1.654-1.667 (spot)"]
+            - ["Hardness", "6.5–7 Mohs"]
+            - ["Specific gravity", "3.30–3.38"]
+            - ["Refractive index", "1.654–1.667 (spot)"]
             - ["Character", "Aggregate (no single crystal)"]
             - ["Toughness", "Exceptional (interlocking crystals)"]
 
@@ -61,12 +117,12 @@ sections:
           - **Colour**: Vivid, saturated green
           - **Transparency**: Semi-transparent
           - **Texture**: Fine-grained, even
-          - **Source**: Myanmar (Burma) primarily
+          - **Source**: Myanmar (Burma) primarily {cite:hughes-2000-jade}
           - **Value**: Can exceed fine emerald prices
 
       - title: Major Sources
         content: |
-          - **Myanmar**: Premier source; Imperial green
+          - **Myanmar**: Premier source; Imperial green {cite:hughes-2000-jade}
           - **Guatemala**: Historic; Mesoamerican significance
           - **Japan**: Small deposits
           - **Russia**: Limited production
@@ -86,14 +142,15 @@ sections:
       Distinguishing jadeite from nephrite and simulants:
     subsections:
       - title: Jadeite vs Nephrite
+        citations: [read-3rd]
         table:
           headers:
             - Property
             - Jadeite
             - Nephrite
           rows:
-            - ["Specific gravity", "3.30-3.38", "2.90-3.02"]
-            - ["Refractive index", "1.654-1.667", "1.606-1.632"]
+            - ["Specific gravity", "3.30–3.38", "2.90–3.02"]
+            - ["Refractive index", "1.654–1.667", "1.606–1.632"]
             - ["Lustre", "Vitreous to greasy", "Greasy to waxy"]
             - ["Colours", "More vivid greens; lavender", "Greens, creams, browns"]
             - ["Value", "Higher for fine material", "Generally lower"]
@@ -103,11 +160,11 @@ sections:
           Jadeite undergoes various treatments:
 
           - **Type A**: Natural, untreated (most valuable)
-          - **Type B**: Bleached and polymer-impregnated
+          - **Type B**: Bleached and polymer-impregnated {cite:hughes-2000-jade}
           - **Type B+C**: Bleached, dyed, and impregnated
           - **Type C**: Dyed (less common alone)
 
-          Infrared spectroscopy detects polymer impregnation.
+          Infrared spectroscopy detects polymer impregnation. {cite:hughes-2000-jade}
 
   - title: Spodumene
     content: |
@@ -121,17 +178,17 @@ sections:
             - Value
           rows:
             - ["Crystal system", "Monoclinic"]
-            - ["Hardness", "6.5-7 Mohs"]
-            - ["Specific gravity", "3.15-3.20"]
-            - ["Refractive index", "1.660-1.676"]
-            - ["Birefringence", "0.014-0.016"]
+            - ["Hardness", "6.5–7 Mohs"]
+            - ["Specific gravity", "3.15–3.20"]
+            - ["Refractive index", "1.660–1.676"]
+            - ["Birefringence", "0.014–0.016"]
             - ["Cleavage", "Perfect in two directions (90°)"]
 
       - title: Kunzite
         content: |
           Pink to lilac spodumene:
 
-          - **Colour cause**: Manganese (Mn³⁺)
+          - **Colour cause**: Manganese (Mn³⁺) {cite:fritsch-rossman-1987}
           - **Range**: Pale pink to intense lilac-pink
           - **Pleochroism**: Strong (pink to colourless)
           - **Fluorescence**: Strong orange-pink; phosphorescence
@@ -168,15 +225,15 @@ sections:
         content: |
           - **Formula**: CaMgSi₂O₆
           - **Colour**: Rich green (Cr-coloured)
-          - **RI**: 1.675-1.701
-          - **SG**: 3.22-3.38
-          - **Birefringence**: 0.024-0.031
+          - **RI**: 1.675–1.701
+          - **SG**: 3.22–3.38
+          - **Birefringence**: 0.024–0.031
 
       - title: Characteristics
         content: |
           - Vivid green rivaling emerald
           - Generally available in smaller sizes
-          - Softer than emerald (H 5.5-6.5)
+          - Softer than emerald (H 5.5–6.5)
           - Good value for intense green
           - Source: Russia (Siberia), Pakistan
 
@@ -192,6 +249,6 @@ sections:
       Key features for pyroxene identification:
 
       - **Jadeite**: Spot RI ~1.66; SG 3.34; aggregate structure
-      - **Kunzite/hiddenite**: RI 1.660-1.676; strong pleochroism; cleavage
-      - **Chrome diopside**: RI 1.675-1.701; Cr spectrum
+      - **Kunzite/hiddenite**: RI 1.660–1.676; strong pleochroism; cleavage
+      - **Chrome diopside**: RI 1.675–1.701; Cr spectrum
       - **All**: Monoclinic; good to perfect cleavage

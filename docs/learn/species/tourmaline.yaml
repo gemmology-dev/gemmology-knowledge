@@ -15,6 +15,53 @@ tags:
   - indicolite
   - watermelon
 
+references:
+  - id: abduriyim-2006
+    kind: journal
+    authors:
+      - family: Abduriyim
+        given: A.
+      - family: Kitawaki
+        given: H.
+      - family: Furuya
+        given: M.
+      - family: Schwarz
+        given: D.
+    title: "\"Paraíba\"-Type Copper-Bearing Tourmaline from Brazil, Nigeria, and Mozambique: Chemical Fingerprinting by LA-ICP-MS"
+    journal: "Gems & Gemology"
+    volume: 42
+    issue: 1
+    pages: "4–21"
+    year: 2006
+    doi: "10.5741/gems.42.1.4"
+
+  - id: fritsch-rossman-1987
+    kind: journal
+    authors:
+      - family: Fritsch
+        given: E.
+      - family: Rossman
+        given: G.R.
+    title: "An Update on Color in Gems. Part 1: Introduction and Colors Caused by Dispersed Metal Ions"
+    journal: "Gems & Gemology"
+    volume: 23
+    issue: 3
+    pages: "126–139"
+    year: 1987
+    doi: "10.5741/gems.23.3.126"
+
+  - id: read-3rd
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: "Gemmology"
+    edition: 3rd
+    publisher: "Butterworth-Heinemann"
+    year: 2008
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-7506-6449-3"
+
 sections:
   - title: Introduction
     content: |
@@ -49,16 +96,17 @@ sections:
             - ["Liddicoatite", "Ca, Li, Al", "Multicoloured (Madagascar)"]
 
       - title: Physical Properties
+        citations: [read-3rd]
         table:
           headers:
             - Property
             - Value
           rows:
             - ["Crystal system", "Trigonal (hexagonal)"]
-            - ["Hardness", "7-7.5 Mohs"]
-            - ["Specific gravity", "3.01-3.11"]
-            - ["Refractive index", "1.620-1.640"]
-            - ["Birefringence", "0.018-0.020 (high)"]
+            - ["Hardness", "7–7.5 Mohs"]
+            - ["Specific gravity", "3.01–3.11"]
+            - ["Refractive index", "1.620–1.640"]
+            - ["Birefringence", "0.018–0.020 (high)"]
             - ["Optic character", "Uniaxial negative"]
             - ["Pleochroism", "Strong (often dark/light)"]
 
@@ -71,7 +119,7 @@ sections:
           Pink to red tourmaline:
 
           - **Colour range**: Pink to red to purplish-red
-          - **Chromophore**: Manganese (Mn)
+          - **Chromophore**: Manganese (Mn) {cite:fritsch-rossman-1987}
           - **Ideal**: Saturated red without brown
           - **Sources**: Brazil, Nigeria, Mozambique, Afghanistan
           - **Note**: Term debated; some require "ruby-like" red
@@ -81,7 +129,7 @@ sections:
           Blue tourmaline:
 
           - **Colour range**: Light blue to deep blue to blue-green
-          - **Chromophore**: Iron (Fe)
+          - **Chromophore**: Iron (Fe) {cite:fritsch-rossman-1987}
           - **Sources**: Brazil, Nigeria, Afghanistan, Namibia
           - **Note**: Pure blue is rare; often greenish
 
@@ -115,13 +163,13 @@ sections:
       - title: Discovery and History
         content: |
           - **Discovered**: 1989 in Paraíba state, Brazil
-          - **Discoverer**: Heitor Dimas Barbosa
+          - **Discoverer**: Heitor Dimas Barbosa {cite:abduriyim-2006}
           - **Impact**: Created new price category for tourmaline
-          - **Similar material**: Found in Nigeria (2001), Mozambique (2005)
+          - **Similar material**: Found in Nigeria (2001), Mozambique (2005) {cite:abduriyim-2006}
 
       - title: Characteristics
         content: |
-          - **Colour cause**: Copper (Cu²⁺), often with manganese
+          - **Colour cause**: Copper (Cu²⁺), often with manganese {cite:abduriyim-2006}{cite:fritsch-rossman-1987}
           - **Unique colours**: Electric blue, neon green, violet
           - **"Glow" effect**: Appears luminescent from within
           - **Typical sizes**: Brazilian material usually under 3 carats
@@ -140,7 +188,7 @@ sections:
 
       - title: Identification
         content: |
-          - Must contain copper (Cu) – verified by chemical analysis
+          - Must contain copper (Cu)—verified by chemical analysis {cite:abduriyim-2006}
           - Geographic origin requires trace element ratios (Cu/Mn, Ga, Pb)
           - Inclusions less diagnostic than for other gems
           - Lab certification essential for high-value stones
@@ -162,7 +210,7 @@ sections:
     content: |
       Intense green tourmaline coloured by chromium:
 
-      - **Chromophore**: Chromium (Cr³⁺)
+      - **Chromophore**: Chromium (Cr³⁺) {cite:fritsch-rossman-1987}
       - **Colour**: Intense, vivid green
       - **Spectrum**: Shows Cr doublet in red
       - **Sources**: Tanzania, Kenya (East Africa)
@@ -194,7 +242,7 @@ sections:
       title: Strong Pleochroism Affects Cutting
       text: |
         Tourmaline's strong pleochroism (often dark to light of the same hue)
-        significantly affects cutting:
+        significantly affects cutting: {cite:read-3rd}
 
         - **Dark stones**: Cut with table perpendicular to c-axis (lighter)
         - **Light stones**: Cut with table parallel to c-axis (more saturated)
@@ -215,9 +263,9 @@ sections:
     content: |
       Key features for tourmaline identification:
 
-      - **RI**: 1.620-1.640 (useful range)
-      - **Birefringence**: 0.018-0.020 (moderately high)
+      - **RI**: 1.620–1.640 (useful range)
+      - **Birefringence**: 0.018–0.020 (moderately high)
       - **Strong pleochroism**: Dark/light of same hue
-      - **SG**: 3.01-3.11
+      - **SG**: 3.01–3.11
       - **Spectrum**: Variable by colour
       - **Paraíba**: Requires Cu detection for confirmation

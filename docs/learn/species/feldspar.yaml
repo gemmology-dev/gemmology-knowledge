@@ -15,6 +15,49 @@ tags:
   - sunstone
   - amazonite
 
+references:
+  - id: fritsch-rossman-1988-pt3
+    kind: journal
+    authors:
+      - family: Fritsch
+        given: E.
+      - family: Rossman
+        given: G.R.
+    title: "An Update on Color in Gems. Part 3: Colors Caused By Band Gaps and Physical Phenomena"
+    journal: "Gems & Gemology"
+    volume: 24
+    issue: 2
+    pages: "81–102"
+    year: 1988
+    doi: "10.5741/gems.24.2.81"
+
+  - id: fritsch-rossman-1987
+    kind: journal
+    authors:
+      - family: Fritsch
+        given: E.
+      - family: Rossman
+        given: G.R.
+    title: "An Update on Color in Gems. Part 1: Introduction and Colors Caused by Dispersed Metal Ions"
+    journal: "Gems & Gemology"
+    volume: 23
+    issue: 3
+    pages: "126–139"
+    year: 1987
+    doi: "10.5741/gems.23.3.126"
+
+  - id: read-3rd
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: "Gemmology"
+    edition: 3rd
+    publisher: "Butterworth-Heinemann"
+    year: 2008
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-7506-6449-3"
+
 sections:
   - title: Introduction
     content: |
@@ -45,16 +88,17 @@ sections:
           - **Anorthite** (CaAl₂Si₂O₈): Calcium end-member
 
       - title: Physical Properties
+        citations: [read-3rd]
         table:
           headers:
             - Property
             - Value
           rows:
             - ["Crystal system", "Monoclinic (orthoclase) or Triclinic (plagioclase)"]
-            - ["Hardness", "6-6.5 Mohs"]
-            - ["Specific gravity", "2.55-2.76"]
-            - ["Refractive index", "1.518-1.588"]
-            - ["Birefringence", "0.005-0.010"]
+            - ["Hardness", "6–6.5 Mohs"]
+            - ["Specific gravity", "2.55–2.76"]
+            - ["Refractive index", "1.518–1.588"]
+            - ["Birefringence", "0.005–0.010"]
             - ["Cleavage", "Perfect in two directions at ~90°"]
 
   - title: Moonstone
@@ -64,9 +108,9 @@ sections:
     subsections:
       - title: Cause of Adularescence
         content: |
-          - Alternating layers of orthoclase and albite
+          - Alternating layers of orthoclase and albite {cite:fritsch-rossman-1988-pt3}
           - Layers form during cooling (exsolution)
-          - Layer thickness determines colour: thin = blue; thicker = white
+          - Layer thickness determines colour: thin = blue; thicker = white {cite:fritsch-rossman-1988-pt3}
           - Best effect requires ~0.1 μm layers
 
       - title: Moonstone Types
@@ -127,7 +171,7 @@ sections:
           - Vivid blues, greens, oranges, purples
           - Displays most of the visible spectrum
           - Premium prices for fine examples
-          - Discovered in Finland during WWII
+          - Discovered in Finland during WWII {cite:read-3rd}
 
       - title: Sources
         table:
@@ -174,7 +218,7 @@ sections:
     content: |
       Blue-green microcline feldspar:
 
-      - **Colour cause**: Lead and water in structure
+      - **Colour cause**: Lead and water in structure {cite:fritsch-rossman-1987}
       - **Colour range**: Blue-green to green
       - **Character**: Opaque to translucent
       - **Uses**: Cabochons, carvings, beads
@@ -198,9 +242,9 @@ sections:
     content: |
       Key features for feldspar identification:
 
-      - **RI**: 1.518-1.588 (variable by species)
-      - **SG**: 2.55-2.76
-      - **Birefringence**: 0.005-0.010
+      - **RI**: 1.518–1.588 (variable by species)
+      - **SG**: 2.55–2.76
+      - **Birefringence**: 0.005–0.010
       - **Cleavage**: Two directions at ~90°
       - **Phenomena**: Diagnostic (adularescence, labradorescence)
       - **Twinning**: Common; visible under polariscope

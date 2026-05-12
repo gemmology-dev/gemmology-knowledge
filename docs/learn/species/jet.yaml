@@ -13,6 +13,19 @@ tags:
   - victorian
   - organic
 
+references:
+  - id: read-3rd
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: "Gemmology"
+    edition: 3rd
+    publisher: "Butterworth-Heinemann"
+    year: 2008
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-7506-6449-3"
+
 sections:
   - title: Introduction
     content: |
@@ -39,17 +52,18 @@ sections:
         content: |
           - **Origin**: Fossilised driftwood
           - **Type**: Compact lignite coal
-          - **Age**: Jurassic period (~180 million years for Whitby)
+          - **Age**: Jurassic period (~180 million years for Whitby) {cite:read-3rd}
           - **Carbon content**: High (similar to coal)
 
   - title: Physical Properties
+    citations: [read-3rd]
     table:
       headers:
         - Property
         - Value
       rows:
-        - ["Hardness", "2.5-4 Mohs"]
-        - ["Specific gravity", "1.30-1.35 (very light)"]
+        - ["Hardness", "2.5–4 Mohs"]
+        - ["Specific gravity", "1.30–1.35 (very light)"]
         - ["Refractive index", "1.66 (spot; often difficult)"]
         - ["Lustre", "Waxy to vitreous when polished"]
         - ["Colour", "Black (brown in thin sections)"]
@@ -82,7 +96,7 @@ sections:
       text: |
         Whitby, on the Yorkshire coast of England, produces the finest jet:
 
-        - Jurassic age (~180 million years)
+        - Jurassic age (~180 million years) {cite:read-3rd}
         - Hard jet type (marine formation)
         - Exceptional polish and workmanship tradition
         - Victorian industry employed hundreds
@@ -99,8 +113,8 @@ sections:
           - Prince Albert died in 1861
           - Queen Victoria wore jet mourning jewellery
           - Fashion followed the Queen's example
-          - Whitby jet industry boomed 1860s-1880s
-          - Over 1,400 jet workers in Whitby at peak
+          - Whitby jet industry boomed 1860s–1880s
+          - Over 1,400 jet workers in Whitby at peak [CITATION NEEDED]
 
       - title: Mourning Jewellery Types
         content: |
@@ -120,10 +134,10 @@ sections:
         - Feel
         - Test
       rows:
-        - ["Jet", "1.30-1.35", "Warm; light", "Coal smell when heated"]
-        - ["Black glass (French jet)", "2.3-2.5", "Cold; heavy", "No smell; may show bubbles"]
-        - ["Vulcanite (hard rubber)", "1.1-1.2", "Rubbery; very light", "Rubbery/sulphur smell"]
-        - ["Bakelite", "1.25-1.35", "Plastic feel", "Carbolic acid smell"]
+        - ["Jet", "1.30–1.35", "Warm; light", "Coal smell when heated"]
+        - ["Black glass (French jet)", "2.3–2.5", "Cold; heavy", "No smell; may show bubbles"]
+        - ["Vulcanite (hard rubber)", "1.1–1.2", "Rubbery; very light", "Rubbery/sulphur smell"]
+        - ["Bakelite", "1.25–1.35", "Plastic feel", "Carbolic acid smell"]
         - ["Black onyx", "2.65", "Cold; heavy", "Much harder (H 7)"]
         - ["Bog oak", "~1.2", "Woody grain", "Wood smell; shows grain"]
 

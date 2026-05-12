@@ -14,13 +14,26 @@ tags:
   - metamict
   - high-zircon
 
+references:
+  - id: read-3rd
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: "Gemmology"
+    edition: 3rd
+    publisher: "Butterworth-Heinemann"
+    year: 2008
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-7506-6449-3"
+
 sections:
   - title: Introduction
     content: |
       Zircon (ZrSiO₄) is a zirconium silicate with exceptional brilliance and
       dispersion. Often confused with cubic zirconia (CZ), natural zircon is a
-      completely different material – one of the oldest minerals on Earth, with
-      specimens dating back 4.4 billion years.
+      completely different material—one of the oldest minerals on Earth, with
+      specimens dating back 4.4 billion years. {cite:read-3rd}
 
       The December birthstone in its blue form, zircon offers diamond-like
       sparkle at a fraction of the price.
@@ -36,6 +49,7 @@ sections:
           - **Fracture**: Conchoidal
 
       - title: Physical Properties
+        citations: [read-3rd]
         table:
           headers:
             - Property
@@ -43,8 +57,8 @@ sections:
             - Low Zircon
           rows:
             - ["Hardness", "7.5 Mohs", "6.0 Mohs"]
-            - ["Specific gravity", "4.6-4.7", "3.9-4.1"]
-            - ["Refractive index", "1.925-1.984", "1.78-1.85"]
+            - ["Specific gravity", "4.6–4.7", "3.9–4.1"]
+            - ["Refractive index", "1.925–1.984", "1.78–1.85"]
             - ["Birefringence", "0.059", "Lower to nil"]
             - ["Dispersion", "0.039 (high)", "Lower"]
 
@@ -75,7 +89,7 @@ sections:
         content: |
           Heat treatment can restore metamict zircon:
 
-          - Heating to ~1000°C can recrystallize the structure
+          - Heating to ~1000°C can recrystallize the structure {cite:read-3rd}
           - Restores high RI, SG, birefringence
           - Also changes colour in many cases
           - Process is permanent and stable
@@ -90,13 +104,13 @@ sections:
           - **Colour**: Light to vivid blue
           - **Treatment**: Universal (virtually all blue zircon is heated)
           - **Stability**: Permanent
-          - **Sources**: Cambodia, Sri Lanka
+          - **Sources**: Cambodia (Ratanakiri — premier source) {cite:read-3rd}, Sri Lanka
 
       - title: Colourless Zircon
         content: |
           Excellent diamond simulant:
 
-          - **High dispersion**: 0.039 (approaches diamond's 0.044)
+          - **High dispersion**: 0.039 (approaches diamond's 0.044) {cite:read-3rd}
           - **High RI**: Creates strong brilliance
           - **Historic use**: Diamond substitute before CZ
           - **Distinction from diamond**: Lower hardness, high birefringence
@@ -136,7 +150,7 @@ sections:
         content: |
           - Brown Cambodian/Sri Lankan zircon selected
           - Heated in reducing atmosphere (oxygen-free)
-          - Temperatures around 900-1000°C
+          - Temperatures around 900–1000°C
           - Colour change to blue occurs
           - Process also restores metamict material
 
@@ -185,8 +199,8 @@ sections:
     content: |
       Key features for zircon identification:
 
-      - **RI**: 1.925-1.984 (high; often over limit)
-      - **SG**: 4.6-4.7 (high)
+      - **RI**: 1.925–1.984 (high; often over limit)
+      - **SG**: 4.6–4.7 (high)
       - **Birefringence**: 0.059 (very high; visible doubling)
       - **Dispersion**: 0.039 (high fire)
       - **Spectrum**: Characteristic uranium lines throughout
@@ -199,6 +213,6 @@ sections:
         - Key Distinction from Zircon
       rows:
         - ["Diamond", "Diamond is SR (no doubling); higher hardness"]
-        - ["Cubic Zirconia", "CZ is SR; higher SG (5.6-6.0)"]
-        - ["Sapphire", "Sapphire has lower RI (1.76-1.77)"]
+        - ["Cubic Zirconia", "CZ is SR; higher SG (5.6–6.0)"]
+        - ["Sapphire", "Sapphire has lower RI (1.76–1.77)"]
         - ["Topaz", "Topaz has lower RI (1.62), lower SG (3.53)"]
