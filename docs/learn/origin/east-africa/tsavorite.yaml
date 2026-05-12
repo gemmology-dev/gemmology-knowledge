@@ -29,7 +29,7 @@ sections:
       The story of tsavorite's emergence:
 
       - **Year**: 1967 (Tanzania); 1971 (Kenya)
-      - **Discoverer**: Campbell Bridges (Scottish geologist)
+      - **Discoverer**: Campbell Bridges (Scottish geologist) {cite:schumann-2009-gemstones}
       - **Name**: After Tsavo National Park, Kenya
       - **Species**: Grossular garnet (green variety)
       - **Tragedy**: Bridges was killed in 2009 defending his mine
@@ -59,7 +59,7 @@ sections:
       - **Saturation**: Can rival finest emerald
       - **Clarity**: Often cleaner than emerald
       - **Hardness**: 7-7.5 (more durable than emerald)
-      - **No treatment**: Virtually always natural colour
+      - **No treatment**: Virtually always natural colour {cite:read-2014-gemmology}
       - **Single refraction**: Higher brilliance than emerald
       - **Size limitation**: Rare above 2-3 carats
 
@@ -102,7 +102,7 @@ sections:
       text: |
         Tsavorite rarely occurs in large sizes. Stones over 2 carats are uncommon,
         and those over 5 carats are exceptional collector pieces commanding
-        significant premiums.
+        significant premiums. {cite:schumann-2009-gemstones}
 
         This size limitation, combined with no known large deposits, keeps
         fine tsavorite among the rarer coloured gemstones.
@@ -116,3 +116,26 @@ sections:
       - **Appeal**: Clean, brilliant alternative to emerald
       - **Collector interest**: Strong for fine specimens
       - **Trade recognition**: Well-established in gem trade
+
+references:
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "Walter"
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling Publishing"
+    year: 2009
+    isbn: "978-1-4027-6829-3"
+
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "Peter G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann"
+    year: 2014
+    doi: "10.4324/9780080507224"

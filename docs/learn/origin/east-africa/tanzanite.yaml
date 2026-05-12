@@ -30,7 +30,7 @@ sections:
 
       - **Discovery**: 1967 by Maasai tribesman
       - **Location**: Merelani Hills, near Mount Kilimanjaro
-      - **Exclusivity**: Only known commercial source worldwide
+      - **Exclusivity**: Only known commercial source worldwide {cite:schumann-2009-gemstones}
       - **Geology**: Unique conditions in single deposit
       - **Area**: Approximately 4km long by 2km wide
 
@@ -41,7 +41,7 @@ sections:
       - **Species**: Zoisite (calcium aluminium silicate)
       - **Colour**: Violet-blue to blue-violet
       - **Pleochroism**: Strong; blue, violet, burgundy axes
-      - **Heat treatment**: Nearly universal; improves colour
+      - **Heat treatment**: Nearly universal; improves colour {cite:read-2014-gemmology}
       - **Hardness**: 6-7 (requires careful setting)
       - **Cleavage**: Perfect in one direction (care needed)
 
@@ -100,8 +100,31 @@ sections:
     content: |
       Tanzanite's place in the gem market:
 
-      - **Tiffany & Co.**: Named the gem and promoted it heavily
+      - **Tiffany & Co.**: Named the gem and promoted it heavily {cite:schumann-2009-gemstones}
       - **December birthstone**: Added in 2002
       - **Price range**: Wide, from affordable to investment grade
       - **Size availability**: Fine large stones increasingly rare
       - **Collector interest**: Growing as supply concerns mount
+
+references:
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "Walter"
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling Publishing"
+    year: 2009
+    isbn: "978-1-4027-6829-3"
+
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "Peter G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann"
+    year: 2014
+    doi: "10.4324/9780080507224"

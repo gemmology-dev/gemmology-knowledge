@@ -27,7 +27,7 @@ sections:
     content: |
       Tanzania's premier spinel deposit:
 
-      - **Location**: Mahenge, Morogoro Region, central Tanzania
+      - **Location**: Mahenge, Morogoro Region, central Tanzania {cite:schumann-2009-gemstones}
       - **Discovery**: Known since 1980s; major finds 2007
       - **Geology**: Marble-hosted deposits (similar to Mogok)
       - **Mining**: Mix of artisanal and small-scale operations
@@ -46,7 +46,7 @@ sections:
 
       - title: What Creates the Glow
         content: |
-          - Low iron content (marble host)
+          - Low iron content (marble host) {cite:read-2014-gemmology}
           - Strong chromium colour
           - Exceptional red fluorescence
           - Fluorescence adds to apparent colour saturation
@@ -107,3 +107,26 @@ sections:
       - **Kenya**: Some production reported
       - **Madagascar**: Red and pink varieties
       - **Character**: Generally not matching Mahenge quality
+
+references:
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "Peter G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann"
+    year: 2014
+    doi: "10.4324/9780080507224"
+
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "Walter"
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling Publishing"
+    year: 2009
+    isbn: "978-1-4027-6829-3"

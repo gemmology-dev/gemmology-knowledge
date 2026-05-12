@@ -31,7 +31,7 @@ sections:
     subsections:
       - title: Montepuez Region
         content: |
-          - **Discovery**: 2009
+          - **Discovery**: 2009 {cite:palke-2019-ruby-origin}
           - **Location**: Cabo Delgado Province, northern Mozambique
           - **Operator**: Gemfields (major producer) and artisanal miners
           - **Significance**: Now major world ruby source
@@ -57,7 +57,7 @@ sections:
         - Inclusion
         - Description
       rows:
-        - ["Amphibole crystals", "Needle-like mineral inclusions"]
+        - ["Amphibole crystals", "Needle-like mineral inclusions {cite:palke-2019-ruby-origin}"]
         - ["Mica platelets", "Reflective platy inclusions"]
         - ["Two-phase inclusions", "Liquid + gas cavities"]
         - ["Growth tubes", "Parallel channels"]
@@ -123,3 +123,31 @@ sections:
       - **Disclosure**: Expected; Gemfields material well-documented
       - **Beryllium diffusion**: Some material has been treated
       - **Lab reports**: Recommended for significant purchases
+
+references:
+  - id: palke-2019-ruby-origin
+    kind: article
+    authors:
+      - family: "Palke"
+        given: "Aaron C."
+      - family: "Renfro"
+        given: "Nathan"
+      - family: "Berg"
+        given: "Robert B."
+    title: "Geographic Origin Determination of Ruby"
+    journal: "Gems & Gemology"
+    year: 2019
+    volume: 55
+    issue: 4
+    pages: "580–612"
+    doi: "10.5741/gems.55.4.580"
+
+  - id: hughes-2017-ruby-sapphire
+    kind: book
+    authors:
+      - family: "Hughes"
+        given: "Richard W."
+    title: "Ruby & Sapphire: A Gemologist's Guide"
+    publisher: "RWH Publishing"
+    year: 2017
+    isbn: "978-0-9645097-6-4"

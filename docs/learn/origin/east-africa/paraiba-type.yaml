@@ -27,7 +27,7 @@ sections:
     content: |
       Mozambique's copper-bearing tourmaline:
 
-      - **Year**: 2005
+      - **Year**: 2005 {cite:shigley-2010-gem-localities}
       - **Location**: Alto Ligonha region, Zambezia Province
       - **Significance**: Major copper-bearing tourmaline source
       - **Impact**: Dramatically increased availability of neon tourmaline
@@ -57,7 +57,7 @@ sections:
         - title: Brazilian Paraiba
           variant: default
           points:
-            - Original source (1989)
+            - Original source (1989) {cite:shigley-2010-gem-localities}
             - Generally smaller sizes
             - More included typically
             - Higher copper content often
@@ -66,7 +66,7 @@ sections:
         - title: Mozambican Paraiba-type
           variant: default
           points:
-            - Discovered 2005
+            - Discovered 2005 {cite:shigley-2010-gem-localities}
             - Larger sizes available
             - Often cleaner material
             - Same copper chromophore
@@ -117,6 +117,24 @@ sections:
       - **Size advantage**: Large fine stones more available
       - **Collector view**: Some prefer Brazilian exclusivity; others value Mozambican quality
       - **Investment**: Brazilian origin retains stronger appreciation potential
+
+references:
+  - id: shigley-2010-gem-localities
+    kind: article
+    authors:
+      - family: "Shigley"
+        given: "James E."
+      - family: "Kane"
+        given: "Robert E."
+      - family: "Dettman"
+        given: "David L."
+    title: "Gem Localities of the 2000s"
+    journal: "Gems & Gemology"
+    year: 2010
+    volume: 46
+    issue: 3
+    pages: "188–216"
+    doi: "10.5741/gems.46.3.188"
 
   - title: Other East African Gems
     content: |
