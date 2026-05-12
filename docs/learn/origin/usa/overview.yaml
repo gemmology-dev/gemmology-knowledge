@@ -113,7 +113,7 @@ sources:
 
 references:
   - id: koivula-1981-san-carlos
-    kind: article
+    kind: journal
     authors:
       - family: "Koivula"
         given: "John I."

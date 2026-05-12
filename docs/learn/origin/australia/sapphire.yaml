@@ -149,7 +149,7 @@ sections:
 
 references:
   - id: palke-2019-sapphire-origin
-    kind: article
+    kind: journal
     authors:
       - family: "Palke"
         given: "Aaron C."

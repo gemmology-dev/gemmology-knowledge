@@ -106,7 +106,7 @@ sources:
 
 references:
   - id: keller-1982-chanthaburi
-    kind: article
+    kind: journal
     authors:
       - family: "Keller"
         given: "Peter C."

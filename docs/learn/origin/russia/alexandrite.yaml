@@ -145,7 +145,7 @@ sources:
 
 references:
   - id: palke-2019-alexandrite-origin
-    kind: article
+    kind: journal
     authors:
       - family: "Palke"
         given: "Aaron C."

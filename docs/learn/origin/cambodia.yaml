@@ -126,7 +126,7 @@ sources:
 
 references:
   - id: global-witness-1995
-    kind: report
+    kind: web
     authors:
       - family: "Global Witness"
     title: "Rough Trade: The Role of Companies and Governments in the Angolan Conflict"

@@ -17,7 +17,7 @@ tags:
 
 references:
   - id: fritsch-1987-chromophores
-    kind: article
+    kind: journal
     authors: [{family: Fritsch, given: E.}, {family: Rossman, given: G.R.}]
     title: "An Update on Color in Gems. Part 1"
     journal: Gems & Gemology
@@ -27,7 +27,7 @@ references:
     year: 1987
     doi: "10.5741/gems.23.3.126"
   - id: breeding-2009-diamond-type
-    kind: article
+    kind: journal
     authors: [{family: Breeding, given: C. Maxwell}, {family: Shigley, given: James E.}]
     title: "The 'Type' Classification System of Diamonds and Its Importance in Gemology"
     journal: Gems & Gemology
@@ -37,7 +37,7 @@ references:
     year: 2009
     doi: "10.5741/gems.45.2.96"
   - id: karampelas-2019-tanzanite
-    kind: article
+    kind: journal
     authors: [{family: Karampelas, given: S.}]
     title: "Gem-quality minerals: a review"
     journal: Minerals

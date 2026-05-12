@@ -167,7 +167,7 @@ references:
     isbn: "978-1-4027-6829-3"
 
   - id: kissin-2021-horsetail
-    kind: article
+    kind: journal
     authors:
       - family: "Kissin"
         given: "Alexander Yu."

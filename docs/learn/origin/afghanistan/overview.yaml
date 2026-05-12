@@ -100,7 +100,7 @@ sources:
 
 references:
   - id: shigley-2010-gem-localities
-    kind: article
+    kind: journal
     authors:
       - family: "Shigley"
         given: "James E."
@@ -117,7 +117,7 @@ references:
     doi: "10.5741/gems.46.3.188"
 
   - id: giuliani-2015-marble-ruby
-    kind: article
+    kind: journal
     authors:
       - family: "Giuliani"
         given: "Gaston"

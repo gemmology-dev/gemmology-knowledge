@@ -21,7 +21,7 @@ tags:
 
 references:
   - id: kiefert-2000-ftir-emerald
-    kind: article
+    kind: journal
     authors: [{family: Kiefert, given: L.}, {family: Hardy, given: G.}]
     title: "Identification of filler substances in emerald gemstones by infrared and Raman spectroscopy"
     journal: Journal of Gemmology
@@ -31,7 +31,7 @@ references:
     year: 1999
     doi: "10.15506/jog.1999.26.8.501"
   - id: emmett-2003-be-diffusion
-    kind: article
+    kind: journal
     authors: [{family: Emmett, given: John L.}, {family: Scarratt, given: Kenneth}]
     title: "Beryllium Diffusion of Ruby and Sapphire"
     journal: Gems & Gemology
@@ -41,7 +41,7 @@ references:
     year: 2003
     doi: "10.5741/gems.39.2.84"
   - id: breeding-2009-diamond-type
-    kind: article
+    kind: journal
     authors: [{family: Breeding, given: C. Maxwell}, {family: Shigley, given: James E.}]
     title: "The 'Type' Classification System of Diamonds and Its Importance in Gemology"
     journal: Gems & Gemology
@@ -51,7 +51,7 @@ references:
     year: 2009
     doi: "10.5741/gems.45.2.96"
   - id: nassau-1981-raman
-    kind: article
+    kind: journal
     authors: [{family: Nassau, given: Kurt}]
     title: "Raman Spectroscopy as a Gemstone Test"
     journal: Journal of Gemmology
@@ -61,7 +61,7 @@ references:
     year: 1981
     doi: "10.15506/jog.1981.17.5.306"
   - id: lim-2010-pl-hpht
-    kind: article
+    kind: journal
     authors: [{family: Lim, given: H.}]
     title: "Discrimination of natural and HPHT-treated Type IIa diamonds by photoluminescence spectroscopy"
     journal: Diamond and Related Materials

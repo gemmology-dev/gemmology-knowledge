@@ -218,7 +218,7 @@ references:
     doi: "10.3390/min9090561"
 
   - id: global-witness-marange
-    kind: report
+    kind: web
     authors:
       - family: "Global Witness"
     title: "Marange Diamond Fields: Human Rights Concerns and Kimberley Process"

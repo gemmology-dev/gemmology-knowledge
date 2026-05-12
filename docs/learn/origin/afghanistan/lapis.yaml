@@ -128,7 +128,7 @@ sources:
 
 references:
   - id: lo-giudice-2016-lapis-provenance
-    kind: article
+    kind: journal
     authors:
       - family: "Lo Giudice"
         given: "Alessandro"

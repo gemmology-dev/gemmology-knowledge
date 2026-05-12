@@ -126,7 +126,7 @@ sections:
 
 references:
   - id: palke-2019-ruby-origin
-    kind: article
+    kind: journal
     authors:
       - family: "Palke"
         given: "Aaron C."

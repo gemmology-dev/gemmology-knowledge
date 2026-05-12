@@ -162,7 +162,7 @@ sources:
 
 references:
   - id: phillips-hyrsl-1996-demantoid
-    kind: article
+    kind: journal
     authors:
       - family: "Phillips"
         given: "Mona"
@@ -177,7 +177,7 @@ references:
     doi: "10.5741/gems.32.2.100"
 
   - id: kissin-2021-horsetail
-    kind: article
+    kind: journal
     authors:
       - family: "Kissin"
         given: "Alexander Yu."
@@ -194,7 +194,7 @@ references:
     doi: "10.3390/min11080825"
 
   - id: krzemnicki-1999-diopside
-    kind: article
+    kind: journal
     authors:
       - family: "Krzemnicki"
         given: "Michael S."
@@ -207,7 +207,7 @@ references:
     doi: "10.5741/gems.35.4.192"
 
   - id: schwarzinger-2019-demantoid
-    kind: article
+    kind: journal
     authors:
       - family: "Schwarzinger"
         given: "Christoph"
