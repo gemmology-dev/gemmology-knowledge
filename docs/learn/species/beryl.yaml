@@ -16,6 +16,72 @@ tags:
   - species/beryl
   - heliodor
 
+references:
+  - id: read-3rd
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: "Gemmology"
+    edition: 3rd
+    publisher: "Butterworth-Heinemann"
+    year: 2008
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-7506-6449-3"
+
+  - id: fritsch-rossman-1987
+    kind: journal
+    authors:
+      - family: Fritsch
+        given: E.
+      - family: Rossman
+        given: G.R.
+    title: "An Update on Color in Gems. Part 1: Introduction and Colors Caused by Dispersed Metal Ions"
+    journal: "Gems & Gemology"
+    volume: 23
+    issue: 3
+    pages: "126–139"
+    year: 1987
+    doi: "10.5741/gems.23.3.126"
+
+  - id: kammerling-1991
+    kind: journal
+    authors:
+      - family: Kammerling
+        given: R.C.
+      - family: Koivula
+        given: J.I.
+      - family: Kane
+        given: R.E.
+      - family: Maddison
+        given: A.C.
+      - family: Shigley
+        given: J.E.
+      - family: Fritsch
+        given: E.
+    title: "Fracture Filling of Emeralds: Opticon and Traditional \"Oils\""
+    journal: "Gems & Gemology"
+    volume: 27
+    issue: 2
+    pages: "70–85"
+    year: 1991
+    doi: "10.5741/gems.27.2.70"
+
+  - id: giuliani-groat-2019
+    kind: journal
+    authors:
+      - family: Giuliani
+        given: G.
+      - family: Groat
+        given: L.A.
+    title: "Geology of Corundum and Emerald Gem Deposits: A Review"
+    journal: "Gems & Gemology"
+    volume: 55
+    issue: 4
+    pages: "464–489"
+    year: 2019
+    doi: "10.5741/gems.55.4.464"
+
 sections:
   - title: Introduction
     content: |
@@ -37,15 +103,16 @@ sections:
           - **Fracture**: Conchoidal to uneven
 
       - title: Physical Properties
+        citations: [read-3rd]
         table:
           headers:
             - Property
             - Value
           rows:
-            - ["Hardness", "7.5-8 Mohs"]
-            - ["Specific gravity", "2.67-2.78"]
-            - ["Refractive index", "1.577-1.583"]
-            - ["Birefringence", "0.005-0.009"]
+            - ["Hardness", "7.5–8 Mohs"]
+            - ["Specific gravity", "2.67–2.78"]
+            - ["Refractive index", "1.577–1.583"]
+            - ["Birefringence", "0.005–0.009"]
             - ["Optic character", "Uniaxial negative"]
             - ["Pleochroism", "Weak to distinct (varies by variety)"]
             - ["Lustre", "Vitreous"]
@@ -57,7 +124,7 @@ sections:
     subsections:
       - title: Colour and Chromophores
         content: |
-          - **Primary chromophore**: Chromium (Cr³⁺)
+          - **Primary chromophore**: Chromium (Cr³⁺) {cite:fritsch-rossman-1987}
           - **Secondary**: Vanadium (V³⁺) in some sources
           - **Iron influence**: Can modify towards bluish-green
           - **Ideal colour**: Vivid, medium-dark green without excessive blue
@@ -72,7 +139,7 @@ sections:
             - Characteristics
             - Market Position
           rows:
-            - ["Colombia (Muzo)", "Pure green, three-phase inclusions", "Highest premiums"]
+            - ["Colombia (Muzo)", "Pure green, three-phase inclusions {cite:giuliani-groat-2019}", "Highest premiums"]
             - ["Colombia (Chivor)", "Slightly bluish, often cleaner", "High value"]
             - ["Zambia", "Bluish-green, better clarity", "Second largest producer"]
             - ["Brazil", "Variable quality, often lighter", "Significant volume"]
@@ -95,7 +162,7 @@ sections:
       title: Three-Phase Inclusions
       text: |
         The three-phase inclusion (liquid + gas bubble + halite cube) is virtually
-        diagnostic for Colombian origin. The halite crystal can sometimes be seen
+        diagnostic for Colombian origin. {cite:giuliani-groat-2019}{cite:kammerling-1991} The halite crystal can sometimes be seen
         to dissolve when heated and recrystallize on cooling.
 
         Additional Colombian indicators: calcite rhombs, pyrite crystals, jagged
@@ -108,12 +175,12 @@ sections:
     subsections:
       - title: Colour Characteristics
         content: |
-          - **Chromophore**: Iron (Fe²⁺)
+          - **Chromophore**: Iron (Fe²⁺) {cite:fritsch-rossman-1987}
           - **Colour range**: Light blue to blue-green to greenish-blue
           - **Most valued**: Medium-dark saturated blue (Santa Maria type)
           - **Pleochroism**: Weak (colourless to pale blue)
 
-          Most aquamarines are heat-treated to reduce green and enhance blue.
+          Most aquamarines are heat-treated to reduce green and enhance blue. {cite:read-3rd}
 
       - title: Major Sources
         table:
@@ -140,7 +207,7 @@ sections:
         content: |
           Pink to peach beryl, coloured by manganese:
 
-          - **Colour cause**: Manganese (Mn²⁺/Mn³⁺)
+          - **Colour cause**: Manganese (Mn²⁺/Mn³⁺) {cite:fritsch-rossman-1987}
           - **Range**: Light pink to peach to salmon
           - **Sources**: Brazil, Madagascar, Afghanistan
           - **Treatment**: Often heated to remove yellow component
@@ -170,7 +237,7 @@ sections:
           - **Colour cause**: Manganese (Mn³⁺)
           - **Rarity**: Far rarer than emerald
           - **Size**: Typically under 1 carat
-          - **Source**: Wah Wah Mountains, Utah only
+          - **Source**: Wah Wah Mountains, Utah only {cite:read-3rd}
           - **Value**: Commands exceptional prices for fine examples
 
   - title: Red Beryl Rarity
@@ -209,7 +276,7 @@ sections:
 
           - Oil fills surface-reaching fractures
           - Improves apparent clarity
-          - Cedar oil traditional; polymers also used
+          - Cedar oil traditional; polymers also used {cite:kammerling-1991}
           - Minor oiling widely accepted
           - Significant oiling reduces value
           - Requires disclosure

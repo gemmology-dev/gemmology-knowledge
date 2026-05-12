@@ -15,6 +15,34 @@ tags:
   - boulder-opal
   - fire-opal
 
+references:
+  - id: read-3rd
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: "Gemmology"
+    edition: 3rd
+    publisher: "Butterworth-Heinemann"
+    year: 2008
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-7506-6449-3"
+
+  - id: zhao-bai-2020
+    kind: journal
+    authors:
+      - family: Zhao
+        given: S.
+      - family: Bai
+        given: J.
+    title: "Crystallinity and Play-of-Colour in Gem Opal with Digit Patterns from Wegel Tena, Ethiopia"
+    journal: "Minerals"
+    volume: 10
+    issue: 7
+    pages: "625"
+    year: 2020
+    doi: "10.3390/min10070625"
+
 sections:
   - title: Introduction
     content: |
@@ -24,7 +52,7 @@ sections:
       diffract light into spectral colours.
 
       Australia dominates world opal production, producing over 90% of
-      precious opal.
+      precious opal. {cite:read-3rd}
 
   - title: Mineralogy
     subsections:
@@ -34,41 +62,42 @@ sections:
 
           - **Not crystalline**: Amorphous (no crystal structure)
           - **Composition**: Hydrated silica (SiO₂·nH₂O)
-          - **Water content**: 3-21% (typically 6-10%)
+          - **Water content**: 3–21% (typically 6–10%) {cite:read-3rd}
           - **Formation**: Low-temperature precipitation from silica-rich water
 
       - title: Physical Properties
+        citations: [read-3rd]
         table:
           headers:
             - Property
             - Value
           rows:
-            - ["Hardness", "5.5-6.5 Mohs"]
-            - ["Specific gravity", "1.98-2.25"]
-            - ["Refractive index", "1.37-1.47"]
+            - ["Hardness", "5.5–6.5 Mohs"]
+            - ["Specific gravity", "1.98–2.25"]
+            - ["Refractive index", "1.37–1.47"]
             - ["Optic character", "Singly refractive (amorphous)"]
             - ["Lustre", "Vitreous to waxy"]
             - ["Fracture", "Conchoidal"]
 
   - title: Play of Colour
     content: |
-      Play of colour is opal's defining phenomenon – flashing spectral colours
+      Play of colour is opal's defining phenomenon—flashing spectral colours
       that shift as the stone moves.
     subsections:
       - title: Cause
         content: |
-          - Uniform silica spheres (150-400nm diameter)
+          - Uniform silica spheres (150–400nm diameter) {cite:zhao-bai-2020}
           - Regularly stacked in three-dimensional array
           - Light diffracts between sphere layers
           - Different sphere sizes produce different colours
 
-          Larger spheres (>350nm) produce red; smaller spheres produce blue/violet.
+          Larger spheres (>350nm) produce red; smaller spheres produce blue/violet. {cite:zhao-bai-2020}
           Regularity of stacking determines brightness.
 
       - title: Precious vs Common Opal
         content: |
           - **Precious opal**: Shows play of colour; regular sphere arrangement
-          - **Common opal (potch)**: No play of colour; irregular spheres
+          - **Common opal (potch)**: No play of colour; irregular spheres {cite:zhao-bai-2020}
           - **Fire opal**: Valued for body colour; play of colour optional
 
   - title: Opal Types by Body Tone
@@ -107,7 +136,7 @@ sections:
         content: |
           - **Body colour**: Yellow, orange, red
           - **Play of colour**: Optional; not required
-          - **Source**: Mexico (primary)
+          - **Source**: Mexico (primary) {cite:read-3rd}
           - **Value**: Based on body colour intensity
 
   - title: Pattern Types
@@ -131,8 +160,8 @@ sections:
       type: info
       title: Most Prized Pattern
       text: |
-        Harlequin pattern – angular, mosaic-like patches of colour – is the most
-        valuable opal pattern. A true harlequin black opal can command
+        Harlequin pattern—angular, mosaic-like patches of colour—is the most
+        valuable opal pattern. {cite:read-3rd} A true harlequin black opal can command
         extraordinary prices, with exceptional examples selling for hundreds
         of thousands of dollars.
 
@@ -158,8 +187,8 @@ sections:
       type: warning
       title: Hydrophane Behaviour
       text: |
-        Ethiopian opal is often hydrophane – it absorbs water, becoming more
-        transparent when wet and returning to original appearance when dry.
+        Ethiopian opal is often hydrophane—it absorbs water, becoming more
+        transparent when wet and returning to original appearance when dry. {cite:zhao-bai-2020}
 
         Concerns include:
         - Potential crazing (cracking) in some material
@@ -184,7 +213,7 @@ sections:
       type: warning
       title: Special Care Required
       text: |
-        Opal requires careful handling:
+        Opal requires careful handling: {cite:read-3rd}
 
         - **Water loss**: Can craze (crack) if dehydrated
         - **Heat shock**: Avoid sudden temperature changes
@@ -199,8 +228,8 @@ sections:
     content: |
       Key features for opal identification:
 
-      - **RI**: 1.37-1.47 (low; single reading)
-      - **SG**: 1.98-2.25 (low)
+      - **RI**: 1.37–1.47 (low; single reading)
+      - **SG**: 1.98–2.25 (low)
       - **Play of colour**: Diagnostic for precious opal
       - **Amorphous**: SR; no crystal structure
       - **Water content**: Can affect stability

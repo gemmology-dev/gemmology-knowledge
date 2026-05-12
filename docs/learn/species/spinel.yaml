@@ -14,6 +14,34 @@ tags:
   - cobalt-spinel
   - flame-spinel
 
+references:
+  - id: fritsch-rossman-1987
+    kind: journal
+    authors:
+      - family: Fritsch
+        given: E.
+      - family: Rossman
+        given: G.R.
+    title: "An Update on Color in Gems. Part 1: Introduction and Colors Caused by Dispersed Metal Ions"
+    journal: "Gems & Gemology"
+    volume: 23
+    issue: 3
+    pages: "126–139"
+    year: 1987
+    doi: "10.5741/gems.23.3.126"
+
+  - id: read-3rd
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: "Gemmology"
+    edition: 3rd
+    publisher: "Butterworth-Heinemann"
+    year: 2008
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-7506-6449-3"
+
 sections:
   - title: Introduction
     content: |
@@ -22,7 +50,7 @@ sections:
       prized gem in its own right, with fine red and cobalt-blue specimens commanding
       exceptional prices.
 
-      The "great impostors" of history – the Black Prince's Ruby and Timur Ruby – are
+      The "great impostors" of history—the Black Prince's Ruby and Timur Ruby—are
       both red spinels, testament to their beauty rivaling ruby.
 
   - title: Mineralogy
@@ -36,14 +64,15 @@ sections:
           - **Fracture**: Conchoidal
 
       - title: Physical Properties
+        citations: [read-3rd]
         table:
           headers:
             - Property
             - Value
           rows:
             - ["Hardness", "8 Mohs"]
-            - ["Specific gravity", "3.58-3.61"]
-            - ["Refractive index", "1.712-1.720"]
+            - ["Specific gravity", "3.58–3.61"]
+            - ["Refractive index", "1.712–1.720"]
             - ["Optic character", "Singly refractive (isotropic)"]
             - ["Pleochroism", "None"]
             - ["Dispersion", "0.020 (moderate)"]
@@ -55,7 +84,7 @@ sections:
         content: |
           The most valued spinel colour:
 
-          - **Chromophore**: Chromium (Cr³⁺)
+          - **Chromophore**: Chromium (Cr³⁺) {cite:fritsch-rossman-1987}
           - **Ideal colour**: Vivid red with slight pink or orange modifier
           - **Fluorescence**: Strong red under UV (like ruby)
           - **Distinction from ruby**: SR (no birefringence), lower RI, lower SG
@@ -65,7 +94,7 @@ sections:
         content: |
           Particularly cobalt-blue specimens:
 
-          - **Cobalt blue**: Coloured by Co²⁺; vivid, saturated
+          - **Cobalt blue**: Coloured by Co²⁺; vivid, saturated {cite:fritsch-rossman-1987}
           - **Iron blue**: Coloured by Fe; often greyish
           - **Sources**: Sri Lanka, Vietnam, Tanzania (cobalt)
           - **Value**: Fine cobalt-blue rivals ruby prices
@@ -98,10 +127,10 @@ sections:
       title: Exceptional Blue
       text: |
         Cobalt-blue spinel is among the most valuable coloured gemstones.
-        The vivid, saturated blue with no heat treatment commands prices
-        exceeding $10,000 per carat for fine examples.
+        The vivid, saturated blue with no heat treatment commands exceptional
+        prices for fine examples. [CITATION NEEDED]
 
-        True cobalt colour must be confirmed by spectroscopy – iron-blue
+        True cobalt colour must be confirmed by spectroscopy—iron-blue
         spinels are much less valuable.
 
   - title: Major Sources
@@ -135,7 +164,7 @@ sections:
           - Traded along Silk Road routes for millennia
           - "Balas ruby" referred to spinels from Badakhshan (Afghanistan/Tajikistan)
           - Prized by Mogul emperors
-          - Confused with ruby until 18th-century mineralogical advances
+          - Confused with ruby until 18th-century mineralogical advances {cite:read-3rd}
 
   - title: Spinel vs Ruby
     comparison:
@@ -155,7 +184,7 @@ sections:
           points:
             - Doubly refractive
             - Strong pleochroism
-            - RI 1.762-1.770 (two readings)
+            - RI 1.762–1.770 (two readings)
             - SG 4.00
             - Inclusions common
             - Silk (rutile needles) characteristic
@@ -169,7 +198,7 @@ sections:
         content: |
           - **Octahedral crystals**: Other spinels or negative crystals
           - **Fingerprints**: Healed fractures with fluid remnants
-          - **Swallowtail twins**: Characteristic growth pattern
+          - **Swallowtail twins**: Characteristic growth pattern {cite:read-3rd}
           - **Zircon with halos**: Common in Sri Lankan material
           - **Generally clean**: Spinel often has fewer inclusions than corundum
 
@@ -187,14 +216,14 @@ sections:
       text: |
         Natural spinel may show some ADR (anomalous double refraction) under
         the polariscope, but synthetic flame-fusion spinel typically shows
-        much stronger, more pronounced ADR – a useful distinguishing feature.
+        much stronger, more pronounced ADR—a useful distinguishing feature. {cite:read-3rd}
 
         The "tabby extinction" pattern in synthetic spinel is often more
         dramatic than in natural material.
 
   - title: Treatments
     content: |
-      Spinel is notable for being largely untreated:
+      Spinel is notable for being largely untreated: {cite:read-3rd}
 
       - **Heat treatment**: Rare; occasionally used to lighten dark stones
       - **No oiling or filling**: Not practiced
@@ -207,7 +236,7 @@ sections:
     content: |
       Key features for spinel identification:
 
-      - **RI**: 1.718 (single reading – isotropic)
+      - **RI**: 1.718 (single reading—isotropic)
       - **SG**: 3.60
       - **Optic character**: SR (stays dark in polariscope, or shows ADR)
       - **No pleochroism**: No colour change in dichroscope

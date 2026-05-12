@@ -13,6 +13,34 @@ tags:
   - chrysolite
   - august-birthstone
 
+references:
+  - id: read-3rd
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: "Gemmology"
+    edition: 3rd
+    publisher: "Butterworth-Heinemann"
+    year: 2008
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-7506-6449-3"
+
+  - id: fritsch-rossman-1987
+    kind: journal
+    authors:
+      - family: Fritsch
+        given: E.
+      - family: Rossman
+        given: G.R.
+    title: "An Update on Color in Gems. Part 1: Introduction and Colors Caused by Dispersed Metal Ions"
+    journal: "Gems & Gemology"
+    volume: 23
+    issue: 3
+    pages: "126–139"
+    year: 1987
+    doi: "10.5741/gems.23.3.126"
+
 sections:
   - title: Introduction
     content: |
@@ -31,19 +59,20 @@ sections:
           - **Crystal system**: Orthorhombic
           - **Chemical formula**: (Mg,Fe)₂SiO₄
           - **Series**: Forsterite (Mg) to Fayalite (Fe)
-          - **Gem composition**: Usually ~88-92% forsterite
+          - **Gem composition**: Usually ~88–92% forsterite {cite:read-3rd}
           - **Cleavage**: Poor (rarely seen)
 
       - title: Physical Properties
+        citations: [read-3rd]
         table:
           headers:
             - Property
             - Value
           rows:
-            - ["Hardness", "6.5-7 Mohs"]
-            - ["Specific gravity", "3.27-3.37"]
-            - ["Refractive index", "1.654-1.690"]
-            - ["Birefringence", "0.035-0.038 (high)"]
+            - ["Hardness", "6.5–7 Mohs"]
+            - ["Specific gravity", "3.27–3.37"]
+            - ["Refractive index", "1.654–1.690"]
+            - ["Birefringence", "0.035–0.038 (high)"]
             - ["Optic character", "Biaxial positive"]
             - ["Pleochroism", "Weak (yellowish-green to green)"]
             - ["Lustre", "Vitreous to oily"]
@@ -52,7 +81,7 @@ sections:
     content: |
       Peridot occurs in a single hue family:
 
-      - **Chromophore**: Iron (Fe²⁺)
+      - **Chromophore**: Iron (Fe²⁺) {cite:fritsch-rossman-1987}
       - **Colour range**: Yellow-green to olive green to brownish-green
       - **Ideal**: Vivid lime green without brown
       - **No treatment**: Peridot is never heat-treated for colour
@@ -65,8 +94,8 @@ sections:
       type: info
       title: Diagnostic Inclusion
       text: |
-        Peridot is famous for "lily pad" inclusions – disc-shaped stress fractures
-        surrounding tiny chromite crystals. These appear as small round
+        Peridot is famous for "lily pad" inclusions—disc-shaped stress fractures
+        surrounding tiny chromite crystals. {cite:read-3rd} These appear as small round
         "explosions" when viewed under magnification.
 
         Lily pads are virtually diagnostic for peridot and help separate it
@@ -96,13 +125,13 @@ sections:
         it "the gem of the sun." The mines are now exhausted.
 
         Interestingly, "Topazios," the Greek name for this island, is where
-        the word "topaz" originated – though the island produced peridot, not topaz.
+        the word "topaz" originated—though the island produced peridot, not topaz.
 
   - title: Characteristic Inclusions
     content: |
       Peridot shows distinctive internal features:
 
-      - **Lily pads**: Stress discs around chromite crystals (diagnostic)
+      - **Lily pads**: Stress discs around chromite crystals (diagnostic) {cite:read-3rd}
       - **Chromite crystals**: Small black octahedra
       - **Needle inclusions**: Fine, oriented needles
       - **Negative crystals**: Angular voids
@@ -110,7 +139,7 @@ sections:
 
   - title: High Birefringence Effect
     content: |
-      Peridot's high birefringence (0.035-0.038) causes visible doubling:
+      Peridot's high birefringence (0.035–0.038) causes visible doubling:
 
       - Back facet edges appear doubled
       - More obvious in larger stones
@@ -121,11 +150,11 @@ sections:
     content: |
       Key features for peridot identification:
 
-      - **RI**: 1.654-1.690 (distinctive range)
+      - **RI**: 1.654–1.690 (distinctive range)
       - **SG**: 3.34 (characteristic)
-      - **Birefringence**: 0.035-0.038 (high; visible doubling)
+      - **Birefringence**: 0.035–0.038 (high; visible doubling)
       - **Colour**: Yellow-green to olive green only
-      - **Spectrum**: Three Fe bands at 493, 473, 453nm
+      - **Spectrum**: Three Fe bands at 493, 473, 453nm {cite:read-3rd}
       - **Inclusions**: Lily pads diagnostic
 
   - title: Distinguishing Similar Gems
@@ -144,7 +173,7 @@ sections:
     content: |
       Peridot requires some care in jewellery:
 
-      - Hardness 6.5-7 means it can scratch
+      - Hardness 6.5–7 means it can scratch
       - Sensitive to acids (even weak ones)
       - Avoid ultrasonic and steam cleaning
       - Warm soapy water is safe

@@ -16,6 +16,192 @@ tags:
   - padparadscha
   - star-stones
 
+references:
+  - id: zouboulis-1991
+    kind: journal
+    authors:
+      - family: Zouboulis
+        given: E.S.
+      - family: Grimsditch
+        given: M.
+    title: "Refractive index and elastic properties of single-crystal corundum (α-Al₂O₃) up to 2100 K"
+    journal: "Journal of Applied Physics"
+    volume: 70
+    issue: 2
+    pages: "772–776"
+    year: 1991
+    doi: "10.1063/1.349633"
+
+  - id: fritsch-rossman-1987
+    kind: journal
+    authors:
+      - family: Fritsch
+        given: E.
+      - family: Rossman
+        given: G.R.
+    title: "An Update on Color in Gems. Part 1: Introduction and Colors Caused by Dispersed Metal Ions"
+    journal: "Gems & Gemology"
+    volume: 23
+    issue: 3
+    pages: "126–139"
+    year: 1987
+    doi: "10.5741/gems.23.3.126"
+
+  - id: fritsch-rossman-1988-pt2
+    kind: journal
+    authors:
+      - family: Fritsch
+        given: E.
+      - family: Rossman
+        given: G.R.
+    title: "An Update on Color in Gems. Part 2: Colors Involving Multiple Atoms and Color Centers"
+    journal: "Gems & Gemology"
+    volume: 24
+    issue: 1
+    pages: "3–15"
+    year: 1988
+    doi: "10.5741/gems.24.1.3"
+
+  - id: nassau-1981
+    kind: journal
+    authors:
+      - family: Nassau
+        given: K.
+    title: "Heat Treating Ruby and Sapphire: Technical Aspects"
+    journal: "Gems & Gemology"
+    volume: 17
+    issue: 3
+    pages: "121–131"
+    year: 1981
+    doi: "10.5741/gems.17.3.121"
+
+  - id: emmett-2003
+    kind: journal
+    authors:
+      - family: Emmett
+        given: J.L.
+      - family: Scarratt
+        given: K.
+      - family: McClure
+        given: S.F.
+      - family: Moses
+        given: T.
+      - family: Douthit
+        given: T.R.
+      - family: Hughes
+        given: R.
+      - family: Novak
+        given: S.
+      - family: Shigley
+        given: J.E.
+      - family: Wang
+        given: W.
+      - family: Bordelon
+        given: O.
+      - family: Kane
+        given: R.E.
+    title: "Beryllium Diffusion of Ruby and Sapphire"
+    journal: "Gems & Gemology"
+    volume: 39
+    issue: 2
+    pages: "84–135"
+    year: 2003
+    doi: "10.5741/gems.39.2.84"
+
+  - id: palke-2019-ruby
+    kind: journal
+    authors:
+      - family: Palke
+        given: A.C.
+      - family: Saeseaw
+        given: S.
+      - family: Renfro
+        given: N.D.
+      - family: Sun
+        given: Z.
+      - family: McClure
+        given: S.F.
+    title: "Geographic Origin Determination of Ruby"
+    journal: "Gems & Gemology"
+    volume: 55
+    issue: 4
+    pages: "580–613"
+    year: 2019
+    doi: "10.5741/gems.55.4.580"
+
+  - id: palke-2019-sapphire
+    kind: journal
+    authors:
+      - family: Palke
+        given: A.C.
+      - family: Saeseaw
+        given: S.
+      - family: Renfro
+        given: N.D.
+      - family: Sun
+        given: Z.
+      - family: McClure
+        given: S.F.
+    title: "Geographic Origin Determination of Blue Sapphire"
+    journal: "Gems & Gemology"
+    volume: 55
+    issue: 4
+    pages: "536–579"
+    year: 2019
+    doi: "10.5741/gems.55.4.536"
+
+  - id: shor-weldon-2009
+    kind: journal
+    authors:
+      - family: Shor
+        given: R.
+      - family: Weldon
+        given: R.
+    title: "Ruby and Sapphire Production and Distribution: A Quarter Century of Change"
+    journal: "Gems & Gemology"
+    volume: 45
+    issue: 4
+    pages: "236–259"
+    year: 2009
+    doi: "10.5741/gems.45.4.236"
+
+  - id: giuliani-groat-2019
+    kind: journal
+    authors:
+      - family: Giuliani
+        given: G.
+      - family: Groat
+        given: L.A.
+    title: "Geology of Corundum and Emerald Gem Deposits: A Review"
+    journal: "Gems & Gemology"
+    volume: 55
+    issue: 4
+    pages: "464–489"
+    year: 2019
+    doi: "10.5741/gems.55.4.464"
+
+  - id: hughes-ruby-sapphire
+    kind: book
+    authors:
+      - family: Hughes
+        given: R.W.
+    title: "Ruby & Sapphire: A Gemologist's Guide"
+    publisher: "Lotus Publishing"
+    year: 2017
+    isbn: "978-0-9645097-1-9"
+
+  - id: read-3rd
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: "Gemmology"
+    edition: 3rd
+    publisher: "Butterworth-Heinemann"
+    year: 2008
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-7506-6449-3"
+
 sections:
   - title: Introduction
     content: |
@@ -36,14 +222,15 @@ sections:
           - **Fracture**: Conchoidal to uneven
 
       - title: Physical Properties
+        citations: [zouboulis-1991, read-3rd]
         table:
           headers:
             - Property
             - Value
           rows:
             - ["Hardness", "9 Mohs (defines the scale)"]
-            - ["Specific gravity", "3.99-4.01"]
-            - ["Refractive index", "1.762-1.770"]
+            - ["Specific gravity", "3.99–4.01"]
+            - ["Refractive index", "1.762–1.770"]
             - ["Birefringence", "0.008"]
             - ["Optic character", "Uniaxial negative"]
             - ["Pleochroism", "Distinct to strong (varies with colour)"]
@@ -51,13 +238,13 @@ sections:
 
   - title: Ruby
     content: |
-      Ruby is the red variety of corundum, coloured by chromium (Cr³⁺). Fine rubies are
+      Ruby is the red variety of corundum, coloured by chromium (Cr³⁺). {cite:fritsch-rossman-1987} Fine rubies are
       among the rarest and most valuable of all gemstones.
     subsections:
       - title: Colour and Chromophores
         content: |
-          - **Colour cause**: Chromium (Cr³⁺) substituting for aluminium
-          - **Ideal colour**: "Pigeon blood" - vivid red with slight blue modifier
+          - **Colour cause**: Chromium (Cr³⁺) substituting for aluminium {cite:fritsch-rossman-1987}
+          - **Ideal colour**: "Pigeon blood" — vivid red with slight blue modifier
           - **Range**: Pinkish-red to purplish-red to orangey-red
           - **Fluorescence**: Strong red under UV (due to Cr)
 
@@ -71,7 +258,7 @@ sections:
             - Characteristics
             - Market Position
           rows:
-            - ["Myanmar (Mogok)", "Pigeon blood colour, silk, strong fluorescence", "Highest premiums"]
+            - ["Myanmar (Mogok)", "Pigeon blood colour, silk, strong fluorescence {cite:palke-2019-ruby}{cite:hughes-ruby-sapphire}", "Highest premiums"]
             - ["Myanmar (Mong Hsu)", "Often dark, frequently heated", "Significant production"]
             - ["Mozambique", "Vivid colours, often large", "Major current producer"]
             - ["Thailand/Cambodia", "Darker, less fluorescent", "Historic source"]
@@ -80,7 +267,7 @@ sections:
 
       - title: Diagnostic Inclusions
         content: |
-          - **Short rutile silk**: Fine needles (may be dissolved by heat)
+          - **Short rutile silk**: Fine needles (may be dissolved by heat) {cite:nassau-1981}
           - **Calcite crystals**: Rhombohedral shape
           - **Apatite**: Hexagonal prisms
           - **Swirl patterns**: Flow-like growth patterns ("treacle")
@@ -93,9 +280,9 @@ sections:
     subsections:
       - title: Blue Sapphire
         content: |
-          - **Colour cause**: Iron (Fe²⁺/Fe³⁺) and titanium (Ti⁴⁺) charge transfer
+          - **Colour cause**: Iron (Fe²⁺/Fe³⁺) and titanium (Ti⁴⁺) charge transfer {cite:fritsch-rossman-1988-pt2}
           - **Ideal colour**: Vivid, medium-toned blue (violetish-blue to pure blue)
-          - **Kashmir quality**: "Velvety" or "sleepy" appearance from micro-inclusions
+          - **Kashmir quality**: "Velvety" or "sleepy" appearance from micro-inclusions {cite:palke-2019-sapphire}
 
       - title: Fancy Sapphire Colours
         table:
@@ -119,7 +306,7 @@ sections:
             - Characteristics
             - Market Position
           rows:
-            - ["Kashmir", "Velvety appearance, cornflower blue", "Highest premiums (historic)"]
+            - ["Kashmir", "Velvety appearance, cornflower blue {cite:palke-2019-sapphire}", "Highest premiums (historic)"]
             - ["Myanmar (Mogok)", "Royal blue, good fluorescence", "Very high value"]
             - ["Sri Lanka (Ceylon)", "Light to medium blue, large sizes", "Major source; good value"]
             - ["Madagascar", "Variable colours and quality", "Significant production"]
@@ -133,7 +320,7 @@ sections:
       text: |
         Padparadscha is the rarest and most valuable fancy sapphire, named from the
         Sinhalese word for lotus blossom. It must show both pink and orange colours
-        simultaneously, with neither dominant.
+        simultaneously, with neither dominant. {cite:read-3rd}{cite:hughes-ruby-sapphire}
 
         Traditionally from Sri Lanka, the term's definition is debated. Major labs
         have varying criteria, making certification important for high-value stones.
@@ -184,7 +371,7 @@ sections:
           - **Low temperature**: Reduces silk, improves transparency
           - **High temperature**: Can lighten overly dark stones
           - **Flux healing**: Heals fractures with borax flux
-          - **Prevalence**: Majority of market corundum is heated
+          - **Prevalence**: Majority of market corundum is heated {cite:shor-weldon-2009}
 
           Detection: Dissolved silk, altered inclusions, stress fractures
 
@@ -194,7 +381,7 @@ sections:
 
           - Creates or enhances yellow, orange, pink colours
           - Penetration is deeper than earlier Ti diffusion
-          - Detection requires LIBS or LA-ICP-MS
+          - Detection requires LIBS or LA-ICP-MS {cite:emmett-2003}
           - Must be disclosed; lower value than untreated
 
       - title: Lead Glass Filling
@@ -217,7 +404,7 @@ sections:
         **Black Prince's Ruby**: Actually a red spinel, but historically called
         a ruby; set in British Imperial State Crown.
 
-        **Kashmir Sapphires**: The 1881-1887 discovery at 15,000 feet produced
+        **Kashmir Sapphires**: The 1881–1887 discovery at 15,000 feet produced
         some of history's finest sapphires, now essentially exhausted.
 
         **Padparadscha (Sri Lanka)**: Traditional source; finest examples
@@ -227,7 +414,7 @@ sections:
     content: |
       Key features for corundum identification:
 
-      - **RI**: 1.762-1.770 (distinctive range)
+      - **RI**: 1.762–1.770 (distinctive range)
       - **Birefringence**: 0.008
       - **SG**: 4.00 (high)
       - **Hardness**: 9 (exceptional)

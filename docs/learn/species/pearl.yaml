@@ -15,6 +15,34 @@ tags:
   - south-sea
   - tahitian
 
+references:
+  - id: read-3rd
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: "Gemmology"
+    edition: 3rd
+    publisher: "Butterworth-Heinemann"
+    year: 2008
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-7506-6449-3"
+
+  - id: du-hainschwang-2010
+    kind: journal
+    authors:
+      - family: Du
+        given: X.
+      - family: Hainschwang
+        given: T.
+    title: "X-Ray Computed Microtomography: Distinguishing Natural Pearls from Beaded and Non-Beaded Cultured Pearls"
+    journal: "Gems & Gemology"
+    volume: 46
+    issue: 2
+    pages: "128–134"
+    year: 2010
+    doi: "10.5741/gems.46.2.128"
+
 sections:
   - title: Introduction
     content: |
@@ -49,7 +77,7 @@ sections:
 
       - title: Nacre Composition
         content: |
-          - **Aragonite**: Calcium carbonate crystals (brick-like platelets)
+          - **Aragonite**: Calcium carbonate crystals (brick-like platelets) {cite:read-3rd}
           - **Conchiolin**: Organic binder between layers
           - **Structure**: Overlapping platelets create iridescence
           - **Thickness**: Quality indicator; thicker is better
@@ -63,10 +91,10 @@ sections:
         - Characteristics
         - Size Range
       rows:
-        - ["Akoya", "Pinctada fucata", "Japan, China, Vietnam", "Round, white/cream with rose overtone", "2-11mm"]
-        - ["South Sea (white)", "Pinctada maxima", "Australia, Indonesia, Philippines", "Large, white/silver/cream", "9-20mm"]
-        - ["South Sea (golden)", "Pinctada maxima", "Philippines, Indonesia", "Large, golden to deep gold", "9-16mm"]
-        - ["Tahitian", "Pinctada margaritifera", "French Polynesia", "Dark colours (grey, green, peacock)", "8-16mm"]
+        - ["Akoya", "Pinctada fucata", "Japan, China, Vietnam", "Round, white/cream with rose overtone", "2–11mm"]
+        - ["South Sea (white)", "Pinctada maxima", "Australia, Indonesia, Philippines", "Large, white/silver/cream", "9–20mm"]
+        - ["South Sea (golden)", "Pinctada maxima", "Philippines, Indonesia", "Large, golden to deep gold", "9–16mm"]
+        - ["Tahitian", "Pinctada margaritifera", "French Polynesia", "Dark colours (grey, green, peacock)", "8–16mm"]
 
   - title: Freshwater Pearls
     content: |
@@ -78,7 +106,7 @@ sections:
           - **Nucleation**: Often tissue-only (solid nacre)
           - **Shapes**: From baroque to near-round to round
           - **Colours**: White, pink, lavender, peach
-          - **Production**: One mussel can produce 20-50 pearls
+          - **Production**: One mussel can produce 20–50 pearls
 
       - title: Modern Developments
         content: |
@@ -164,7 +192,7 @@ sections:
       text: |
         Laboratory tests distinguish natural from cultured:
 
-        - **X-ray**: Shows bead nucleus in cultured pearls
+        - **X-ray**: Shows bead nucleus in cultured pearls {cite:du-hainschwang-2010}
         - **X-ray luminescence**: Different patterns
         - **Candling**: Light transmission reveals structure
 
@@ -196,7 +224,7 @@ sections:
         - **Wear**: Put on last, remove first
         - **Storage**: Separate from harder gems
 
-        Hardness 2.5-4.5; easily scratched.
+        Hardness 2.5–4.5; easily scratched. {cite:read-3rd}
 
   - title: Famous Pearls
     content: |

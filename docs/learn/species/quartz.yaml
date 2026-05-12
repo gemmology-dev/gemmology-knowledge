@@ -15,6 +15,49 @@ tags:
   - chalcedony
   - agate
 
+references:
+  - id: read-3rd
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: "Gemmology"
+    edition: 3rd
+    publisher: "Butterworth-Heinemann"
+    year: 2008
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-7506-6449-3"
+
+  - id: fritsch-rossman-1988-pt2
+    kind: journal
+    authors:
+      - family: Fritsch
+        given: E.
+      - family: Rossman
+        given: G.R.
+    title: "An Update on Color in Gems. Part 2: Colors Involving Multiple Atoms and Color Centers"
+    journal: "Gems & Gemology"
+    volume: 24
+    issue: 1
+    pages: "3–15"
+    year: 1988
+    doi: "10.5741/gems.24.1.3"
+
+  - id: fritsch-rossman-1988-pt3
+    kind: journal
+    authors:
+      - family: Fritsch
+        given: E.
+      - family: Rossman
+        given: G.R.
+    title: "An Update on Color in Gems. Part 3: Colors Caused By Band Gaps and Physical Phenomena"
+    journal: "Gems & Gemology"
+    volume: 24
+    issue: 2
+    pages: "81–102"
+    year: 1988
+    doi: "10.5741/gems.24.2.81"
+
 sections:
   - title: Introduction
     content: |
@@ -29,13 +72,14 @@ sections:
     subsections:
       - title: Crystal System and Structure
         content: |
-          - **Crystal system**: Trigonal (low quartz, stable below 573°C)
+          - **Crystal system**: Trigonal (low quartz, stable below 573°C) {cite:read-3rd}
           - **Chemical formula**: SiO₂
           - **Habit**: Hexagonal prisms with pointed terminations
           - **Cleavage**: None (conchoidal fracture)
-          - **Twinning**: Common (Brazil, Dauphiné, Japan laws)
+          - **Twinning**: Common (Brazil, Dauphiné, Japan laws) {cite:read-3rd}
 
       - title: Physical Properties
+        citations: [read-3rd]
         table:
           headers:
             - Property
@@ -43,7 +87,7 @@ sections:
           rows:
             - ["Hardness", "7 Mohs"]
             - ["Specific gravity", "2.65"]
-            - ["Refractive index", "1.544-1.553"]
+            - ["Refractive index", "1.544–1.553"]
             - ["Birefringence", "0.009"]
             - ["Optic character", "Uniaxial positive"]
             - ["Pleochroism", "Weak (in coloured varieties)"]
@@ -55,7 +99,7 @@ sections:
         content: |
           Purple to violet quartz:
 
-          - **Colour cause**: Iron + irradiation (Fe³⁺ → Fe⁴⁺)
+          - **Colour cause**: Iron + irradiation (Fe³⁺ → Fe⁴⁺) {cite:fritsch-rossman-1988-pt2}
           - **Range**: Pale lilac to deep purple
           - **Best colour**: Deep "Siberian" purple with red flashes
           - **Sources**: Brazil (major), Uruguay, Zambia, Madagascar
@@ -65,7 +109,7 @@ sections:
         content: |
           Yellow to orange quartz:
 
-          - **Natural citrine**: Rare; pale yellow
+          - **Natural citrine**: Rare; pale yellow {cite:read-3rd}
           - **Heat-treated**: Most commercial citrine is heated amethyst
           - **Colour cause**: Fe³⁺ and irradiation-induced colour centres
           - **Treated appearance**: Often orangey-brown (from heated amethyst)
@@ -75,7 +119,7 @@ sections:
         content: |
           Pink quartz:
 
-          - **Colour cause**: Dumortierite inclusions or Al/P substitution
+          - **Colour cause**: Dumortierite inclusions or Al/P substitution {cite:fritsch-rossman-1988-pt2}
           - **Character**: Usually translucent, rarely transparent
           - **Asterism**: Rare star rose quartz exists
           - **Sources**: Brazil, Madagascar, South Dakota
@@ -84,7 +128,7 @@ sections:
         content: |
           Brown to black quartz:
 
-          - **Colour cause**: Aluminium + natural irradiation
+          - **Colour cause**: Aluminium + natural irradiation {cite:fritsch-rossman-1988-pt2}
           - **Range**: Pale brown ("cairngorm") to nearly black ("morion")
           - **Artificial**: Can be created by irradiating colourless quartz
           - **Sources**: Worldwide; Scotland (historic), Brazil, Switzerland
@@ -109,7 +153,7 @@ sections:
       text: |
         Ametrine displays both amethyst purple and citrine yellow in the same
         crystal. Virtually all commercial ametrine comes from the Anahí mine
-        in Bolivia, where unique geological conditions create this bicolour effect.
+        in Bolivia, where unique geological conditions create this bicolour effect. {cite:read-3rd}
 
         Synthetic ametrine exists, so certification may be valuable for fine pieces.
 
@@ -179,7 +223,7 @@ sections:
         content: |
           - **Asterism**: Star effect in rose quartz (rare)
           - **Chatoyancy**: Cat's eye quartz (sillimanite inclusions)
-          - **Tiger's eye**: Chatoyant from replaced crocidolite
+          - **Tiger's eye**: Chatoyant from replaced crocidolite {cite:fritsch-rossman-1988-pt3}
 
   - title: Treatments
     content: |
@@ -206,13 +250,13 @@ sections:
         - Very clean compared to natural
 
         Natural Brazilian amethyst often has Angola-law twinning visible
-        in the polariscope, absent in synthetics.
+        in the polariscope, absent in synthetics. {cite:read-3rd}
 
   - title: Identification Summary
     content: |
       Key features for quartz identification:
 
-      - **RI**: 1.544-1.553 (distinctive)
+      - **RI**: 1.544–1.553 (distinctive)
       - **SG**: 2.65 (constant)
       - **Birefringence**: 0.009
       - **Hardness**: 7 (scratches glass easily)
