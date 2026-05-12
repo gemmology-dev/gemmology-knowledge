@@ -19,9 +19,9 @@ sections:
   - title: Introduction
     content: |
       Boulder opal is a uniquely Australian variety where precious opal forms
-      within and on ironstone matrix. The natural backing creates distinctive
-      pieces that showcase opal's play-of-colour against a dramatic brown
-      matrix background.
+      within and on ironstone matrix. {cite:read-2014-gemmology} The natural backing
+      creates distinctive pieces that showcase opal's play-of-colour against a dramatic
+      brown matrix background.
 
   - title: Source
     content: |
@@ -30,7 +30,7 @@ sections:
       - **Location**: Western Queensland opal fields
       - **Major areas**: Quilpie, Winton, Opalton, Yowah
       - **Geology**: Opal fills cavities and seams in ironstone boulders
-      - **Formation**: Silica gel deposited in Cretaceous sediments
+      - **Formation**: Silica gel deposited in Cretaceous sediments {cite:schumann-2009-gemstones}
       - **Mining**: Open-cut and shaft mining operations
 
   - title: Characteristics
@@ -82,7 +82,7 @@ sections:
           - Tiny opal specks throughout matrix
           - Often enhanced by treatment
           - Lower value than solid boulder opal
-          - Sometimes sugar/acid treated
+          - Sometimes sugar/acid treated {cite:read-2014-gemmology}
 
   - title: Quality Assessment
     content: |
@@ -128,3 +128,26 @@ sections:
       - **Durability**: Matrix backing adds strength
       - **Accessibility**: Range of price points available
       - **Collector interest**: Fine Yowah and Koroit pieces prized
+
+references:
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "Peter G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann"
+    year: 2014
+    doi: "10.4324/9780080507224"
+
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "Walter"
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling Publishing"
+    year: 2009
+    isbn: "978-1-4027-6829-3"

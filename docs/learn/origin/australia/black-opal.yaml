@@ -19,8 +19,8 @@ sections:
   - title: Introduction
     content: |
       Lightning Ridge in New South Wales produces the world's most valuable
-      opal variety: black opal. The dark body colour provides exceptional
-      contrast for play-of-colour, creating the most dramatic and sought-after
+      opal variety: black opal. {cite:read-2014-gemmology} The dark body colour provides
+      exceptional contrast for play-of-colour, creating the most dramatic and sought-after
       opal specimens in the world.
 
   - title: Source
@@ -41,7 +41,7 @@ sections:
       text: |
         Opal body tone significantly affects value. The scale runs from N1
         (black) to N9 (white), with darker body tones generally more valuable
-        as they provide better contrast for play-of-colour.
+        as they provide better contrast for play-of-colour. {cite:read-2014-gemmology}
 
         Black opal (N1-N4) commands highest premiums when combined with
         bright, full-spectrum play-of-colour.
@@ -120,7 +120,7 @@ sections:
       - **Brightness**: Vivid > bright > subdued > dull
       - **Pattern**: Harlequin > broadflash > pinfire
       - **Colour range**: Full spectrum > limited colours
-      - **Red fire**: Presence of red adds significant value
+      - **Red fire**: Presence of red adds significant value {cite:schumann-2009-gemstones}
       - **Play distribution**: Even coverage preferred
       - **Shape**: Well-formed ovals/cushions command premium
       - **Thickness**: Adequate depth for durability
@@ -135,3 +135,26 @@ sections:
       - **Supply**: Increasingly scarce for fine quality
       - **Investment**: Strong collector interest
       - **Certification**: Origin certification adds value
+
+references:
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "Peter G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann"
+    year: 2014
+    doi: "10.4324/9780080507224"
+
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "Walter"
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling Publishing"
+    year: 2009
+    isbn: "978-1-4027-6829-3"
