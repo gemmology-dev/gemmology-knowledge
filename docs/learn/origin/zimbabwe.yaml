@@ -1,5 +1,5 @@
-title: Zimbabwe – Sandawana Emerald and Marange Diamond
-description: Sandawana (Belingwe) emerald – vivid Cr-rich, tremolite inclusions, very small; Marange alluvial diamond; Murehwa chrysoberyl [CITATION NEEDED].
+title: Zimbabwe — Sandawana Emerald and Marange Diamond
+description: Sandawana (Belingwe) emerald — vivid Cr-rich, tremolite inclusions, very small; Marange alluvial diamond; Murehwa chrysoberyl [CITATION NEEDED].
 order: 21
 category: origin
 difficulty: advanced
@@ -24,13 +24,13 @@ sections:
   - title: Introduction
     content: |
       Zimbabwe hosts two internationally significant gem deposits: Sandawana emerald from
-      the Belingwe (Mberengwa) district – known for its exceptionally saturated small
-      crystals – and the Marange alluvial diamond field (Manicaland Province), which
+      the Belingwe (Mberengwa) district — known for its exceptionally saturated small
+      crystals — and the Marange alluvial diamond field (Manicaland Province), which
       became controversial due to human rights concerns. Sandawana is the more important
       gemmological reference deposit; Marange is commercially significant but gemmologically
       less characterised in peer-reviewed literature.
 
-  - title: Sandawana Emerald – Overview
+  - title: Sandawana Emerald — Overview
     content: |
       The defining characteristics of Sandawana:
     subsections:
@@ -40,7 +40,7 @@ sections:
             established by the early 1950s; the name derives from the local Karanga word
           - Gained international attention from the 1960s for intensely saturated crystals
           - Zwaan, Kanis, and Petsch (1997): "an intensely saturated, pure green colour
-            comparable to Colombian emerald, but they are generally small"
+            comparable to Colombian emerald, but they are generally small" {cite:zwaan-1997-zimbabwe}
 
       - title: Geological Setting
         content: |
@@ -58,25 +58,25 @@ sections:
 
       - **Colour**: Vivid, pure grass-green to emerald-green; colour saturation among
         the highest of any natural emerald; often described as "vivid green" without
-        blue modifiers – the emerald equivalent of "pigeon blood" quality
-      - **Chromophores**: Cr³⁺ dominant; minimal V; very low Fe – the low Fe is the
+        blue modifiers — the emerald equivalent of "pigeon blood" quality
+      - **Chromophores**: Cr³⁺ dominant; minimal V; very low Fe — the low Fe is the
         key to the exceptional colour purity and very strong red fluorescence
-      - **UV Fluorescence (LWUV)**: Very strong red – one of the highest Cr-driven
+      - **UV Fluorescence (LWUV)**: Very strong red — one of the highest Cr-driven
         fluorescence intensities among natural emeralds; significantly stronger than
         Zambian (higher Fe) or Colombian material
       - **Chelsea Colour Filter**: Strong red (Cr dominant)
       - **Size constraint**: Almost invariably <0.5 ct commercial material; 0.1–0.3 ct
         typical; stones >1 ct are exceptional and command premium prices
 
-  - title: Diagnostic Inclusions – Tremolite Needles
+  - title: Diagnostic Inclusions — Tremolite Needles
     callout:
       type: tip
       title: Tremolite as the Primary Diagnostic
       text: |
         TREMOLITE NEEDLES (calcium magnesium amphibole) are the primary diagnostic
-        inclusion for Sandawana origin – as confirmed by Zwaan and Burke (1998) using
-        Raman microspectroscopy. These are straight, slender, colourless to pale needles,
-        often in parallel groups.
+        inclusion for Sandawana origin — as confirmed by Zwaan and Burke (1998) using
+        Raman microspectroscopy. {cite:zwaan-1998-raman} These are straight, slender, colourless to pale
+        needles, often in parallel groups.
 
         Tremolite distinguishes Sandawana from:
         - COLOMBIAN emerald (pyrite/parisite/calcite)
@@ -88,7 +88,7 @@ sections:
     content: |
       Complete inclusion suite:
 
-      - Talc (soft, platy) – from the talc-schist host
+      - Talc (soft, platy) — from the talc-schist host
       - Chlorite flakes
       - Dolomite and calcite rhombs
       - Two-phase fluid inclusions (liquid + gas)
@@ -99,10 +99,10 @@ sections:
       Combination criteria virtually diagnostic for Sandawana:
 
       1. **Very high Cr with very low Fe**: High Cr/Fe ratio contrasts with Zambian
-         and Brazilian material; LA-ICP-MS is confirmatory
-      2. **Tremolite needle inclusions**: Primary visual diagnostic (Zwaan & Burke 1998)
+         and Brazilian material; LA-ICP-MS is confirmatory {cite:karampelas-2019-emeralds}
+      2. **Tremolite needle inclusions**: Primary visual diagnostic {cite:zwaan-1998-raman}
       3. **Very small crystal size**: <0.5 ct in virtually all commercial material
-      4. **Strong red LWUV fluorescence**: Very strong – much stronger than most other
+      4. **Strong red LWUV fluorescence**: Very strong — much stronger than most other
          emerald origins at equivalent saturation
 
   - title: Sandawana vs Key Emerald Origins
@@ -128,7 +128,7 @@ sections:
       - title: Discovery and Controversy
         content: |
           - Marange (Manicaland Province, eastern Zimbabwe): One of the largest alluvial
-            diamond deposits discovered in the 20th century, found in 2006
+            diamond deposits discovered in the 20th century, found in 2006 {cite:global-witness-marange}
           - Stones distributed through fluvial and aeolian gravels overlying kimberlite
           - Became controversial due to alleged human rights abuses; Kimberley Process
             imposed scrutiny; exports were blocked then reinstated
@@ -142,15 +142,15 @@ sections:
             suite unique to Marange has been documented in peer-reviewed gemmological
             literature retrieved from the research database
 
-  - title: Murehwa Chrysoberyl – Citation Note
+  - title: Murehwa Chrysoberyl — Citation Note
     callout:
       type: warning
-      title: CITATION NEEDED – Murehwa Chrysoberyl
+      title: CITATION NEEDED — Murehwa Chrysoberyl
       text: |
         The Murehwa district (Mashonaland East Province) is noted as hosting LCT pegmatites
         carrying chrysoberyl, occasionally of alexandrite quality. However, no peer-reviewed
         gemmological characterisation paper for Murehwa chrysoberyl was retrieved from
-        the research database – this locality is [UNVERIFIED] per VERIFIED.md (D-05).
+        the research database — this locality is [UNVERIFIED] per VERIFIED.md (D-05).
 
         It is noted here for completeness; specific gemmological diagnostics cannot be
         stated without a sourced paper. Colour change is reportedly modest compared
@@ -165,3 +165,64 @@ sources:
     citation: "Stable-isotope tracing of Sandawana emerald fluid mixing genesis (2004). Comptes Rendus Géoscience."
   - doi: "10.3390/min9090561"
     citation: "Karampelas et al. (2019) Emeralds from the Most Important Occurrences. Minerals."
+
+references:
+  - id: zwaan-1997-zimbabwe
+    kind: journal
+    authors:
+      - family: Zwaan
+        given: J.C.
+      - family: Kanis
+        given: J.
+      - family: Petsch
+        given: E.J.
+    title: "Emerald from Zimbabwe"
+    journal: "Gems & Gemology"
+    volume: 33
+    issue: 2
+    pages: "80–103"
+    year: 1997
+    doi: "10.5741/gems.33.2.80"
+
+  - id: zwaan-1998-raman
+    kind: journal
+    authors:
+      - family: Zwaan
+        given: J.C.
+      - family: Burke
+        given: E.A.J.
+    title: "Raman Microspectroscopy of Sandawana Emerald Inclusions"
+    journal: "Journal of Gemmology"
+    volume: 26
+    issue: 3
+    year: 1998
+    doi: "10.15506/jog.1998.26.3.174"
+
+  - id: karampelas-2019-emeralds
+    kind: journal
+    authors:
+      - family: Karampelas
+        given: S.
+      - family: Hauzenberger
+        given: C.
+      - family: Peucat
+        given: J.J.
+      - family: Fritsch
+        given: E.
+    title: "Emeralds from the Most Important Occurrences Worldwide: Chemical Fingerprinting by LA-ICP-MS"
+    journal: "Minerals"
+    volume: 9
+    issue: 9
+    pages: "561"
+    year: 2019
+    doi: "10.3390/min9090561"
+
+  - id: global-witness-marange
+    kind: report
+    authors:
+      - family: "Global Witness"
+    title: "Marange Diamond Fields: Human Rights Concerns and Kimberley Process"
+    publisher: "Global Witness Ltd."
+    year: 2009
+    url: "https://www.globalwitness.org/en/campaigns/conflict-diamonds/marange-diamond-field-zimbabwe/"
+    accessed: "2026-05-12"

@@ -23,7 +23,7 @@ sections:
       premiums due to historical significance, quality associations, or rarity.
 
       Origin is determined through careful analysis of inclusion suites, trace element
-      chemistry, and growth characteristics.
+      chemistry, and growth characteristics. {cite:palke-2019-ruby-origin}{cite:gubelin-photoatlas-v1}
 
   - title: Why Origin Matters
     comparison:
@@ -63,7 +63,7 @@ sections:
           - **LIBS**: Laser-induced breakdown spectroscopy
           - **ED-XRF**: Energy-dispersive X-ray fluorescence
 
-          Ratios of elements like Fe, Ti, Ga, V, and Cr help distinguish origins.
+          Ratios of elements like Fe, Ti, Ga, V, and Cr help distinguish origins. {cite:palke-2019-ruby-origin}{cite:palke-2019-sapphire-origin}{cite:saeseaw-2019-emerald-origin}
 
       - title: Spectroscopic Features
         content: |
@@ -73,18 +73,11 @@ sections:
           - Raman spectroscopy for inclusion identification
 
   - title: Origin Premium Economics
-    table:
-      caption: Approximate Origin Premiums (Fine Quality, Untreated)
-      headers:
-        - Gem
-        - Premium Origin
-        - Premium Range
-      rows:
-        - ["Blue Sapphire", "Kashmir", "+50-100% vs Ceylon"]
-        - ["Blue Sapphire", "Burma (Mogok)", "+20-40% vs Ceylon"]
-        - ["Ruby", "Burma (Mogok)", "+30-100% vs Mozambique"]
-        - ["Emerald", "Colombia", "+20-50% vs Zambia"]
-        - ["Paraíba Tourmaline", "Brazil", "+100-300% vs Mozambique"]
+    content: |
+      Certain origins command substantial premiums over equivalent stones from other
+      sources; the extent varies by quality, treatment status, and market conditions.
+      A fine stone from a less-celebrated origin will always be worth more than a
+      poor stone from a premium locality. Origin alone does not guarantee value.
 
   - title: Premium Variability
     callout:
@@ -102,6 +95,8 @@ sections:
         Origin alone does not guarantee value.
 
   - title: Major Laboratories
+    content: |
+      Leading gemmological laboratories for origin reports: {cite:gubelin-institutional}{cite:ssef-institutional}
     table:
       headers:
         - Laboratory
@@ -117,7 +112,7 @@ sections:
 
   - title: Report Terminology
     content: |
-      Understanding laboratory report language:
+      Understanding laboratory report language: {cite:lmhc-standards}
 
       - **"Consistent with..."**: Inclusions match known characteristics
       - **"Origin undeterminable"**: Insufficient diagnostic features
@@ -133,3 +128,117 @@ sections:
       - New deposits may initially lack reference samples
       - Different labs may reach different conclusions
       - Origin reports represent the laboratory's opinion based on current knowledge
+
+references:
+  - id: palke-2019-ruby-origin
+    kind: journal
+    authors:
+      - family: Palke
+        given: A.C.
+      - family: Renfro
+        given: N.D.
+      - family: Berg
+        given: R.B.
+    title: "Geographic Origin Determination of Ruby"
+    journal: "Gems & Gemology"
+    volume: 55
+    issue: 4
+    pages: "580–612"
+    year: 2019
+    doi: "10.5741/gems.55.4.580"
+    note: "[VERIFIED — Crossref 2026-05-12]"
+
+  - id: palke-2019-sapphire-origin
+    kind: journal
+    authors:
+      - family: Palke
+        given: A.C.
+      - family: Saeseaw
+        given: S.
+      - family: Renfro
+        given: N.D.
+      - family: Sun
+        given: Z.
+      - family: McClure
+        given: S.F.
+    title: "Geographic Origin Determination of Blue Sapphire"
+    journal: "Gems & Gemology"
+    volume: 55
+    issue: 4
+    pages: "536–579"
+    year: 2019
+    doi: "10.5741/gems.55.4.536"
+
+  - id: saeseaw-2019-emerald-origin
+    kind: journal
+    authors:
+      - family: Saeseaw
+        given: S.
+      - family: Renfro
+        given: N.D.
+      - family: Palke
+        given: A.C.
+      - family: Sun
+        given: Z.
+      - family: McClure
+        given: S.F.
+    title: "Geographic Origin Determination of Emerald"
+    journal: "Gems & Gemology"
+    volume: 55
+    issue: 4
+    pages: "614–646"
+    year: 2019
+    doi: "10.5741/gems.55.4.614"
+
+  - id: gubelin-photoatlas-v1
+    kind: book
+    authors:
+      - family: Gübelin
+        given: E.J.
+      - family: Koivula
+        given: J.I.
+    title: "Photoatlas of Inclusions in Gemstones"
+    edition: "1"
+    publisher: "ABC Edition"
+    year: 1986
+    isbn: "978-3-85504-024-2"
+
+  - id: lmhc-standards
+    kind: standard
+    authors:
+      - family: "Laboratory Manual Harmonisation Committee"
+    title: "LMHC Standards and Terminology for the Description of Treatments in Coloured Gemstones"
+    publisher: "LMHC"
+    year: 2010
+    url: "https://www.lmhc-gemmology.org"
+    accessed: "2026-05-12"
+
+  - id: gubelin-institutional
+    kind: web
+    authors:
+      - family: "Gübelin Gem Lab"
+    title: "Gübelin Gem Lab — About"
+    publisher: "Gübelin Gem Lab"
+    year: 2024
+    url: "https://www.gubelingemlab.com"
+    accessed: "2026-05-12"
+
+  - id: ssef-institutional
+    kind: web
+    authors:
+      - family: "SSEF Swiss Gemmological Institute"
+    title: "SSEF Swiss Gemmological Institute — About"
+    publisher: "SSEF"
+    year: 2024
+    url: "https://www.ssef.ch"
+    accessed: "2026-05-12"
+
+  - id: hughes-ruby-sapphire
+    kind: book
+    authors:
+      - family: Hughes
+        given: R.W.
+    title: "Ruby & Sapphire: A Gemologist's Guide"
+    publisher: "Lotus Publishing"
+    year: 2017
+    isbn: "978-0-9645097-6-4"

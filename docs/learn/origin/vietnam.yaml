@@ -1,4 +1,4 @@
-title: Vietnam – Luc Yen Ruby and Cobalt-Blue Spinel
+title: Vietnam — Luc Yen Ruby and Cobalt-Blue Spinel
 description: Marble-hosted ruby and spinel from Luc Yen (Yen Bai) and Quy Chau; low-Fe high-Cr chemistry, cobalt-blue spinel, distinction from Burmese material.
 order: 11
 category: origin
@@ -30,7 +30,7 @@ sections:
       (Nghe An Province) produce ruby and spinel in a geological setting analogous to
       Mogok, Burma: Himalayan-related metamorphism of carbonate-platform sequences yielded
       gem-quality corundum and spinel in marble. Vietnam also hosts the world's leading
-      source of cobalt-blue spinel – a unique and highly prized material.
+      source of cobalt-blue spinel — a unique and highly prized material.
 
   - title: Geological Context
     content: |
@@ -39,7 +39,7 @@ sections:
       - title: Luc Yen District
         content: |
           - Located in Yen Bai Province; the carbonate platforms were subjected to
-            "intense metamorphism during successive orogenies" in the Red River shear zone
+            "intense metamorphism during successive orogenies" in the Red River shear zone {cite:pham-2018-luc-yen}
           - Marble-hosted genesis analogous to Mogok (Burma): gems crystallised in
             metamorphosed limestone during Himalayan-related orogenic events
           - Produces ruby, pink spinel, blue spinel, sapphire, moonstone, and tourmaline
@@ -48,11 +48,11 @@ sections:
         content: |
           - Central Vietnam; Nghe An Province
           - First deposits opened to international buyers after Vietnam's economic
-            reform (doi moi) in 1987
+            reform (doi moi) in 1987 {cite:le-2012-vietnam-update}
           - Marble-hosted ruby; historically the entry point for Vietnamese rubies
             into the international market
 
-  - title: Ruby – Luc Yen and Quy Chau Types
+  - title: Ruby — Luc Yen and Quy Chau Types
     content: |
       Characteristics of Vietnamese marble-hosted ruby:
     subsections:
@@ -61,16 +61,16 @@ sections:
           - Vivid pinkish-red to red; can approach Mogok quality
           - Often lighter and more saturated than Thai basaltic ruby; some with
             slight pinkish or purplish modifiers
-          - Typically lower clarity than Mogok material – much production is cabochon
+          - Typically lower clarity than Mogok material — much production is cabochon
             or star quality
 
       - title: Diagnostic Inclusions
         content: |
           - **Calcite rhombs**: Marble-hosted environment; characteristic of all
             marble-type corundum globally
-          - **Pyrrhotite**: Iron sulfide crystals – highly diagnostic for Luc Yen
+          - **Pyrrhotite**: Iron sulfide crystals — highly diagnostic for Luc Yen
           - **Nordstrandite**: Rare aluminium hydroxide mineral; documented in Luc Yen
-            ruby by Kane et al. (1991) – very unusual in corundum globally
+            ruby by Kane et al. (1991) {cite:kane-1991-vietnam} — very unusual in corundum globally
           - **Bluish colour zones and angular growth features**: Characteristic of
             Vietnamese marble ruby
           - **Fluid inclusions**: CO₂-rich primary inclusions with multi-solid residues;
@@ -78,7 +78,7 @@ sections:
 
       - title: Spectroscopy and Fluorescence
         content: |
-          - **LWUV fluorescence**: Strong red – critical contrast with Thai/Cambodian
+          - **LWUV fluorescence**: Strong red — critical contrast with Thai/Cambodian
             basaltic rubies where iron quenches fluorescence
           - **Low Fe**: Marble-hosted chemistry; typically <300 ppm Fe by LA-ICP-MS
           - **High Cr**: Dominant chromophore; similar principle to Mogok
@@ -90,8 +90,8 @@ sections:
       text: |
         The combination of NORDSTRANDITE (aluminium hydroxide) and PYRRHOTITE (iron
         sulfide) in the inclusion suite, alongside calcite rhombs and strong red LWUV
-        fluorescence, is highly characteristic of Luc Yen ruby origin. Nordstrandite
-        is exceptionally rare as a gemstone inclusion globally.
+        fluorescence, is highly characteristic of Luc Yen ruby origin. {cite:kane-1991-vietnam}
+        Nordstrandite is exceptionally rare as a gemstone inclusion globally.
 
   - title: Distinguishing Vietnam from Burma (Mogok)
     table:
@@ -103,12 +103,12 @@ sections:
         - ["Fe content", "Low (<300 ppm)", "Low (<300 ppm)"]
         - ["LWUV fluorescence", "Strong red", "Strong red"]
         - ["Key inclusions", "Pyrrhotite, nordstrandite, calcite", "Calcite, apatite, sphene, silk"]
-        - ["Ga/Mg ratio", "Relatively higher Ga", "Lower Ga – lab criterion"]
+        - ["Ga/Mg ratio", "Relatively higher Ga", "Lower Ga — lab criterion"]
         - ["Colour zones", "Bluish zones, angular features", "Irregular; treacle swirls"]
         - ["Fluorescence nuance", "Strong red (similar to Mogok)", "Strong red (benchmark)"]
         - ["Lab separation", "LA-ICP-MS Ga/Mg + inclusions", "Reference standard"]
 
-  - title: Spinel – Cobalt-Blue Luc Yen Type
+  - title: Spinel — Cobalt-Blue Luc Yen Type
     content: |
       Vietnam's most celebrated and distinctive gem material:
     subsections:
@@ -117,7 +117,7 @@ sections:
           - Luc Yen is the world's leading source of vivid blue spinel coloured by Co²⁺
           - Co²⁺ substitution is rare in spinel globally; most blue spinel is Fe-coloured
           - Chauviré et al. (2015) established that the blue "is due to cobalt (Co²⁺),
-            with some iron contribution" – a marble metamorphic genesis
+            with some iron contribution" — a marble metamorphic genesis {cite:chauvire-2015-cobalt-spinel}
           - UV-Vis spectroscopy: Cobalt produces three characteristic absorption bands;
             the Co²⁺ spectrum is distinctive from Fe-coloured blue spinel
 
@@ -125,7 +125,7 @@ sections:
         content: |
           - Full colour range: vivid red, pink, orange, lavender, purple
           - Trace element variation within Luc Yen: Cong Troi sub-deposit has low Zn
-            (<500 ppm); An Phu spinels are Zn-rich (up to 11,000 ppm)
+            (<500 ppm); An Phu spinels are Zn-rich (up to 11,000 ppm) {cite:pham-2018-luc-yen}
           - Titanite inclusions and dislocation systems are Luc Yen-specific features
             that differ from Mogok (apatite, calcite, octahedral negative crystals) and
             from Kuh-i-Lal/Tajikistan (different Ti, Ni, Zn, Sn profiles)
@@ -155,3 +155,53 @@ sources:
     citation: "Malsy & Klemm (2010) Distinction of Gem Spinels from the Himalayan Mountain Belt. CHIMIA."
   - doi: "10.1127/ejm/2015/0027-2442"
     citation: "Giuliani et al. (2015) Fluid inclusions in ruby from Asian marble deposits. European Journal of Mineralogy."
+
+references:
+  - id: kane-1991-vietnam
+    kind: journal
+    authors:
+      - family: Kane
+        given: R.E.
+    title: "Rubies and Fancy Sapphires from Vietnam"
+    journal: "Gems & Gemology"
+    volume: 27
+    issue: 3
+    pages: "136–155"
+    year: 1991
+    doi: "10.5741/gems.27.3.136"
+
+  - id: le-2012-vietnam-update
+    kind: journal
+    authors:
+      - family: Le Thi-Thu Huong
+    title: "Gemstones from Vietnam: An Update"
+    journal: "Gems & Gemology"
+    volume: 48
+    issue: 3
+    pages: "158–176"
+    year: 2012
+    doi: "10.5741/gems.48.3.158"
+
+  - id: chauvire-2015-cobalt-spinel
+    kind: journal
+    authors:
+      - family: Chauviré
+        given: B.
+    title: "Blue Spinel from the Luc Yen District of Vietnam"
+    journal: "Gems & Gemology"
+    volume: 51
+    issue: 1
+    pages: "2–17"
+    year: 2015
+    doi: "10.5741/gems.51.1.2"
+
+  - id: pham-2018-luc-yen
+    kind: journal
+    authors:
+      - family: Pham Van Long
+    title: "Trace elements and oxygen isotopes of gem spinels from Luc Yen–An Phu, Vietnam"
+    journal: "Vietnam Journal of Earth Sciences"
+    volume: 40
+    issue: 2
+    year: 2018
+    doi: "10.15625/0866-7187/40/2/12241"

@@ -20,10 +20,10 @@ sections:
     content: |
       Colombia produces the world's finest emeralds, with Muzo, Chivor, and Coscuez
       being the most famous mines. Colombian emeralds are distinguished by their
-      pure green colour and characteristic three-phase inclusions.
+      pure green colour and characteristic three-phase inclusions. {cite:saeseaw-2019-emerald-origin}
 
-      The Colombian emerald trade dates to Spanish colonial times, and the country
-      remains the premier source for top-quality emeralds.
+      The Colombian emerald trade dates to Spanish colonial times, {cite:schmetzer-2020-chivor-history}
+      and the country remains the premier source for top-quality emeralds.
 
   - title: Major Mining Areas
     content: |
@@ -65,8 +65,8 @@ sections:
 
       - title: The Jardín
         content: |
-          Colombian emeralds typically have visible inclusions – the French
-          word "jardín" (garden) describes this internal landscape:
+          Colombian emeralds typically have visible inclusions — the French
+          word "jardín" (garden) describes this internal landscape: {cite:read-3rd}{cite:kammerling-1991-emerald}
 
           - Inclusions more accepted than in other gems
           - "Eye-clean" emeralds command significant premiums
@@ -78,7 +78,7 @@ sections:
       type: info
       title: Diagnostic for Colombia
       text: |
-        The three-phase inclusion is virtually diagnostic for Colombian origin:
+        The three-phase inclusion is virtually diagnostic for Colombian origin: {cite:saeseaw-2019-emerald-origin}{cite:gubelin-photoatlas-v1}
 
         - **Liquid** (brine): Fills the cavity
         - **Gas bubble**: Trapped vapour
@@ -114,6 +114,8 @@ sections:
           - **Degree matters**: Minor vs significant
 
       - title: Treatment Grading
+        content: |
+          The four-level clarity enhancement scale is the LMHC-harmonised standard: {cite:lmhc-standards}{cite:kammerling-1991-emerald}
         table:
           headers:
             - Level
@@ -153,10 +155,100 @@ sections:
 
   - title: Historical Significance
     content: |
-      Colombian emeralds in history:
+      Colombian emeralds in history: {cite:schmetzer-2020-chivor-history}
 
       - **Pre-Columbian**: Revered by indigenous peoples
       - **Spanish Conquest**: 16th century; flooded Europe with emeralds
       - **Mogul Empire**: Treasured in India; carved emeralds
       - **Famous stones**: Many historic emeralds are Colombian
       - **Modern market**: Remains benchmark for quality
+
+references:
+  - id: saeseaw-2019-emerald-origin
+    kind: journal
+    authors:
+      - family: Saeseaw
+        given: S.
+      - family: Renfro
+        given: N.D.
+      - family: Palke
+        given: A.C.
+      - family: Sun
+        given: Z.
+      - family: McClure
+        given: S.F.
+    title: "Geographic Origin Determination of Emerald"
+    journal: "Gems & Gemology"
+    volume: 55
+    issue: 4
+    pages: "614–646"
+    year: 2019
+    doi: "10.5741/gems.55.4.614"
+
+  - id: kammerling-1991-emerald
+    kind: journal
+    authors:
+      - family: Kammerling
+        given: R.C.
+      - family: Koivula
+        given: J.I.
+      - family: Johnson
+        given: M.L.
+    title: "An Update on the Identification of Colombian Emerald Clarity Enhancements"
+    journal: "Gems & Gemology"
+    volume: 27
+    issue: 2
+    pages: "70–85"
+    year: 1991
+    doi: "10.5741/gems.27.2.70"
+
+  - id: schmetzer-2020-chivor-history
+    kind: journal
+    authors:
+      - family: Schmetzer
+        given: K.
+      - family: Martayan
+        given: H.
+      - family: Ortiz
+        given: F.
+    title: "History of the Chivor Emerald Mine and Its Rediscovery in 1904"
+    journal: "Gems & Gemology"
+    volume: 56
+    issue: 1
+    pages: "66–99"
+    year: 2020
+    doi: "10.5741/gems.56.1.66"
+
+  - id: gubelin-photoatlas-v1
+    kind: book
+    authors:
+      - family: Gübelin
+        given: E.J.
+      - family: Koivula
+        given: J.I.
+    title: "Photoatlas of Inclusions in Gemstones"
+    edition: "1"
+    publisher: "ABC Edition"
+    year: 1986
+    isbn: "978-3-85504-024-2"
+
+  - id: lmhc-standards
+    kind: standard
+    authors:
+      - family: "Laboratory Manual Harmonisation Committee"
+    title: "LMHC Standards and Terminology for the Description of Treatments in Coloured Gemstones"
+    publisher: "LMHC"
+    year: 2010
+    url: "https://www.lmhc-gemmology.org"
+    accessed: "2026-05-12"
+
+  - id: read-3rd
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann"
+    year: 2008
+    doi: "10.4324/9780080507224"
