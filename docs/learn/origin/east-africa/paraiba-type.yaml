@@ -118,24 +118,6 @@ sections:
       - **Collector view**: Some prefer Brazilian exclusivity; others value Mozambican quality
       - **Investment**: Brazilian origin retains stronger appreciation potential
 
-references:
-  - id: shigley-2010-gem-localities
-    kind: journal
-    authors:
-      - family: "Shigley"
-        given: "James E."
-      - family: "Kane"
-        given: "Robert E."
-      - family: "Dettman"
-        given: "David L."
-    title: "Gem Localities of the 2000s"
-    journal: "Gems & Gemology"
-    year: 2010
-    volume: 46
-    issue: 3
-    pages: "188–216"
-    doi: "10.5741/gems.46.3.188"
-
   - title: Other East African Gems
     content: |
       Additional notable gem production in the region:
@@ -167,3 +149,21 @@ references:
             - ["Alexandrite", "Tanzania", "Some fine colour-change"]
             - ["Aquamarine", "Mozambique", "Santa Maria type colour"]
             - ["Peridot", "Tanzania", "Commercial production"]
+
+references:
+  - id: shigley-2010-gem-localities
+    kind: journal
+    authors:
+      - family: "Shigley"
+        given: "James E."
+      - family: "Kane"
+        given: "Robert E."
+      - family: "Dettman"
+        given: "David L."
+    title: "Gem Localities of the 2000s"
+    journal: "Gems & Gemology"
+    year: 2010
+    volume: 46
+    issue: 3
+    pages: "188–216"
+    doi: "10.5741/gems.46.3.188"
