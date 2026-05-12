@@ -30,7 +30,7 @@ sections:
     subsections:
       - title: Sapphire
         content: |
-          - **Primary source**: Ilakaka region (since 1998)
+          - **Primary source**: Ilakaka region (since 1998) {cite:palke-2019-sapphire-origin}
           - **Quality**: Commercial to fine; Ceylon-like character
           - **Colours**: Full spectrum including blue, pink, yellow
           - **Volume**: One of world's largest sapphire sources
@@ -50,7 +50,7 @@ sections:
 
       - title: Rare Species
         content: |
-          - **Grandidierite**: World's primary source
+          - **Grandidierite**: World's primary source {cite:schumann-2009-gemstones}
           - **Demantoid**: Green garnet; some horsetails
           - **Tourmaline**: Including some Paraiba-type
 
@@ -98,3 +98,32 @@ sections:
       - **Value position**: Competitive pricing
       - **Gap filler**: Replaces declining traditional sources
       - **Rare gems**: Primary source for several species
+
+references:
+  - id: palke-2019-sapphire-origin
+    kind: article
+    authors:
+      - family: "Palke"
+        given: "Aaron C."
+      - family: "Renfro"
+        given: "Nathan"
+      - family: "Berg"
+        given: "Robert B."
+    title: "Geographic Origin Determination of Blue Sapphire"
+    journal: "Gems & Gemology"
+    year: 2019
+    volume: 55
+    issue: 4
+    pages: "536–579"
+    doi: "10.5741/gems.55.4.536"
+
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "Walter"
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling Publishing"
+    year: 2009
+    isbn: "978-1-4027-6829-3"

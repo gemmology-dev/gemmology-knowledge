@@ -30,7 +30,7 @@ sections:
     subsections:
       - title: Characteristics
         content: |
-          - Fine quality blue material
+          - Fine quality blue material {cite:schumann-2009-gemstones}
           - Comparable to Brazilian aquamarine
           - Clean crystals available
           - Growing market presence
@@ -53,7 +53,7 @@ sections:
     content: |
       Enhancement considerations:
 
-      - **Heat treatment**: Common; removes green modifier
+      - **Heat treatment**: Common; removes green modifier {cite:read-2014-gemmology}
       - **Purpose**: Produces purer blue colour
       - **Detection**: Difficult to detect
       - **Disclosure**: Variable in trade
@@ -74,7 +74,7 @@ sections:
         content: |
           - Pale pink to medium pink
           - Some peachy-pink material
-          - Heat treatment improves colour
+          - Heat treatment improves colour {cite:read-2014-gemmology}
           - Removes orange/yellow component
 
       - title: Market
@@ -136,3 +136,26 @@ sections:
       - **Emerald**: Niche; collector interest
       - **Value**: Generally competitive pricing
       - **Quality**: Can match Brazilian material
+
+references:
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "Peter G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann"
+    year: 2014
+    doi: "10.4324/9780080507224"
+
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "Walter"
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling Publishing"
+    year: 2009
+    isbn: "978-1-4027-6829-3"

@@ -29,7 +29,7 @@ sections:
     subsections:
       - title: Discovery & Source
         content: |
-          - **First identified**: 1902 in Madagascar
+          - **First identified**: 1902 in Madagascar {cite:schumann-2009-gemstones}
           - **Gem quality**: Only recently available (2000s)
           - **Primary source**: World's main supplier
           - **Rarity**: Among rarer collector gems
@@ -80,7 +80,7 @@ sections:
 
       - title: Horsetail Inclusions
         content: |
-          - Chrysotile fiber inclusions
+          - Chrysotile fiber inclusions {cite:kissin-2021-horsetail}
           - Diagnostic for demantoid
           - Adds value when present
           - Not all Madagascar material has them
@@ -153,3 +153,32 @@ sections:
       - **Quality potential**: Fine material in many species
       - **Discovery ongoing**: New finds continue
       - **Value**: Often excellent for quality received
+
+references:
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "Walter"
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling Publishing"
+    year: 2009
+    isbn: "978-1-4027-6829-3"
+
+  - id: kissin-2021-horsetail
+    kind: article
+    authors:
+      - family: "Kissin"
+        given: "Alexander Yu."
+      - family: "Murzin"
+        given: "Valery V."
+      - family: "Karaseva"
+        given: "Olga V."
+    title: "'Horsetail' Inclusions in the Ural Demantoids: Growth Formations, Not Chrysotile"
+    journal: "Minerals"
+    year: 2021
+    volume: 11
+    issue: 8
+    pages: "825"
+    doi: "10.3390/min11080825"
