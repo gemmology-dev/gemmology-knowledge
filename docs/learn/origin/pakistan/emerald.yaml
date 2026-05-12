@@ -1,4 +1,4 @@
-title: Swat Valley Emerald – Pakistan
+title: Swat Valley Emerald — Pakistan
 description: Ophiolite-hosted Cr-rich emerald from Mingora, Swat Valley; three-phase fluid inclusions, chromian muscovite, low Li chemistry, talc-carbonate paragenesis.
 order: 2
 category: origin
@@ -33,7 +33,7 @@ sections:
     content: |
       Swat Valley emerald genesis:
     subsections:
-      - title: Host Rock – Ophiolite Belt
+      - title: Host Rock — Ophiolite Belt
         content: |
           - Hosted in carbonatised ultramafic rocks (ophiolite belt) of the Indus suture
             zone, in the Mingora area of Swat Valley
@@ -49,8 +49,8 @@ sections:
             interaction with the peridotite/serpentinite country rock
           - Arif and Moon (2007) documented chromian muscovite and tourmaline in
             emerald-bearing quartz veins: the muscovite shows "high Mg/Fe ratios (4–9)
-            and variable Ni" – geochemical evidence linking Cr directly to the ophiolitic
-            ultramafic host
+            and variable Ni" — geochemical evidence linking Cr directly to the ophiolitic
+            ultramafic host {cite:arif-moon-2007-muscovite}
 
   - title: Properties and Appearance
     content: |
@@ -71,9 +71,9 @@ sections:
     subsections:
       - title: Fluid Inclusions
         content: |
-          - **Three-phase fluid inclusions**: Liquid + gas + solid phases – documented
+          - **Three-phase fluid inclusions**: Liquid + gas + solid phases — documented
             for the first time in Swat emeralds by Guo et al. (2020); diagnostic for
-            the high-salinity, high-temperature ophiolitic hydrothermal system
+            the high-salinity, high-temperature ophiolitic hydrothermal system {cite:guo-2020-swat-emerald}
 
       - title: Mineral Inclusions
         content: |
@@ -91,7 +91,7 @@ sections:
       - title: Shared Low-Li Signature
         content: |
           - **Li < 200 ppmw** (lithium content): Shared with Colombian and Afghan emerald;
-            distinguishes from high-Li Zambian, Zimbabwe, and Ethiopian material
+            distinguishes from high-Li Zambian, Zimbabwe, and Ethiopian material {cite:saeseaw-2019-emerald-origin}
           - The low-Li signature reflects a sediment/ophiolite geological heritage
             rather than granitic pegmatite host
 
@@ -111,7 +111,7 @@ sections:
       title: Talc-Carbonate (Ophiolite-Belt) Type
       text: |
         Swat Valley emerald belongs to the "talc-carbonate" or "ophiolite-hosted" deposit
-        type – distinct from:
+        type — distinct from:
 
         - SCHIST-BELT type (Zambia, Zimbabwe, Russia, Ethiopia): schist host at
           granite-ultramafic contact
@@ -131,3 +131,52 @@ sources:
     citation: "Karampelas et al. (2019) Emeralds from the Most Important Occurrences: Chemical and Spectroscopic Data. Minerals."
   - doi: "10.5741/gems.55.4.614"
     citation: "Saeseaw et al. (2019) Geographic Origin Determination of Emerald. Gems & Gemology."
+
+references:
+  - id: guo-2020-swat-emerald
+    kind: article
+    authors:
+      - family: "Guo"
+        given: "Yan"
+      - family: "Renfro"
+        given: "Nathan D."
+      - family: "Sanchez-Garrido"
+        given: "Cristian"
+    title: "Inclusion and Trace Element Characteristics of Emeralds from Swat Valley, Pakistan"
+    journal: "Gems & Gemology"
+    year: 2020
+    volume: 56
+    issue: 3
+    pages: "336–359"
+    doi: "10.5741/gems.56.3.336"
+
+  - id: arif-moon-2007-muscovite
+    kind: article
+    authors:
+      - family: "Arif"
+        given: "Mohammad"
+      - family: "Moon"
+        given: "Charles J."
+    title: "Nickel-rich chromian muscovite from the Indus suture ophiolite, NW Pakistan"
+    journal: "Geochemical Journal"
+    year: 2007
+    volume: 41
+    pages: "475–482"
+    doi: "10.2343/geochemj.41.475"
+
+  - id: saeseaw-2019-emerald-origin
+    kind: article
+    authors:
+      - family: "Saeseaw"
+        given: "Sudarat"
+      - family: "Renfro"
+        given: "Nathan D."
+      - family: "Palke"
+        given: "Aaron C."
+    title: "Geographic Origin Determination of Emerald"
+    journal: "Gems & Gemology"
+    year: 2019
+    volume: 55
+    issue: 4
+    pages: "614–646"
+    doi: "10.5741/gems.55.4.614"
