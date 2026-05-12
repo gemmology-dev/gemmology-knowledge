@@ -4,6 +4,163 @@ order: 11
 category: care
 difficulty: beginner
 icon: shield
+
+references:
+  - id: read-3rd
+    kind: book
+    authors:
+      - family: Read
+        given: P.
+    title: "Gemmology"
+    edition: 3rd
+    publisher: Butterworth-Heinemann
+    year: 2012
+    isbn: "9780750664493"
+    doi: "10.4324/9780080507224"
+
+  - id: kammerling-1991
+    kind: journal
+    authors:
+      - family: Kammerling
+        given: R.C.
+      - family: Koivula
+        given: J.I.
+      - family: Kane
+        given: R.E.
+      - family: Maddison
+        given: E.H.
+      - family: Shigley
+        given: J.E.
+      - family: Fritsch
+        given: E.
+    title: "Fracture Filling of Emeralds: Opticon and Traditional \"Oils\""
+    journal: "Gems & Gemology"
+    volume: 27
+    issue: 2
+    pages: "70–85"
+    year: 1991
+    doi: "10.5741/gems.27.2.70"
+
+  - id: nassau-1994-emerald
+    kind: journal
+    authors:
+      - family: Nassau
+        given: K.
+    title: "More on the antiquity of emerald oiling"
+    journal: "The Journal of Gemmology"
+    volume: 24
+    issue: 2
+    pages: "109–115"
+    year: 1994
+    doi: "10.15506/jog.1994.24.2.109"
+
+  - id: johnson-1999-emerald
+    kind: journal
+    authors:
+      - family: Johnson
+        given: M.L.
+      - family: Elen
+        given: S.
+      - family: Muhlmeister
+        given: S.
+    title: "On the Identification of Various Emerald Filling Substances"
+    journal: "Gems & Gemology"
+    volume: 35
+    issue: 2
+    pages: "82–107"
+    year: 1999
+    doi: "10.5741/gems.35.2.82"
+
+  - id: nassau-1987-sapphire
+    kind: journal
+    authors:
+      - family: Nassau
+        given: K.
+      - family: Valente
+        given: G.K.
+    title: "The Seven Types of Yellow Sapphire and their Stability to Light"
+    journal: "Gems & Gemology"
+    volume: 23
+    issue: 4
+    pages: "222–231"
+    year: 1987
+    doi: "10.5741/gems.23.4.222"
+
+  - id: nassau-1981-amethyst
+    kind: journal
+    authors:
+      - family: Nassau
+        given: K.
+    title: "Artificially Induced Color in Amethyst-Citrine Quartz"
+    journal: "Gems & Gemology"
+    volume: 17
+    issue: 1
+    pages: "37–44"
+    year: 1981
+    doi: "10.5741/gems.17.1.37"
+
+  - id: banerjee-1999-opal
+    kind: journal
+    authors:
+      - family: Banerjee
+        given: A.
+      - family: Wenzel
+        given: T.
+    title: "Black opal from Honduras"
+    journal: "European Journal of Mineralogy"
+    volume: 11
+    issue: 2
+    pages: "401–408"
+    year: 1999
+    doi: "10.1127/ejm/11/2/0401"
+
+  - id: herrmann-2022-crazing
+    kind: journal
+    authors:
+      - family: Herrmann
+        given: J.
+    title: "On the Origin of 'Crazing' (Cracking) in Opal"
+    journal: "SSRN Electronic Journal"
+    year: 2022
+    doi: "10.2139/ssrn.4241788"
+
+  - id: newton-1965-zoisite
+    kind: journal
+    authors:
+      - family: Newton
+        given: R.C.
+    title: "The Thermal Stability of Zoisite"
+    journal: "The Journal of Geology"
+    volume: 73
+    issue: 3
+    year: 1965
+    doi: "10.1086/627075"
+
+  - id: reller-1993-jade
+    kind: journal
+    authors:
+      - family: Reller
+        given: A.
+      - family: Wilde
+        given: W.
+      - family: Wiedemann
+        given: H.G.
+    title: "Thermal reactivity of jadeite and nephrite"
+    journal: "Journal of Thermal Analysis"
+    volume: 40
+    year: 1993
+    doi: "10.1007/bf02546559"
+
+  - id: mason-1999-ultrasonic
+    kind: book
+    authors:
+      - family: Mason
+        given: T.J.
+    title: "Sonochemistry"
+    publisher: Oxford University Press
+    year: 1999
+    doi: "10.1093/hesc/9780198503712.003.0002"
+
 related:
   - fundamentals/physical-properties
   - identification/treatments
@@ -55,7 +212,7 @@ sections:
     content: |
       The Mohs scale is ordinal, not linear – the jump from 9 to 10 is enormous. Household
       dust contains quartz particles (H 7), so gems below 7 will gradually accumulate
-      scratches during normal wear.
+      scratches during normal wear. {cite:read-3rd}
     table:
       caption: Hardness Categories for Jewellery
       headers:
@@ -94,7 +251,7 @@ sections:
           Some gems have exceptional toughness despite moderate hardness:
 
           - **Nephrite jade** (H 6-6.5): Interlocking fibrous structure
-          - **Jadeite** (H 6.5-7): Granular interlocking structure
+          - **Jadeite** (H 6.5-7): Granular interlocking structure {cite:reller-1993-jade}
           - **Chalcedony** (H 7): Microcrystalline aggregate
 
           These gems resist chipping better than single-crystal gems of higher hardness.
@@ -111,8 +268,8 @@ sections:
             - Risk
             - Notes
           rows:
-            - ["Kunzite", "High", "Fades significantly; store in dark"]
-            - ["Amethyst", "Moderate", "Can fade with prolonged exposure"]
+            - ["Kunzite", "High", "Fades significantly; store in dark {cite:nassau-1987-sapphire}"]
+            - ["Amethyst", "Moderate", "Can fade with prolonged exposure {cite:nassau-1981-amethyst}"]
             - ["Rose quartz", "Low to moderate", "May fade slightly"]
             - ["Brown topaz", "High", "Natural brown fades; irradiated stable"]
             - ["Chrysoprase", "Moderate", "Can fade and dry out"]
@@ -168,7 +325,7 @@ sections:
         content: |
           Ultrasonic cleaners use vibration to remove dirt but can cause damage to:
 
-          - **Filled gems**: Can remove or damage fillers (emerald, ruby)
+          - **Filled gems**: Can remove or damage fillers (emerald, ruby) {cite:kammerling-1991}
           - **Gems with cleavage**: Vibration can propagate fractures
           - **Fragile inclusions**: Can cause expansion/damage
           - **Organic gems**: Can damage pearl nacre, amber
@@ -178,7 +335,7 @@ sections:
         content: |
           Steam cleaning combines heat and moisture, dangerous for:
 
-          - **Oiled emeralds**: Heat can remove oil
+          - **Oiled emeralds**: Heat can remove oil {cite:kammerling-1991}
           - **Heat-sensitive gems**: Thermal shock risk
           - **Filled gems**: Heat damages many fillers
           - **Opal**: Rapid temperature change causes crazing
@@ -300,7 +457,7 @@ sections:
     subsections:
       - title: Opal
         content: |
-          Opal contains 3-21% water and is prone to "crazing" (network of fine cracks):
+          Opal contains 3-21% water and is prone to "crazing" (network of fine cracks) {cite:banerjee-1999-opal}{cite:herrmann-2022-crazing}:
 
           - Avoid rapid temperature changes
           - Store with damp cotton (not wet)
@@ -320,17 +477,17 @@ sections:
 
       - title: Emerald
         content: |
-          Nearly all emeralds are oiled to improve apparent clarity:
+          Nearly all emeralds are oiled to improve apparent clarity {cite:kammerling-1991}{cite:nassau-1994-emerald}:
 
           - Oil can dry out or exude over time
           - Avoid ultrasonic and steam cleaning
           - Avoid heat (jeweller's torch is dangerous)
-          - May need periodic re-oiling
+          - May need periodic re-oiling {cite:johnson-1999-emerald}
           - Store away from heat sources
 
       - title: Tanzanite
         content: |
-          Tanzanite has perfect cleavage and is heat-sensitive:
+          Tanzanite has perfect cleavage and is heat-sensitive {cite:newton-1965-zoisite}:
 
           - Extremely vulnerable during setting (cleavage)
           - Never use ultrasonic or steam

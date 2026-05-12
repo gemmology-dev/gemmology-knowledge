@@ -4,6 +4,70 @@ order: 4
 category: market
 difficulty: advanced
 icon: scale
+
+references:
+  - id: ftc-jewelry-guides-2018
+    kind: standard
+    authors:
+      - family: "Federal Trade Commission"
+    title: "Guides for the Jewelry, Precious Metals, and Pewter Industries"
+    publisher: "US Federal Trade Commission"
+    year: 2018
+    url: "https://www.ftc.gov/legal-library/browse/rules/guides-jewelry-precious-metals-pewter-industries"
+    accessed: "2026-05-11"
+
+  - id: cibjo-gemstone-book-2020
+    kind: standard
+    authors:
+      - family: "CIBJO"
+    title: "The Gemstone Book: CIBJO Blue Book"
+    publisher: "World Jewellery Confederation (CIBJO)"
+    year: 2020
+    url: "https://cibjo.org/download/cibjo-standards/"
+    accessed: "2026-05-11"
+
+  - id: ica-treatment-disclosure
+    kind: standard
+    authors:
+      - family: "International Colored Gemstone Association"
+    title: "ICA Treatment Disclosure Policy"
+    publisher: "International Colored Gemstone Association"
+    year: 2015
+    url: "https://www.gemstone.org/trade-ethics"
+    accessed: "2026-05-11"
+
+  - id: mcclure-2006-glass-ruby
+    kind: journal
+    authors:
+      - family: McClure
+        given: S.F.
+      - family: Smith
+        given: C.P.
+      - family: Wang
+        given: W.
+      - family: Hall
+        given: M.
+    title: "Identification and Durability of Lead Glass–Filled Rubies"
+    journal: "Gems & Gemology"
+    volume: 42
+    issue: 1
+    pages: "22–34"
+    year: 2006
+    doi: "10.5741/gems.42.1.22"
+
+  - id: delaunay-2024-ftir-sapphire
+    kind: journal
+    authors:
+      - family: Delaunay
+        given: A.
+    title: "A new FTIR absorption band for identifying heat-treated metamorphic-type blue sapphires"
+    journal: "Journal of Gemmology"
+    volume: 39
+    issue: 1
+    pages: "33–46"
+    year: 2024
+    doi: "10.15506/jog.2024.39.1.33"
+
 related:
   - market/grading-valuation
   - market/professional-practice
@@ -57,21 +121,21 @@ sections:
     subsections:
       - title: CIBJO Blue Books
         content: |
-          - **Organisation**: World Jewellery Confederation
+          - **Organisation**: World Jewellery Confederation {cite:cibjo-gemstone-book-2020}
           - **Standards**: Comprehensive treatment disclosure rules
           - **Acceptance**: Widely adopted industry standard
           - **Updates**: Regularly revised for new treatments
 
       - title: ICA Guidelines
         content: |
-          - **Organisation**: International Colored Gemstone Association
+          - **Organisation**: International Colored Gemstone Association {cite:ica-treatment-disclosure}
           - **Focus**: Coloured stone specific standards
           - **Coverage**: Treatment types and disclosure levels
           - **Enforcement**: Member adherence expected
 
       - title: FTC Guidelines (US)
         content: |
-          - **Authority**: Federal Trade Commission
+          - **Authority**: Federal Trade Commission {cite:ftc-jewelry-guides-2018}
           - **Scope**: Consumer protection law
           - **Requirement**: Material facts must be disclosed
           - **Enforcement**: Legal penalties possible
@@ -88,7 +152,7 @@ sections:
           rows:
             - ["Heat treatment", "Alters natural characteristics; affects value"]
             - ["Fracture filling (emerald)", "May be unstable; affects care/value"]
-            - ["Lead glass filling (ruby)", "Significant durability concerns"]
+            - ["Lead glass filling (ruby)", "Significant durability concerns {cite:mcclure-2006-glass-ruby}"]
             - ["Diffusion treatment", "Colour may be surface-only"]
             - ["Irradiation", "Colour artificially induced"]
             - ["Coating", "Temporary; affects care"]
@@ -235,7 +299,7 @@ sections:
     subsections:
       - title: Synthetics
         content: |
-          - **Must be disclosed**: Always, prominently
+          - **Must be disclosed**: Always, prominently {cite:ftc-jewelry-guides-2018}
           - **Terminology**: "Lab-grown," "synthetic," "created"
           - **Never acceptable**: Selling synthetic as natural
           - **Penalties**: Fraud; legal consequences
@@ -279,7 +343,7 @@ sections:
       - title: New Treatment Detection
         content: |
           - Treatments may precede detection methods
-          - Low-temperature heat increasingly undetectable
+          - Low-temperature heat increasingly undetectable {cite:delaunay-2024-ftir-sapphire}
           - Need for ongoing research
           - Lab capability variations
 

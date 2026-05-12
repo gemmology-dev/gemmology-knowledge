@@ -4,6 +4,50 @@ order: 3
 category: fundamentals
 difficulty: intermediate
 icon: flask
+
+references:
+  - id: nassau-2001-color
+    kind: book
+    authors:
+      - family: Nassau
+        given: K.
+    title: "The Physics and Chemistry of Color: The Fifteen Mechanisms"
+    edition: 2nd
+    publisher: Wiley-Interscience
+    year: 2001
+    isbn: 978-0-471-39106-7
+
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: Gemmology
+    edition: 3rd
+    publisher: Routledge
+    year: 2014
+    doi: 10.4324/9780080507224
+
+  - id: dubinsky-2020-corundum
+    kind: journal
+    authors:
+      - family: Dubinsky
+        given: E.V.
+    title: "A Quantitative Description of the Causes of Color in Corundum"
+    journal: Gems & Gemology
+    volume: 56
+    issue: 1
+    year: 2020
+    doi: 10.5741/gems.56.1.2
+
+  - id: gem-a-fp-notes
+    kind: standard
+    authors:
+      - family: Gem-A
+    title: Foundation Programme Course Notes
+    publisher: Gemmological Association of Great Britain
+    year: 2023
+
 related:
   - fundamentals/optical-properties
   - fundamentals/crystal-systems
@@ -79,7 +123,7 @@ sections:
           - **Tsavorite**: Green grossular garnet
 
           Chromium typically produces red in oxide minerals and green in silicates,
-          though the host mineral structure affects the exact colour.
+          though the host mineral structure affects the exact colour. {cite:nassau-2001-color}{cite:read-2014-gemmology}
 
       - title: Iron (Fe²⁺ and Fe³⁺)
         content: |
@@ -144,7 +188,7 @@ sections:
           - Neither alone would produce blue
 
           This mechanism explains why blue sapphire shows characteristic three-band
-          absorption spectrum at 450, 460, 470 nm.
+          absorption spectrum at 450, 460, 470 nm. {cite:dubinsky-2020-corundum}
 
       - title: Fe²⁺ → Fe³⁺ Intervalence Charge Transfer
         content: |
@@ -217,7 +261,7 @@ sections:
         - Diagnostic Notes
       rows:
         - ["Chrysoberyl", "Fe", "Band centred at 444 nm", "Distinguishes yellow/greenish/brown chrysoberyl from sapphire; useful for cat's eyes in settings"]
-        - ["Alexandrite", "Cr", "Lines in red; broad band in yellow-green", "Pleochroic variation visible – spectrum shifts between daylight and tungsten light"]
+        - ["Alexandrite", "Cr", "Lines in red; broad band in yellow-green", "Pleochroic variation visible — spectrum shifts between daylight and tungsten light"]
         - ["Synthetic colour-change sapphire", "V + Cr", "Sharp fine line at 475 nm", "Diagnostic for vanadium in corundum; line may be faint"]
         - ["Jadeite (pale specimens)", "Fe", "Fine line at 437 nm", "Seen in pale specimens of various colours; green stones may also show Cr lines in red"]
         - ["Dyed jadeite", "Fe + Cr-dye", "Weak band(s) in red + 437 nm line", "Chromium-green dye gives additional band(s) in red; diagnostic for dye detection"]
@@ -230,6 +274,7 @@ sections:
       Chemical formulas help understand gem composition and elemental substitutions.
     subsections:
       - title: Major Gem Species
+        citations: [read-2014-gemmology]
         table:
           headers:
             - Gem
@@ -280,7 +325,7 @@ sections:
       electrons can move throughout the crystal structure at a higher energy level than
       those bound within atomic orbitals. The gap between the atom-bound "valence band"
       electrons and the wandering "conduction band" electrons is the electron energy band
-      gap – a "forbidden" zone whose width greatly influences optical properties.
+      gap — a "forbidden" zone whose width greatly influences optical properties.
     subsections:
       - title: Three Material Types
         content: |
@@ -289,7 +334,7 @@ sections:
           1. **Large band gap** (wider than visible light range): Even violet light cannot
              excite electrons across the gap. No visible light is absorbed, so the material
              appears transparent and colourless when pure. Most gemstones fall into this
-             category – pure diamond, corundum, quartz, and topaz.
+             category — pure diamond, corundum, quartz, and topaz.
 
           2. **Small band gap** (narrower than red light energy): All visible light interacts
              with electrons and is absorbed, making the material opaque.
@@ -312,7 +357,7 @@ sections:
           extending into lower-energy visible light. Higher-energy blue and violet light is
           transmitted, producing blue colour. Because the boron level is close to the valence
           band, electrons can be thermally excited at room temperature, leaving "holes" that
-          allow electrical current – boron-containing diamonds conduct electricity.
+          allow electrical current — boron-containing diamonds conduct electricity. {cite:nassau-2001-color}
 
   - title: Physical Optics Colour
     content: |
@@ -332,6 +377,7 @@ sections:
           The play-of-colour in precious opal is caused by diffraction of light by regularly
           stacked three-dimensional groups of silica spheres. These spheres are only a few
           hundred nanometres in diameter, with gaps of similar size to visible light wavelengths.
+          {cite:nassau-2001-color}
 
           The actual colours seen depend on the size of the spheres:
           - Large spheres: full range of colours from violet to red (most desirable)
@@ -344,14 +390,14 @@ sections:
           thin films, layers of differing composition, or thin-film cavities such as cracks.
           When two reflected rays travel in the same direction and their wave peaks coincide
           ("in phase"), they reinforce each other. When peak meets trough ("out of phase"),
-          they cancel – this is interference.
+          they cancel — this is interference.
 
           Examples in gemmology:
           - **Labradorite**: iridescent colours from interference at thin compositional layers
           - **Pearl nacre**: lustre from diffraction at overlapping platy aragonite crystals
             combined with interference from thin nacre layers
           - **Crack iridescence**: colours from thin films of air in cracks (as in topaz,
-            glass, or quartz) – similar to oil films on water
+            glass, or quartz) — similar to oil films on water
 
       - title: Scattering
         content: |
@@ -363,7 +409,7 @@ sections:
           where scattering is caused by submicroscopic particles of albite feldspar.
 
           As particles get larger, other colours such as red and green may be seen at certain
-          angles. Larger particles still produce a whitish effect called opalescence – seen in
+          angles. Larger particles still produce a whitish effect called opalescence — seen in
           materials such as common opal and milky quartz. This should not be confused with the
           play-of-colour effect in precious opal.
 

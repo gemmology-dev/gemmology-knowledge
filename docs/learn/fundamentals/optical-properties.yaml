@@ -4,6 +4,53 @@ order: 3
 category: fundamentals
 difficulty: intermediate
 icon: eye
+
+references:
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: Gemmology
+    edition: 3rd
+    publisher: Routledge
+    year: 2014
+    doi: 10.4324/9780080507224
+
+  - id: schumann-2013-gemstones
+    kind: book
+    authors:
+      - family: Schumann
+        given: W.
+    title: Gemstones of the World
+    edition: 5th
+    publisher: Sterling Publishing
+    year: 2013
+    isbn: 978-1-4027-6829-3
+
+  - id: nassau-2001-color
+    kind: book
+    authors:
+      - family: Nassau
+        given: K.
+    title: "The Physics and Chemistry of Color: The Fifteen Mechanisms"
+    edition: 2nd
+    publisher: Wiley-Interscience
+    year: 2001
+    isbn: 978-0-471-39106-7
+
+  - id: dubinsky-2020-corundum
+    kind: journal
+    authors:
+      - family: Dubinsky
+        given: E.V.
+    title: "A Quantitative Description of the Causes of Color in Corundum"
+    journal: Gems & Gemology
+    volume: 56
+    issue: 1
+    year: 2020
+    doi: 10.5741/gems.56.1.2
+
 related:
   - fundamentals/crystal-systems
   - fundamentals/physical-properties
@@ -32,6 +79,7 @@ sections:
       alternative methods.
     table:
       caption: Optical Properties of Common Gem Materials
+      citations: [read-2014-gemmology, schumann-2013-gemstones]
       headers:
         - Material
         - RI
@@ -148,6 +196,7 @@ sections:
       Dispersion is the separation of white light into spectral colours ("fire").
       It's measured as the difference in RI between red (B) and violet (G) wavelengths.
     table:
+      citations: [read-2014-gemmology]
       headers:
         - Gemstone
         - Dispersion (B-G)
@@ -166,10 +215,10 @@ sections:
       Viewed through a spectroscope, absorption bands appear as dark lines or bands.
 
       **Diagnostic Spectra:**
-      - **Ruby**: Lines at 694nm (doublet), 668nm, 659nm
+      - **Ruby**: Lines at 694nm (doublet), 668nm, 659nm {cite:nassau-2001-color}
       - **Emerald**: Line at 683nm (Cr), bands in red/yellow
-      - **Blue sapphire**: Bands at 450nm, 460nm, 470nm
-      - **Almandine garnet**: Bands at 505nm, 520nm, 575nm
+      - **Blue sapphire**: Bands at 450nm, 460nm, 470nm {cite:dubinsky-2020-corundum}
+      - **Almandine garnet**: Bands at 505nm, 520nm, 575nm {cite:read-2014-gemmology}
       - **Zircon**: Fine lines throughout spectrum (uranium)
 
   - title: Practice with Interactive Tools
