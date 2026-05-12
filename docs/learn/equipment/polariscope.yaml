@@ -14,6 +14,32 @@ tags:
   - birefringence
   - interference-figures
 
+references:
+  - id: nassau-2001-color
+    kind: book
+    authors: [{family: Nassau, given: Kurt}]
+    title: "The Physics and Chemistry of Color"
+    publisher: Wiley
+    year: 2001
+    edition: 2
+    isbn: "978-0-471-39106-7"
+  - id: read-2014-gemmology
+    kind: book
+    authors: [{family: Read, given: Peter}]
+    title: Gemmology
+    publisher: Butterworth-Heinemann
+    year: 2014
+    edition: 3
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-08-050722-4"
+  - id: anderson-1990-gem-testing
+    kind: book
+    authors: [{family: Anderson, given: B.W.}]
+    title: "Gem Testing"
+    publisher: Butterworth-Heinemann
+    year: 1990
+    edition: 10
+
 sections:
   - title: Introduction
     content: |
@@ -38,8 +64,8 @@ sections:
       - title: Crossed Polars Position
         content: |
           When the polariser and analyser are at 90° to each other, light cannot
-          pass through – the field appears dark. This is the "crossed polars" position
-          used for most tests.
+          pass through—the field appears dark. This is the "crossed polars" position
+          used for most tests. {cite:nassau-2001-color}
 
           When aligned parallel, maximum light passes through (bright field).
 
@@ -68,7 +94,7 @@ sections:
 
           - **Tabby extinction**: Cross-hatched or patchy pattern
           - **Roiled effect**: Swirling patterns
-          - **Partial extinction**: Some areas dark, others light
+          - **Partial extinction**: Some areas dark, others light {cite:read-2014-gemmology}
 
       - title: Gems Showing ADR
         table:
@@ -115,7 +141,7 @@ sections:
           - **Centred optic axis**: Cross stays stationary during rotation
           - **Off-centre**: Cross arms sweep through field
 
-          The cross indicates viewing down or near the optic axis.
+          The cross indicates viewing down or near the optic axis. {cite:anderson-1990-gem-testing}
 
       - title: Biaxial Figure
         content: |

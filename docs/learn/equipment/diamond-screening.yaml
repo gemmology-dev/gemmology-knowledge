@@ -17,6 +17,45 @@ tags:
   - simulants
   - identification
 
+references:
+  - id: henn-2021-moissanite
+    kind: article
+    authors: [{family: Henn, given: U.}]
+    title: "Synthetic Moissanite Testing as 'Diamond' Using Diamond Testers"
+    journal: Journal of Gemmology
+    volume: 37
+    issue: 8
+    pages: "778–779"
+    year: 2021
+    doi: "10.15506/jog.2021.37.8.778"
+  - id: breeding-2009-diamond-type
+    kind: article
+    authors: [{family: Breeding, given: C. Maxwell}, {family: Shigley, given: James E.}]
+    title: "The 'Type' Classification System of Diamonds and Its Importance in Gemology"
+    journal: Gems & Gemology
+    volume: 45
+    issue: 2
+    pages: "96–111"
+    year: 2009
+    doi: "10.5741/gems.45.2.96"
+  - id: willems-2011-cvd
+    kind: article
+    authors: [{family: Willems, given: B.}, {family: Tallaire, given: A.}, {family: Barjon, given: J.}]
+    title: "Exploring the Origin and Nature of Luminescent Regions in CVD Synthetic Diamond"
+    journal: Gems & Gemology
+    volume: 47
+    issue: 3
+    pages: "202–207"
+    year: 2011
+    doi: "10.5741/gems.47.3.202"
+  - id: anderson-1990-gem-testing
+    kind: book
+    authors: [{family: Anderson, given: B.W.}]
+    title: "Gem Testing"
+    publisher: Butterworth-Heinemann
+    year: 1990
+    edition: 10
+
 sections:
   - title: Introduction
     content: |
@@ -55,7 +94,7 @@ sections:
 
           Henn (2021) reported that synthetic moissanite testing as "diamond" using standard
           diamond testers is a well-documented problem: Journal of Gemmology 37(8), 778–779
-          (DOI: 10.15506/jog.2021.37.8.778) [VERIFIED].
+          (DOI: 10.15506/jog.2021.37.8.778) [VERIFIED]. {cite:henn-2021-moissanite}
 
           Speich et al. (2022) reported a synthetic moissanite with diamond-level reflectivity that
           also defeated thermal testers, reinforcing the need for the dual electrical test:
@@ -116,7 +155,7 @@ sections:
 
           Willems et al. (2011) describe luminescent regions in CVD diamond directly observable
           under DiamondView conditions: Gems & Gemology 47(3), 202–207
-          (DOI: 10.5741/gems.47.3.202) [VERIFIED].
+          (DOI: 10.5741/gems.47.3.202) [VERIFIED]. {cite:willems-2011-cvd}
 
           Wang (2007) reported on latest-generation CVD-grown synthetic diamonds and their
           fluorescence character: Gems & Gemology 43(4), 294
@@ -156,7 +195,7 @@ sections:
 
       Note: the DiamondSure screening principle and its use of the 415 nm line are documented in
       Gem-A Diploma materials and in peer-reviewed papers (Breeding & Shigley 2009, DOI:
-      10.5741/gems.45.2.96 [VERIFIED]); specific instrument documentation is proprietary.
+      10.5741/gems.45.2.96 [VERIFIED]). {cite:breeding-2009-diamond-type} Specific instrument documentation is proprietary.
 
   - title: Reflectance Meter (Reflectivity Meter)
     content: |

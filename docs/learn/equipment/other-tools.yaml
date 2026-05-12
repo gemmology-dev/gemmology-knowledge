@@ -14,6 +14,34 @@ tags:
   - specific-gravity
   - identification
 
+references:
+  - id: read-2014-gemmology
+    kind: book
+    authors: [{family: Read, given: Peter}]
+    title: Gemmology
+    publisher: Butterworth-Heinemann
+    year: 2014
+    edition: 3
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-08-050722-4"
+  - id: anderson-1990-gem-testing
+    kind: book
+    authors: [{family: Anderson, given: B.W.}]
+    title: "Gem Testing"
+    publisher: Butterworth-Heinemann
+    year: 1990
+    edition: 10
+  - id: henn-2021-moissanite
+    kind: article
+    authors: [{family: Henn, given: U.}]
+    title: "Synthetic Moissanite Testing as 'Diamond' Using Diamond Testers"
+    journal: Journal of Gemmology
+    volume: 37
+    issue: 8
+    pages: "778–779"
+    year: 2021
+    doi: "10.15506/jog.2021.37.8.778"
+
 sections:
   - title: Introduction
     content: |
@@ -119,7 +147,7 @@ sections:
 
           **Solution**: Dual testers that measure both thermal and electrical
           conductivity. Moissanite is electrically conductive; diamond is not
-          (except rare Type IIb blue diamonds).
+          (except rare Type IIb blue diamonds). {cite:henn-2021-moissanite}
 
   - title: Thermal Tester Types
     table:
@@ -144,7 +172,7 @@ sections:
 
           1. Weigh stone in air (W₁)
           2. Weigh stone suspended in water (W₂)
-          3. Calculate: SG = W₁ / (W₁ - W₂)
+          3. Calculate: SG = W₁ / (W₁ - W₂) {cite:read-2014-gemmology}
 
           Requires a precision balance with suspension setup.
 
@@ -190,7 +218,7 @@ sections:
       Heavy liquids allow quick sorting of gems by density. A gem floats if its SG
       is lower than the liquid's SG, and sinks if higher.
     subsections:
-      - title: Common Heavy Liquids
+      - title: Common Heavy Liquids {cite:anderson-1990-gem-testing}
         table:
           caption: Heavy Liquids Used in Gemmology
           headers:

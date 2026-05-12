@@ -14,6 +14,32 @@ tags:
   - colour
   - identification
 
+references:
+  - id: read-2014-gemmology
+    kind: book
+    authors: [{family: Read, given: Peter}]
+    title: Gemmology
+    publisher: Butterworth-Heinemann
+    year: 2014
+    edition: 3
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-08-050722-4"
+  - id: anderson-1990-gem-testing
+    kind: book
+    authors: [{family: Anderson, given: B.W.}]
+    title: "Gem Testing"
+    publisher: Butterworth-Heinemann
+    year: 1990
+    edition: 10
+  - id: nassau-2001-color
+    kind: book
+    authors: [{family: Nassau, given: Kurt}]
+    title: "The Physics and Chemistry of Color"
+    publisher: Wiley
+    year: 2001
+    edition: 2
+    isbn: "978-0-471-39106-7"
+
 sections:
   - title: Introduction
     content: |
@@ -21,8 +47,8 @@ sections:
       It's essential for identifying coloured anisotropic gems and can help distinguish
       natural from synthetic materials.
 
-      Pleochroism – the property of showing different colours in different crystallographic
-      directions – is diagnostic for many coloured gemstones.
+      Pleochroism—the property of showing different colours in different crystallographic
+      directions—is diagnostic for many coloured gemstones. {cite:read-2014-gemmology}
 
   - title: Types of Dichroscope
     content: |
@@ -35,7 +61,7 @@ sections:
           - **More accurate**: Clear separation of colours
           - **Traditional choice**: Preferred by professionals
           - **Higher cost**: More expensive than polaroid type
-          - **Fragile**: Calcite can cleave if dropped
+          - **Fragile**: Calcite can cleave if dropped {cite:anderson-1990-gem-testing}
 
       - title: Polaroid Dichroscope
         content: |
@@ -110,10 +136,10 @@ sections:
         - ["Ruby", "Trigonal", "Strong", "O-ray: purplish red / E-ray: orange-red", "Best seen in thick stones"]
         - ["Blue sapphire", "Trigonal", "Strong", "O-ray: deep blue / E-ray: greenish-blue", "Varies with saturation"]
         - ["Emerald", "Hexagonal", "Distinct", "O-ray: blue-green / E-ray: yellow-green", "More visible in darker stones"]
-        - ["Tanzanite", "Orthorhombic", "Very strong", "α: blue / β: violet / γ: purple-red", "Trichroic – heat treated shows 2 colours"]
+        - ["Tanzanite", "Orthorhombic", "Very strong", "α: blue / β: violet / γ: purple-red", "Trichroic — heat treated shows 2 colours"]
         - ["Alexandrite", "Orthorhombic", "Very strong", "α: green / β: orange / γ: red-purple", "Colour change + strong pleochroism"]
         - ["Andalusite", "Orthorhombic", "Very strong", "α: yellow-green / β: brown-green / γ: red-brown", "Distinctive multicolour effect"]
-        - ["Iolite", "Orthorhombic", "Very strong", "α: violet-blue / β: blue / γ: pale yellow", "Water sapphire – dramatic colours"]
+        - ["Iolite", "Orthorhombic", "Very strong", "α: violet-blue / β: blue / γ: pale yellow", "Water sapphire — dramatic colours"]
         - ["Kunzite", "Monoclinic", "Distinct", "α: colourless / β: pink / γ: violet", "Fades in light over time"]
         - ["Tourmaline (green)", "Trigonal", "Strong", "O-ray: dark green / E-ray: light green", "Best viewed down c-axis"]
         - ["Tourmaline (pink)", "Trigonal", "Strong", "O-ray: dark pink / E-ray: light pink", "Orientation important for cutting"]
@@ -136,7 +162,7 @@ sections:
         **Biaxial gems** (orthorhombic, monoclinic, triclinic systems) show trichroism:
         - **α (alpha)**: Fastest ray direction (lowest RI)
         - **β (beta)**: Intermediate ray direction
-        - **γ (gamma)**: Slowest ray direction (highest RI)
+        - **γ (gamma)**: Slowest ray direction (highest RI) {cite:nassau-2001-color}
 
   - title: Try the Interactive Tool
     callout:

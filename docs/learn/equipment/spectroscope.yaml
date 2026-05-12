@@ -15,6 +15,46 @@ tags:
   - chromophores
   - identification
 
+references:
+  - id: fritsch-1987-chromophores
+    kind: article
+    authors: [{family: Fritsch, given: E.}, {family: Rossman, given: G.R.}]
+    title: "An Update on Color in Gems. Part 1"
+    journal: Gems & Gemology
+    volume: 23
+    issue: 3
+    pages: "126–139"
+    year: 1987
+    doi: "10.5741/gems.23.3.126"
+  - id: breeding-2009-diamond-type
+    kind: article
+    authors: [{family: Breeding, given: C. Maxwell}, {family: Shigley, given: James E.}]
+    title: "The 'Type' Classification System of Diamonds and Its Importance in Gemology"
+    journal: Gems & Gemology
+    volume: 45
+    issue: 2
+    pages: "96–111"
+    year: 2009
+    doi: "10.5741/gems.45.2.96"
+  - id: karampelas-2019-tanzanite
+    kind: article
+    authors: [{family: Karampelas, given: S.}]
+    title: "Gem-quality minerals: a review"
+    journal: Minerals
+    volume: 9
+    issue: 9
+    year: 2019
+    doi: "10.3390/min9090561"
+  - id: read-2014-gemmology
+    kind: book
+    authors: [{family: Read, given: Peter}]
+    title: Gemmology
+    publisher: Butterworth-Heinemann
+    year: 2014
+    edition: 3
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-08-050722-4"
+
 sections:
   - title: Introduction
     content: |
@@ -180,71 +220,71 @@ sections:
       - Some gem species show no diagnostic spectrum
       - Laboratory spectrometers provide more detailed analysis
 
-  - title: Named Absorption Spectra – Foundation Tier
+  - title: Named Absorption Spectra — Foundation Tier
     content: |
       The twelve species below form the core absorption-spectrum vocabulary for the FGA Foundation
       examination. Each spectrum must be recognisable by principal line(s) and overall pattern.
 
       **Note on wavelength values:** Several nm values in this table are sourced from Read,
       P. G. (ed.), *Gemmology* (commonly referenced as "Read 7th ed.", Butterworth-Heinemann), which
-      is the standard Gem-A teaching textbook. These values are [PARTIALLY_SUPPORTED]; the
+      is the standard Gem-A teaching textbook. These values are [PARTIALLY_SUPPORTED] — the
       chromophore assignments and general spectral patterns are confirmed by peer-reviewed
-      DOI-verified sources (Fritsch & Rossman 1987, DOI: 10.5741/gems.23.3.126; Dubinsky et al.
-      2020, DOI: 10.5741/gems.56.1.2; Breeding & Shigley 2009, DOI: 10.5741/gems.45.2.96;
-      Karampelas et al. 2019, DOI: 10.3390/min9090561; Balciūnaite et al. 2021,
+      DOI-verified sources (Fritsch & Rossman 1987, DOI: 10.5741/gems.23.3.126 {cite:fritsch-1987-chromophores}; Dubinsky et al.
+      2020, DOI: 10.5741/gems.56.1.2; Breeding & Shigley 2009, DOI: 10.5741/gems.45.2.96 {cite:breeding-2009-diamond-type};
+      Karampelas et al. 2019, DOI: 10.3390/min9090561 {cite:karampelas-2019-tanzanite}; Balciūnaite et al. 2021,
       DOI: 10.6001/chemija.v32i3-4.4549; Phillips & Talantsev 1996, DOI: 10.5741/gems.32.2.100),
       but the precise nm values for some secondary lines derive from the textbook and are not
       independently verifiable via abstract APIs.
     table:
-      caption: Foundation Tier – 12 Core Absorption Spectra
+      caption: Foundation Tier — 12 Core Absorption Spectra
       headers:
         - Species
         - Principal Lines (nm)
         - Chromophore
         - Diagnostic Strength
       rows:
-        - ["Ruby (natural + Verneuil)", "692.8 + 694.2 doublet; 668, 659; broad ~550 absorption; 468; UV cutoff ~400", "Cr³⁺", "Highest – doublet + luminescent glow in red light"]
-        - ["Emerald (natural)", "683 + 680 doublet; 662, 646; broad ~580–630; blue-violet absorption; 477 (some stones)", "Cr³⁺ (± Fe³⁺ in Fe-rich stones)", "High – doublet diagnostic; Fe bands vary by origin"]
-        - ["Blue sapphire", "450 strong narrow; 460, 470 weaker; broad Fe²⁺–Ti⁴⁺ CT absorption", "Fe³⁺ + Fe²⁺–Ti⁴⁺ charge transfer", "High – 450 nm line in virtually all blue sapphire"]
-        - ["Almandine garnet", "504, 520, 573 broad bands; weaker 423, 461, 610, 680, 690", "Fe²⁺", "Highest – three-band pattern virtually diagnostic"]
-        - ["Pyrope garnet", "504, 520, 573 (Fe²⁺); chromiferous: broad ~575 + 685–687 (Cr³⁺)", "Fe²⁺ ± Cr³⁺", "Moderate – Fe bands shared with almandine"]
-        - ["Spessartine garnet", "410, 421, 432 strong (Mn²⁺); violet edge cutoff", "Mn²⁺", "Highest – Mn triplet unique to spessartine"]
-        - ["Demantoid garnet", "~440 nm cutoff (Fe³⁺); Russian type: 618, 634, 685, 701 (Cr³⁺)", "Fe³⁺ ± Cr³⁺", "High – 440 cutoff separates from green idocrase"]
-        - ["Peridot", "493, 473, 453 three evenly spaced bands (Fe²⁺)", "Fe²⁺", "Highest – three-iron-band pattern essentially diagnostic"]
-        - ["Zircon (high / Sri Lanka type)", "653.5 principal; 691, 662, 660, 621, 615, 589, 562, 537, 516, 484, 460 fine lines", "U⁴⁺", "Highest – picket-fence multi-line pattern unmistakeable"]
-        - ["Diamond (Cape series / Type Ia)", "415.5 (N3 centre); 478 (N2); 465, 451, 435, 423, 401 weaker vibronic series", "Nitrogen aggregate (N3, N2 defect centres)", "High – 415.5 nm canonical Cape yellow marker"]
-        - ["Red spinel (natural)", "656, 665, 685 narrow Cr³⁺ lines; broad ~540 absorption", "Cr³⁺", "High – organ pipe triplet separates from ruby (694 nm doublet)"]
-        - ["Zircon (low / metamict)", "653.5 diffuse or absent; featureless or very broad", "U⁴⁺ (amorphised lattice)", "Low – contrast with high zircon confirms metamict character"]
+        - ["Ruby (natural + Verneuil)", "692.8 + 694.2 doublet; 668, 659; broad ~550 absorption; 468; UV cutoff ~400", "Cr³⁺", "Highest — doublet + luminescent glow in red light"]
+        - ["Emerald (natural)", "683 + 680 doublet; 662, 646; broad ~580–630; blue-violet absorption; 477 (some stones)", "Cr³⁺ (± Fe³⁺ in Fe-rich stones)", "High — doublet diagnostic; Fe bands vary by origin"]
+        - ["Blue sapphire", "450 strong narrow; 460, 470 weaker; broad Fe²⁺–Ti⁴⁺ CT absorption", "Fe³⁺ + Fe²⁺–Ti⁴⁺ charge transfer", "High — 450 nm line in virtually all blue sapphire"]
+        - ["Almandine garnet", "504, 520, 573 broad bands; weaker 423, 461, 610, 680, 690", "Fe²⁺", "Highest — three-band pattern virtually diagnostic"]
+        - ["Pyrope garnet", "504, 520, 573 (Fe²⁺); chromiferous: broad ~575 + 685–687 (Cr³⁺)", "Fe²⁺ ± Cr³⁺", "Moderate — Fe bands shared with almandine"]
+        - ["Spessartine garnet", "410, 421, 432 strong (Mn²⁺); violet edge cutoff", "Mn²⁺", "Highest — Mn triplet unique to spessartine"]
+        - ["Demantoid garnet", "~440 nm cutoff (Fe³⁺); Russian type: 618, 634, 685, 701 (Cr³⁺)", "Fe³⁺ ± Cr³⁺", "High — 440 cutoff separates from green idocrase"]
+        - ["Peridot", "493, 473, 453 three evenly spaced bands (Fe²⁺)", "Fe²⁺", "Highest — three-iron-band pattern essentially diagnostic"]
+        - ["Zircon (high / Sri Lanka type)", "653.5 principal; 691, 662, 660, 621, 615, 589, 562, 537, 516, 484, 460 fine lines", "U⁴⁺", "Highest — picket-fence multi-line pattern unmistakeable"]
+        - ["Diamond (Cape series / Type Ia)", "415.5 (N3 centre); 478 (N2); 465, 451, 435, 423, 401 weaker vibronic series", "Nitrogen aggregate (N3, N2 defect centres)", "High — 415.5 nm canonical Cape yellow marker {cite:breeding-2009-diamond-type}"]
+        - ["Red spinel (natural)", "656, 665, 685 narrow Cr³⁺ lines; broad ~540 absorption", "Cr³⁺", "High — organ pipe triplet separates from ruby (694 nm doublet)"]
+        - ["Zircon (low / metamict)", "653.5 diffuse or absent; featureless or very broad", "U⁴⁺ (amorphised lattice)", "Low — contrast with high zircon confirms metamict character"]
 
-  - title: Named Absorption Spectra – Diploma Extension Tier
+  - title: Named Absorption Spectra — Diploma Extension Tier
     content: |
       The sixteen species below extend the Foundation spectra list to Diploma level, covering
       additional corundum varieties, tourmalines, secondary garnets, and selected rare species.
       The same note on textbook-sourced nm values applies (see Foundation tier heading above).
     table:
-      caption: Diploma Tier – 16 Extended Absorption Spectra
+      caption: Diploma Tier — 16 Extended Absorption Spectra
       headers:
         - Species
         - Principal Lines (nm)
         - Chromophore
         - Diagnostic Strength
       rows:
-        - ["Alexandrite (chrysoberyl)", "680.5 + 678.5 doublet; 655, 645; broad ~580 (colour-change band); broad ~420–450", "Cr³⁺", "High – doublet shifted from ruby (694 nm) and emerald (683 nm)"]
-        - ["Yellow sapphire", "450 (Fe³⁺, if present); broad tailing into violet; often absent in pale stones", "Fe³⁺ ± colour centre", "Low–moderate – spectrum often very weak; RI/SG primary"]
-        - ["Green sapphire", "471, 460, 450 (Fe²⁺/Fe³⁺)", "Fe²⁺ + Fe³⁺", "Moderate – modified blue sapphire pattern"]
-        - ["Padparadscha sapphire", "450 (Fe³⁺); broad violet colour-centre absorption", "Fe³⁺ + colour centre", "Low – combination not uniquely diagnostic; colour description primary"]
-        - ["Colombian vs Zambian emerald", "Colombia: Cr doublet 683/680, Fe bands weak/absent; Zambia: same doublet + stronger Fe absorption + possible 477 nm line", "Cr³⁺ ± Fe³⁺", "Moderate – Fe-band presence/absence aids origin discrimination; not conclusive alone"]
-        - ["Tsavorite garnet (chrome grossular)", "Broad ~630 (V³⁺/Cr³⁺); broad ~450; weak 433 (Mn²⁺ if present)", "V³⁺ ± Cr³⁺ ± Mn²⁺", "Moderate – no single sharp diagnostic line; RI/SG more reliable"]
-        - ["Rhodolite garnet (pyrope-almandine)", "504, 520, 573 (Fe²⁺); Cr³⁺ shoulder ~680–687 if chromiferous", "Fe²⁺ ± Cr³⁺", "Moderate – identical to almandine/pyrope; SG/RI differentiate"]
-        - ["Indicolite tourmaline", "Broad ~720 (Fe²⁺ d-d); broad UV cutoff 300–400 (O²⁻–Fe³⁺ CT)", "Fe²⁺ + Fe²⁺–Fe³⁺ IVCT", "Moderate – gradual cutoff, no sharp lines; contrast with blue sapphire 450 nm line"]
-        - ["Rubellite tourmaline", "Broad ~520 (Mn³⁺); no sharp lines", "Mn³⁺", "Moderate – broad green absorption; no lines (contrast with red spinel organ pipe)"]
-        - ["Chrome tourmaline", "~680 (Cr³⁺); broad green/blue absorption", "Cr³⁺", "Moderate–high – Cr line position less sharp than ruby or emerald"]
-        - ["Aquamarine (blue beryl)", "537, 456, 427 (Fe²⁺ + Fe³⁺); often weak", "Fe²⁺ + Fe³⁺", "Low–moderate – spectrum frequently faint in pale stones"]
-        - ["Tanzanite (heat-treated blue zoisite)", "Broad ~450–460 (V³⁺ along α-axis); broad ~520 (V³⁺)", "V³⁺ ± Ti³⁺/⁴⁺", "Moderate – broad V band; trichroism is stronger diagnostic indicator"]
-        - ["Jadeite", "437 narrow (Fe³⁺, most jadeite); imperial green: broad ~630–650 + ~690 (Cr³⁺)", "Fe³⁺ ± Cr³⁺", "Moderate – 437 nm separates from nephrite (which lacks this line)"]
-        - ["Chrome diopside", "Broad ~670 (Cr³⁺); ~690 narrow-moderate Cr R-lines", "Cr³⁺", "Moderate – broad 670 band similar to but distinguishable from ruby and demantoid"]
-        - ["Sphene (titanite)", "~580–585 doublet (Nd³⁺ + Pr³⁺ REE); additional sharp REE lines", "Nd³⁺, Pr³⁺ (rare earth)", "Moderate – didymium REE pattern + extraordinary dispersion makes misidentification unlikely"]
-        - ["Synthetic emerald (flux, e.g. Chatham) vs natural", "Cr doublet 683/680 present; Fe-related bands (477 nm, blue-violet) absent or very weak", "Cr³⁺ (Fe absent)", "Moderate – Fe-band absence supports synthetic; also consistent with Fe-poor Colombian natural; microscopy required for confirmation"]
+        - ["Alexandrite (chrysoberyl)", "680.5 + 678.5 doublet; 655, 645; broad ~580 (colour-change band); broad ~420–450", "Cr³⁺", "High — doublet shifted from ruby (694 nm) and emerald (683 nm)"]
+        - ["Yellow sapphire", "450 (Fe³⁺, if present); broad tailing into violet; often absent in pale stones", "Fe³⁺ ± colour centre", "Low–moderate — spectrum often very weak; RI/SG primary"]
+        - ["Green sapphire", "471, 460, 450 (Fe²⁺/Fe³⁺)", "Fe²⁺ + Fe³⁺", "Moderate — modified blue sapphire pattern"]
+        - ["Padparadscha sapphire", "450 (Fe³⁺); broad violet colour-centre absorption", "Fe³⁺ + colour centre", "Low — combination not uniquely diagnostic; colour description primary"]
+        - ["Colombian vs Zambian emerald", "Colombia: Cr doublet 683/680, Fe bands weak/absent; Zambia: same doublet + stronger Fe absorption + possible 477 nm line", "Cr³⁺ ± Fe³⁺", "Moderate — Fe-band presence/absence aids origin discrimination; not conclusive alone"]
+        - ["Tsavorite garnet (chrome grossular)", "Broad ~630 (V³⁺/Cr³⁺); broad ~450; weak 433 (Mn²⁺ if present)", "V³⁺ ± Cr³⁺ ± Mn²⁺", "Moderate — no single sharp diagnostic line; RI/SG more reliable"]
+        - ["Rhodolite garnet (pyrope-almandine)", "504, 520, 573 (Fe²⁺); Cr³⁺ shoulder ~680–687 if chromiferous", "Fe²⁺ ± Cr³⁺", "Moderate — identical to almandine/pyrope; SG/RI differentiate"]
+        - ["Indicolite tourmaline", "Broad ~720 (Fe²⁺ d-d); broad UV cutoff 300–400 (O²⁻–Fe³⁺ CT)", "Fe²⁺ + Fe²⁺–Fe³⁺ IVCT", "Moderate — gradual cutoff, no sharp lines; contrast with blue sapphire 450 nm line"]
+        - ["Rubellite tourmaline", "Broad ~520 (Mn³⁺); no sharp lines", "Mn³⁺", "Moderate — broad green absorption; no lines (contrast with red spinel organ pipe)"]
+        - ["Chrome tourmaline", "~680 (Cr³⁺); broad green/blue absorption", "Cr³⁺", "Moderate–high — Cr line position less sharp than ruby or emerald"]
+        - ["Aquamarine (blue beryl)", "537, 456, 427 (Fe²⁺ + Fe³⁺); often weak", "Fe²⁺ + Fe³⁺", "Low–moderate — spectrum frequently faint in pale stones"]
+        - ["Tanzanite (heat-treated blue zoisite)", "Broad ~450–460 (V³⁺ along α-axis); broad ~520 (V³⁺)", "V³⁺ ± Ti³⁺/⁴⁺", "Moderate — broad V band; trichroism is stronger diagnostic indicator"]
+        - ["Jadeite", "437 narrow (Fe³⁺, most jadeite); imperial green: broad ~630–650 + ~690 (Cr³⁺)", "Fe³⁺ ± Cr³⁺", "Moderate — 437 nm separates from nephrite (which lacks this line)"]
+        - ["Chrome diopside", "Broad ~670 (Cr³⁺); ~690 narrow-moderate Cr R-lines", "Cr³⁺", "Moderate — broad 670 band similar to but distinguishable from ruby and demantoid"]
+        - ["Sphene (titanite)", "~580–585 doublet (Nd³⁺ + Pr³⁺ REE); additional sharp REE lines", "Nd³⁺, Pr³⁺ (rare earth)", "Moderate — didymium REE pattern + extraordinary dispersion makes misidentification unlikely"]
+        - ["Synthetic emerald (flux, e.g. Chatham) vs natural", "Cr doublet 683/680 present; Fe-related bands (477 nm, blue-violet) absent or very weak", "Cr³⁺ (Fe absent)", "Moderate — Fe-band absence supports synthetic; also consistent with Fe-poor Colombian natural; microscopy required for confirmation"]
 
   - title: Try the Interactive Tool
     callout:
