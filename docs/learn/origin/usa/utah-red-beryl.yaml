@@ -129,7 +129,7 @@ sources:
 
 references:
   - id: shigley-foord-1984-red-beryl
-    kind: article
+    kind: journal
     authors:
       - family: "Shigley"
         given: "James E."

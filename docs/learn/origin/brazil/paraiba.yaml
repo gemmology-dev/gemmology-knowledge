@@ -146,7 +146,7 @@ references:
     isbn: "978-1-4027-6829-3"
 
   - id: shigley-2010-gem-localities
-    kind: article
+    kind: journal
     authors:
       - family: "Shigley"
         given: "James E."

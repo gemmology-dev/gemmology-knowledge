@@ -129,7 +129,7 @@ sources:
 
 references:
   - id: laskovenkov-1995-ural-emerald
-    kind: article
+    kind: journal
     authors:
       - family: "Laskovenkov"
         given: "A. F."
@@ -144,7 +144,7 @@ references:
     doi: "10.5741/gems.31.2.106"
 
   - id: karampelas-2019-emerald-chemistry
-    kind: article
+    kind: journal
     authors:
       - family: "Karampelas"
         given: "Stefanos"
@@ -161,7 +161,7 @@ references:
     doi: "10.3390/min9090561"
 
   - id: saeseaw-2019-emerald-origin
-    kind: article
+    kind: journal
     authors:
       - family: "Saeseaw"
         given: "Sudarat"

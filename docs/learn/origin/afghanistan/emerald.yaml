@@ -132,7 +132,7 @@ sources:
 
 references:
   - id: karampelas-2019-emerald-chemistry
-    kind: article
+    kind: journal
     authors:
       - family: "Karampelas"
         given: "Stefanos"
@@ -149,7 +149,7 @@ references:
     doi: "10.3390/min9090561"
 
   - id: saeseaw-2019-emerald-origin
-    kind: article
+    kind: journal
     authors:
       - family: "Saeseaw"
         given: "Sudarat"
@@ -166,7 +166,7 @@ references:
     doi: "10.5741/gems.55.4.614"
 
   - id: bowersox-1991-panjshir
-    kind: article
+    kind: journal
     authors:
       - family: "Bowersox"
         given: "Gary W."

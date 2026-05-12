@@ -106,7 +106,7 @@ sources:
 
 references:
   - id: gubelin-1986-pink-topaz
-    kind: article
+    kind: journal
     authors:
       - family: "Gübelin"
         given: "Eduard J."
@@ -123,7 +123,7 @@ references:
     doi: "10.5741/gems.22.3.140"
 
   - id: spengler-1985-katlang
-    kind: article
+    kind: journal
     authors:
       - family: "Spengler"
         given: "R. W."

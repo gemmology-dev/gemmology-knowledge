@@ -17,7 +17,7 @@ tags:
 
 references:
   - id: farrimond-1994-sg
-    kind: article
+    kind: journal
     authors: [{family: Farrimond, given: T.}]
     title: "Hydrostatic measurement of specific gravity"
     journal: Journal of Gemmology
@@ -27,7 +27,7 @@ references:
     year: 1994
     doi: "10.15506/jog.1994.24.3.161"
   - id: munsterman-1996-spt
-    kind: article
+    kind: journal
     authors: [{family: Munsterman, given: D.}, {family: Kerstholt, given: S.}]
     title: "Sodium polytungstate, a new non-toxic alternative to bromoform in heavy liquid separation"
     journal: Review of Palaeobotany and Palynology

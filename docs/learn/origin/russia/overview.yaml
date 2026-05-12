@@ -107,7 +107,7 @@ sources:
 
 references:
   - id: shigley-2010-gem-localities
-    kind: article
+    kind: journal
     authors:
       - family: "Shigley"
         given: "James E."

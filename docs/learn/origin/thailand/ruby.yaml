@@ -158,7 +158,7 @@ sources:
 
 references:
   - id: palke-2019-ruby-origin
-    kind: article
+    kind: journal
     authors:
       - family: "Palke"
         given: "Aaron C."
@@ -175,7 +175,7 @@ references:
     doi: "10.5741/gems.55.4.580"
 
   - id: shor-weldon-2009-ruby-sapphire
-    kind: article
+    kind: journal
     authors:
       - family: "Shor"
         given: "Russell"
@@ -190,7 +190,7 @@ references:
     doi: "10.5741/gems.45.4.236"
 
   - id: promwongnan-2019-bo-welu
-    kind: article
+    kind: journal
     authors:
       - family: "Promwongnan"
         given: "Siriwan"

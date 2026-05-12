@@ -32,7 +32,7 @@ references:
     year: 1990
     edition: 10
   - id: sturman-1997-seven-patterns
-    kind: article
+    kind: journal
     authors: [{family: Sturman, given: B.D.}]
     title: "The Seven Patterns"
     journal: Journal of Gemmology

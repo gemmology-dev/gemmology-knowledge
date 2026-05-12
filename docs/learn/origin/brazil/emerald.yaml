@@ -145,7 +145,7 @@ references:
     isbn: "978-1-4027-6829-3"
 
   - id: saeseaw-2019-emerald-origin
-    kind: article
+    kind: journal
     authors:
       - family: "Saeseaw"
         given: "Sudarat"

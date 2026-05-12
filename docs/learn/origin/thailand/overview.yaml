@@ -123,7 +123,7 @@ sources:
 
 references:
   - id: keller-1982-chanthaburi
-    kind: article
+    kind: journal
     authors:
       - family: "Keller"
         given: "Peter C."
@@ -136,7 +136,7 @@ references:
     doi: "10.5741/gems.18.4.186"
 
   - id: shor-weldon-2009-ruby-sapphire
-    kind: article
+    kind: journal
     authors:
       - family: "Shor"
         given: "Russell"

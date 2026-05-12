@@ -16,7 +16,7 @@ tags:
 
 references:
   - id: ccf-1949-jog
-    kind: article
+    kind: journal
     authors: []
     title: "Chelsea Colour Filter"
     journal: Journal of Gemmology
@@ -26,7 +26,7 @@ references:
     year: 1949
     doi: "10.15506/jog.1949.2.2.62"
   - id: anderson-1966-ccf
-    kind: article
+    kind: journal
     authors: [{family: Anderson, given: B.W.}]
     title: "Chromium as a Criterion for Emerald"
     journal: Journal of Gemmology
@@ -36,7 +36,7 @@ references:
     year: 1966
     doi: "10.15506/jog.1966.10.2.41"
   - id: bexfield-2020-ccf-sapphire
-    kind: article
+    kind: journal
     authors: [{family: Bexfield, given: C.D.}]
     title: "Cobalt Glass-Filled Sapphires and the Chelsea Colour Filter: A New Technique"
     journal: Journal of Gemmology

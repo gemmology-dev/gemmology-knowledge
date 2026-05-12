@@ -131,7 +131,7 @@ sources:
 
 references:
   - id: renfro-2018-yogo
-    kind: article
+    kind: journal
     authors:
       - family: "Renfro"
         given: "Nathan D."
@@ -148,7 +148,7 @@ references:
     doi: "10.5741/gems.54.2.184"
 
   - id: palke-2018-yogo-origin
-    kind: article
+    kind: journal
     authors:
       - family: "Palke"
         given: "Aaron C."
@@ -162,7 +162,7 @@ references:
     doi: "10.2138/am-2018-6164"
 
   - id: krebs-2020-sapphire-origin
-    kind: article
+    kind: journal
     authors:
       - family: "Krebs"
         given: "Margaret Y."

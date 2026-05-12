@@ -32,7 +32,7 @@ references:
     year: 1990
     edition: 10
   - id: henn-2021-moissanite
-    kind: article
+    kind: journal
     authors: [{family: Henn, given: U.}]
     title: "Synthetic Moissanite Testing as 'Diamond' Using Diamond Testers"
     journal: Journal of Gemmology

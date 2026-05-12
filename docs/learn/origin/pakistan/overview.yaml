@@ -105,7 +105,7 @@ sources:
 
 references:
   - id: arif-moon-2007-muscovite
-    kind: article
+    kind: journal
     authors:
       - family: "Arif"
         given: "Mohammad"

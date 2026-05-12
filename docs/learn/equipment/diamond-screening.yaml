@@ -19,7 +19,7 @@ tags:
 
 references:
   - id: henn-2021-moissanite
-    kind: article
+    kind: journal
     authors: [{family: Henn, given: U.}]
     title: "Synthetic Moissanite Testing as 'Diamond' Using Diamond Testers"
     journal: Journal of Gemmology
@@ -29,7 +29,7 @@ references:
     year: 2021
     doi: "10.15506/jog.2021.37.8.778"
   - id: breeding-2009-diamond-type
-    kind: article
+    kind: journal
     authors: [{family: Breeding, given: C. Maxwell}, {family: Shigley, given: James E.}]
     title: "The 'Type' Classification System of Diamonds and Its Importance in Gemology"
     journal: Gems & Gemology
@@ -39,7 +39,7 @@ references:
     year: 2009
     doi: "10.5741/gems.45.2.96"
   - id: willems-2011-cvd
-    kind: article
+    kind: journal
     authors: [{family: Willems, given: B.}, {family: Tallaire, given: A.}, {family: Barjon, given: J.}]
     title: "Exploring the Origin and Nature of Luminescent Regions in CVD Synthetic Diamond"
     journal: Gems & Gemology

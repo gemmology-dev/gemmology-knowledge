@@ -17,7 +17,7 @@ tags:
 
 references:
   - id: sturman-2010-optic-sign
-    kind: article
+    kind: journal
     authors: [{family: Sturman, given: B.D.}, {family: Parker, given: D.}]
     title: "Use of the polarizing filter on the refractometer in determinations of the optic sign or optic character of a gemstone"
     journal: Journal of Gemmology
@@ -27,7 +27,7 @@ references:
     year: 2010
     doi: "10.15506/jog.2010.32.1-4.90"
   - id: sturman-2007-2v
-    kind: article
+    kind: journal
     authors: [{family: Sturman, given: B.D.}]
     title: "Determination of the optic axial angle in biaxial gemstones and its use in gemmology"
     journal: Journal of Gemmology
