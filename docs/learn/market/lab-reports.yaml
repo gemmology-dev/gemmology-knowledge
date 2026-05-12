@@ -4,6 +4,136 @@ order: 3
 category: market
 difficulty: advanced
 icon: scale
+
+references:
+  - id: gia-history-institutional
+    kind: web
+    authors:
+      - family: "Gemological Institute of America"
+    title: "About GIA: History"
+    publisher: "Gemological Institute of America"
+    year: 1931
+    url: "https://www.gia.edu/about-GIA/history"
+    accessed: "2026-05-11"
+
+  - id: gubelin-photoatlas-v1
+    kind: book
+    authors:
+      - family: Gübelin
+        given: E.J.
+      - family: Koivula
+        given: J.I.
+    title: "Photoatlas of Inclusions in Gemstones"
+    edition: "1"
+    publisher: "ABC Edition"
+    year: 1986
+    isbn: "978-3-85504-024-2"
+
+  - id: grs-pigeonblood-criteria
+    kind: web
+    authors:
+      - family: "GRS GemResearch Swisslab"
+    title: "GRS Type Colour Reference: Pigeon Blood Ruby Criteria"
+    publisher: "GRS GemResearch Swisslab"
+    year: 2004
+    url: "https://www.grs.ch/en/reports/colour-grades"
+    accessed: "2026-05-11"
+
+  - id: ssef-institutional
+    kind: web
+    authors:
+      - family: "Swiss Gemmological Institute (SSEF)"
+    title: "About SSEF: History and Research"
+    publisher: "Swiss Gemmological Institute"
+    year: 1972
+    url: "https://www.ssef.ch/about/"
+    accessed: "2026-05-11"
+
+  - id: lmhc-standards
+    kind: standard
+    authors:
+      - family: "Laboratory Manual Harmonisation Committee"
+    title: "LMHC Standards and Terminology for the Description of Treatments in Coloured Gemstones"
+    publisher: "LMHC"
+    year: 2010
+    url: "https://www.lmhc-gemmology.org"
+    accessed: "2026-05-11"
+
+  - id: kammerling-1991-emerald
+    kind: journal
+    authors:
+      - family: Kammerling
+        given: R.C.
+      - family: Koivula
+        given: J.I.
+      - family: Johnson
+        given: M.L.
+    title: "An Update on the Identification of Colombian Emerald Clarity Enhancements"
+    journal: "Gems & Gemology"
+    volume: 27
+    issue: 2
+    pages: "70–85"
+    year: 1991
+    doi: "10.5741/gems.27.2.70"
+
+  - id: emmett-2003-be-diffusion
+    kind: journal
+    authors:
+      - family: Emmett
+        given: J.L.
+      - family: Scarratt
+        given: K.
+      - family: McClure
+        given: S.F.
+      - family: Moses
+        given: T.
+      - family: Douthit
+        given: T.R.
+      - family: Hughes
+        given: R.
+      - family: Novak
+        given: S.
+      - family: Shigley
+        given: J.E.
+      - family: Wang
+        given: W.
+      - family: Bordelon
+        given: O.
+      - family: Kane
+        given: R.E.
+    title: "Beryllium Diffusion of Ruby and Sapphire"
+    journal: "Gems & Gemology"
+    volume: 39
+    issue: 2
+    pages: "84–135"
+    year: 2003
+    doi: "10.5741/gems.39.2.84"
+
+  - id: shor-weldon-2009-corundum-market
+    kind: journal
+    authors:
+      - family: Shor
+        given: R.
+      - family: Weldon
+        given: R.
+    title: "Ruby and Sapphire Production and Distribution: A Quarter Century of Change"
+    journal: "Gems & Gemology"
+    volume: 45
+    issue: 4
+    pages: "236–259"
+    year: 2009
+    doi: "10.5741/gems.45.4.236"
+
+  - id: gia-report-verification
+    kind: web
+    authors:
+      - family: "Gemological Institute of America"
+    title: "GIA Report Check"
+    publisher: "Gemological Institute of America"
+    year: 2007
+    url: "https://www.gia.edu/report-check"
+    accessed: "2026-05-11"
+
 related:
   - market/grading-valuation
   - market/professional-practice
@@ -52,7 +182,7 @@ sections:
     subsections:
       - title: Gübelin Gem Lab
         content: |
-          - **Location**: Lucerne, Switzerland
+          - **Location**: Lucerne, Switzerland {cite:gubelin-photoatlas-v1}
           - **Founded**: 1923
           - **Strengths**: Origin determination, coloured stones
           - **Reputation**: Highest tier; premium market acceptance
@@ -60,7 +190,7 @@ sections:
 
       - title: SSEF
         content: |
-          - **Full name**: Swiss Gemmological Institute
+          - **Full name**: Swiss Gemmological Institute {cite:ssef-institutional}
           - **Location**: Basel, Switzerland
           - **Founded**: 1972
           - **Strengths**: Research-based; coloured stones; pearls
@@ -68,7 +198,7 @@ sections:
 
       - title: GIA
         content: |
-          - **Full name**: Gemological Institute of America
+          - **Full name**: Gemological Institute of America {cite:gia-history-institutional}
           - **Location**: Carlsbad, California (HQ); global labs
           - **Founded**: 1931
           - **Strengths**: Diamonds (created 4Cs); coloured stones
@@ -80,7 +210,7 @@ sections:
           - **Location**: Switzerland and Asia offices
           - **Founded**: 1990s
           - **Strengths**: Coloured stones; colour terminology
-          - **Notable**: Created "pigeon blood" and "royal blue" grades
+          - **Notable**: Created "pigeon blood" and "royal blue" grades {cite:grs-pigeonblood-criteria}
 
   - title: Laboratory Comparison
     table:
@@ -135,7 +265,7 @@ sections:
       title: Always Verify Reports
       text: |
         Counterfeit reports exist. Always verify reports directly with the
-        issuing laboratory before purchase:
+        issuing laboratory before purchase {cite:gia-report-verification}:
 
         - Use the lab's online verification system
         - Check report number, date, weight match
@@ -149,6 +279,7 @@ sections:
       Standard treatment designations:
     subsections:
       - title: Heat Treatment
+        citations: [lmhc-standards]
         table:
           headers:
             - Term
@@ -160,6 +291,7 @@ sections:
             - ["High-temperature heating", "More significant changes"]
 
       - title: Clarity Enhancement (Emerald)
+        citations: [lmhc-standards, kammerling-1991-emerald]
         table:
           headers:
             - Term
@@ -216,7 +348,7 @@ sections:
 
       - title: Standardisation Efforts
         content: |
-          - LMHC harmonises terminology
+          - LMHC harmonises terminology {cite:lmhc-standards}
           - Not all labs participate equally
           - Trade terms may differ from lab terms
           - Understanding each lab's system important
@@ -227,8 +359,8 @@ sections:
       title: Colour Grades Add Value
       text: |
         GRS colour grades like "pigeon blood" and "royal blue" add significant
-        market value, particularly in Asian markets. These grades have specific
-        criteria related to hue, tone, saturation, and fluorescence.
+        market value, particularly in Asian markets. {cite:grs-pigeonblood-criteria}{cite:shor-weldon-2009-corundum-market}
+        These grades have specific criteria related to hue, tone, saturation, and fluorescence.
 
         Not all fine rubies or sapphires qualify. The designation appears on
         the report only when criteria are met.

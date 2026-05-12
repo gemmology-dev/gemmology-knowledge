@@ -4,6 +4,138 @@ order: 15
 category: market
 difficulty: advanced
 icon: clipboard-check
+
+references:
+  - id: cibjo-gemstone-book-2020
+    kind: standard
+    authors:
+      - family: "CIBJO"
+    title: "The Gemstone Book: CIBJO Blue Book"
+    publisher: "World Jewellery Confederation (CIBJO)"
+    year: 2020
+    url: "https://cibjo.org/download/cibjo-standards/"
+    accessed: "2026-05-11"
+
+  - id: lmhc-standards
+    kind: standard
+    authors:
+      - family: "Laboratory Manual Harmonisation Committee"
+    title: "LMHC Standards and Terminology for the Description of Treatments in Coloured Gemstones"
+    publisher: "LMHC"
+    year: 2010
+    url: "https://www.lmhc-gemmology.org"
+    accessed: "2026-05-11"
+
+  - id: ftc-jewelry-guides-2018
+    kind: standard
+    authors:
+      - family: "Federal Trade Commission"
+    title: "Guides for the Jewelry, Precious Metals, and Pewter Industries"
+    publisher: "US Federal Trade Commission"
+    year: 2018
+    url: "https://www.ftc.gov/legal-library/browse/rules/guides-jewelry-precious-metals-pewter-industries"
+    accessed: "2026-05-11"
+
+  - id: uk-consumer-rights-act-2015
+    kind: standard
+    authors:
+      - family: "UK Parliament"
+    title: "Consumer Rights Act 2015"
+    publisher: "HMSO"
+    year: 2015
+    url: "https://www.legislation.gov.uk/ukpga/2015/15"
+    accessed: "2026-05-11"
+
+  - id: eu-ucpd-2005
+    kind: standard
+    authors:
+      - family: "European Parliament and Council"
+    title: "Directive 2005/29/EC of the European Parliament and of the Council Concerning Unfair Business-to-Consumer Commercial Practices"
+    publisher: "Official Journal of the European Union"
+    year: 2005
+    url: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32005L0029"
+    accessed: "2026-05-11"
+
+  - id: au-consumer-law-2010
+    kind: standard
+    authors:
+      - family: "Australian Government"
+    title: "Australian Consumer Law (Schedule 2 to the Competition and Consumer Act 2010)"
+    publisher: "Australian Government"
+    year: 2010
+    url: "https://www.legislation.gov.au/Details/C2020C00226"
+    accessed: "2026-05-11"
+
+  - id: uk-cputr-2008
+    kind: standard
+    authors:
+      - family: "UK Parliament"
+    title: "Consumer Protection from Unfair Trading Regulations 2008 (SI 2008/1277)"
+    publisher: "HMSO"
+    year: 2008
+    url: "https://www.legislation.gov.uk/uksi/2008/1277"
+    accessed: "2026-05-11"
+
+  - id: gem-a-code-ethics
+    kind: web
+    authors:
+      - family: "Gem-A"
+    title: "Gem-A Code of Ethics for Members"
+    publisher: "Gemmological Association of Great Britain"
+    year: 2019
+    url: "https://gem-a.com/about/membership/code-of-ethics"
+    accessed: "2026-05-11"
+
+  - id: gia-alumni-code
+    kind: web
+    authors:
+      - family: "Gemological Institute of America"
+    title: "GIA Alumni Association Code of Ethics"
+    publisher: "Gemological Institute of America"
+    year: 2020
+    url: "https://www.gia.edu/alumni"
+    accessed: "2026-05-11"
+
+  - id: iso-18323-2015
+    kind: standard
+    authors:
+      - family: "International Organization for Standardization"
+    title: "ISO 18323:2015 — Jewellery: Consumer Confidence in the Jewellery Industry"
+    publisher: "ISO"
+    year: 2015
+    url: "https://www.iso.org/standard/62337.html"
+    accessed: "2026-05-11"
+
+  - id: uk-cpr-part35
+    kind: standard
+    authors:
+      - family: "UK Ministry of Justice"
+    title: "Civil Procedure Rules Part 35: Experts and Assessors"
+    publisher: "HMSO"
+    year: 2023
+    url: "https://www.justice.gov.uk/courts/procedure-rules/civil/rules/part35"
+    accessed: "2026-05-11"
+
+  - id: uk-limitation-act-1980
+    kind: standard
+    authors:
+      - family: "UK Parliament"
+    title: "Limitation Act 1980"
+    publisher: "HMSO"
+    year: 1980
+    url: "https://www.legislation.gov.uk/ukpga/1980/58"
+    accessed: "2026-05-11"
+
+  - id: gem-a-cpd-policy
+    kind: web
+    authors:
+      - family: "Gem-A"
+    title: "Continuing Professional Development Policy"
+    publisher: "Gemmological Association of Great Britain"
+    year: 2021
+    url: "https://gem-a.com/about/membership/cpd"
+    accessed: "2026-05-11"
+
 related:
   - market/grading-valuation
   - identification/treatments
@@ -52,8 +184,8 @@ sections:
         content: |
           Use precise, standardised terminology:
 
-          - **CIBJO Blue Books**: International nomenclature standards
-          - **ISO standards**: Where applicable
+          - **CIBJO Blue Books**: International nomenclature standards {cite:cibjo-gemstone-book-2020}
+          - **ISO standards**: Where applicable {cite:iso-18323-2015}
           - **Avoid subjective terms**: "Beautiful" is not scientific
           - **Qualify opinions**: "Consistent with...", "Evidence suggests..."
           - **State uncertainty**: If results are inconclusive, say so
@@ -72,6 +204,7 @@ sections:
           - Opinion: "Stone identified as natural amethyst"
 
   - title: Standard Terminology (CIBJO)
+    citations: [cibjo-gemstone-book-2020]
     content: |
       CIBJO (Confédération Internationale de la Bijouterie, Joaillerie, Orfèvrerie des
       Diamants, Perles et Pierres) sets international nomenclature standards.
@@ -90,6 +223,7 @@ sections:
             - ["Composite/Assembled", "Multiple parts joined together", "Must be disclosed"]
 
       - title: Treatment Terminology
+        citations: [cibjo-gemstone-book-2020, lmhc-standards]
         table:
           headers:
             - Abbreviation
@@ -153,6 +287,7 @@ sections:
         In most jurisdictions, non-disclosure of material treatments or synthetic status
         constitutes fraud or misrepresentation. "The seller didn't ask" is not a defence.
         Professional gemmologists have a duty to disclose even when not specifically asked.
+        {cite:ftc-jewelry-guides-2018}{cite:uk-cputr-2008}
 
   - title: Legal Aspects
     content: |
@@ -163,10 +298,10 @@ sections:
         content: |
           Most countries have laws prohibiting false or misleading descriptions:
 
-          - **UK**: Consumer Rights Act 2015, Consumer Protection from Unfair Trading
-          - **EU**: Unfair Commercial Practices Directive
-          - **US**: FTC Guides for Jewelry Industry
-          - **Australia**: Australian Consumer Law
+          - **UK**: Consumer Rights Act 2015, Consumer Protection from Unfair Trading {cite:uk-consumer-rights-act-2015}
+          - **EU**: Unfair Commercial Practices Directive {cite:eu-ucpd-2005}
+          - **US**: FTC Guides for Jewelry Industry {cite:ftc-jewelry-guides-2018}
+          - **Australia**: Australian Consumer Law {cite:au-consumer-law-2010}
 
           False descriptions of gem identity, origin, or treatment status violate these laws.
 
@@ -196,7 +331,7 @@ sections:
 
       - title: Expert Witness Responsibilities
         content: |
-          Gemmologists serving as expert witnesses must:
+          Gemmologists serving as expert witnesses must: {cite:uk-cpr-part35}
 
           - Provide independent, unbiased opinions
           - Base opinions on established methodology
@@ -252,8 +387,8 @@ sections:
         content: |
           Professional organisations maintain codes of conduct:
 
-          - **Gem-A**: Code of Ethics for members
-          - **GIA**: Alumni Code of Ethics
+          - **Gem-A**: Code of Ethics for members {cite:gem-a-code-ethics}
+          - **GIA**: Alumni Code of Ethics {cite:gia-alumni-code}
           - **AGTA**: Member Standards
           - **National associations**: Jurisdiction-specific codes
 
@@ -323,7 +458,7 @@ sections:
         - Update equipment and techniques
         - Network with peers for knowledge sharing
 
-        Many professional bodies require documented CPD for membership maintenance.
+        Many professional bodies require documented CPD for membership maintenance. {cite:gem-a-cpd-policy}
 
   - title: Documentation Best Practices
     subsections:
@@ -337,7 +472,7 @@ sections:
           - Copies of issued reports
           - Photographs of examined items
 
-          Retain records according to legal requirements (typically 6+ years).
+          Retain records according to legal requirements (typically 6+ years). {cite:uk-limitation-act-1980}
 
       - title: Photographic Documentation
         content: |

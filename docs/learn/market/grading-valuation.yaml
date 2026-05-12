@@ -4,6 +4,84 @@ order: 10
 category: market
 difficulty: intermediate
 icon: chart-bar
+
+references:
+  - id: gia-colored-stones-ref
+    kind: book
+    authors:
+      - family: "Gemological Institute of America"
+    title: "Gem Reference Guide"
+    publisher: "Gemological Institute of America"
+    year: 1988
+    isbn: "978-0-87311-019-2"
+
+  - id: read-3rd
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann"
+    year: 2008
+    isbn: "9780750664493"
+    doi: "10.4324/9780080507224"
+
+  - id: kammerling-1991-emerald
+    kind: journal
+    authors:
+      - family: Kammerling
+        given: R.C.
+      - family: Koivula
+        given: J.I.
+      - family: Johnson
+        given: M.L.
+    title: "An Update on the Identification of Colombian Emerald Clarity Enhancements"
+    journal: "Gems & Gemology"
+    volume: 27
+    issue: 2
+    pages: "70–85"
+    year: 1991
+    doi: "10.5741/gems.27.2.70"
+
+  - id: iso-3664-2009
+    kind: standard
+    authors:
+      - family: "International Organization for Standardization"
+    title: "ISO 3664:2009 — Graphic Technology and Photography: Viewing Conditions"
+    publisher: "ISO"
+    year: 2009
+    url: "https://www.iso.org/standard/43234.html"
+    accessed: "2026-05-11"
+
+  - id: hughes-ruby-sapphire
+    kind: book
+    authors:
+      - family: Hughes
+        given: R.W.
+    title: "Ruby & Sapphire: A Gemologist's Guide"
+    publisher: "Lotus Publishing"
+    year: 2017
+    isbn: "978-0-9645097-1-9"
+
+  - id: grs-pigeonblood-criteria
+    kind: web
+    authors:
+      - family: "GRS GemResearch Swisslab"
+    title: "GRS Type Colour Reference: Pigeon Blood Ruby Criteria"
+    publisher: "GRS GemResearch Swisslab"
+    year: 2004
+    url: "https://www.grs.ch/en/reports/colour-grades"
+    accessed: "2026-05-11"
+
+  - id: gem-a-fp-notes
+    kind: standard
+    authors:
+      - family: "Gem-A"
+    title: "FGA Foundation Programme Course Notes"
+    publisher: "Gemmological Association of Great Britain"
+    year: 2021
+
 related:
   - origin-determination
   - phenomenal-gems
@@ -76,8 +154,8 @@ sections:
         - Ideal Tone
         - Key Notes
       rows:
-        - ["Ruby", "Slightly purplish red", "Medium to medium-dark (6)", "Vivid saturation; 'pigeon blood'"]
-        - ["Blue sapphire", "Violetish blue to blue", "Medium to medium-dark (5-6)", "Kashmir 'velvety' most prized"]
+        - ["Ruby", "Slightly purplish red", "Medium to medium-dark (6)", "Vivid saturation; 'pigeon blood' {cite:grs-pigeonblood-criteria}"]
+        - ["Blue sapphire", "Violetish blue to blue", "Medium to medium-dark (5-6)", "Kashmir 'velvety' most prized {cite:hughes-ruby-sapphire}"]
         - ["Emerald", "Bluish green to green", "Medium (5-6)", "Vivid saturation; 'jardin' tolerated"]
         - ["Padparadscha", "Pink-orange (balanced)", "Light to medium (4-5)", "Neither pink nor orange dominant"]
         - ["Tanzanite", "Violetish blue to blue", "Medium (5-6)", "Strong saturation"]
@@ -90,7 +168,7 @@ sections:
       type: tip
       title: Standardised Lighting
       text: |
-        Professional colour grading should be performed under:
+        Professional colour grading should be performed under: {cite:iso-3664-2009}
 
         - **D65 daylight equivalent** lighting (6500K colour temperature)
         - **Neutral grey** background
@@ -107,6 +185,7 @@ sections:
       typically forms.
     subsections:
       - title: GIA Clarity Types
+        citations: [gia-colored-stones-ref]
         table:
           headers:
             - Type
@@ -144,7 +223,7 @@ sections:
       text: |
         Emerald is the only major gemstone where visible inclusions are widely accepted.
         The French term "jardin" (garden) describes the internal world of inclusions.
-        Eye-clean emeralds are extremely rare and command extraordinary premiums.
+        Eye-clean emeralds are extremely rare and command extraordinary premiums. {cite:read-3rd}{cite:kammerling-1991-emerald}
 
         A slightly included emerald with excellent colour will typically outvalue a clean
         emerald with poor colour.
