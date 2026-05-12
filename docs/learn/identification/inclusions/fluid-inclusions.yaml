@@ -35,7 +35,7 @@ sections:
 
       - title: Two-Phase Inclusions
         content: |
-          The most common type, containing liquid and a gas bubble:
+          The most common type, containing liquid and a gas bubble {cite:read-gemmology-3ed}:
 
           - **Appearance**: Liquid-filled cavity with a mobile gas bubble
           - **Behaviour**: Bubble moves when stone is tilted
@@ -44,10 +44,10 @@ sections:
 
       - title: Three-Phase Inclusions
         content: |
-          Contain liquid, gas, and a solid crystal - highly diagnostic:
+          Contain liquid, gas, and a solid crystal - highly diagnostic {cite:gubelin-koivula-photoatlas-v1}:
 
           - **Components**: Liquid + gas bubble + solid crystal (often halite)
-          - **Classic example**: Colombian emerald (jagged cavity with halite cube)
+          - **Classic example**: Colombian emerald (jagged cavity with halite cube) {cite:gubelin-koivula-photoatlas-v1}
           - **Diagnostic value**: Often origin-specific
           - **Also seen in**: Some quartz, topaz, spinel
 
@@ -69,7 +69,7 @@ sections:
   - title: Negative Crystals
     content: |
       Negative crystals are fluid-filled cavities that have the geometric shape of the
-      host mineral's crystal structure:
+      host mineral's crystal structure {cite:read-gemmology-3ed}:
 
       - **Formation**: Cavity walls follow crystal structure
       - **Shape**: Reflects host mineral's crystal habit
@@ -148,3 +148,22 @@ sections:
         The presence of intact, well-formed fluid inclusions generally indicates
         no high-temperature heat treatment, while damaged or altered inclusions
         may suggest treatment.
+
+references:
+  - id: gubelin-koivula-photoatlas-v1
+    kind: book
+    authors: [{family: Gübelin, given: Eduard J.}, {family: Koivula, given: John I.}]
+    title: "Photoatlas of Inclusions in Gemstones, Vol. 1"
+    publisher: ABC Edition Zürich
+    year: 1986
+    isbn: "978-3-7281-2202-3"
+    confidence: "✓"
+  - id: read-gemmology-3ed
+    kind: book
+    authors: [{family: Read, given: Peter G.}]
+    title: "Gemmology"
+    edition: 3rd
+    publisher: Butterworth-Heinemann
+    year: 2014
+    doi: "10.4324/9780080507224"
+    confidence: "✓"

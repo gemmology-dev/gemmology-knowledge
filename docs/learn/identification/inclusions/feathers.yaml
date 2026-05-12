@@ -25,7 +25,8 @@ sections:
 
   - title: Feathers
     content: |
-      Feathers are internal fractures that have a wispy, feathery appearance:
+      Feathers are internal fractures that have a wispy, feathery appearance {cite:read-gemmology-3ed}.
+      They may show iridescence from thin-film interference:
 
       **Characteristics:**
       - Appear as wispy, irregular planes
@@ -40,7 +41,9 @@ sections:
 
   - title: Fingerprint Inclusions
     content: |
-      Fingerprint inclusions are healed fractures with characteristic patterns:
+      Fingerprint inclusions are healed fractures with characteristic patterns
+      {cite:gubelin-koivula-photoatlas-v1}. They form when a crack is subsequently
+      healed by mineralising fluids:
 
       **Appearance:**
       - Networks of tiny fluid remnants
@@ -98,6 +101,13 @@ sections:
 
         Compare to **natural fingerprints** which are sharper and more defined.
         This distinction is crucial for treatment detection.
+
+  - title: Emerald Fractures ("Jardin")
+    content: |
+      Emeralds typically contain a high density of surface-reaching fractures collectively
+      called the "jardin" (French: garden) {cite:kammerling-1991-emerald}. These fractures
+      are largely protogenetic and syngenetic, and their abundance is a species-characteristic
+      feature. Fracture filling (oiling, resin) is consequently common trade practice.
 
   - title: Stress Fractures
     content: |
@@ -180,3 +190,32 @@ sections:
       2. Increase magnification for pattern detail
       3. Rotate stone to see full extent of feature
       4. Note whether feature reaches surface
+
+references:
+  - id: read-gemmology-3ed
+    kind: book
+    authors: [{family: Read, given: Peter G.}]
+    title: "Gemmology"
+    edition: 3rd
+    publisher: Butterworth-Heinemann
+    year: 2014
+    doi: "10.4324/9780080507224"
+    confidence: "✓"
+  - id: gubelin-koivula-photoatlas-v1
+    kind: book
+    authors: [{family: Gübelin, given: Eduard J.}, {family: Koivula, given: John I.}]
+    title: "Photoatlas of Inclusions in Gemstones, Vol. 1"
+    publisher: ABC Edition Zürich
+    year: 1986
+    isbn: "978-3-7281-2202-3"
+    confidence: "✓"
+  - id: kammerling-1991-emerald
+    kind: journal
+    authors: [{family: Kammerling, given: Robert C.}]
+    title: "An Investigation of Emeralds from the Sandawana Mine, Zimbabwe"
+    journal: "Gems & Gemology"
+    volume: 27
+    issue: 2
+    year: 1991
+    doi: "10.5741/gems.27.2.70"
+    confidence: "✓✓"

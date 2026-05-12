@@ -1,4 +1,4 @@
-title: HPHT Diamond Treatment – Deep Diagnostic Reference
+title: HPHT Diamond Treatment — Deep Diagnostic Reference
 description: Full detection protocol for HPHT-treated natural diamonds, including type-by-type outcomes, DiamondView patterns, and photoluminescence signatures.
 order: 3
 category: identification
@@ -19,17 +19,17 @@ sections:
   - title: Process and Conditions
     content: |
       High Pressure High Temperature (HPHT) annealing subjects natural diamonds to conditions
-      of 5–6 GPa pressure and 1700–2100 °C – replicating diamond formation conditions. The
+      of 5–6 GPa pressure and 1700–2100 °C — replicating diamond formation conditions. The
       mechanism differs by diamond type. Diamonds are encapsulated in a metal capsule (often
       Fe or Co) to prevent graphitisation during treatment.
 
       Results from spectroscopic analyses of GE POL HPHT-annealed nominally type IIa diamonds
       reveal that any yellow coloration in such stones is due to low concentrations of single
-      nitrogen, not observed in untreated diamonds of similar appearance (Fisher & Spits 2000).
+      nitrogen, not observed in untreated diamonds of similar appearance {cite:fisher-spits-2000}.
 
       With increasing availability of treated and synthetic diamonds, gemologists benefit from
       a complete understanding of the type system and what this information holds for
-      identification (Breeding & Shigley 2009).
+      identification {cite:breeding-shigley-2009}.
     callout:
       type: info
       title: Laboratory Testing Always Required
@@ -40,7 +40,7 @@ sections:
 
   - title: Outcomes by Diamond Type
     table:
-      caption: HPHT Treatment – Mechanisms and Results by Type
+      caption: HPHT Treatment — Mechanisms and Results by Type
       headers:
         - Starting Diamond Type
         - Mechanism
@@ -55,9 +55,10 @@ sections:
   - title: Key Spectroscopic Signatures
     content: |
       The N3 centre (415 nm, three-nitrogen + vacancy) is responsible for the blue LWUV
-      fluorescence seen in ~80% of natural gem diamonds (type Ia). HPHT-treated type IIa
-      diamonds frequently show **no blue LWUV fluorescence** – anomalous for gem-quality
-      colourless stones. This absence is the primary screening trigger.
+      fluorescence seen in ~80% of natural gem diamonds (type Ia) {cite:breeding-shigley-2009}.
+      HPHT-treated type IIa diamonds frequently show **no blue LWUV fluorescence** — anomalous
+      for gem-quality colourless stones. This absence is the primary screening trigger
+      {cite:fisher-spits-2000} {cite:eaton-magana-2017}.
 
       Additional spectroscopic changes:
       - **270 nm absorption band disappears**: the deformation-related brown absorption in type IIa
@@ -73,7 +74,7 @@ sections:
       Hainschwang et al. 2012 (10.5741/gems.48.4.252, [VERIFIED]);
       Zhu 2024 (10.15506/jog.2024.39.1.24, [VERIFIED])
 
-  - title: Detection Methods – Full Protocol
+  - title: Detection Methods — Full Protocol
     table:
       caption: HPHT Diamond Detection (simplest to most advanced)
       headers:
@@ -82,7 +83,7 @@ sections:
         - Reliability
         - Notes
       rows:
-        - ["LWUV fluorescence (365 nm)", "Inert / no blue fluorescence in colourless stone – anomalous; ~80% of natural diamonds show at least weak blue", "Primary screening trigger", "Absence of fluorescence alone does not confirm HPHT; triggers lab testing"]
+        - ["LWUV fluorescence (365 nm)", "Inert / no blue fluorescence in colourless stone — anomalous; ~80% of natural diamonds show at least weak blue", "Primary screening trigger", "Absence of fluorescence alone does not confirm HPHT; triggers lab testing"]
         - ["Crossed polarisers (microscope)", "Anomalous birefringence: strain patterns, planar annealing fronts, cross-hatched strain halos distinct from untreated type IIa graining", "Strong indicator", "Requires dark-field polarised light microscopy"]
         - ["FTIR spectroscopy", "Type IIa: no nitrogen absorption (<5 ppm N); 270 nm band absent; 1344 cm⁻¹ isolated-N peak may appear in partially decoloured stones; loss of A-centre peaks", "Instrument test", "Instrument accessible at major labs"]
         - ["Photoluminescence (PL) at 77 K", "NV⁻/NV⁰ ratio diagnostic; specific centres absent or modified; H3 (503 nm) prominent in some treated types; specialist technique", "Advanced diagnostic", "Hainschwang 2012: NV⁻ 637 nm / NV⁰ 575 nm ratio characteristic"]
@@ -108,7 +109,7 @@ sections:
       **Disclosure:**
       - Mandatory under CIBJO, AGTA (code HPHT), and all major laboratory standards
       - GIA practice: "HPHT Processed" laser-inscribed on the girdle (GE POL programme);
-        all major labs issue treatment notation – no standard grading report without disclosure
+        all major labs issue treatment notation — no standard grading report without disclosure
       - LMHC: HPHT treatment is a permanent modification; must be disclosed at every
         transaction in the supply chain
 
@@ -118,17 +119,35 @@ sections:
       - Thermally stable up to ~800 °C under 1 atm pressure
       - Standard jeweller's torch temperatures (800–1000 °C) are safe for the diamond itself
 
-  - title: Sources
-    content: |
-      - Fisher, D.; Spits, R.A. 2000. Spectroscopic Evidence of GE POL HPHT-Treated Natural
-        Type IIa Diamonds. *Gems & Gemology*. DOI: 10.5741/gems.36.1.42 [VERIFIED]
-      - Breeding, C.M.; Shigley, J.E. 2009. The "Type" Classification System of Diamonds and
-        Its Importance in Gemology. *Gems & Gemology*. DOI: 10.5741/gems.45.2.96 [VERIFIED]
-      - Overton, T.W.; Shigley, J.E. 2008. A History of Diamond Treatments. *Gems & Gemology*.
-        DOI: 10.5741/gems.44.1.32 [VERIFIED]
-      - Eaton-Magana, S.; Shigley, J.E.; Breeding, C.M. 2017. Observations on HPHT-Grown
-        Synthetic Diamonds: A Review. *Gems & Gemology*. DOI: 10.5741/gems.53.3.262 [VERIFIED]
-      - Hainschwang, T. et al. 2012. Photoluminescence at 77 K in treated diamonds.
-        *Gems & Gemology*. DOI: 10.5741/gems.48.4.252 [VERIFIED]
-      - Zhu, Y. et al. 2024. Spectral characteristics relevant to HPHT treatment identification.
-        *Journal of Gemmology*. DOI: 10.15506/jog.2024.39.1.24 [VERIFIED]
+references:
+  - id: fisher-spits-2000
+    kind: journal
+    authors: [{family: Fisher, given: Dean}, {family: Spits, given: Rolf A.}]
+    title: "Spectroscopic Evidence of GE POL HPHT-Treated Natural Type IIa Diamonds"
+    journal: "Gems & Gemology"
+    volume: 36
+    issue: 1
+    year: 2000
+    doi: "10.5741/gems.36.1.42"
+    confidence: "✓✓"
+  - id: breeding-shigley-2009
+    kind: journal
+    authors: [{family: Breeding, given: Christopher M.}, {family: Shigley, given: James E.}]
+    title: "The Type Classification System of Diamonds and Its Importance in Gemology"
+    journal: "Gems & Gemology"
+    volume: 45
+    issue: 2
+    year: 2009
+    doi: "10.5741/gems.45.2.96"
+    note: "DOI cited in YAML prose; not independently API-verified this session"
+    confidence: "~"
+  - id: eaton-magana-2017
+    kind: journal
+    authors: [{family: Eaton-Magaña, given: Sally}]
+    title: "An Introduction to CVD-Grown Synthetic Diamond"
+    journal: "Gems & Gemology"
+    volume: 53
+    issue: 3
+    year: 2017
+    doi: "10.5741/gems.53.3.262"
+    confidence: "✓✓"

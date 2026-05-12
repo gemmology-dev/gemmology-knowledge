@@ -51,7 +51,7 @@ sections:
     subsections:
       - title: Garnet-Topped Doublets
         content: |
-          Historically common and often deceptive:
+          Historically common and often deceptive {cite:read-gemmology-3ed}:
 
           - **Crown**: Thin slice of almandine garnet (hard, durable)
           - **Pavilion**: Coloured glass of any desired colour
@@ -62,7 +62,7 @@ sections:
 
       - title: Opal Doublets
         content: |
-          Legitimate products that protect thin opal and make it usable:
+          Legitimate products that protect thin opal and make it usable {cite:schumann-gemstones-world}:
 
           - **Crown**: Thin slice of precious opal with play of colour
           - **Base**: Dark backing (potch, ironstone, or black glass)
@@ -107,7 +107,7 @@ sections:
 
       - title: Emerald Triplets (Soudé)
         content: |
-          "Soudé" (French for "soldered") emerald triplets:
+          "Soudé" (French for "soldered") emerald triplets {cite:liddicoat-gia-handbook}:
 
           - **Crown**: Colourless beryl, quartz, or synthetic spinel
           - **Middle**: Green cement layer (creates colour)
@@ -158,11 +158,12 @@ sections:
       - title: Immersion Examination
         content: |
           Immersion in liquid (water, benzyl benzoate, or methylene iodide) reduces
-          surface reflections and reveals internal structure:
+          surface reflections and reveals internal structure {cite:read-gemmology-3ed}:
 
           - **Join plane becomes visible**: Different RI materials show distinct boundary
           - **Colour distribution**: Shows if colour is only in cement
-          - **Bubble plane**: Trapped air bubbles often visible
+          - **Bubble plane**: Trapped air bubbles often visible; iridescence from thin-film
+            interference at the glue layer is also diagnostic {cite:read-gemmology-3ed}
           - **RI differences**: Different parts refract differently
 
           Immersion is the most reliable method for detecting composites.
@@ -285,3 +286,31 @@ sections:
         - ["Soudé emerald", "Clear + green cement + clear", "Immersion shows colour plane", "Required; often deceptive"]
         - ["Sapphire doublet", "Sapphire + coloured material", "Immersion, profile examination", "Required"]
         - ["Star doublets", "Natural crown + synthetic base", "Examine from back", "Required"]
+
+references:
+  - id: read-gemmology-3ed
+    kind: book
+    authors: [{family: Read, given: Peter G.}]
+    title: "Gemmology"
+    edition: 3rd
+    publisher: Butterworth-Heinemann
+    year: 2014
+    doi: "10.4324/9780080507224"
+    confidence: "✓"
+  - id: schumann-gemstones-world
+    kind: book
+    authors: [{family: Schumann, given: Walter}]
+    title: "Gemstones of the World"
+    edition: 4th
+    publisher: Sterling Publishing
+    year: 2009
+    isbn: "978-1-4027-6829-3"
+    confidence: "✓"
+  - id: liddicoat-gia-handbook
+    kind: book
+    authors: [{family: Liddicoat, given: Richard T.}]
+    title: "Handbook of Gem Identification"
+    edition: 12th
+    publisher: GIA Press
+    year: 1993
+    confidence: "~"

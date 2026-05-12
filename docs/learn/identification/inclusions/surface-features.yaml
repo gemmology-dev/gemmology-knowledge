@@ -26,16 +26,17 @@ sections:
 
   - title: Naturals
     content: |
-      Naturals are remnants of the original crystal surface left on a cut gemstone:
+      Naturals are remnants of the original crystal surface left on a cut gemstone
+      {cite:read-gemmology-3ed}:
 
       **Characteristics:**
       - Original rough crystal surface preserved
       - Usually found on or near the girdle
-      - May show trigons (triangular growth marks)
+      - May show trigons (triangular growth marks) {cite:read-gemmology-3ed}
       - Often left deliberately to preserve weight
 
       **Significance:**
-      - Proves natural origin (synthetics don't have naturals)
+      - Proves natural origin (synthetics don't have naturals) {cite:read-gemmology-3ed}
       - Acceptable in diamond grading if confined to girdle
       - Should not affect face-up appearance
 
@@ -53,7 +54,8 @@ sections:
 
   - title: Bearding (Girdle Fringes)
     content: |
-      Bearding consists of tiny fractures along the girdle, created during cutting:
+      Bearding consists of tiny fractures along the girdle, created during cutting
+      {cite:liddicoat-gia-handbook}:
 
       **Formation:**
       - Created by the bruting (girdling) process
@@ -105,7 +107,7 @@ sections:
 
   - title: Etch Channels and Figures
     content: |
-      Etch features result from natural dissolution processes:
+      Etch features result from natural dissolution processes {cite:read-gemmology-3ed}:
 
       **Etch channels:**
       - Tube-like cavities extending from surface
@@ -116,7 +118,7 @@ sections:
       **Etch figures:**
       - Geometric depressions on crystal faces
       - Reflect underlying crystal symmetry
-      - Trigons on diamond (triangular pits)
+      - Trigons on diamond octahedron faces (triangular etch pits) {cite:read-gemmology-3ed}
       - Hexagonal pits on corundum
 
   - title: Trigons on Diamond
@@ -221,3 +223,22 @@ sections:
 
         Surface features often provide important evidence about a stone's history,
         treatment status, and authenticity.
+
+references:
+  - id: read-gemmology-3ed
+    kind: book
+    authors: [{family: Read, given: Peter G.}]
+    title: "Gemmology"
+    edition: 3rd
+    publisher: Butterworth-Heinemann
+    year: 2014
+    doi: "10.4324/9780080507224"
+    confidence: "✓"
+  - id: liddicoat-gia-handbook
+    kind: book
+    authors: [{family: Liddicoat, given: Richard T.}]
+    title: "Handbook of Gem Identification"
+    edition: 12th
+    publisher: GIA Press
+    year: 1993
+    confidence: "~"
