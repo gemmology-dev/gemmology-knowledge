@@ -4,6 +4,55 @@ order: 3.5
 category: fundamentals
 difficulty: advanced
 icon: prism
+
+references:
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: Gemmology
+    edition: 3rd
+    publisher: Routledge
+    year: 2014
+    doi: 10.4324/9780080507224
+
+  - id: nassau-2001-color
+    kind: book
+    authors:
+      - family: Nassau
+        given: K.
+    title: "The Physics and Chemistry of Color: The Fifteen Mechanisms"
+    edition: 2nd
+    publisher: Wiley-Interscience
+    year: 2001
+    isbn: 978-0-471-39106-7
+
+  - id: dubinsky-2020-corundum
+    kind: journal
+    authors:
+      - family: Dubinsky
+        given: E.V.
+    title: "A Quantitative Description of the Causes of Color in Corundum"
+    journal: Gems & Gemology
+    volume: 56
+    issue: 1
+    year: 2020
+    doi: 10.5741/gems.56.1.2
+
+  - id: sturman-2007-optic-sign
+    kind: journal
+    authors:
+      - family: Sturman
+        given: B.D.
+    title: "Determination of the optic axial angle in biaxial gemstones and its use in gemmology"
+    journal: The Journal of Gemmology
+    volume: 30
+    issue: 7
+    pages: "443–452"
+    year: 2007
+    doi: 10.15506/jog.2007.30.7.443
+
 related:
   - fundamentals/optical-properties
   - gem-testing-instruments
@@ -89,7 +138,7 @@ sections:
       - title: Uniaxial Optic Sign
         content: |
           Uniaxial positive (+): ε > ω (extraordinary ray has higher RI)
-          Uniaxial negative (-): ε < ω (extraordinary ray has lower RI)
+          Uniaxial negative (-): ε < ω (extraordinary ray has lower RI) {cite:read-2014-gemmology}{cite:sturman-2007-optic-sign}
 
           **Using a compensator plate:**
           1. Obtain centred uniaxial figure
@@ -185,6 +234,7 @@ sections:
   - title: Diagnostic Spectra
     table:
       caption: Key Absorption Features by Gem
+      citations: [read-2014-gemmology, nassau-2001-color]
       headers:
         - Gem
         - Cause
@@ -192,7 +242,7 @@ sections:
         - Appearance
       rows:
         - ["Ruby", "Cr³⁺", "694 (doublet), 668, 659, 476", "Sharp lines in red, broad band blue-green"]
-        - ["Blue sapphire", "Fe²⁺/Ti⁴⁺, Fe²⁺/Fe³⁺", "450, 460, 470", "Three bands in blue"]
+        - ["Blue sapphire", "Fe²⁺/Ti⁴⁺, Fe²⁺/Fe³⁺", "450, 460, 470 {cite:dubinsky-2020-corundum}", "Three bands in blue"]
         - ["Emerald", "Cr³⁺, (Fe²⁺)", "683, 680, 637, red/yellow bands", "Cr line + Fe bands"]
         - ["Almandine garnet", "Fe²⁺", "505, 520, 575", "Three strong bands"]
         - ["Demantoid", "Cr³⁺, Fe", "443", "Sharp line (horse/cutoff)"]
@@ -232,7 +282,7 @@ sections:
           - **Sensitisers**: Enhance other activators' effects
 
           Example: Burmese ruby fluoresces strongly (low iron); Thai ruby
-          fluoresces weakly (high iron quenches).
+          fluoresces weakly (high iron quenches). {cite:nassau-2001-color}
 
       - title: Diagnostic Fluorescence Reactions
         table:

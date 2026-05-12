@@ -4,6 +4,43 @@ order: 3.6
 category: fundamentals
 difficulty: advanced
 icon: prism
+
+references:
+  - id: sturman-2007-optic-sign
+    kind: journal
+    authors:
+      - family: Sturman
+        given: B.D.
+    title: "Determination of the optic axial angle in biaxial gemstones and its use in gemmology"
+    journal: The Journal of Gemmology
+    volume: 30
+    issue: 7
+    pages: "443–452"
+    year: 2007
+    doi: 10.15506/jog.2007.30.7.443
+
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: Gemmology
+    edition: 3rd
+    publisher: Routledge
+    year: 2014
+    doi: 10.4324/9780080507224
+
+  - id: schumann-2013-gemstones
+    kind: book
+    authors:
+      - family: Schumann
+        given: W.
+    title: Gemstones of the World
+    edition: 5th
+    publisher: Sterling Publishing
+    year: 2013
+    isbn: 978-1-4027-6829-3
+
 related:
   - fundamentals/optical-properties
   - fundamentals/optical-properties-advanced
@@ -43,8 +80,7 @@ sections:
       addition raises colours toward the next order (blue, 2nd-order tints); subtraction lowers
       them (yellow, back toward 1st-order grey).
 
-      *Source: Sturman, B.D., J. Gemmology, 2007. DOI: 10.15506/jog.2007.30.7.443. [VERIFIED];
-      Read, P., Gemmology 3rd ed. DOI: 10.4324/9780080507224 [VERIFIED]*
+      {cite:sturman-2007-optic-sign}{cite:read-2014-gemmology}
 
   - title: Uniaxial Procedure – Refractometer Method
     content: |
@@ -132,11 +168,12 @@ sections:
       This method follows from the same addition/subtraction principle as the uniaxial case,
       applied to the orientation of the optic plane.
 
-      *Source: Sturman 2007, DOI: 10.15506/jog.2007.30.7.443 [VERIFIED]*
+      {cite:sturman-2007-optic-sign}
 
   - title: Worked Examples by Species
     table:
       caption: Optic sign for common gem species
+      citations: [read-2014-gemmology, schumann-2013-gemstones]
       headers:
         - Gemstone
         - Sign
@@ -169,7 +206,7 @@ sections:
         background. The lambda plate still produces a colour shift in the quadrants; read the shift
         in the area immediately around the melatope.
       - **Dauphiné twinning in quartz:** sector-by-sector anomalous extinction can mimic biaxial
-        behaviour. Check birefringence (quartz 0.009 is consistent) and look for the sector pattern.
+        behaviour. Check birefringence (quartz 0.009 is consistent) and look for the sector pattern. {cite:read-2014-gemmology}
       - **Anomalous double refraction (ADR):** cubic (isotropic) stones that have been strained
         may show anomalous birefringence under the polariscope. They do not have a true optic sign.
         Spinels commonly show ADR (mottled or patchy extinction) rather than a true interference
@@ -184,11 +221,3 @@ sections:
         rather than a true biaxial or uniaxial character. A centred interference figure with clear
         isogyres is needed before assigning an optic sign.
 
-  - title: Sources
-    content: |
-      - Sturman, B.D. "Determination of the optic axial angle in biaxial gemstones and its use
-        in gemmology." *Journal of Gemmology*, 30(7), 2007, pp. 443–452.
-        DOI: 10.15506/jog.2007.30.7.443. [VERIFIED]
-      - Read, P. *Gemmology*, 3rd ed. Routledge, 2012. DOI: 10.4324/9780080507224. [VERIFIED]
-      - Gem-A Diploma syllabus §3.2: "Optic sign determination from interference figures";
-        §4.1: "Optic sign from refractometer rotation."

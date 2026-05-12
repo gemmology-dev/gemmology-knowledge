@@ -4,6 +4,42 @@ order: 1.5
 category: fundamentals
 difficulty: advanced
 icon: gem
+
+references:
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: Gemmology
+    edition: 3rd
+    publisher: Routledge
+    year: 2014
+    doi: 10.4324/9780080507224
+
+  - id: schwarzenbach-2003
+    kind: journal
+    authors:
+      - family: Schwarzenbach
+        given: D.
+    title: "Note on Bravais–Miller indices"
+    journal: Journal of Applied Crystallography
+    volume: 36
+    issue: 3
+    year: 2003
+    doi: 10.1107/s0021889803014778
+
+  - id: nassau-2001-color
+    kind: book
+    authors:
+      - family: Nassau
+        given: K.
+    title: "The Physics and Chemistry of Color: The Fifteen Mechanisms"
+    edition: 2nd
+    publisher: Wiley-Interscience
+    year: 2001
+    isbn: 978-0-471-39106-7
+
 related:
   - fundamentals/crystal-systems
   - fundamentals/optical-properties
@@ -66,7 +102,7 @@ sections:
           For hexagonal and trigonal systems, four-index (Miller-Bravais) notation uses
           three horizontal axes (a₁, a₂, a₃) at 120° plus vertical c-axis:
 
-          - h + k + i = 0 (always; i is redundant but clarifies symmetry)
+          - h + k + i = 0 (always; i is redundant but clarifies symmetry) {cite:schwarzenbach-2003}
           - Negative indices shown with bar: 1̄ or written as -1
 
           **Example**: {10-10} = {101̄0} = hexagonal prism faces
@@ -113,7 +149,7 @@ sections:
     content: |
       Twinning occurs when two or more crystals share some lattice points but have
       different orientations. Twins can form during growth, transformation, or
-      mechanical stress.
+      mechanical stress. {cite:read-2014-gemmology}
     subsections:
       - title: Types of Twins
         table:
@@ -163,7 +199,7 @@ sections:
       text: |
         Twinning affects optical properties and can complicate identification:
 
-        - Polysynthetic twinning causes labradorescence in labradorite
+        - Polysynthetic twinning causes labradorescence in labradorite {cite:nassau-2001-color}
         - Brazil twinning in quartz creates optical irregularities
         - Twin planes can be mistaken for cleavage
         - Twinning may cause anomalous optical behaviour under polariscope
