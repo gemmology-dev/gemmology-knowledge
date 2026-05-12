@@ -1,4 +1,4 @@
-title: Ural Emerald – Malyshevsky, Russia
+title: Ural Emerald — Malyshevsky, Russia
 description: Ural emerald from the Malyshevsky/Izumrudnye Kopi deposit; phlogopite mica inclusions diagnostic; Cr+V chromophores; mica-schist contact zone genesis.
 order: 4
 category: origin
@@ -24,7 +24,7 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Ural emerald from the Malyshevsky deposit (also Izumrudnye Kopi – "Emerald Mines")
+      Ural emerald from the Malyshevsky deposit (also Izumrudnye Kopi — "Emerald Mines")
       has been mined since discovery in 1831. Located approximately 90 km northeast of
       Yekaterinburg in Sverdlovsk Oblast, this is the same contact zone that produces
       Russian alexandrite. The deposit occupies the contact between granitic pegmatites
@@ -37,8 +37,8 @@ sections:
 
       - **Host rock**: Phlogopite mica schist at the contact with granitic intrusions;
         Laskovenkov and Zhernakov (1995) confirmed that the deposits consist of
-        "mica schists with phlogopite" along the Tokovaya River corridor
-      - **Genetic model**: Same as alexandrite – pegmatite supplies Be and Al;
+        "mica schists with phlogopite" along the Tokovaya River corridor {cite:laskovenkov-1995-ural-emerald}
+      - **Genetic model**: Same as alexandrite — pegmatite supplies Be and Al;
         Cr-enriched ultramafic/schist country rock supplies Cr; the intersection
         of these sources at the contact zone enables beryl + Cr emerald formation
       - **Deposit scale**: Malysheva mine is the largest known emerald deposit in Russia;
@@ -64,11 +64,11 @@ sections:
     content: |
       Russian Ural emerald inclusion suite:
     subsections:
-      - title: Primary Diagnostic – Phlogopite Mica
+      - title: Primary Diagnostic — Phlogopite Mica
         content: |
           - **Phlogopite mica flakes**: Brownish, tabular platelets parallel to the
             cleavage planes; the most characteristic and diagnostic inclusion for Ural
-            emerald origin
+            emerald origin {cite:karampelas-2019-emerald-chemistry}
           - These mica platelets derive directly from the phlogopite mica schist host rock
           - Their brownish tabular habit distinguishes them from the calcite and pyrite
             of Colombian emerald and from the tremolite needles of Sandawana (Zimbabwe)
@@ -108,7 +108,7 @@ sections:
         - ["Chromophore", "Cr + V", "Cr dominant", "Cr dominant (very high)", "Cr + V"]
         - ["Fe content", "Low", "Very low", "Very low", "Moderate"]
         - ["Fluorescence (LWUV)", "Moderate red–orange", "Strong red", "Very strong red", "Moderate red"]
-        - ["Li content", ">200 ppmw (higher)", "<200 ppmw", ">200 ppmw", ">200 ppmw"]
+        - ["Li content", ">200 ppmw (higher) {cite:saeseaw-2019-emerald-origin}", "<200 ppmw", ">200 ppmw", ">200 ppmw"]
 
   - title: Market Notes
     content: |
@@ -126,3 +126,53 @@ sources:
     citation: "Laskovenkov & Zhernakov (1995) The Ural Emerald Mines. Gems & Gemology."
   - doi: "10.3390/min9090561"
     citation: "Karampelas et al. (2019) Emeralds from the Most Important Occurrences. Minerals."
+
+references:
+  - id: laskovenkov-1995-ural-emerald
+    kind: article
+    authors:
+      - family: "Laskovenkov"
+        given: "A. F."
+      - family: "Zhernakov"
+        given: "V. I."
+    title: "The Ural Emerald Mines"
+    journal: "Gems & Gemology"
+    year: 1995
+    volume: 31
+    issue: 2
+    pages: "106–115"
+    doi: "10.5741/gems.31.2.106"
+
+  - id: karampelas-2019-emerald-chemistry
+    kind: article
+    authors:
+      - family: "Karampelas"
+        given: "Stefanos"
+      - family: "Al-Shaybani"
+        given: "Basma"
+      - family: "Mohamed"
+        given: "Fahad"
+    title: "Emeralds from the Most Important Occurrences: Chemical and Spectroscopic Data"
+    journal: "Minerals"
+    year: 2019
+    volume: 9
+    issue: 9
+    pages: "561"
+    doi: "10.3390/min9090561"
+
+  - id: saeseaw-2019-emerald-origin
+    kind: article
+    authors:
+      - family: "Saeseaw"
+        given: "Sudarat"
+      - family: "Renfro"
+        given: "Nathan D."
+      - family: "Palke"
+        given: "Aaron C."
+    title: "Geographic Origin Determination of Emerald"
+    journal: "Gems & Gemology"
+    year: 2019
+    volume: 55
+    issue: 4
+    pages: "614–646"
+    doi: "10.5741/gems.55.4.614"

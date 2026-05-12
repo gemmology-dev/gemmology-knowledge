@@ -19,9 +19,9 @@ sections:
   - title: Introduction
     content: |
       Myanmar produces the world's finest jadeite, particularly the legendary
-      "Imperial jade" prized in Asian cultures. The Hpakant region in Kachin
-      State dominates the high-end jadeite market, with exceptional pieces
-      commanding prices that exceed even the finest emeralds.
+      "Imperial jade" prized in Asian cultures. {cite:schumann-2009-gemstones}
+      The Hpakant region in Kachin State dominates the high-end jadeite market,
+      with exceptional pieces commanding prices that exceed even the finest emeralds.
 
   - title: Imperial Jade
     content: |
@@ -93,7 +93,7 @@ sections:
       - title: Chinese Tradition
         content: |
           - Symbol of virtue, status, and immortality
-          - 5,000+ years of cultural significance
+          - 5,000+ years of cultural significance {cite:schumann-2009-gemstones}
           - Preferred over gold historically
           - Major market driver for Burmese jadeite
 
@@ -110,21 +110,21 @@ sections:
     subsections:
       - title: Type A (Natural)
         content: |
-          - No treatment except waxing
+          - No treatment except waxing {cite:read-2014-gemmology}
           - Traditional polish finish
           - Highest value grade
           - Laboratory verification available
 
       - title: Type B (Bleached/Impregnated)
         content: |
-          - Acid bleached to remove staining
+          - Acid bleached to remove staining {cite:read-2014-gemmology}
           - Polymer impregnated for durability
           - Structure compromised
           - Significantly lower value
 
       - title: Type C (Dyed)
         content: |
-          - Colour artificially enhanced
+          - Colour artificially enhanced {cite:read-2014-gemmology}
           - Often combined with Type B treatment
           - Lowest value grade
           - Disclosure required
@@ -153,3 +153,26 @@ sections:
       - **Asian dominance**: Primary market is Greater China
       - **Western market**: Limited but growing awareness
       - **Investment**: Fine imperial jade historically appreciates
+
+references:
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "Walter"
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling Publishing"
+    year: 2009
+    isbn: "978-1-4027-6829-3"
+
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "Peter G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann"
+    year: 2014
+    doi: "10.4324/9780080507224"

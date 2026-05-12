@@ -20,7 +20,7 @@ sections:
     content: |
       Australia is a world-leading gem producer, most famous for opal but also
       producing significant sapphire, chrysoprase, and other coloured stones.
-      Australian opal accounts for approximately 95% of world production.
+      Australian opal accounts for approximately 95% of world production. {cite:schumann-2009-gemstones}
 
       The distinctive characteristics of Australian gems, particularly opal,
       make origin an important value factor.
@@ -46,9 +46,9 @@ sections:
 
       - title: Other Gems
         content: |
-          - **Chrysoprase**: Marlborough, Queensland (finest worldwide)
+          - **Chrysoprase**: Marlborough, Queensland (finest worldwide) {cite:schumann-2009-gemstones}
           - **Zircon**: Various colours, good quality
-          - **Diamonds**: Argyle mine (closed 2020) - historic pink source
+          - **Diamonds**: Argyle mine (closed 2020) - historic pink source {cite:schumann-2009-gemstones}
 
   - title: Australian Gem Trade
     content: |
@@ -89,3 +89,15 @@ sections:
           - Argyle (diamonds - closed 2020)
           - Prehnite deposits
           - Limited gemstone production
+
+references:
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "Walter"
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling Publishing"
+    year: 2009
+    isbn: "978-1-4027-6829-3"

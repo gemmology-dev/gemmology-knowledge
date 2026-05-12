@@ -21,7 +21,7 @@ sections:
       Paraíba tourmaline represents one of the most remarkable gem discoveries
       of the 20th century. The neon blue-green colours, caused by trace copper,
       were unlike anything previously seen in tourmaline and created an entirely
-      new category in the gem market.
+      new category in the gem market. {cite:schumann-2009-gemstones}
 
   - title: Discovery
     content: |
@@ -31,7 +31,7 @@ sections:
         content: |
           - **Year**: 1989 (significant production began)
           - **Location**: São José da Batalha, Paraíba State
-          - **Discoverer**: Heitor Dimas Barbosa
+          - **Discoverer**: Heitor Dimas Barbosa {cite:shigley-2010-gem-localities}
           - **Persistence**: Years of searching before major find
 
       - title: Significance
@@ -132,3 +132,32 @@ sections:
       - **Colour quality**: Neon "electric" effect most valued
       - **Investment potential**: Strong for fine Brazilian stones
       - **Matching**: Sets extremely difficult and valuable
+
+references:
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "Walter"
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling Publishing"
+    year: 2009
+    isbn: "978-1-4027-6829-3"
+
+  - id: shigley-2010-gem-localities
+    kind: article
+    authors:
+      - family: "Shigley"
+        given: "James E."
+      - family: "Kane"
+        given: "Robert E."
+      - family: "Dettman"
+        given: "David L."
+    title: "Gem Localities of the 2000s"
+    journal: "Gems & Gemology"
+    year: 2010
+    volume: 46
+    issue: 3
+    pages: "188–216"
+    doi: "10.5741/gems.46.3.188"

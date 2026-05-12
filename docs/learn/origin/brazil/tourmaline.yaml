@@ -78,7 +78,7 @@ sections:
 
       - title: Chrome Tourmaline
         content: |
-          - **Source**: Bahia primary
+          - **Source**: Bahia primary {cite:schumann-2009-gemstones}
           - **Colour**: Intense green (chromium)
           - **Character**: Richer than iron-green
           - **Value**: Premium for fine saturation
@@ -107,7 +107,7 @@ sections:
     subsections:
       - title: Rio Grande do Sul
         content: |
-          - World's largest amethyst producer
+          - World's largest amethyst producer {cite:schumann-2009-gemstones}
           - Famous for geodes and cathedral formations
           - Heat treatment to citrine common
           - Ametrine also produced
@@ -116,7 +116,7 @@ sections:
         content: |
           - Much rarer than amethyst
           - Often lighter, more subtle colour
-          - Most "citrine" is heated amethyst
+          - Most "citrine" is heated amethyst {cite:read-2014-gemmology}
           - Natural material commands premium
 
       - title: Ametrine
@@ -149,3 +149,26 @@ sections:
       - **Volume**: Major world producer
       - **Value**: Varies widely by variety and quality
       - **Cutting**: Major domestic cutting industry
+
+references:
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "Walter"
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling Publishing"
+    year: 2009
+    isbn: "978-1-4027-6829-3"
+
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "Peter G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann"
+    year: 2014
+    doi: "10.4324/9780080507224"

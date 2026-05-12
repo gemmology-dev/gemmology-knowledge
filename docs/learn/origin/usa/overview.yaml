@@ -61,7 +61,7 @@ sections:
   - title: Arizona Peridot – San Carlos
     content: |
       San Carlos Apache Reservation (Gila County) produces an estimated 80–95% of
-      commercial peridot by volume:
+      commercial peridot by volume: {cite:koivula-1981-san-carlos}
 
       - **Host**: Quaternary alkali basalt; peridot is a mantle xenocryst
       - **Composition**: Mg₂SiO₄–Fe₂SiO₄ (olivine); San Carlos material ~Fo₈₆–Fo₉₂
@@ -70,7 +70,7 @@ sections:
       - **Colour**: Yellow-green to lime-green (Fe²⁺ chromophore)
       - **Absorption**: Three-banded iron spectrum: 493, 473, 453 nm (Foundation examination requirement)
       - **Key inclusions**: Chromite (spinel) with lily-pad tension fracture halos (Diploma
-        requirement); ludwigite platelets; biotite; fluid inclusions
+        requirement); ludwigite platelets; biotite; fluid inclusions {cite:koivula-1981-san-carlos}
       - **Origin discrimination**: Not practical at bench level; San Carlos vs Hawaiian or
         Chinese peridot requires quantitative microprobe analysis
 
@@ -81,7 +81,7 @@ sections:
       - Both produce elbaite (Na(Li,Al)₃Al₆(Si₆O₁₈)(BO₃)₃(OH)₄) from LCT-type pegmatites
       - Colour range: pink/red rubellite, blue indicolite, bicolour, watermelon, parti
       - RI: 1.614–1.679 (uniaxial negative); SG: 3.01–3.06; birefringence: 0.014–0.021
-      - California: historical Qing Dynasty export; Maine: first commercial North American tourmaline
+      - California: historical Qing Dynasty export; Maine: first commercial North American tourmaline {cite:schumann-2009-gemstones}
       - Discrimination between California and Maine deposits, and between US and other
         tourmaline origins, is a laboratory-level task requiring trace element chemistry
 
@@ -110,3 +110,28 @@ sources:
     citation: "Shigley & Foord (1984) Red Beryl, Wah Wah Mountains, Utah. Gems & Gemology."
   - doi: "10.5741/gems.17.4.205"
     citation: "Koivula (1981) San Carlos peridot. Gems & Gemology."
+
+references:
+  - id: koivula-1981-san-carlos
+    kind: article
+    authors:
+      - family: "Koivula"
+        given: "John I."
+    title: "San Carlos Peridot"
+    journal: "Gems & Gemology"
+    year: 1981
+    volume: 17
+    issue: 4
+    pages: "205–215"
+    doi: "10.5741/gems.17.4.205"
+
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "Walter"
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling Publishing"
+    year: 2009
+    isbn: "978-1-4027-6829-3"

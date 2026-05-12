@@ -34,7 +34,7 @@ sections:
         content: |
           - **Tanzanite**: Single-source rarity (Merelani Hills)
           - **Spinel**: World-class neon pinks from Mahenge
-          - **Colour-change garnet**: Exceptional pyrope-spessartine
+          - **Colour-change garnet**: Exceptional pyrope-spessartine {cite:schumann-2009-gemstones}
           - **Sapphire**: Good commercial production
 
       - title: Kenya
@@ -45,7 +45,7 @@ sections:
 
       - title: Mozambique
         content: |
-          - **Ruby**: Montepuez now a major world source
+          - **Ruby**: Montepuez now a major world source {cite:palke-2019-ruby-origin}
           - **Paraiba-type tourmaline**: Copper-bearing material
           - **Aquamarine**: Santa Maria-type colour
 
@@ -68,3 +68,32 @@ sections:
       - Mozambican ruby fills supply gaps from Myanmar
       - Mahenge spinel revitalized collector interest
       - Paraiba-type tourmaline expanded availability of neon colours
+
+references:
+  - id: palke-2019-ruby-origin
+    kind: article
+    authors:
+      - family: "Palke"
+        given: "Aaron C."
+      - family: "Renfro"
+        given: "Nathan"
+      - family: "Berg"
+        given: "Robert B."
+    title: "Geographic Origin Determination of Ruby"
+    journal: "Gems & Gemology"
+    year: 2019
+    volume: 55
+    issue: 4
+    pages: "580–612"
+    doi: "10.5741/gems.55.4.580"
+
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "Walter"
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling Publishing"
+    year: 2009
+    isbn: "978-1-4027-6829-3"

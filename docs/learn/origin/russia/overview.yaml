@@ -1,5 +1,5 @@
-title: Russia – Ural Gem Deposits Overview
-description: Ural Mountains gem belt – demantoid garnet, alexandrite, emerald; Yakutia diamond; serpentinite and mica-schist geological settings.
+title: Russia — Ural Gem Deposits Overview
+description: Ural Mountains gem belt — demantoid garnet, alexandrite, emerald; Yakutia diamond; serpentinite and mica-schist geological settings.
 order: 1
 category: origin
 subcategory: russia
@@ -31,8 +31,8 @@ sections:
       Late Palaeozoic (350–290 Ma) suturing of the Russian and Siberian plates.
 
       Russia also hosts the world's largest diamond production by volume in Yakutia
-      (Sakha Republic, eastern Siberia) – geographically and geologically distinct
-      from the Ural gem belt.
+      (Sakha Republic, eastern Siberia) — geographically and geologically distinct
+      from the Ural gem belt. {cite:shigley-2010-gem-localities}
 
   - title: Geological Settings
     table:
@@ -45,22 +45,22 @@ sections:
         - ["Mica-schist / phlogopite contact zones", "Tokovaya River district", "Alexandrite, emerald"]
         - ["Kimberlite pipes", "Yakutia / Sakha Republic (eastern Siberia)", "Diamond (Russian diamond)"]
 
-  - title: Demantoid Garnet – Brief Overview
+  - title: Demantoid Garnet — Brief Overview
     content: |
       - Discovered 1860s; Bobrovka River and Sysert area, Sverdlovsk Oblast
       - Andradite garnet (Ca₃Fe₂(SiO₄)₃), Cr³⁺-coloured; highest dispersion of
-        any natural garnet (0.057 – exceeds diamond 0.044)
+        any natural garnet (0.057 — exceeds diamond 0.044)
       - "Horsetail" inclusion is the single most diagnostic Ural feature
       - See dedicated file: origin/russia/demantoid
 
-  - title: Alexandrite – Brief Overview
+  - title: Alexandrite — Brief Overview
     content: |
       - Discovered 1830; Tokovaya River district, ~80 km east of Yekaterinburg
       - Named for Tsarevich Alexander (later Tsar Alexander II)
       - Russian alexandrite = global benchmark for colour-change quality
       - See dedicated file: origin/russia/alexandrite
 
-  - title: Ural Emerald – Brief Overview
+  - title: Ural Emerald — Brief Overview
     content: |
       - Izumrudnye Kopi (Emerald Mines) + Malyshevsky deposit; ~90 km NE of Yekaterinburg
       - Phlogopite mica inclusions are most diagnostic feature for Ural provenance
@@ -71,11 +71,11 @@ sections:
     content: |
       Russia is the world's largest diamond producer by volume (Alrosa company operations):
 
-      - **Mir pipe** (Mirny): Discovered 1955; one of the largest kimberlite pipes;
+      - **Mir pipe** (Mirny): Discovered 1955; one of the largest kimberlite pipes; {cite:schumann-2009-gemstones}
         underground mining continues
       - **Udachnaya, Aikhal, Jubilee pipes** (Nyurba field): Major modern producers
       - Russian Yakutian diamonds show the standard kimberlitic inclusion suite
-        (olivine/forsterite, pyrope garnet, chrome diopside, graphite) – no unique
+        (olivine/forsterite, pyrope garnet, chrome diopside, graphite) — no unique
         macro-diagnostic features that distinguish them from other kimberlitic origins
         at the gemmological bench level
       - Separation from HPHT or CVD synthetic diamond uses standard spectroscopic
@@ -104,3 +104,32 @@ sources:
     citation: "Krzemnicki (1999) Diopside needles as inclusions in demantoid garnet. Gems & Gemology."
   - doi: "10.5741/gems.31.2.106"
     citation: "Laskovenkov & Zhernakov (1995) The Ural Emerald Mines. Gems & Gemology."
+
+references:
+  - id: shigley-2010-gem-localities
+    kind: article
+    authors:
+      - family: "Shigley"
+        given: "James E."
+      - family: "Kane"
+        given: "Robert E."
+      - family: "Dettman"
+        given: "David L."
+    title: "Gem Localities of the 2000s"
+    journal: "Gems & Gemology"
+    year: 2010
+    volume: 46
+    issue: 3
+    pages: "188–216"
+    doi: "10.5741/gems.46.3.188"
+
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "Walter"
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling Publishing"
+    year: 2009
+    isbn: "978-1-4027-6829-3"

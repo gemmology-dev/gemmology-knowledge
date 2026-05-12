@@ -1,5 +1,5 @@
-title: Russian Alexandrite – Tokovaya District, Ural Mountains
-description: Tokovaya district alexandrite – 1830 discovery, named for Tsar Alexander II; benchmark colour change; mica-schist host; market position vs synthetic.
+title: Russian Alexandrite — Tokovaya District, Ural Mountains
+description: Tokovaya district alexandrite — 1830 discovery, named for Tsar Alexander II; benchmark colour change; mica-schist host; market position vs synthetic.
 order: 3
 category: origin
 subcategory: russia
@@ -36,9 +36,9 @@ sections:
 
       - **1830**: Russian alexandrite discovered in mica schists of the Tokovaya River
         district (Sanarka basin), approximately 80 km east of Yekaterinburg, Southern Urals
-      - Named in honour of Tsarevich Alexander (later Tsar Alexander II) – the discovery
-        reportedly occurred on the day of his coming of age
-      - The locality also hosts the Izumrudnye Kopi (Emerald Mines) district – the same
+      - Named in honour of Tsarevich Alexander (later Tsar Alexander II) — the discovery
+        reportedly occurred on the day of his coming of age {cite:schumann-2009-gemstones}
+      - The locality also hosts the Izumrudnye Kopi (Emerald Mines) district — the same
         mica-schist geological setting produces both alexandrite and emerald
       - Russian alexandrite was fashionable in late 19th century European jewellery;
         stones remain among the most valuable chrysoberyl specimens
@@ -65,12 +65,12 @@ sections:
         - ["RI", "1.745–1.757 (α); birefringence 0.008–0.010"]
         - ["SG", "3.73"]
         - ["Hardness", "8.5 (Mohs)"]
-        - ["Pleochroism", "Trichroic – green / orange-yellow / red (strong)"]
+        - ["Pleochroism", "Trichroic — green / orange-yellow / red (strong)"]
         - ["Chelsea Colour Filter", "Pinkish-red to red (Cr³⁺ response)"]
         - ["Fluorescence", "Moderate red under LWUV; stronger under SWUV"]
         - ["Key absorption", "680 nm Cr doublet; 645 nm; 580 nm band"]
 
-  - title: Colour Change – The Russian Standard
+  - title: Colour Change — The Russian Standard
     content: |
       What defines Russian alexandrite quality:
     subsections:
@@ -83,14 +83,14 @@ sections:
       - title: Incandescent Colour
         content: |
           - Raspberry red to purple-red; vivid and saturated in fine material
-          - The change should be complete – not a muddy intermediate
+          - The change should be complete — not a muddy intermediate
           - "The Russian standard": the most balanced and distinct colour change
             of any alexandrite source
 
       - title: Mechanism
         content: |
           - Cr³⁺ in BeAl₂O₄ creates two transmission windows: ~550 nm (green) and
-            ~680 nm (red)
+            ~680 nm (red) {cite:palke-2019-alexandrite-origin}
           - Under daylight (blue-rich illuminant), the eye perceives green
           - Under incandescent light (red-rich), the eye perceives red
           - The sharpness of the change depends on how cleanly Cr³⁺ absorbs the
@@ -116,7 +116,7 @@ sections:
         absorption spectrum and colour-change mechanism as natural. Distinction REQUIRES
         microscopic inclusion examination:
 
-        - **Czochralski synthetic**: Curved growth striae (parallel to growth front);
+        - **Czochralski synthetic**: Curved growth striae (parallel to growth front); {cite:read-2014-gemmology}
           nail-head spicules characteristic of pulled-from-melt growth
         - **Flux synthetic**: Twisted fingerprints; wispy veils; Pt platelets possible;
           no curved striae
@@ -133,7 +133,7 @@ sections:
         and good size commands the highest prices in the alexandrite market
       - **Typical values**: Fine stones >1 ct: $10,000–50,000/ct depending on change
         quality, colour saturation, clarity, and size
-      - **Unheated premium**: Natural colour – no treatment issue in alexandrite;
+      - **Unheated premium**: Natural colour — no treatment issue in alexandrite;
         focus is on natural vs synthetic and origin origin
       - **Alternative sources**: Brazil, Sri Lanka, India, and East Africa produce
         alexandrite; none consistently match Ural quality; Brazilian material is the
@@ -142,3 +142,43 @@ sections:
 sources:
   - doi: "10.5741/gems.30.4.243"
     citation: "Kissin (1994) Ruby and Sapphire from the Southern Ural Mountains, Russia. Gems & Gemology."
+
+references:
+  - id: palke-2019-alexandrite-origin
+    kind: article
+    authors:
+      - family: "Palke"
+        given: "Aaron C."
+      - family: "Renfro"
+        given: "Nathan"
+      - family: "Berg"
+        given: "Robert B."
+    title: "Geographic Origin Determination of Alexandrite"
+    journal: "Gems & Gemology"
+    year: 2019
+    volume: 55
+    issue: 4
+    pages: "660–681"
+    doi: "10.5741/gems.55.4.660"
+
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "Walter"
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling Publishing"
+    year: 2009
+    isbn: "978-1-4027-6829-3"
+
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "Peter G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann"
+    year: 2014
+    doi: "10.4324/9780080507224"

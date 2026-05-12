@@ -32,12 +32,12 @@ sections:
         content: |
           - "Balas ruby" - historic term for red spinel
           - Many crown jewels contain spinel mistaken for ruby
-          - Black Prince's "Ruby" - actually 170ct red spinel
+          - Black Prince's "Ruby" - actually 170ct red spinel {cite:schumann-2009-gemstones}
           - Timur "Ruby" - 352ct spinel in British Crown Jewels
 
       - title: Modern Recognition
         content: |
-          - Distinguished from ruby only in 18th century
+          - Distinguished from ruby only in 18th century {cite:read-2014-gemmology}
           - Now valued in its own right
           - Premium source: Mogok, Burma
           - Competing source: Mahenge, Tanzania
@@ -112,7 +112,7 @@ sections:
     content: |
       A key advantage of spinel:
 
-      - **No treatment standard**: Spinel is virtually never treated
+      - **No treatment standard**: Spinel is virtually never treated {cite:read-2014-gemmology}
       - **Natural colour**: Colour is always assumed natural
       - **Advantage over ruby**: No heating concerns
       - **Collector appeal**: Completely natural gems
@@ -127,3 +127,26 @@ sections:
       - **Comparison**: Often compared favorably to ruby
       - **Supply**: Limited; fine stones scarce
       - **Investment potential**: Strong for exceptional pieces
+
+references:
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "Walter"
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling Publishing"
+    year: 2009
+    isbn: "978-1-4027-6829-3"
+
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "Peter G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann"
+    year: 2014
+    doi: "10.4324/9780080507224"

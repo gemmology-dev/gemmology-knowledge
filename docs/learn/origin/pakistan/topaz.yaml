@@ -1,4 +1,4 @@
-title: Katlang Pink Topaz – Pakistan
+title: Katlang Pink Topaz — Pakistan
 description: Chromium-coloured pink to champagne topaz from Katlang, Mardan district; Cr³⁺ colouring diagnostic, calcite-vein hosted, rare among topaz globally.
 order: 4
 category: origin
@@ -21,7 +21,7 @@ sections:
     content: |
       Pink topaz from the Katlang deposit in the Mardan district of Khyber Pakhtunkhwa
       is exceptional among topaz varieties worldwide: its pink to pinkish-orange colour
-      is caused by trace chromium (Cr³⁺) – an extremely rare colouring mechanism for
+      is caused by trace chromium (Cr³⁺) — an extremely rare colouring mechanism for
       topaz. Most pink topaz on the market is either irradiation-induced pink (colourless
       topaz irradiated and heat-treated) or Mn-coloured. Katlang material is genuinely
       Cr-coloured, making it diagnostically distinct and scientifically noteworthy.
@@ -33,7 +33,7 @@ sections:
       - **Host**: Narrow calcite veins in recrystallised limestone (marble); the topaz
         crystallises within vein cavities
       - **Location**: Katlang, Mardan district, Khyber Pakhtunkhwa; the deposit was
-        documented by Spengler (1985) and Gübelin, Graziani and Kazmi (1986)
+        documented by Spengler (1985) {cite:spengler-1985-katlang} and Gübelin, Graziani and Kazmi (1986) {cite:gubelin-1986-pink-topaz}
       - **Crystal habit**: Well-formed prismatic crystals; sizes typically small (up to
         3 cm reported); associated colourless, reddish-brown, and tan topaz also recovered
       - **Topaz species**: Al₂SiO₄(F,OH)₂; the F/OH ratio at Katlang influences specific
@@ -46,7 +46,7 @@ sections:
       - title: Chromium Colouring
         content: |
           - **Confirmed chromophore**: Gübelin et al. (1986) confirmed "the color is due
-            to trace elements – principally chromium (Cr³⁺)"
+            to trace elements — principally chromium (Cr³⁺)" {cite:gubelin-1986-pink-topaz}
           - This Cr³⁺ substitution produces pink to pinkish-orange to champagne colour
             through absorption in the yellow-green region (~550 nm)
 
@@ -69,7 +69,7 @@ sections:
         - ["Chromophore", "Cr³⁺", "Colour centres (radiation)", "Mn³⁺"]
         - ["Absorption spectrum", "Cr bands (~550 nm, ~670 nm)", "Different band pattern", "Mn band (~490 nm)"]
         - ["Chelsea filter", "Reddish (Cr response)", "Inert or faint", "May show weak response"]
-        - ["Stability", "Stable", "May fade in light/heat", "Generally stable"]
+        - ["Stability", "Stable", "May fade in light/heat {cite:read-2014-gemmology}", "Generally stable"]
         - ["Origin", "Pakistan only (major source)", "Any country's colourless topaz", "Various sources"]
         - ["Treatment", "Natural colour", "Treated", "Natural"]
 
@@ -84,7 +84,7 @@ sections:
         in the world producing topaz coloured by actual Cr³⁺ substitution into the lattice.
 
         This makes Katlang material among the most scientifically interesting topaz types
-        and means it will not fade under normal wearing conditions – a practical advantage
+        and means it will not fade under normal wearing conditions — a practical advantage
         over irradiation-treated pink topaz.
 
   - title: Physical Properties
@@ -103,3 +103,45 @@ sources:
     citation: "Gübelin, Graziani & Kazmi (1986) Pink Topaz from Pakistan. Gems & Gemology."
   - doi: "10.15506/jog.1985.19.8.664"
     citation: "Spengler (1985) The Katlang Pink Topaz Mine, North West Frontier Province, Pakistan. Journal of Gemmology."
+
+references:
+  - id: gubelin-1986-pink-topaz
+    kind: article
+    authors:
+      - family: "Gübelin"
+        given: "Eduard J."
+      - family: "Graziani"
+        given: "G."
+      - family: "Kazmi"
+        given: "A. H."
+    title: "Pink Topaz from Pakistan"
+    journal: "Gems & Gemology"
+    year: 1986
+    volume: 22
+    issue: 3
+    pages: "140–148"
+    doi: "10.5741/gems.22.3.140"
+
+  - id: spengler-1985-katlang
+    kind: article
+    authors:
+      - family: "Spengler"
+        given: "R. W."
+    title: "The Katlang Pink Topaz Mine, North West Frontier Province, Pakistan"
+    journal: "Journal of Gemmology"
+    year: 1985
+    volume: 19
+    issue: 8
+    pages: "664–673"
+    doi: "10.15506/jog.1985.19.8.664"
+
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "Peter G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann"
+    year: 2014
+    doi: "10.4324/9780080507224"

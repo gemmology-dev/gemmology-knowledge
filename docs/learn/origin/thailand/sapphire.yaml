@@ -44,7 +44,7 @@ sections:
 
   - title: Diagnostic Inclusions
     content: |
-      Khamloet et al. (2014) identified two groups of mineral inclusions from Bo Phloi:
+      Khamloet et al. (2014) identified two groups of mineral inclusions from Bo Phloi: {cite:khamloet-2014-bo-phloi}
     subsections:
       - title: Felsic Alkaline Suite
         content: |
@@ -92,7 +92,7 @@ sections:
       - title: Fluorescence
         content: |
           - LWUV fluorescence: Inert to very weak
-          - High iron strongly suppresses any fluorescence
+          - High iron strongly suppresses any fluorescence {cite:palke-2019-sapphire-origin}
           - Contrast with Kashmir sapphire: moderate chalky blue fluorescence
           - Contrast with some Ceylon material: variable blue-white fluorescence
 
@@ -128,3 +128,35 @@ sources:
     citation: "Sutthirat et al. (2019) Multistages of sapphire formation, Bo Phloi basaltic gem field. Journal of Asian Earth Sciences."
   - doi: "10.5741/gems.55.4.536"
     citation: "Palke et al. (2019) Geographic Origin Determination of Blue Sapphire. Gems & Gemology."
+
+references:
+  - id: khamloet-2014-bo-phloi
+    kind: article
+    authors:
+      - family: "Khamloet"
+        given: "Phussadee"
+      - family: "Pisutha-Arnond"
+        given: "Visut"
+      - family: "Sutthirat"
+        given: "Chakkaphan"
+    title: "Mineral inclusions in sapphire from the basalt-related deposit in Bo Phloi, Kanchanaburi, western Thailand"
+    journal: "Russian Geology and Geophysics"
+    year: 2014
+    doi: "10.1016/j.rgg.2014.08.004"
+
+  - id: palke-2019-sapphire-origin
+    kind: article
+    authors:
+      - family: "Palke"
+        given: "Aaron C."
+      - family: "Renfro"
+        given: "Nathan D."
+      - family: "Berg"
+        given: "Robert B."
+    title: "Geographic Origin Determination of Blue Sapphire"
+    journal: "Gems & Gemology"
+    year: 2019
+    volume: 55
+    issue: 4
+    pages: "536–579"
+    doi: "10.5741/gems.55.4.536"

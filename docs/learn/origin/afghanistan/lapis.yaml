@@ -1,5 +1,5 @@
-title: Lapis Lazuli – Sar-e-Sang, Afghanistan
-description: Sar-e-Sang (Badakhshan) lapis lazuli – the canonical ancient-world source, >7,000 years of continuous mining, geochemical fingerprinting, grades and quality.
+title: Lapis Lazuli — Sar-e-Sang, Afghanistan
+description: Sar-e-Sang (Badakhshan) lapis lazuli — the canonical ancient-world source, >7,000 years of continuous mining, geochemical fingerprinting, grades and quality.
 order: 2
 category: origin
 subcategory: afghanistan
@@ -21,12 +21,12 @@ sections:
   - title: Introduction
     content: |
       The Sar-e-Sang deposit in the Kokcha River Valley of Badakhshan Province, Afghanistan,
-      is the world's oldest continuously operated gem mine – mined for more than 7,000 years
-      without interruption. It supplied lapis lazuli to the pharaohs of Egypt, the scribes
-      of Mesopotamia, and the craftspeople of the Indus Valley civilisation. Lo Giudice et al.
-      (2016) demonstrated through geochemical provenance protocols that ancient artefacts
-      from Egyptian museums were of "Afghan origin" – confirming the singular historical
-      primacy of this deposit.
+      is the world's oldest continuously operated gem mine — mined for more than 7,000 years
+      without interruption. {cite:lo-giudice-2016-lapis-provenance} It supplied lapis lazuli
+      to the pharaohs of Egypt, the scribes of Mesopotamia, and the craftspeople of the Indus
+      Valley civilisation. Lo Giudice et al. (2016) demonstrated through geochemical provenance
+      protocols that ancient artefacts from Egyptian museums were of "Afghan origin" —
+      confirming the singular historical primacy of this deposit. {cite:lo-giudice-2016-lapis-provenance}
 
   - title: Mineralogy of Lapis Lazuli
     content: |
@@ -38,7 +38,7 @@ sections:
             a member of the sodalite group containing sulfur as S₃⁻ chromophore
           - **Calcite**: White to colourless; determines the grade (less calcite = higher
             grade in the Sar-e-Sang system)
-          - **Pyrite**: Gold metallic flecks – characteristic and commercially valued
+          - **Pyrite**: Gold metallic flecks — characteristic and commercially valued
             in Afghan material
           - **Minor minerals**: Diopside, phlogopite, wollastonite from the contact
             metamorphic environment
@@ -46,8 +46,8 @@ sections:
       - title: Colour Mechanism
         content: |
           - The blue colour arises from the S₃⁻ radical anion (trisulfide) in the
-            lazurite structure – the same mechanism responsible for ultramarine pigment
-            produced synthetically since the 19th century
+            lazurite structure — the same mechanism responsible for ultramarine pigment
+            produced synthetically since the 19th century {cite:read-2014-gemmology}
           - Cu/Fe ratio in the broader mineral assemblage and S₃⁻ concentration control
             the exact tone: deeper blue with higher S₃⁻
 
@@ -80,7 +80,7 @@ sections:
       type: info
       title: The Gold Flecks
       text: |
-        The gold-coloured metallic flecks in lapis lazuli are PYRITE (FeS₂) – iron
+        The gold-coloured metallic flecks in lapis lazuli are PYRITE (FeS₂) — iron
         sulfide. In Afghan Sar-e-Sang material, evenly distributed fine pyrite flecks
         are considered a quality feature, indicating a natural, untreated stone from
         the metamorphic contact zone.
@@ -119,9 +119,46 @@ sections:
         Sar-e-Sang lapis imported via the Silk Road
       - The Sanskrit word for blue (nila) and the Persian word for lapis (lazhward)
         both derive from the cultural centrality of this material
-      - The mine has been operated under continuous human control for 70+ centuries – 
+      - The mine has been operated under continuous human control for 70+ centuries —
         arguably the longest-operating mine in human history
 
 sources:
   - doi: "10.1007/s12520-016-0430-0"
     citation: "Lo Giudice et al. (2016) Protocol for lapis lazuli provenance determination: evidence for Afghan origin. Archaeological and Anthropological Sciences."
+
+references:
+  - id: lo-giudice-2016-lapis-provenance
+    kind: article
+    authors:
+      - family: "Lo Giudice"
+        given: "Alessandro"
+      - family: "Angelici"
+        given: "Davide"
+      - family: "Re"
+        given: "Alessandro"
+    title: "Protocol for lapis lazuli provenance determination: evidence for Afghan origin"
+    journal: "Archaeological and Anthropological Sciences"
+    year: 2016
+    doi: "10.1007/s12520-016-0430-0"
+
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "Peter G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann"
+    year: 2014
+    doi: "10.4324/9780080507224"
+
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "Walter"
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling Publishing"
+    year: 2009
+    isbn: "978-1-4027-6829-3"

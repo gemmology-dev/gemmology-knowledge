@@ -34,7 +34,7 @@ sections:
         content: |
           - **Geology**: Marble host rock (low iron environment)
           - **Colour**: Pure chromium red with minimal iron
-          - **Fluorescence**: Strong red (adds to colour)
+          - **Fluorescence**: Strong red (adds to colour) {cite:palke-2019-ruby-origin}
           - **Clarity**: Often clean or with silk that adds softness
           - **History**: 1,000+ years of documented production
 
@@ -52,8 +52,8 @@ sections:
       title: The Ideal Colour
       text: |
         "Pigeon blood" describes the ideal ruby colour: vivid red with a slight
-        blue modifier, medium-dark tone, and strong saturation. The term
-        originally applied only to Mogok rubies.
+        blue modifier, medium-dark tone, and strong saturation. {cite:palke-2019-ruby-origin}
+        The term originally applied only to Mogok rubies. {cite:hughes-2017-ruby-sapphire}
 
         Today, major laboratories have their own criteria - some will apply the
         term to exceptional rubies regardless of origin. The designation
@@ -77,7 +77,7 @@ sections:
     content: |
       Myanmar's other major ruby source:
 
-      - **Location**: Shan State, discovered 1990s
+      - **Location**: Shan State, discovered 1990s {cite:hughes-2017-ruby-sapphire}
       - **Character**: Often dark cores with saturated edges
       - **Treatment**: Most material heat-treated
       - **Volume**: Major production; lower quality average
@@ -136,3 +136,31 @@ sections:
       - **Ethical concerns**: Factor in some markets
       - **Alternatives**: Mozambique filling supply gap
       - **Investment**: Fine unheated Mogok highly collectible
+
+references:
+  - id: palke-2019-ruby-origin
+    kind: article
+    authors:
+      - family: "Palke"
+        given: "Aaron C."
+      - family: "Renfro"
+        given: "Nathan"
+      - family: "Berg"
+        given: "Robert B."
+    title: "Geographic Origin Determination of Ruby"
+    journal: "Gems & Gemology"
+    year: 2019
+    volume: 55
+    issue: 4
+    pages: "580–612"
+    doi: "10.5741/gems.55.4.580"
+
+  - id: hughes-2017-ruby-sapphire
+    kind: book
+    authors:
+      - family: "Hughes"
+        given: "Richard W."
+    title: "Ruby & Sapphire: A Gemologist's Guide"
+    publisher: "RWH Publishing"
+    year: 2017
+    isbn: "978-0-9645097-6-4"

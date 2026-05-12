@@ -19,8 +19,8 @@ sections:
   - title: Introduction
     content: |
       Australia has been a significant sapphire producer since the 1850s,
-      with major alluvial deposits in New South Wales and Queensland.
-      While often darker than Ceylon or Burmese material, Australian
+      {cite:schumann-2009-gemstones} with major alluvial deposits in New South Wales
+      and Queensland. While often darker than Ceylon or Burmese material, Australian
       sapphires offer excellent value and distinctive parti-colour varieties.
 
   - title: Sources
@@ -50,7 +50,7 @@ sections:
           - **Typical colour**: Often dark; "inky" appearance
           - **Tone**: Medium-dark to very dark
           - **Saturation**: Can be quite saturated
-          - **Iron content**: Higher than Ceylon/Burma
+          - **Iron content**: Higher than Ceylon/Burma {cite:palke-2019-sapphire-origin}
           - **Treatment**: Heat treatment common
 
       - title: Parti-Sapphire
@@ -131,7 +131,7 @@ sections:
           - **Location**: Marlborough, Queensland
           - **Quality**: Finest chrysoprase in world
           - **Colour**: Apple green to deep green
-          - **Chromophore**: Nickel
+          - **Chromophore**: Nickel {cite:schumann-2009-gemstones}
 
       - title: Characteristics
         content: |
@@ -146,3 +146,32 @@ sections:
           - Fine material increasingly scarce
           - Often cut as cabochons
           - Some faceted for effect
+
+references:
+  - id: palke-2019-sapphire-origin
+    kind: article
+    authors:
+      - family: "Palke"
+        given: "Aaron C."
+      - family: "Renfro"
+        given: "Nathan"
+      - family: "Berg"
+        given: "Robert B."
+    title: "Geographic Origin Determination of Blue Sapphire"
+    journal: "Gems & Gemology"
+    year: 2019
+    volume: 55
+    issue: 4
+    pages: "536–579"
+    doi: "10.5741/gems.55.4.536"
+
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "Walter"
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling Publishing"
+    year: 2009
+    isbn: "978-1-4027-6829-3"

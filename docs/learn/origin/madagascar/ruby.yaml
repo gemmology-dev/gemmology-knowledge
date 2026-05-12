@@ -67,7 +67,7 @@ sections:
 
       - title: Fluorescence
         content: |
-          - Variable depending on iron content
+          - Variable depending on iron content {cite:palke-2019-ruby-origin}
           - Lower iron = better fluorescence
           - Less consistent than Mogok
           - Factor in colour appearance
@@ -90,6 +90,7 @@ sections:
           text: |
             Some Madagascar ruby has been treated with beryllium diffusion,
             which uses trace elements to alter colour throughout the stone.
+            {cite:palke-2019-ruby-origin}{cite:read-2014-gemmology}
             This treatment is controversial and must be disclosed.
 
             Laboratory testing is essential for significant purchases to
@@ -129,3 +130,32 @@ sections:
       - **Beryllium testing**: Request specific testing
       - **Unheated premium**: Worth paying for fine stones
       - **Origin verification**: Laboratory confirmation available
+
+references:
+  - id: palke-2019-ruby-origin
+    kind: article
+    authors:
+      - family: "Palke"
+        given: "Aaron C."
+      - family: "Renfro"
+        given: "Nathan"
+      - family: "Berg"
+        given: "Robert B."
+    title: "Geographic Origin Determination of Ruby"
+    journal: "Gems & Gemology"
+    year: 2019
+    volume: 55
+    issue: 4
+    pages: "580–612"
+    doi: "10.5741/gems.55.4.580"
+
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "Peter G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann"
+    year: 2014
+    doi: "10.4324/9780080507224"

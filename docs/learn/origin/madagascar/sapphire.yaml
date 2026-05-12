@@ -32,7 +32,7 @@ sections:
         content: |
           - **Year**: 1998
           - **Location**: Southern Madagascar
-          - **Impact**: Massive sapphire rush; tens of thousands of miners
+          - **Impact**: Massive sapphire rush; tens of thousands of miners {cite:palke-2019-sapphire-origin}
           - **Scale**: One of world's largest sapphire sources
 
       - title: Deposit Characteristics
@@ -73,8 +73,8 @@ sections:
       title: Similar to Sri Lanka
       text: |
         Madagascar sapphires often share characteristics with Ceylon material:
-        similar colour tones, inclusion types, and appearance. This similarity
-        reflects comparable geological conditions.
+        similar colour tones, inclusion types, and appearance. {cite:palke-2019-sapphire-origin}
+        This similarity reflects comparable geological conditions.
 
         Laboratory origin determination can be challenging; some stones show
         overlapping characteristics between the two sources.
@@ -116,7 +116,7 @@ sections:
       Enhancement in Madagascar sapphire:
 
       - **Heat treatment**: Very common; improves colour
-      - **Beryllium diffusion**: Used on some material
+      - **Beryllium diffusion**: Used on some material {cite:read-2014-gemmology}
       - **Unheated premium**: Significant for fine stones
       - **Disclosure**: Required; check certificates
       - **Laboratory reports**: Recommended for purchases
@@ -130,3 +130,32 @@ sections:
       - **Quality ceiling**: Fine stones match traditional sources
       - **Origin disclosure**: Generally accepted
       - **Buyer advantage**: Excellent value for quality
+
+references:
+  - id: palke-2019-sapphire-origin
+    kind: article
+    authors:
+      - family: "Palke"
+        given: "Aaron C."
+      - family: "Renfro"
+        given: "Nathan"
+      - family: "Berg"
+        given: "Robert B."
+    title: "Geographic Origin Determination of Blue Sapphire"
+    journal: "Gems & Gemology"
+    year: 2019
+    volume: 55
+    issue: 4
+    pages: "536–579"
+    doi: "10.5741/gems.55.4.536"
+
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "Peter G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann"
+    year: 2014
+    doi: "10.4324/9780080507224"
