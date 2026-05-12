@@ -34,8 +34,8 @@ sections:
 
   - title: Flame Fusion (Verneuil Process)
     content: |
-      Invented in 1902, this is the oldest and most economical method. Powdered chemicals
-      are dropped through a high-temperature flame, melting and crystallizing on a
+      Invented in 1902, this is the oldest and most economical method {cite:nassau-1980-gems-made-by-man}.
+      Powdered chemicals are dropped through a high-temperature flame, melting and crystallizing on a
       rotating pedestal.
     table:
       caption: Flame Fusion Characteristics
@@ -43,7 +43,7 @@ sections:
         - Feature
         - Description
       rows:
-        - ["Curved striae", "Diagnostic curved growth lines (vs. straight in natural)"]
+        - ["Curved striae", "Diagnostic curved growth lines (vs. straight in natural) {cite:read-gemmology-3ed}"]
         - ["Gas bubbles", "Spherical or elongated bubbles"]
         - ["Colour", "Often more uniform than natural"]
         - ["Growth rate", "Fast (hours to days)"]
@@ -59,14 +59,14 @@ sections:
   - title: Flux Growth
     content: |
       Crystals grow slowly from a molten flux solution at high temperatures. This produces
-      high-quality crystals with natural-looking inclusions.
+      high-quality crystals with natural-looking inclusions {cite:gubelin-koivula-photoatlas-v1}.
     table:
       caption: Flux Growth Characteristics
       headers:
         - Feature
         - Description
       rows:
-        - ["Flux inclusions", "Wispy veils, fingerprints, flux \"pools\""]
+        - ["Flux inclusions", "Wispy veils, fingerprints, flux \"pools\" {cite:gubelin-koivula-photoatlas-v1}"]
         - ["Metallic platelets", "Platinum or gold from crucible"]
         - ["Colour zoning", "May be present but different pattern from natural"]
         - ["Growth rate", "Slow (months)"]
@@ -89,8 +89,8 @@ sections:
         - Description
       rows:
         - ["Seed plate", "Visible seed crystal or growth boundary"]
-        - ["Chevron zoning", "Zigzag or V-shaped colour patterns"]
-        - ["Nail-head spicules", "Characteristic pointed inclusions"]
+        - ["Chevron zoning", "Zigzag or V-shaped colour patterns {cite:gubelin-koivula-photoatlas-v2}"]
+        - ["Nail-head spicules", "Characteristic pointed inclusions {cite:gubelin-koivula-photoatlas-v2}"]
         - ["Two-phase inclusions", "Different appearance from natural"]
     subsections:
       - title: Materials Produced
@@ -110,7 +110,8 @@ sections:
 
   - title: CVD and HPHT Diamond
     content: |
-      Lab-grown diamonds are produced by two main methods.
+      Lab-grown diamonds are produced by two main methods. CVD and HPHT diamonds cannot be
+      detected without spectroscopy {cite:martineau-2004-cvd} {cite:eaton-magana-2017}.
     comparison:
       items:
         - title: HPHT (High Pressure High Temperature)
@@ -335,3 +336,57 @@ sections:
           - Evolution of detection methods
           - Changing market dynamics and pricing
           - Updated disclosure regulations
+
+references:
+  - id: nassau-1980-gems-made-by-man
+    kind: book
+    authors: [{family: Nassau, given: K.}]
+    title: "Gems Made by Man"
+    publisher: Chilton Book Company
+    year: 1980
+    isbn: "978-0-8019-6773-8"
+    confidence: "~"
+  - id: read-gemmology-3ed
+    kind: book
+    authors: [{family: Read, given: Peter G.}]
+    title: "Gemmology"
+    edition: 3rd
+    publisher: Butterworth-Heinemann
+    year: 2014
+    doi: "10.4324/9780080507224"
+    confidence: "✓"
+  - id: gubelin-koivula-photoatlas-v1
+    kind: book
+    authors: [{family: Gübelin, given: Eduard J.}, {family: Koivula, given: John I.}]
+    title: "Photoatlas of Inclusions in Gemstones, Vol. 1"
+    publisher: ABC Edition Zürich
+    year: 1986
+    isbn: "978-3-7281-2202-3"
+    confidence: "✓"
+  - id: gubelin-koivula-photoatlas-v2
+    kind: book
+    authors: [{family: Gübelin, given: Eduard J.}, {family: Koivula, given: John I.}]
+    title: "Photoatlas of Inclusions in Gemstones, Vol. 2"
+    publisher: ABC Edition Zürich
+    year: 1992
+    confidence: "~"
+  - id: martineau-2004-cvd
+    kind: journal
+    authors: [{family: Martineau, given: Philip M.}]
+    title: "Identification of Synthetic Diamond Grown Using Chemical Vapor Deposition (CVD)"
+    journal: "Gems & Gemology"
+    volume: 40
+    issue: 1
+    year: 2004
+    doi: "10.5741/gems.40.1.2"
+    confidence: "✓✓"
+  - id: eaton-magana-2017
+    kind: journal
+    authors: [{family: Eaton-Magaña, given: Sally}]
+    title: "An Introduction to CVD-Grown Synthetic Diamond"
+    journal: "Gems & Gemology"
+    volume: 53
+    issue: 3
+    year: 2017
+    doi: "10.5741/gems.53.3.262"
+    confidence: "✓✓"

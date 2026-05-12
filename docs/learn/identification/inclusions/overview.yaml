@@ -19,7 +19,8 @@ sections:
   - title: Introduction
     content: |
       Inclusions are internal features that provide valuable information about a gem's
-      identity, origin, and natural vs. synthetic status. They are a gem's "fingerprint."
+      identity, origin, and natural vs. synthetic status. They are a gem's "fingerprint"
+      {cite:gubelin-koivula-photoatlas-v1}.
 
       Understanding inclusions is fundamental to gemmological identification. Each gemstone
       species, and often each geographic origin, exhibits characteristic inclusion patterns
@@ -27,7 +28,7 @@ sections:
 
   - title: Classification of Inclusions
     content: |
-      Inclusions can be classified by their nature and timing of formation:
+      Inclusions can be classified by their nature and timing of formation {cite:read-gemmology-3ed}:
 
       **By Nature:**
       - **Solid inclusions** - Crystals of other minerals
@@ -54,10 +55,10 @@ sections:
       type: info
       title: Industry Standards
       text: |
-        The diamond grading standard uses 10x magnification as the benchmark for clarity
-        grading. However, for detailed inclusion study in coloured stones, 40-60x
-        magnification is often preferred for accurate identification of inclusion
-        types and origins.
+        The diamond grading standard uses 10× magnification as the benchmark for clarity
+        grading {cite:read-gemmology-3ed}. However, for detailed inclusion study in coloured
+        stones, 40–60× magnification is often preferred for accurate identification of inclusion
+        types and origins {cite:read-gemmology-3ed}.
 
   - title: Documentation Best Practice
     callout:
@@ -74,3 +75,22 @@ sections:
 
         Systematic documentation creates valuable reference material for future
         comparisons and supports identification conclusions.
+
+references:
+  - id: gubelin-koivula-photoatlas-v1
+    kind: book
+    authors: [{family: Gübelin, given: Eduard J.}, {family: Koivula, given: John I.}]
+    title: "Photoatlas of Inclusions in Gemstones, Vol. 1"
+    publisher: ABC Edition Zürich
+    year: 1986
+    isbn: "978-3-7281-2202-3"
+    confidence: "✓"
+  - id: read-gemmology-3ed
+    kind: book
+    authors: [{family: Read, given: Peter G.}]
+    title: "Gemmology"
+    edition: 3rd
+    publisher: Butterworth-Heinemann
+    year: 2014
+    doi: "10.4324/9780080507224"
+    confidence: "✓"

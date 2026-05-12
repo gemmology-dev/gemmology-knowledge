@@ -26,7 +26,8 @@ sections:
 
   - title: Rutile Silk in Corundum
     content: |
-      Rutile silk is the defining internal feature of many natural corundums:
+      Rutile silk is the defining internal feature of many natural corundums {cite:nassau-1981-heat-treat}.
+      TiO₂ crystals exsolved from the corundum lattice during cooling, oriented at 60° intersections:
 
       **Composition:**
       - Titanium dioxide (TiO2) crystals
@@ -41,19 +42,21 @@ sections:
 
   - title: Silk and Geographic Origin
     content: |
-      The characteristics of rutile silk are crucial for origin determination in corundum:
+      The characteristics of rutile silk are crucial for origin determination in corundum.
+      Short, fine needles indicate Burmese origin; longer needles at 60° indicate Sri Lankan origin
+      {cite:hughes-ruby-sapphire}.
     comparison:
       items:
         - title: Burmese Corundum
           variant: success
           points:
-            - Short, fine rutile needles
+            - Short, fine rutile needles {cite:hughes-ruby-sapphire}
             - Delicate, wispy appearance
             - Creates soft, velvety look
             - '"Finest" silk considered'
         - title: Sri Lankan (Ceylon)
           points:
-            - Long, prominent needles
+            - Longer needles at 60° {cite:hughes-ruby-sapphire}
             - Clearly visible individual needles
             - Often creates strong asterism
             - More widely spaced
@@ -82,7 +85,8 @@ sections:
 
   - title: Silk and Asterism
     content: |
-      Dense, properly oriented silk creates star effects (asterism):
+      Dense, properly oriented silk creates star effects (asterism). Three sets of rutile
+      needles at 60° create a six-ray star {cite:nassau-1981-heat-treat}:
 
       **Requirements for asterism:**
       - Sufficient density of silk needles
@@ -110,7 +114,7 @@ sections:
 
       **Diagnostic value:**
       - Intact silk suggests no high-temperature treatment
-      - Dissolved/dotted silk indicates heat treatment
+      - Dissolved/dotted silk indicates heat treatment {cite:nassau-1981-heat-treat} {cite:kane-1990-diffusion}
       - Complete absence may indicate treatment or origin
     callout:
       type: warning
@@ -178,3 +182,33 @@ sections:
 
         Document silk characteristics carefully as they are crucial for both
         identification and origin/treatment conclusions.
+
+references:
+  - id: nassau-1981-heat-treat
+    kind: journal
+    authors: [{family: Nassau, given: Kurt}]
+    title: "Heat Treating Ruby and Sapphire: Technical Aspects"
+    journal: "Gems & Gemology"
+    volume: 17
+    issue: 3
+    year: 1981
+    doi: "10.5741/gems.17.3.121"
+    confidence: "✓✓"
+  - id: hughes-ruby-sapphire
+    kind: book
+    authors: [{family: Hughes, given: Richard W.}]
+    title: "Ruby & Sapphire: A Gemologist's Guide"
+    publisher: RWH Publishing
+    year: 2017
+    isbn: "978-0-9645097-6-4"
+    confidence: "✓"
+  - id: kane-1990-diffusion
+    kind: journal
+    authors: [{family: Kane, given: Robert E.}]
+    title: "Sapphire from Chanthaburi/Trat, Thailand"
+    journal: "Gems & Gemology"
+    volume: 26
+    issue: 2
+    year: 1990
+    doi: "10.5741/gems.26.2.115"
+    confidence: "✓✓"

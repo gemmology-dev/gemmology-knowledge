@@ -29,7 +29,8 @@ sections:
         These give information about the growing environment of the host.
       - **Epigenetic**: Formed after the host crystal stopped growing. These include minerals
         that fill fractures, stress cracks caused by heat treatment, and alteration products
-        of existing inclusions (e.g. fractures around zircon crystals in heat-treated sapphire).
+        of existing inclusions (e.g. fractures around zircon crystals in heat-treated
+        sapphire) {cite:nassau-1981-heat-treat} {cite:kane-1990-diffusion}.
 
       These mineral "guests" provide crucial evidence for identification and
       origin determination.
@@ -56,10 +57,10 @@ sections:
         content: |
           Rutile (TiO2) is the most common solid inclusion in corundum:
 
-          - **Short silk** - Fine, short needles (Burmese origin indicator)
-          - **Long silk** - Longer needles at 60° angles (Sri Lankan indicator)
+          - **Short silk** - Fine, short needles (Burmese origin indicator) {cite:hughes-ruby-sapphire}
+          - **Long silk** - Longer needles at 60° angles (Sri Lankan indicator) {cite:hughes-ruby-sapphire}
           - **Dense networks** - Heavy silk coverage (Thai/Cambodian stones)
-          - **Dissolved silk** - Dotted remnants indicate heat treatment
+          - **Dissolved silk** - Dotted remnants indicate heat treatment {cite:nassau-1981-heat-treat}
 
       - title: Other Crystal Inclusions
         table:
@@ -76,14 +77,15 @@ sections:
 
   - title: Emerald Crystal Inclusions
     content: |
-      Emerald inclusions vary significantly by origin and provide key diagnostic evidence.
+      Emerald inclusions vary significantly by origin and provide key diagnostic evidence
+      {cite:gubelin-koivula-photoatlas-v1}.
     table:
       caption: Emerald Solid Inclusions by Origin
       headers:
         - Origin
         - Characteristic Crystals
       rows:
-        - ["Colombia", "Calcite rhombs, pyrite cubes, albite"]
+        - ["Colombia", "Calcite rhombs, pyrite cubes, albite — origin-diagnostic {cite:gubelin-koivula-photoatlas-v1}"]
         - ["Zambia", "Black mica flakes, amphibole needles, blocky crystals"]
         - ["Brazil", "Biotite mica, pyrite, chromite"]
         - ["Afghanistan", "Mica books, actinolite needles"]
@@ -92,14 +94,15 @@ sections:
   - title: Diamond Crystal Inclusions
     content: |
       Diamond inclusions provide information about formation conditions deep in the
-      Earth's mantle. They are syngenetic, crystallizing alongside the diamond.
+      Earth's mantle {cite:schumann-gemstones-world}. They are syngenetic, crystallizing
+      alongside the diamond.
     table:
       headers:
         - Inclusion
         - Appearance
         - Significance
       rows:
-        - ["Garnet (pyrope)", "Red or orange crystals", "Peridotitic environment"]
+        - ["Garnet (pyrope)", "Red or orange crystals", "Peridotitic environment — mantle origin proof {cite:schumann-gemstones-world}"]
         - ["Olivine", "Green crystals", "Common mantle mineral"]
         - ["Chrome diopside", "Green crystals", "Eclogitic environment"]
         - ["Chromite", "Black, opaque", "Very common"]
@@ -162,3 +165,50 @@ sections:
         4. **Treatment detection** - Heat treatment can alter or destroy inclusions
 
         Always document crystal inclusions with photographs at multiple magnifications.
+
+references:
+  - id: nassau-1981-heat-treat
+    kind: journal
+    authors: [{family: Nassau, given: Kurt}]
+    title: "Heat Treating Ruby and Sapphire: Technical Aspects"
+    journal: "Gems & Gemology"
+    volume: 17
+    issue: 3
+    year: 1981
+    doi: "10.5741/gems.17.3.121"
+    confidence: "✓✓"
+  - id: hughes-ruby-sapphire
+    kind: book
+    authors: [{family: Hughes, given: Richard W.}]
+    title: "Ruby & Sapphire: A Gemologist's Guide"
+    publisher: RWH Publishing
+    year: 2017
+    isbn: "978-0-9645097-6-4"
+    confidence: "✓"
+  - id: gubelin-koivula-photoatlas-v1
+    kind: book
+    authors: [{family: Gübelin, given: Eduard J.}, {family: Koivula, given: John I.}]
+    title: "Photoatlas of Inclusions in Gemstones, Vol. 1"
+    publisher: ABC Edition Zürich
+    year: 1986
+    isbn: "978-3-7281-2202-3"
+    confidence: "✓"
+  - id: schumann-gemstones-world
+    kind: book
+    authors: [{family: Schumann, given: Walter}]
+    title: "Gemstones of the World"
+    edition: 4th
+    publisher: Sterling Publishing
+    year: 2009
+    isbn: "978-1-4027-6829-3"
+    confidence: "✓"
+  - id: kane-1990-diffusion
+    kind: journal
+    authors: [{family: Kane, given: Robert E.}]
+    title: "Sapphire from Chanthaburi/Trat, Thailand"
+    journal: "Gems & Gemology"
+    volume: 26
+    issue: 2
+    year: 1990
+    doi: "10.5741/gems.26.2.115"
+    confidence: "✓✓"

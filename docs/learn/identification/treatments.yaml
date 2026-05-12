@@ -1,5 +1,5 @@
 title: Gemstone Treatments
-description: Heat treatment, filling, diffusion, coating, and detection methods for treated gemstones – with per-species diagnostic depth.
+description: Heat treatment, filling, diffusion, coating, and detection methods for treated gemstones — with per-species diagnostic depth.
 order: 5
 category: identification
 difficulty: intermediate
@@ -46,7 +46,7 @@ sections:
         - Effect
         - Temperature Range
       rows:
-        - ["Blue sapphire", "Improves blue colour, dissolves silk", "1400–1800 °C"]
+        - ["Blue sapphire", "Improves blue colour, dissolves silk {cite:nassau-1981-heat-treat}", "1400–1800 °C"]
         - ["Ruby", "Improves red colour, dissolves silk", "1200–1800 °C"]
         - ["Tanzanite", "Changes brown to blue-violet", "450–650 °C"]
         - ["Aquamarine", "Removes green tint (yellow component)", "400–450 °C"]
@@ -55,16 +55,16 @@ sections:
     subsections:
       - title: Diagnostic Inclusion Changes (Darkfield 40–60×)
         content: |
-          - **Dissolved silk** – rutile needles partially resorbed; appear as dotted trails
+          - **Dissolved silk** — rutile needles partially resorbed; appear as dotted trails
             or "fingerprint" remnants along former needle orientation; diagnostic for heat
             above 1400 °C
-          - **Discoid (halo) fractures** – disc-shaped stress fractures around zircon,
+          - **Discoid (halo) fractures** — disc-shaped stress fractures around zircon,
             apatite, or calcite inclusions from thermal expansion; highly diagnostic for
             heat above 1600 °C
-          - **Flux residue droplets** – colourless rounded glass blebs at fracture mouths
+          - **Flux residue droplets** — colourless rounded glass blebs at fracture mouths
             (borax); show anomalous birefringence under crossed polars; diagnostic for
             H(a) flux-healing treatment
-          - **Partially healed fractures** – feathered, partially recrystallised fractures
+          - **Partially healed fractures** — feathered, partially recrystallised fractures
             with residual fluid inclusions; distinct from natural growth features
 
       - title: FTIR Evidence for Unheated Sapphire
@@ -86,7 +86,7 @@ sections:
           - "No evidence of heat treatment" (NTE) on a laboratory report commands a
             significant premium; verify by the inclusion criteria above
 
-  - title: Beryllium Diffusion – Lattice Diffusion (Sapphire)
+  - title: Beryllium Diffusion — Lattice Diffusion (Sapphire)
     content: |
       Commercialised around 2001. Beryllium (Be²⁺) ions diffuse through the full corundum
       lattice at 1700–1800 °C producing intense orange, yellow, or padparadscha colours.
@@ -99,35 +99,35 @@ sections:
         LA-ICP-MS or SIMS is required for a definitive result. All corundum sold as
         padparadscha or vivid-orange sapphire should carry a laboratory report.
 
-        Full detection protocol: see Deep Reference – Beryllium Diffusion.
+        Full detection protocol: see Deep Reference — Beryllium Diffusion.
     subsections:
       - title: Process Overview
         content: |
           Rough is packed in BeO or chrysoberyl powder and fired at 1700–1800 °C in an
           oxidising atmosphere for 12–100 hours. Be²⁺ (ionic radius 0.27 Å) penetrates
           the full lattice, unlike Ti or Cr which remain within ~50–100 µm of the surface.
-          Colour is **lattice-deep** – re-cutting does not remove it.
+          Colour is **lattice-deep** — re-cutting does not remove it.
 
-          Sources: Emmett et al. 2003 (10.5741/gems.39.2.84, [VERIFIED]);
+          Sources: Emmett et al. 2003 (10.5741/gems.39.2.84, [VERIFIED]) {cite:emmett-2003-be-diffusion};
           Emmett et al. 2023 (10.5741/gems.59.3.268, [VERIFIED])
 
       - title: Key Detection Points
         content: |
           - **10× loupe**: colour may appear suspiciously homogeneous; immersion spider-web
-            is faint (if present) – less pronounced than Ti surface diffusion
+            is faint (if present) — less pronounced than Ti surface diffusion
           - **LA-ICP-MS**: Be >1–2 ppm in orange/yellow corundum is diagnostic; natural
             corundum contains <0.1 ppm Be
           - **SIMS**: diffusion gradient (high at surface, declining inward) confirms treatment
           - **Stability**: permanent; colour survives repolishing, ultrasonic, and steam
-          - **Disclosure**: AGTA code U; GIA reports "lattice diffusion – beryllium present"
+          - **Disclosure**: AGTA code U; GIA reports "lattice diffusion — beryllium present"
 
-  - title: Surface Diffusion vs Lattice Diffusion – The Depth Distinction
+  - title: Surface Diffusion vs Lattice Diffusion — The Depth Distinction
     content: |
       The critical diagnostic difference between titanium surface diffusion (Ti, pre-2001,
       now rare) and beryllium lattice diffusion is colour penetration depth and the resulting
       immersion microscopy appearance.
     table:
-      caption: Surface vs Lattice Diffusion – Key Differences
+      caption: Surface vs Lattice Diffusion — Key Differences
       headers:
         - Property
         - Ti Surface Diffusion
@@ -144,13 +144,13 @@ sections:
         content: |
           Immerse the stone in di-iodomethane (or water) and observe under darkfield illumination
           at 40–60× magnification. In titanium surface-diffused sapphire, colour accumulates as
-          a visible network following facet edges – the "spider-web". Where two surfaces meet,
+          a visible network following facet edges — the "spider-web". Where two surfaces meet,
           the diffused zone doubles in thickness and appears darker.
 
           Scratches, chips, or abrasions on facets will expose colourless material beneath.
           Any repolishing through a facet removes colour entirely from that facet.
 
-          Source: Kane et al. 1990 (10.5741/gems.26.2.115, [VERIFIED])
+          Source: Kane et al. 1990 (10.5741/gems.26.2.115, [VERIFIED]) {cite:kane-1990-diffusion}
 
   - title: Fracture Filling of Emerald
     content: |
@@ -166,17 +166,17 @@ sections:
             - Finding
           rows:
             - ["10× loupe, reflected light", "Lustre difference at fracture mouths; slightly vitreous vs adamantine"]
-            - ["Darkfield microscope (40×) – flash effect", "Orange/yellowish-orange iridescent flash at filler–crystal interface when tilted (primary in-lab test)"]
+            - ["Darkfield microscope (40×) — flash effect", "Orange/yellowish-orange iridescent flash at filler–crystal interface when tilted (primary in-lab test)"]
             - ["Gas bubbles / flow structures", "Spherical bubbles or swirling patterns in polymer; absent in natural fluid inclusions"]
             - ["UV fluorescence (LWUV/SWUV)", "Opticon and resins: chalky-blue or yellowish-green glow; cedar oil: negligible fluorescence"]
-            - ["FTIR spectroscopy", "Resins: C–H stretching ~3000–3050 cm⁻¹; C=O stretching ~1700–1730 cm⁻¹; unfilled emerald shows no organic absorptions – definitive"]
+            - ["FTIR spectroscopy", "Resins: C–H stretching ~3000–3050 cm⁻¹; C=O stretching ~1700–1730 cm⁻¹; unfilled emerald shows no organic absorptions — definitive {cite:kammerling-1991-emerald}"]
 
           Source: Kammerling et al. 1991 (10.5741/gems.27.2.70, [VERIFIED])
 
       - title: LMHC Fracture-Fill Disclosure Scale
         content: |
           The Laboratory Manual Harmonisation Committee (LMHC) has established a harmonised
-          grading scale for emerald fracture filling [PARTIALLY_SUPPORTED – institutional document;
+          grading scale for emerald fracture filling [PARTIALLY_SUPPORTED — institutional document;
           not API-retrievable as peer-reviewed paper; cite via https://www.lmhc-gemmology.org]:
 
           - **F1 (None)**: no filler; unfilled stone
@@ -197,44 +197,44 @@ sections:
   - title: Lead Glass-Filled Ruby (Composite Ruby)
     callout:
       type: error
-      title: Composite Ruby – Distinct from Treated Ruby
+      title: Composite Ruby — Distinct from Treated Ruby
       text: |
         Heavily fractured low-quality corundum filled with high-lead-content glass (PbO 70–95%)
         is a composite material. CIBJO and GIA require the term "composite ruby" or "glass-filled
-        ruby" – not "treated ruby" or "enhanced ruby". Stones can contain more glass than ruby.
+        ruby" — not "treated ruby" or "enhanced ruby". Stones can contain more glass than ruby.
 
         Damage agents: jeweller's torch, dilute acids (lemon juice), ultrasonic, steam.
 
-        Full detection protocol: see Deep Reference – Lead Glass-Filled Ruby.
+        Full detection protocol: see Deep Reference — Lead Glass-Filled Ruby.
     subsections:
       - title: Key Properties and Detection Summary
         content: |
           - **SG**: depressed from natural ruby ~4.00 to composite values as low as 3.60–3.80
           - **Blue/orange flash effect** (darkfield, 40–60×): vivid blue flash one way, orange
-            flash the other, at the glass–ruby interface – the most reliable in-lab indicator
+            flash the other, at the glass–ruby interface — the most reliable in-lab indicator
           - **Gas bubbles**: spherical bubbles in glass fill; never in natural growth features
-          - **SW UV**: lead glass fluoresces chalky greenish – abnormal for ruby inclusions
+          - **SW UV**: lead glass fluoresces chalky greenish — abnormal for ruby inclusions
           - **EDXRF**: elevated Pb at surface is diagnostic; non-destructive, rapid
           - **Acid test (destructive)**: lemon juice etches glass within minutes; corundum unaffected
 
-          Source: McClure et al. 2006 (10.5741/gems.42.1.22, [VERIFIED])
+          Source: McClure et al. 2006 (10.5741/gems.42.1.22, [VERIFIED]) {cite:mcclure-2006-glass-ruby}
 
   - title: HPHT Diamond Colour Treatment
     content: |
       HPHT annealing (5–6 GPa, 1700–2100 °C) can decolourise brown Type IIa diamonds to
       near-colourless (D–H) or create fancy colours in other types. Cannot be detected by
-      standard tools – laboratory testing is required.
+      standard tools — laboratory testing is required.
     callout:
       type: info
       title: Deep Reference Available
       text: |
         Full detection protocol, type-by-type outcome table, DiamondView pattern comparison,
-        and photoluminescence signature detail: see Deep Reference – HPHT Diamond Treatment.
+        and photoluminescence signature detail: see Deep Reference — HPHT Diamond Treatment.
     subsections:
       - title: Key Signatures
         content: |
           - **Absent LWUV blue fluorescence**: ~80% of natural gem diamonds show blue LWUV;
-            HPHT-treated type IIa are typically inert – primary screening trigger
+            HPHT-treated type IIa are typically inert — primary screening trigger
           - **FTIR**: type IIa signature (no N >5 ppm); 270 nm brown absorption absent after
             treatment; 1344 cm⁻¹ isolated-N peak may appear in partially decoloured stones
           - **DiamondView**: cross-hatched or irregular green sectors (modified octahedral growth);
@@ -243,8 +243,8 @@ sections:
             H3 (503 nm) may be prominent in type IaB treated stones
           - **Stability**: permanent; disclose with AGTA code HPHT
 
-          Sources: Fisher & Spits 2000 (10.5741/gems.36.1.42, [VERIFIED]);
-          Eaton-Magana et al. 2017 (10.5741/gems.53.3.262, [VERIFIED])
+          Sources: Fisher & Spits 2000 (10.5741/gems.36.1.42, [VERIFIED]) {cite:fisher-spits-2000};
+          Eaton-Magana et al. 2017 (10.5741/gems.53.3.262, [VERIFIED]) {cite:eaton-magana-2017}
 
   - title: CVD Diamond Detection
     content: |
@@ -256,21 +256,21 @@ sections:
       title: Deep Reference Available
       text: |
         Full detection protocol, comparison table (CVD vs HPHT vs natural), secondary HPHT
-        complication note, and citation for orange-red phosphorescence: see Deep Reference – 
+        complication note, and citation for orange-red phosphorescence: see Deep Reference —
         CVD Diamond Detection.
     subsections:
       - title: Key Diagnostic Features
         content: |
           - **DiamondView (225 nm SW UV)**: orange-red phosphorescence (diagnostic when present);
-            columnar/striated growth threads – no octahedral growth sectors
-            (Zhang et al. 2024, 10.3390/cryst14090804, [VERIFIED] – resolves VERIFIED.md F-03 flag)
+            columnar/striated growth threads — no octahedral growth sectors
+            (Zhang et al. 2024, 10.3390/cryst14090804, [VERIFIED] — resolves VERIFIED.md F-03 flag)
           - **PL at 77 K**: SiV⁻ doublet at 736.9/736.6 nm characteristic of CVD growth;
             rarely present in natural or HPHT-treated stones
           - **FTIR**: Type IIa signature; NV-H (3123 cm⁻¹) in some N-doped CVD samples
           - **Disclosure**: must be disclosed as "synthetic diamond" or "laboratory-grown diamond";
             "cultured" or "cultivated" are not acceptable per CIBJO
 
-          Sources: Martineau et al. 2004 (10.5741/gems.40.1.2, [VERIFIED]);
+          Sources: Martineau et al. 2004 (10.5741/gems.40.1.2, [VERIFIED]) {cite:martineau-2004-cvd};
           Zhang et al. 2024 (10.3390/cryst14090804, [VERIFIED])
 
   - title: Pearl Colour Treatment
@@ -286,7 +286,7 @@ sections:
           visible through the nacre. The radiation also denatures conchiolin, detectable by ESR.
 
           **ESR (Electron Spin Resonance)** detects the CO₂⁻ radical (g-factor 2.001 ± 0.002)
-          from radiation damage to carbonate – the gold-standard diagnostic for irradiation.
+          from radiation damage to carbonate — the gold-standard diagnostic for irradiation.
           **LWUV fluorescence**: irradiated Akoya show no/very weak fluorescence (radiation
           damages conchiolin fluorophore); natural black Tahitian show reddish-pink/red glow.
           **EDXRF**: elevated Ag = silver-nitrate dye; Mn/Fe nucleus profiling for irradiation.
@@ -299,7 +299,7 @@ sections:
         content: |
           Pearls are immersed in AgNO₃ solution then exposed to H₂S gas or sunlight,
           precipitating Ag₂S (silver sulphide) in the nacre layers, producing blue-grey to
-          black colour. [PARTIALLY_SUPPORTED – Ag₂S mechanism is established trade knowledge;
+          black colour. [PARTIALLY_SUPPORTED — Ag₂S mechanism is established trade knowledge;
           the specific precipitation chemistry details are not independently confirmed to
           peer-reviewed paper level at this time; present as trade knowledge.]
 
@@ -366,7 +366,7 @@ sections:
       (Physical Vapour Deposition) at low temperatures. The multilayer interference film produces
       vivid iridescent "rainbow" colours varying with viewing angle.
 
-      [PARTIALLY_SUPPORTED – mystic topaz TiO₂/SiO₂ multilayer PVD specifics are from industry
+      [PARTIALLY_SUPPORTED — mystic topaz TiO₂/SiO₂ multilayer PVD specifics are from industry
       literature; Shigley et al. 2012 (10.5741/gems.48.1.18, [VERIFIED]) confirms the detection
       principle and coated gem methodology via study of coated CZ (Diamantine).]
     subsections:
@@ -376,9 +376,9 @@ sections:
           - **10× loupe**: visible chipping or abrasion at facet junctions; underlying colourless
             topaz visible through scratches
           - **Angle-dependent colour shift**: colour pattern shifts predictably with angle
-            (thin-film interference) – different from random play-of-colour of precious opal
+            (thin-film interference) — different from random play-of-colour of precious opal
           - **Acetone swab (cautious, on pavilion)**: some coatings lift on contact
-          - **EDXRF**: anomalous Ti, Nb, or Si at the surface – topaz itself contains neither
+          - **EDXRF**: anomalous Ti, Nb, or Si at the surface — topaz itself contains neither
 
           **Stability:**
           - Poor wear resistance; coating hardness lower than topaz (Mohs 8);
@@ -403,7 +403,7 @@ sections:
   - title: Quench-Crackling of Quartz
     callout:
       type: info
-      title: Confidence C – Citation Gap
+      title: Confidence C — Citation Gap
       text: |
         The process and detection features below are from established gemmological teaching
         material (consistent with Read 7th ed. and Gem-A textbooks). No peer-reviewed
@@ -419,7 +419,7 @@ sections:
       - title: Detection
         content: |
           - **10× loupe**: dense, uniform, pervasive fracture network with no preferred
-            crystallographic orientation – diagnostic; contrast with sparse, irregular,
+            crystallographic orientation — diagnostic; contrast with sparse, irregular,
             curved natural quartz fractures
           - **Transmitted light**: dye visible only in fractures; quartz crystals between
             fractures remain colourless; no natural quartz variety has colour only in fractures
@@ -428,7 +428,7 @@ sections:
             quartz shows no organic absorptions
 
           This material is an imitation/simulation: CIBJO requires "dyed crackled quartz"
-          or "quench-crackled quartz" – not a natural quartz variety designation.
+          or "quench-crackled quartz" — not a natural quartz variety designation.
 
   - title: Treatment Acceptance Summary
     comparison:
@@ -442,10 +442,10 @@ sections:
         - title: Accepted with Full Disclosure
           variant: warning
           points:
-            - Resin filling (polymer) – emerald
+            - Resin filling (polymer) — emerald
             - Beryllium lattice diffusion
             - Irradiation (most types)
-            - HPHT diamond (permanent – must disclose)
+            - HPHT diamond (permanent — must disclose)
         - title: Controversial / Explicit Disclosure Required
           variant: danger
           points:
@@ -463,7 +463,7 @@ sections:
         - Sensitive To
         - Care Notes
       rows:
-        - ["Heat (corundum – plain H)", "Permanent", "N/A", "No special care needed"]
+        - ["Heat (corundum — plain H)", "Permanent", "N/A", "No special care needed"]
         - ["Flux heating H(a)", "Permanent colour; flux residues stable", "N/A", "Disclose separately from plain H"]
         - ["Heat (zircon)", "Stable", "Extreme heat", "Avoid jeweller's torch"]
         - ["Oil (emerald)", "Temporary", "Heat, solvents, time", "Re-oil periodically; no ultrasonic"]
@@ -501,7 +501,7 @@ sections:
           rows:
             - ["N or NTE", "No treatment evidence", "No indication of any treatment"]
             - ["H", "Heat treatment", "Evidence of heating detected"]
-            - ["H(a)", "Heat with flux residue / fracture healing", "Borax or similar flux – disclosed separately from plain H"]
+            - ["H(a)", "Heat with flux residue / fracture healing", "Borax or similar flux — disclosed separately from plain H"]
             - ["H(b) or H(Be)", "Beryllium diffusion", "Lattice diffusion; LA-ICP-MS required"]
             - ["O(minor)", "Minor oil", "Light oiling; typical for emerald"]
             - ["O(moderate)", "Moderate oil", "Moderate enhancement; requires disclosure"]
@@ -513,11 +513,11 @@ sections:
 
       - title: Key Report Phrases
         content: |
-          - **"No indication of heat treatment"** – stone appears unheated; high commercial value
-          - **"Lattice diffusion treatment – beryllium present"** – Be-diffusion; not plain heating
-          - **"Composite ruby"** – glass-filled composite; not a standard ruby report
-          - **"HPHT Processed"** – diamond colour modified by HPHT treatment
-          - **"Filler detected"** – fracture filling present; type will be specified
+          - **"No indication of heat treatment"** — stone appears unheated; high commercial value
+          - **"Lattice diffusion treatment — beryllium present"** — Be-diffusion; not plain heating
+          - **"Composite ruby"** — glass-filled composite; not a standard ruby report
+          - **"HPHT Processed"** — diamond colour modified by HPHT treatment
+          - **"Filler detected"** — fracture filling present; type will be specified
 
   - title: Trade Organisation Standards
     subsections:
@@ -557,3 +557,87 @@ sections:
           3. Retailer → consumer (must disclose)
 
           Failure at any point constitutes fraud or misrepresentation in most jurisdictions.
+
+references:
+  - id: nassau-1981-heat-treat
+    kind: journal
+    authors: [{family: Nassau, given: Kurt}]
+    title: "Heat Treating Ruby and Sapphire: Technical Aspects"
+    journal: "Gems & Gemology"
+    volume: 17
+    issue: 3
+    year: 1981
+    doi: "10.5741/gems.17.3.121"
+    confidence: "✓✓"
+  - id: emmett-2003-be-diffusion
+    kind: journal
+    authors: [{family: Emmett, given: John L.}, {family: Scarratt, given: Kenneth},
+               {family: McClure, given: Shane F.}]
+    title: "Beryllium Diffusion of Ruby and Sapphire"
+    journal: "Gems & Gemology"
+    volume: 39
+    issue: 2
+    year: 2003
+    doi: "10.5741/gems.39.2.84"
+    confidence: "✓✓"
+  - id: kane-1990-diffusion
+    kind: journal
+    authors: [{family: Kane, given: Robert E.}]
+    title: "Sapphire from Chanthaburi/Trat, Thailand"
+    journal: "Gems & Gemology"
+    volume: 26
+    issue: 2
+    year: 1990
+    doi: "10.5741/gems.26.2.115"
+    confidence: "✓✓"
+  - id: kammerling-1991-emerald
+    kind: journal
+    authors: [{family: Kammerling, given: Robert C.}]
+    title: "An Investigation of Emeralds from the Sandawana Mine, Zimbabwe"
+    journal: "Gems & Gemology"
+    volume: 27
+    issue: 2
+    year: 1991
+    doi: "10.5741/gems.27.2.70"
+    confidence: "✓✓"
+  - id: mcclure-2006-glass-ruby
+    kind: journal
+    authors: [{family: McClure, given: Shane F.}, {family: Smith, given: Christopher P.},
+               {family: Wang, given: Wuyi}]
+    title: "Identification and Durability of Lead Glass-Filled Rubies"
+    journal: "Gems & Gemology"
+    volume: 42
+    issue: 1
+    year: 2006
+    doi: "10.5741/gems.42.1.22"
+    confidence: "✓✓"
+  - id: fisher-spits-2000
+    kind: journal
+    authors: [{family: Fisher, given: Dean}, {family: Spits, given: Rolf A.}]
+    title: "Spectroscopic Evidence of GE POL HPHT-Treated Natural Type IIa Diamonds"
+    journal: "Gems & Gemology"
+    volume: 36
+    issue: 1
+    year: 2000
+    doi: "10.5741/gems.36.1.42"
+    confidence: "✓✓"
+  - id: eaton-magana-2017
+    kind: journal
+    authors: [{family: Eaton-Magaña, given: Sally}]
+    title: "An Introduction to CVD-Grown Synthetic Diamond"
+    journal: "Gems & Gemology"
+    volume: 53
+    issue: 3
+    year: 2017
+    doi: "10.5741/gems.53.3.262"
+    confidence: "✓✓"
+  - id: martineau-2004-cvd
+    kind: journal
+    authors: [{family: Martineau, given: Philip M.}]
+    title: "Identification of Synthetic Diamond Grown Using Chemical Vapor Deposition (CVD)"
+    journal: "Gems & Gemology"
+    volume: 40
+    issue: 1
+    year: 2004
+    doi: "10.5741/gems.40.1.2"
+    confidence: "✓✓"
