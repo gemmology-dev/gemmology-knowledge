@@ -14,12 +14,48 @@ tags:
   - star-sapphire
   - silk
 
+references:
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "P.G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann/Routledge"
+    year: 2014
+    doi: "10.4324/9780080507224"
+
+  - id: keller-1983-rubies-burma
+    kind: article
+    authors:
+      - family: "Keller"
+        given: "Peter C."
+    title: "The Rubies of Burma: A Review of the Mogok Stone Tract"
+    journal: "Gems & Gemology"
+    volume: "19"
+    issue: "4"
+    pages: "209–219"
+    year: 1983
+    doi: "10.5741/gems.19.4.209"
+
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "W."
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling"
+    year: 2009
+    isbn: "978-1-4027-6829-3"
+
 sections:
   - title: Introduction
     content: |
       Asterism is the appearance of a star pattern on the surface of a cabochon-cut gem.
       It is caused by light reflecting from oriented needle-like inclusions (usually
-      rutile silk) arranged parallel to crystallographic directions.
+      rutile silk) arranged parallel to crystallographic directions. {cite:read-2014-gemmology}
 
       Star rubies and star sapphires are the most important asteriated gems, though
       stars also occur in garnet, diopside, quartz, and other minerals.
@@ -57,7 +93,7 @@ sections:
           - **Rutile (TiO₂)**: Tiny needle-like crystals
           - **Orientation**: Forms along hexagonal crystal axes
           - **Three sets**: At 120° angles to each other
-          - **Creates**: Classic six-ray star
+          - **Creates**: Classic six-ray star {cite:keller-1983-rubies-burma}
 
       - title: Sources
         table:
@@ -102,7 +138,7 @@ sections:
         - Very sharp, perfectly straight rays
         - Often have gas bubbles
         - Rays may appear "too perfect"
-        - Natural stars have slightly softer rays
+        - Natural stars have slightly softer rays {cite:read-2014-gemmology}
 
         **Diffusion-treated stars**:
         - Star effect in thin surface layer only

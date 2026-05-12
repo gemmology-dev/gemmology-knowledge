@@ -14,13 +14,47 @@ tags:
   - thin-film
   - interference
 
+references:
+  - id: nassau-2001-color
+    kind: book
+    authors:
+      - family: "Nassau"
+        given: "K."
+    title: "The Physics and Chemistry of Color"
+    edition: "2nd"
+    publisher: "Wiley-Interscience"
+    year: 2001
+    isbn: "978-0-471-39106-7"
+
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "P.G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann/Routledge"
+    year: 2014
+    doi: "10.4324/9780080507224"
+
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "W."
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling"
+    year: 2009
+    isbn: "978-1-4027-6829-3"
+
 sections:
   - title: Introduction
     content: |
       Iridescence is a display of spectral colours caused by light interference from
       thin layers or structures near the surface. Unlike opal's play of colour
-      (diffraction from spheres), iridescence results from thin-film interference – 
-      the same phenomenon that creates colours in soap bubbles and oil slicks.
+      (diffraction from spheres), iridescence results from thin-film interference,
+      the same phenomenon that creates colours in soap bubbles and oil slicks. {cite:nassau-2001-color}
 
       Iridescence appears as rainbow sequences of colour that shift with viewing angle.
 
@@ -69,7 +103,7 @@ sections:
           - Layers of iron oxide (goethite/limonite) deposited during growth
           - Layers form over botryoidal (grape-like) chalcedony surface
           - Creates three-dimensional colour patterns
-          - Each layer adds to interference effect
+          - Each layer adds to interference effect {cite:read-2014-gemmology}{cite:schumann-2009-gemstones}
 
       - title: Characteristics
         content: |
@@ -94,7 +128,7 @@ sections:
           - Fossilised nacre (aragonite) from ammonite shells
           - ~70 million years old (Cretaceous period)
           - Thin nacre layers create interference
-          - Found only in Alberta's Bearpaw Formation
+          - Found only in Alberta's Bearpaw Formation {cite:schumann-2009-gemstones}
 
       - title: Characteristics
         content: |

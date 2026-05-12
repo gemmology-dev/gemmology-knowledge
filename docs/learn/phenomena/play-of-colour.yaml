@@ -14,6 +14,40 @@ tags:
   - diffraction
   - patterns
 
+references:
+  - id: nassau-2001-color
+    kind: book
+    authors:
+      - family: "Nassau"
+        given: "K."
+    title: "The Physics and Chemistry of Color"
+    edition: "2nd"
+    publisher: "Wiley-Interscience"
+    year: 2001
+    isbn: "978-0-471-39106-7"
+
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "P.G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann/Routledge"
+    year: 2014
+    doi: "10.4324/9780080507224"
+
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "W."
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling"
+    year: 2009
+    isbn: "978-1-4027-6829-3"
+
 sections:
   - title: Introduction
     content: |
@@ -35,7 +69,7 @@ sections:
           - Opal is composed of tiny silica spheres (SiO₂)
           - Spheres must be uniform in size (150-400nm)
           - Spheres must be regularly arranged in 3D array
-          - Acts as a diffraction grating for light
+          - Acts as a diffraction grating for light {cite:nassau-2001-color}
 
       - title: Colour Determination
         content: |
@@ -43,7 +77,7 @@ sections:
           - Spheres >350nm: Produce red (most valuable)
           - Spheres ~250nm: Produce green
           - Spheres ~150nm: Produce blue/violet
-          - Regularity of arrangement determines brightness
+          - Regularity of arrangement determines brightness {cite:nassau-2001-color}{cite:read-2014-gemmology}
 
   - title: Precious vs Common Opal
     comparison:
@@ -69,7 +103,7 @@ sections:
     content: |
       Opal patterns significantly affect value:
     table:
-      caption: Opal Pattern Hierarchy
+      caption: "Opal Pattern Hierarchy {cite:read-2014-gemmology}{cite:schumann-2009-gemstones}"
       headers:
         - Pattern
         - Description
