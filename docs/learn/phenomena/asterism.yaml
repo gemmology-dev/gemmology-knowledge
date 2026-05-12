@@ -27,7 +27,7 @@ references:
     doi: "10.4324/9780080507224"
 
   - id: keller-1983-rubies-burma
-    kind: article
+    kind: journal
     authors:
       - family: "Keller"
         given: "Peter C."
