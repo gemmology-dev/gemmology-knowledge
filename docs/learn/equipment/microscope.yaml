@@ -14,6 +14,31 @@ tags:
   - magnification
   - illumination
 
+references:
+  - id: read-2014-gemmology
+    kind: book
+    authors: [{family: Read, given: Peter}]
+    title: Gemmology
+    publisher: Butterworth-Heinemann
+    year: 2014
+    edition: 3
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-08-050722-4"
+  - id: anderson-1990-gem-testing
+    kind: book
+    authors: [{family: Anderson, given: B.W.}]
+    title: "Gem Testing"
+    publisher: Butterworth-Heinemann
+    year: 1990
+    edition: 10
+  - id: gubelin-1986-photoatlas
+    kind: book
+    authors: [{family: Gubelin, given: Eduard J.}, {family: Koivula, given: John I.}]
+    title: "Photoatlas of Inclusions in Gemstones"
+    publisher: ABC Edition
+    year: 1986
+    isbn: "978-3-85504-027-6"
+
 sections:
   - title: Introduction
     content: |
@@ -78,7 +103,7 @@ sections:
 
   - title: Darkfield Illumination
     content: |
-      The most commonly used technique:
+      The most commonly used technique. {cite:anderson-1990-gem-testing}
     subsections:
       - title: How It Works
         content: |
@@ -134,7 +159,7 @@ sections:
       Immersing the gem in a liquid of similar RI reduces surface reflections and reveals
       internal features more clearly.
     subsections:
-      - title: Common Immersion Liquids
+      - title: Common Immersion Liquids {cite:read-2014-gemmology}
         table:
           headers:
             - Liquid
@@ -182,7 +207,7 @@ sections:
             - Characteristic Inclusions
           rows:
             - ["Corundum", "Silk (rutile needles), fingerprints, hexagonal zoning"]
-            - ["Emerald", "Three-phase inclusions (Colombian), jardín, calcite"]
+            - ["Emerald", "Three-phase inclusions (Colombian), jardín, calcite {cite:gubelin-1986-photoatlas}"]
             - ["Spinel", "Octahedral crystals, fingerprints, often cleaner than corundum"]
             - ["Tourmaline", "Growth tubes, needles, colour zoning"]
             - ["Peridot", "Lily pads (stress discs around chromite)"]

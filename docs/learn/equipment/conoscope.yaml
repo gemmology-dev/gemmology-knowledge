@@ -15,6 +15,37 @@ tags:
   - birefringence
   - polariscope
 
+references:
+  - id: sturman-2010-optic-sign
+    kind: article
+    authors: [{family: Sturman, given: B.D.}, {family: Parker, given: D.}]
+    title: "Use of the polarizing filter on the refractometer in determinations of the optic sign or optic character of a gemstone"
+    journal: Journal of Gemmology
+    volume: 32
+    issue: "1–4"
+    pages: "90–100"
+    year: 2010
+    doi: "10.15506/jog.2010.32.1-4.90"
+  - id: sturman-2007-2v
+    kind: article
+    authors: [{family: Sturman, given: B.D.}]
+    title: "Determination of the optic axial angle in biaxial gemstones and its use in gemmology"
+    journal: Journal of Gemmology
+    volume: 30
+    issue: 7
+    pages: "443–452"
+    year: 2007
+    doi: "10.15506/jog.2007.30.7.443"
+  - id: read-2014-gemmology
+    kind: book
+    authors: [{family: Read, given: Peter}]
+    title: Gemmology
+    publisher: Butterworth-Heinemann
+    year: 2014
+    edition: 3
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-08-050722-4"
+
 sections:
   - title: Introduction
     content: |
@@ -117,7 +148,7 @@ sections:
           addition versus subtraction quadrants is standard crystallographic optics; verify the
           quadrant convention against your specific polariscope's markings before reporting results.
           Sturman & Parker (2010) provide a gemmological approach to optic sign determination:
-          Journal of Gemmology 32(1–4), 90–100 (DOI: 10.15506/jog.2010.32.1-4.90) [VERIFIED].
+          Journal of Gemmology 32(1–4), 90–100 (DOI: 10.15506/jog.2010.32.1-4.90) [VERIFIED]. {cite:sturman-2010-optic-sign}
 
   - title: Biaxial Interference Figure
     content: |
@@ -134,7 +165,7 @@ sections:
             and then together again in the figure-eight pattern.
           - The separation between the two melatopes estimates the optic axial angle (2V).
             Sturman (2007) provides a gemmological method for 2V estimation in biaxial gemstones:
-            Journal of Gemmology 30(7), 443–452 (DOI: 10.15506/jog.2007.30.7.443) [VERIFIED].
+            Journal of Gemmology 30(7), 443–452 (DOI: 10.15506/jog.2007.30.7.443) [VERIFIED]. {cite:sturman-2007-2v}
 
       - title: Optic Axis Figure
         content: |

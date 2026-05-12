@@ -17,6 +17,24 @@ tags:
   - workflow
   - testing
 
+references:
+  - id: read-2014-gemmology
+    kind: book
+    authors: [{family: Read, given: Peter}]
+    title: Gemmology
+    publisher: Butterworth-Heinemann
+    year: 2014
+    edition: 3
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-08-050722-4"
+  - id: anderson-1990-gem-testing
+    kind: book
+    authors: [{family: Anderson, given: B.W.}]
+    title: "Gem Testing"
+    publisher: Butterworth-Heinemann
+    year: 1990
+    edition: 10
+
 sections:
   - title: Introduction
     content: |
@@ -52,7 +70,7 @@ sections:
 
           - **Specific gravity balance**: For density measurement
           - **Thermal conductivity probe**: Diamond screening
-          - **Loupe (10×)**: Field examination standard
+          - **Loupe (10×)**: Field examination standard {cite:anderson-1990-gem-testing}
           - **Tweezers and stone holders**: Safe manipulation
           - **Cleaning supplies**: Cloth, brushes, solvents
           - **Reference materials**: Master stones, comparison samples
@@ -96,7 +114,7 @@ sections:
       type: warning
       title: Stones Above Refractometer Limits
       text: |
-        Stones with RI above 1.81 cannot be measured on standard refractometers:
+        Stones with RI above 1.81 cannot be measured on standard refractometers. {cite:read-2014-gemmology}
 
         - **Diamond** (RI 2.417) - Use thermal probe or specific gravity
         - **Zircon** (RI 1.93–1.98) - May show partial reading

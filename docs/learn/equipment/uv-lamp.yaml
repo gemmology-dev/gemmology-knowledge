@@ -14,6 +14,44 @@ tags:
   - phosphorescence
   - identification
 
+references:
+  - id: read-2014-gemmology
+    kind: book
+    authors: [{family: Read, given: Peter}]
+    title: Gemmology
+    publisher: Butterworth-Heinemann
+    year: 2014
+    edition: 3
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-08-050722-4"
+  - id: willems-2011-cvd
+    kind: article
+    authors: [{family: Willems, given: B.}, {family: Tallaire, given: A.}, {family: Barjon, given: J.}]
+    title: "Exploring the Origin and Nature of Luminescent Regions in CVD Synthetic Diamond"
+    journal: Gems & Gemology
+    volume: 47
+    issue: 3
+    pages: "202–207"
+    year: 2011
+    doi: "10.5741/gems.47.3.202"
+  - id: breeding-2009-diamond-type
+    kind: article
+    authors: [{family: Breeding, given: C. Maxwell}, {family: Shigley, given: James E.}]
+    title: "The 'Type' Classification System of Diamonds and Its Importance in Gemology"
+    journal: Gems & Gemology
+    volume: 45
+    issue: 2
+    pages: "96–111"
+    year: 2009
+    doi: "10.5741/gems.45.2.96"
+  - id: anderson-1990-gem-testing
+    kind: book
+    authors: [{family: Anderson, given: B.W.}]
+    title: "Gem Testing"
+    publisher: Butterworth-Heinemann
+    year: 1990
+    edition: 10
+
 sections:
   - title: Introduction
     content: |
@@ -33,7 +71,7 @@ sections:
           - **Safer**: Less harmful to eyes
           - **Penetrates deeper**: May show internal reactions
           - **Often stronger reactions**: Many gems fluoresce more to LWUV
-          - **Common light sources**: LED-based lamps, Wood's lamps
+          - **Common light sources**: LED-based lamps, Wood's lamps {cite:read-2014-gemmology}
 
       - title: Short-Wave UV (SWUV, 254nm)
         content: |
@@ -161,9 +199,9 @@ sections:
         content: |
           Fluorescence helps with diamond identification:
 
-          - Strong blue fluorescence suggests natural Type Ia
+          - Strong blue fluorescence suggests natural Type Ia {cite:breeding-2009-diamond-type}
           - Unusual colours may indicate treatment or synthetic
-          - CVD diamonds often show orange fluorescence
+          - CVD diamonds often show orange fluorescence {cite:willems-2011-cvd}
           - HPHT-treated may show different patterns
 
   - title: Limitations

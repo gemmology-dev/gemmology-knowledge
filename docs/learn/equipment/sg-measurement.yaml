@@ -15,6 +15,36 @@ tags:
   - identification
   - hydrostatic
 
+references:
+  - id: farrimond-1994-sg
+    kind: article
+    authors: [{family: Farrimond, given: T.}]
+    title: "Hydrostatic measurement of specific gravity"
+    journal: Journal of Gemmology
+    volume: 24
+    issue: 3
+    pages: "161–163"
+    year: 1994
+    doi: "10.15506/jog.1994.24.3.161"
+  - id: munsterman-1996-spt
+    kind: article
+    authors: [{family: Munsterman, given: D.}, {family: Kerstholt, given: S.}]
+    title: "Sodium polytungstate, a new non-toxic alternative to bromoform in heavy liquid separation"
+    journal: Review of Palaeobotany and Palynology
+    volume: 91
+    pages: "417–422"
+    year: 1996
+    doi: "10.1016/0034-6667(95)00093-3"
+  - id: read-2014-gemmology
+    kind: book
+    authors: [{family: Read, given: Peter}]
+    title: Gemmology
+    publisher: Butterworth-Heinemann
+    year: 2014
+    edition: 3
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-08-050722-4"
+
 sections:
   - title: Introduction
     content: |
@@ -44,7 +74,7 @@ sections:
       volume, and dividing the stone's mass by that gives the density ratio relative to water.
 
       Farrimond (1994) provides a practical account of this method for gemmological use:
-      Journal of Gemmology 24(3), 161–163 (DOI: 10.15506/jog.1994.24.3.161) [VERIFIED].
+      Journal of Gemmology 24(3), 161–163 (DOI: 10.15506/jog.1994.24.3.161) [VERIFIED]. {cite:farrimond-1994-sg}
 
   - title: Equipment Setup
     content: |
@@ -132,7 +162,7 @@ sections:
 
         Munsterman & Kerstholt (1996) introduced SPT as a "non-toxic alternative to bromoform":
         Review of Palaeobotany and Palynology 91, 417–422 (DOI: 10.1016/0034-6667(95)00093-3)
-        [VERIFIED].
+        [VERIFIED]. {cite:munsterman-1996-spt}
 
   - title: SG Reference Values
     content: |

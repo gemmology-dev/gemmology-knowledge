@@ -14,6 +14,34 @@ tags:
   - birefringence
   - identification
 
+references:
+  - id: read-2014-gemmology
+    kind: book
+    authors: [{family: Read, given: Peter}]
+    title: Gemmology
+    publisher: Butterworth-Heinemann
+    year: 2014
+    edition: 3
+    doi: "10.4324/9780080507224"
+    isbn: "978-0-08-050722-4"
+  - id: anderson-1990-gem-testing
+    kind: book
+    authors: [{family: Anderson, given: B.W.}]
+    title: "Gem Testing"
+    publisher: Butterworth-Heinemann
+    year: 1990
+    edition: 10
+  - id: sturman-1997-seven-patterns
+    kind: article
+    authors: [{family: Sturman, given: B.D.}]
+    title: "The Seven Patterns"
+    journal: Journal of Gemmology
+    volume: 25
+    issue: 7
+    pages: "495–"
+    year: 1997
+    note: "DOI unverified in this audit; confirm via Crossref before final publication"
+
 sections:
   - title: Introduction
     content: |
@@ -47,7 +75,7 @@ sections:
           this angle, total internal reflection occurs.
 
           The position of the shadow edge on the scale directly indicates the critical
-          angle and therefore the refractive index.
+          angle and therefore the refractive index. {cite:read-2014-gemmology}
 
   - title: Faceted Stone Technique
     content: |
@@ -71,7 +99,7 @@ sections:
 
       - title: Birefringence Calculation
         content: |
-          Birefringence = Higher RI - Lower RI
+          Birefringence = Higher RI - Lower RI {cite:read-2014-gemmology}
 
           For example:
           - Quartz: 1.553 - 1.544 = 0.009
@@ -101,7 +129,7 @@ sections:
     content: |
       Darko Sturman refined the technique of observing shadow-edge behaviour on the
       refractometer into seven basic patterns that cover all possible observations for
-      isotropic and anisotropic gemstones. Identification of a pattern is based on
+      isotropic and anisotropic gemstones. {cite:sturman-1997-seven-patterns} Identification of a pattern is based on
       observations during rotation of a gemstone on the refractometer. Note:
 
       - The number of shadow edges observed (one or two)
