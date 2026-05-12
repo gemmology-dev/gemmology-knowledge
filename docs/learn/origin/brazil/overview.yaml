@@ -37,7 +37,7 @@ sections:
 
       - title: Imperial Topaz
         content: |
-          - **Source**: Ouro Preto, Minas Gerais only
+          - **Source**: Ouro Preto, Minas Gerais only {cite:schumann-2009-gemstones}
           - **Exclusivity**: No other commercial source worldwide
           - **Colour**: Orange to pink-orange to red
           - **Value**: Premium over other topaz
@@ -51,7 +51,7 @@ sections:
 
       - title: Quartz Varieties
         content: |
-          - **Amethyst**: World's largest producer
+          - **Amethyst**: World's largest producer {cite:schumann-2009-gemstones}
           - **Citrine**: Major source (much heated amethyst)
           - **Ametrine**: Secondary source after Bolivia
           - **Rose quartz**: Significant production
@@ -104,3 +104,32 @@ sections:
       - **Aquamarine**: Major world supplier; quality benchmark
       - **Tourmaline**: Full colour range; multiple varieties
       - **Quartz**: Dominates world amethyst supply
+
+references:
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "Walter"
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling Publishing"
+    year: 2009
+    isbn: "978-1-4027-6829-3"
+
+  - id: shigley-2010-gem-localities
+    kind: article
+    authors:
+      - family: "Shigley"
+        given: "James E."
+      - family: "Kane"
+        given: "Robert E."
+      - family: "Dettman"
+        given: "David L."
+    title: "Gem Localities of the 2000s"
+    journal: "Gems & Gemology"
+    year: 2010
+    volume: 46
+    issue: 3
+    pages: "188–216"
+    doi: "10.5741/gems.46.3.188"

@@ -19,9 +19,9 @@ sections:
   - title: Introduction
     content: |
       Brazil has been an emerald producer for centuries, though its market
-      share remains secondary to Colombia and Zambia. Brazilian emeralds
-      often display different characteristics from Colombian stones, with
-      their own distinct appearance valued by some collectors.
+      share remains secondary to Colombia and Zambia. {cite:schumann-2009-gemstones}
+      Brazilian emeralds often display different characteristics from Colombian stones,
+      with their own distinct appearance valued by some collectors.
 
   - title: Sources
     content: |
@@ -57,7 +57,7 @@ sections:
           - Often lighter than Colombian
           - May have yellowish modifier
           - Best material rivals Colombian green
-          - Iron typically present (affects colour)
+          - Iron typically present (affects colour) {cite:saeseaw-2019-emerald-origin}
 
       - title: Inclusions
         content: |
@@ -92,7 +92,7 @@ sections:
             - '"Jardin" inclusions expected'
             - Highest market prices
             - Strong brand recognition
-            - Oil treatment nearly universal
+            - Oil treatment nearly universal {cite:read-2014-gemmology}
 
   - title: Treatment
     content: |
@@ -131,3 +131,43 @@ sections:
         Brazil has complete exclusivity for imperial topaz. The Ouro Preto
         region in Minas Gerais is the only commercial source worldwide for
         this valuable orange to pink-orange topaz variety.
+
+references:
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "Walter"
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling Publishing"
+    year: 2009
+    isbn: "978-1-4027-6829-3"
+
+  - id: saeseaw-2019-emerald-origin
+    kind: article
+    authors:
+      - family: "Saeseaw"
+        given: "Sudarat"
+      - family: "Renfro"
+        given: "Nathan D."
+      - family: "Palke"
+        given: "Aaron C."
+    title: "Geographic Origin Determination of Emerald"
+    journal: "Gems & Gemology"
+    year: 2019
+    volume: 55
+    issue: 4
+    pages: "614–646"
+    doi: "10.5741/gems.55.4.614"
+
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "Peter G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann"
+    year: 2014
+    doi: "10.4324/9780080507224"
