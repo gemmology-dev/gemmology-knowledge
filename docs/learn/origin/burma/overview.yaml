@@ -20,8 +20,8 @@ sections:
     content: |
       Myanmar (Burma) produces some of the world's finest gems, particularly ruby.
       The Mogok Stone Tract has been mined for over 1,000 years and remains the
-      benchmark for ruby quality. "Pigeon blood" originally described only Mogok
-      rubies.
+      benchmark for ruby quality. {cite:hughes-2017-ruby-sapphire} "Pigeon blood"
+      originally described only Mogok rubies. {cite:hughes-2017-ruby-sapphire}
 
       Beyond ruby, Burma produces exceptional sapphires, spinels, and jadeite.
 
@@ -107,3 +107,14 @@ sections:
       - **Ethical sourcing**: Ask about supply chain
       - **Value premium**: Weigh origin premium against alternatives
       - **Documentation**: Provenance increasingly important
+
+references:
+  - id: hughes-2017-ruby-sapphire
+    kind: book
+    authors:
+      - family: "Hughes"
+        given: "Richard W."
+    title: "Ruby & Sapphire: A Gemologist's Guide"
+    publisher: "RWH Publishing"
+    year: 2017
+    isbn: "978-0-9645097-6-4"

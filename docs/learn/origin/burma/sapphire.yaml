@@ -39,7 +39,7 @@ sections:
       - title: Optical Properties
         content: |
           - **Fluorescence**: Often more than Ceylon
-          - **UV response**: Red fluorescence from trace chromium
+          - **UV response**: Red fluorescence from trace chromium {cite:palke-2019-sapphire-origin}
           - **Lustre**: Excellent in fine stones
           - **Silk**: Variable; contributes to character
 
@@ -56,7 +56,7 @@ sections:
 
       Similar inclusion suite to Mogok ruby:
       - Short rutile silk
-      - Calcite, apatite, zircon crystals
+      - Calcite, apatite, zircon crystals {cite:palke-2019-sapphire-origin}
       - Colour zoning (often angular)
       - Fingerprints (healed fractures)
       - Negative crystals with fluid
@@ -67,7 +67,7 @@ sections:
     subsections:
       - title: Value Ranking
         content: |
-          - **Kashmir**: Highest (historic, extremely rare)
+          - **Kashmir**: Highest (historic, extremely rare) {cite:hughes-2017-ruby-sapphire}
           - **Burma**: Second tier (premium source)
           - **Ceylon**: Third tier (fine quality, better availability)
           - **Madagascar/other**: Fourth tier (good value)
@@ -118,3 +118,31 @@ sections:
       - **Padparadscha-type**: Rare pink-orange
       - **Star sapphire**: Six-rayed asterism
       - **Colour-change**: Some exceptional examples
+
+references:
+  - id: palke-2019-sapphire-origin
+    kind: article
+    authors:
+      - family: "Palke"
+        given: "Aaron C."
+      - family: "Renfro"
+        given: "Nathan"
+      - family: "Berg"
+        given: "Robert B."
+    title: "Geographic Origin Determination of Blue Sapphire"
+    journal: "Gems & Gemology"
+    year: 2019
+    volume: 55
+    issue: 4
+    pages: "536–579"
+    doi: "10.5741/gems.55.4.536"
+
+  - id: hughes-2017-ruby-sapphire
+    kind: book
+    authors:
+      - family: "Hughes"
+        given: "Richard W."
+    title: "Ruby & Sapphire: A Gemologist's Guide"
+    publisher: "RWH Publishing"
+    year: 2017
+    isbn: "978-0-9645097-6-4"
