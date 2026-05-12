@@ -1,5 +1,5 @@
-title: Russian Demantoid Garnet – Ural Mountains
-description: Ural demantoid (andradite, Cr-coloured); horsetail inclusions – byssolite terminology and Kissin 2021 mineralogical correction; LA-ICP-MS origin discrimination from Namibia and Madagascar.
+title: Russian Demantoid Garnet — Ural Mountains
+description: Ural demantoid (andradite, Cr-coloured); horsetail inclusions — byssolite terminology and Kissin 2021 mineralogical correction; LA-ICP-MS origin discrimination from Namibia and Madagascar.
 order: 2
 category: origin
 subcategory: russia
@@ -26,7 +26,7 @@ sections:
       variety of andradite garnet and among the most valuable of all garnets. Discovered
       in the 1860s from alluvial placers along the Bobrovka River (tributary of the Sysert),
       it is coloured by Cr³⁺ and possesses the highest dispersion (0.057 B–G interval)
-      of any natural garnet – exceeding diamond (0.044). The name derives from German
+      of any natural garnet — exceeding diamond (0.044). {cite:phillips-hyrsl-1996-demantoid} The name derives from German
       "Demant" (diamond), referring to this exceptional fire.
 
   - title: Discovery and History
@@ -48,17 +48,17 @@ sections:
         - Property
         - Value
       rows:
-        - ["Species", "Andradite garnet – Ca₃Fe₂(SiO₄)₃; Cr³⁺ substituting Fe³⁺"]
+        - ["Species", "Andradite garnet — Ca₃Fe₂(SiO₄)₃; Cr³⁺ substituting Fe³⁺"]
         - ["Crystal system", "Cubic (isometric); singly refractive"]
         - ["RI", "1.880–1.895"]
-        - ["Dispersion (B–G)", "0.057 – highest of all natural garnets"]
+        - ["Dispersion (B–G)", "0.057 — highest of all natural garnets"]
         - ["SG", "~3.84"]
         - ["Hardness", "6.5 (Mohs)"]
         - ["Colour", "Yellow-green to emerald-green (Cr³⁺ dominant)"]
         - ["Key absorption", "685 nm Cr line; 440 nm blue-violet cutoff (iron)"]
         - ["Fluorescence", "Inert (iron quenches)"]
 
-  - title: The Horsetail Inclusion – Dual Terminology
+  - title: The Horsetail Inclusion — Dual Terminology
     content: |
       The horsetail is the most diagnostic inclusion for Ural demantoid:
     subsections:
@@ -66,12 +66,12 @@ sections:
         content: |
           - **FGA examination terminology**: The "horsetail" inclusion consists of curved,
             fan-shaped bundles of fine asbestiform fibres radiating from a central chromite
-            crystal – described in the gemmological tradition as "byssolite" (asbestiform
+            crystal — described in the gemmological tradition as "byssolite" (asbestiform
             actinolite/amphibole variety)
           - This is the terminology used by major gemological laboratories in origin
             reports and is the description that FGA Diploma candidates must recognise
           - Source: Phillips & Hyrsl (1996), "Russian Demantoid, Czar of the Garnet
-            Family," Gems & Gemology – API-confirmed [VERIFIED]
+            Family," Gems & Gemology — API-confirmed [VERIFIED]
 
       - title: Mineralogical Correction (Kissin 2021)
         content: |
@@ -80,21 +80,21 @@ sections:
             inclusions in the Ural demantoid were represented by hollow channels and only
             the outcrops, on the demantoid surface, were occasionally filled with serpentine"
           - The fibres are primarily HOLLOW GROWTH CHANNELS; serpentine-phase fill occurs
-            only at crystal surface outcrops – not byssolite or chrysotile sensu stricto
+            only at crystal surface outcrops — not byssolite or chrysotile sensu stricto
             throughout the inclusion body
-          - Source: Kissin et al. (2021), Minerals, doi: 10.3390/min11080825 – API-confirmed [VERIFIED]
+          - Source: Kissin et al. (2021), Minerals, doi: 10.3390/min11080825 — API-confirmed [VERIFIED]
 
-  - title: Horsetail Terminology – Important Clarification
+  - title: Horsetail Terminology — Important Clarification
     callout:
       type: warning
-      title: Use Both Terms – Do Not Substitute Silently
+      title: Use Both Terms — Do Not Substitute Silently
       text: |
         VERIFIED.md Cross-File Conflict 1 requires that BOTH descriptions be presented:
 
         FOR FGA EXAMINATIONS AND LABORATORY REPORTS: The standard description is
         "asbestiform fibres / byssolite radiating from a central chromite crystal"
-        (this reflects how major laboratories describe the inclusion and what
-        candidates must identify on exam papers).
+        — this reflects how major laboratories describe the inclusion and what
+        candidates must identify on exam papers.
 
         FOR SCIENTIFIC ACCURACY: Kissin et al. (2021) demonstrated the fibres are
         primarily hollow growth channels with serpentine fill only at surface outcrops;
@@ -109,8 +109,8 @@ sections:
       A secondary inclusion type also confirms Ural origin:
 
       - **Diopside needles**: Krzemnicki (1999) confirmed by Raman microspectroscopy
-        that "diopside needles" are present as inclusions in Russian demantoid – distinct
-        from the fibre horsetail; elongated, colourless to pale green
+        that "diopside needles" are present as inclusions in Russian demantoid — distinct
+        from the fibre horsetail; elongated, colourless to pale green {cite:krzemnicki-1999-diopside}
       - Combined with the horsetail, diopside needles reinforce Ural provenance
       - Source: doi: 10.5741/gems.35.4.192 [VERIFIED]
 
@@ -134,14 +134,14 @@ sections:
       Schwarzinger (2019) demonstrated that three major demantoid sources (Russia, Namibia,
       Madagascar) can be distinguished by LA-ICP-MS: "the three major sources could be
       distinguished by using a plot of the manganese/titanium ratio versus the sum of
-      chromium and vanadium in combination with the aluminum content." This chemical
-      separation supplements the inclusion-based diagnosis.
+      chromium and vanadium in combination with the aluminum content." {cite:schwarzinger-2019-demantoid}
+      This chemical separation supplements the inclusion-based diagnosis.
 
   - title: Market Position
     content: |
       Ural demantoid in the gem market:
 
-      - Commands significant premium over Namibian and Malagasy material – attributable
+      - Commands significant premium over Namibian and Malagasy material — attributable
         primarily to the horsetail inclusion and historical prestige
       - Fine Russian demantoid with prominent horsetail, good green colour, and >1 ct
         weight is among the most collectible of all garnet varieties
@@ -152,10 +152,66 @@ sections:
 
 sources:
   - doi: "10.5741/gems.32.2.100"
-    citation: "Phillips & Hyrsl (1996) Russian Demantoid, Czar of the Garnet Family. Gems & Gemology. [VERIFIED – live Crossref]"
+    citation: "Phillips & Hyrsl (1996) Russian Demantoid, Czar of the Garnet Family. Gems & Gemology. [VERIFIED — live Crossref]"
   - doi: "10.3390/min11080825"
-    citation: "Kissin, Murzin & Karaseva (2021) 'Horsetail' Inclusions in the Ural Demantoids: Growth Formations. Minerals. [VERIFIED – live Crossref]"
+    citation: "Kissin, Murzin & Karaseva (2021) 'Horsetail' Inclusions in the Ural Demantoids: Growth Formations. Minerals. [VERIFIED — live Crossref]"
   - doi: "10.5741/gems.35.4.192"
     citation: "Krzemnicki (1999) Diopside needles as inclusions in demantoid garnet from Russia. Gems & Gemology. [VERIFIED]"
   - doi: "10.1007/s00706-019-02409-3"
     citation: "Schwarzinger (2019) LA-ICP-MS chemical fingerprinting of demantoid sources. Monatshefte für Chemie. [VERIFIED]"
+
+references:
+  - id: phillips-hyrsl-1996-demantoid
+    kind: article
+    authors:
+      - family: "Phillips"
+        given: "Mona"
+      - family: "Hyrsl"
+        given: "Jaroslav"
+    title: "Russian Demantoid, Czar of the Garnet Family"
+    journal: "Gems & Gemology"
+    year: 1996
+    volume: 32
+    issue: 2
+    pages: "100–111"
+    doi: "10.5741/gems.32.2.100"
+
+  - id: kissin-2021-horsetail
+    kind: article
+    authors:
+      - family: "Kissin"
+        given: "Alexander Yu."
+      - family: "Murzin"
+        given: "Valery V."
+      - family: "Karaseva"
+        given: "Olga V."
+    title: "'Horsetail' Inclusions in the Ural Demantoids: Growth Formations, Not Chrysotile"
+    journal: "Minerals"
+    year: 2021
+    volume: 11
+    issue: 8
+    pages: "825"
+    doi: "10.3390/min11080825"
+
+  - id: krzemnicki-1999-diopside
+    kind: article
+    authors:
+      - family: "Krzemnicki"
+        given: "Michael S."
+    title: "Diopside needles as inclusions in demantoid garnet from Russia"
+    journal: "Gems & Gemology"
+    year: 1999
+    volume: 35
+    issue: 4
+    pages: "192–195"
+    doi: "10.5741/gems.35.4.192"
+
+  - id: schwarzinger-2019-demantoid
+    kind: article
+    authors:
+      - family: "Schwarzinger"
+        given: "Christoph"
+    title: "LA-ICP-MS chemical fingerprinting of demantoid garnet from different sources"
+    journal: "Monatshefte für Chemie"
+    year: 2019
+    doi: "10.1007/s00706-019-02409-3"
