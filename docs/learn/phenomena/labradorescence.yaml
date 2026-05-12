@@ -14,6 +14,46 @@ tags:
   - spectrolite
   - species/feldspar
 
+references:
+  - id: miura-1975-labradorescence
+    kind: article
+    authors:
+      - family: "Miura"
+        given: "Y."
+      - family: "Tomisaka"
+        given: "T."
+      - family: "Kato"
+        given: "A."
+    title: "Labradorescence and the ideal behavior of thicknesses of alternate lamellae in the Bøggild intergrowth"
+    journal: "Mineralogical Journal"
+    volume: "7"
+    issue: "6"
+    pages: "526–541"
+    year: 1975
+    doi: "10.2465/minerj1953.7.526"
+
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "P.G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann/Routledge"
+    year: 2014
+    doi: "10.4324/9780080507224"
+
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "W."
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling"
+    year: 2009
+    isbn: "978-1-4027-6829-3"
+
 sections:
   - title: Introduction
     content: |
@@ -22,8 +62,8 @@ sections:
       a full spectrum of colours including blue, green, gold, orange, and purple
       in distinct flashes.
 
-      First identified in specimens from Labrador, Canada in 1770, this phenomenon
-      creates some of the most visually dramatic effects in the gem world.
+      First identified in specimens from Labrador, Canada in 1770, {cite:schumann-2009-gemstones}
+      this phenomenon creates some of the most visually dramatic effects in the gem world.
 
   - title: Mechanism
     content: |
@@ -34,7 +74,7 @@ sections:
           - Caused by light interference from repeated thin twin layers
           - Twin lamellae form during cooling of plagioclase
           - Lamellae vary in thickness, producing different colours
-          - Light interferes between twin boundaries
+          - Light interferes between twin boundaries {cite:miura-1975-labradorescence}
 
       - title: Orientation Dependence
         content: |
@@ -61,7 +101,7 @@ sections:
       type: info
       title: Full Spectrum Finnish Labradorite
       text: |
-        Spectrolite is Finnish labradorite that shows the full colour spectrum:
+        Spectrolite is Finnish labradorite that shows the full colour spectrum: {cite:schumann-2009-gemstones}
 
         - Displays vivid blues, greens, oranges, purples in one stone
         - Discovered in Finland during WWII (1940)

@@ -14,6 +14,40 @@ tags:
   - species/feldspar
   - schiller
 
+references:
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "P.G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann/Routledge"
+    year: 2014
+    doi: "10.4324/9780080507224"
+
+  - id: nassau-2001-color
+    kind: book
+    authors:
+      - family: "Nassau"
+        given: "K."
+    title: "The Physics and Chemistry of Color"
+    edition: "2nd"
+    publisher: "Wiley-Interscience"
+    year: 2001
+    isbn: "978-0-471-39106-7"
+
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "W."
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling"
+    year: 2009
+    isbn: "978-1-4027-6829-3"
+
 sections:
   - title: Introduction
     content: |
@@ -33,7 +67,7 @@ sections:
           Moonstone is a feldspar with alternating layers of orthoclase and albite
           created during slow cooling (exsolution). When these layers are thin
           enough (approaching the wavelength of light), they scatter light through
-          interference.
+          interference. {cite:read-2014-gemmology}
 
       - title: Layer Thickness and Colour
         content: |
@@ -42,7 +76,7 @@ sections:
           - **Very thick layers**: No adularescence
 
           The thinner the layers, the shorter the wavelength scattered,
-          producing the prized blue glow.
+          producing the prized blue glow. {cite:read-2014-gemmology}{cite:nassau-2001-color}
 
   - title: Types of Moonstone
     table:
@@ -64,7 +98,7 @@ sections:
       text: |
         "Rainbow moonstone" is actually a variety of labradorite (plagioclase
         feldspar), not orthoclase moonstone. It shows multicoloured flashes
-        (labradorescence) rather than true adularescence.
+        (labradorescence) rather than true adularescence. {cite:read-2014-gemmology}{cite:schumann-2009-gemstones}
 
         True orthoclase moonstone shows a single-colour schiller (usually
         blue or white), not rainbow flashes.

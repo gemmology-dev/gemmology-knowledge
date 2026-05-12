@@ -15,6 +15,18 @@ tags:
   - optical-effects
   - light
 
+references:
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "P.G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann/Routledge"
+    year: 2014
+    doi: "10.4324/9780080507224"
+
 sections:
   - title: Introduction
     content: |
@@ -59,7 +71,7 @@ sections:
 
   - title: Phenomena Summary
     table:
-      caption: Optical Phenomena Quick Reference
+      caption: "Optical Phenomena Quick Reference {cite:read-2014-gemmology}"
       headers:
         - Phenomenon
         - Cause

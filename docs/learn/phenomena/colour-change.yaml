@@ -14,13 +14,51 @@ tags:
   - chromophores
   - lighting
 
+references:
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "P.G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann/Routledge"
+    year: 2014
+    doi: "10.4324/9780080507224"
+
+  - id: qiu-guo-2021-colour-change-garnet
+    kind: article
+    authors:
+      - family: "Qiu"
+        given: "Z."
+      - family: "Guo"
+        given: "Y."
+    title: "Explaining Colour Change in Pyrope-Spessartine Garnets"
+    journal: "Minerals"
+    volume: "11"
+    issue: "8"
+    pages: "865"
+    year: 2021
+    doi: "10.3390/min11080865"
+
+  - id: schumann-2009-gemstones
+    kind: book
+    authors:
+      - family: "Schumann"
+        given: "W."
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling"
+    year: 2009
+    isbn: "978-1-4027-6829-3"
+
 sections:
   - title: Introduction
     content: |
       Colour-change gems display different colours under different light sources
       (typically daylight vs incandescent). The most famous is alexandrite, which
-      appears green in daylight and red in incandescent light – often described as
-      "emerald by day, ruby by night."
+      appears green in daylight and red in incandescent light, often described as
+      "emerald by day, ruby by night." {cite:read-2014-gemmology}
 
       This phenomenon results from the gem's absorption spectrum interacting
       differently with various light sources.
@@ -34,7 +72,7 @@ sections:
           - Gem's absorption spectrum has transmission windows in both red and green
           - Daylight is balanced across the spectrum → green component dominates
           - Incandescent light is red-rich → red component dominates
-          - Eye perceives the dominant transmitted colour
+          - Eye perceives the dominant transmitted colour {cite:qiu-guo-2021-colour-change-garnet}
 
       - title: Requirements
         content: |
@@ -45,7 +83,7 @@ sections:
 
   - title: Alexandrite
     content: |
-      Alexandrite is colour-change chrysoberyl – the most famous and valuable
+      Alexandrite is colour-change chrysoberyl—the most famous and valuable
       colour-change gem.
     subsections:
       - title: The Colour Change
@@ -94,8 +132,8 @@ sections:
       title: The Ultimate Colour Change
       text: |
         Russian (Ural) alexandrite discovered in 1830 set the standard for
-        colour change. The green matched Russian military colours; the red
-        honoured the Tsar.
+        colour change. {cite:schumann-2009-gemstones} The green matched Russian
+        military colours; the red honoured the Tsar.
 
         Fine Russian alexandrite is essentially unavailable today. Stones
         with documented provenance command extraordinary prices at auction.
@@ -122,7 +160,7 @@ sections:
         content: |
           - Usually pyrope-spessartine composition
           - Can show blue-green to red-purple change
-          - Some match alexandrite's change quality
+          - Some match alexandrite's change quality {cite:qiu-guo-2021-colour-change-garnet}
           - Relatively rare
 
       - title: Sources

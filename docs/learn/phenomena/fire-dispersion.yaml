@@ -1,5 +1,5 @@
 title: Fire and Dispersion
-description: Fire in faceted gemstones – dispersion as differential refraction by wavelength, the B–G interval, named dispersion values, relationship to facet design, and distinction from diffraction-based spectral effects.
+description: Fire in faceted gemstones — dispersion as differential refraction by wavelength, the B–G interval, named dispersion values, relationship to facet design, and distinction from diffraction-based spectral effects.
 order: 13
 category: phenomena
 difficulty: intermediate
@@ -19,8 +19,8 @@ sections:
   - title: Definition
     content: |
       Fire is the splitting of white light into its spectral colours (red, orange, yellow, green,
-      blue, violet) visible as coloured flashes in a faceted gemstone. It arises from dispersion – 
-      the variation of refractive index with wavelength – and is enhanced by facet geometry and
+      blue, violet) visible as coloured flashes in a faceted gemstone. It arises from dispersion —
+      the variation of refractive index with wavelength — and is enhanced by facet geometry and
       viewing conditions.
 
       Fire is not the same as play-of-colour (opal) or labradorescence: those spectral effects
@@ -37,14 +37,14 @@ sections:
           refracted more strongly at any interface than longer wavelengths (red, orange). This
           wavelength-dependence of RI is dispersion. When white light enters a gem, each colour
           component is refracted by a slightly different angle; on exit, the colours emerge at
-          different positions, producing visible spectral separation – fire.
+          different positions, producing visible spectral separation — fire.
 
       - title: Why Dispersion is Not Diffraction
         content: |
           - **Diffraction** involves wave bending around apertures or at periodic structures
-            (silica sphere arrays in opal, nacre platelet stacks in pearl) – structural colour.
+            (silica sphere arrays in opal, nacre platelet stacks in pearl) — structural colour.
           - **Dispersion** involves differential refraction at an interface between two media
-            of differing refractive index – a bulk optical property of the material.
+            of differing refractive index — a bulk optical property of the material.
 
           Both produce spectral colours but at entirely different physical length scales and by
           different mechanisms. In a faceted gem, fire is produced at each facet face; in opal,
@@ -62,7 +62,7 @@ sections:
 
   - title: Named Dispersion Values
     table:
-      caption: "B–G dispersion values for selected gem species and simulants. Source: Read (2008) [APPROXIMATE] – no single DOI-verified comprehensive dispersion table was located; diamond, zircon, and moissanite values confirmed across multiple textbook sources. CZ = 0.060 (Read 7th ed. preferred value); do NOT use 0.065 from uncited trade sources."
+      caption: "B–G dispersion values for selected gem species and simulants. Source: Read (2014) [APPROXIMATE] — no single DOI-verified comprehensive dispersion table was located; diamond, zircon, and moissanite values confirmed across multiple textbook sources. CZ = 0.060 (Read preferred value); do NOT use 0.065 from uncited trade sources."
       headers:
         - Species
         - B–G Dispersion
@@ -86,7 +86,7 @@ sections:
 
   - title: Facet Design and Fire
     content: |
-      Fire is not purely a material property – cut geometry strongly determines how much
+      Fire is not purely a material property — cut geometry strongly determines how much
       dispersion is visible:
     subsections:
       - title: Cut Geometry
@@ -144,7 +144,7 @@ sections:
 
   - title: Sources
     items:
-      - name: Read (2008)
-        description: "Gemmology (3rd ed.). Butterworth-Heinemann/Routledge. DOI: 10.4324/9780080507224. [APPROXIMATE – chapter confirmed; page references not independently verified] – Primary source for dispersion mechanism and B–G values. No single DOI-verified comprehensive dispersion table paper was located in the source research session; values are textbook-consensus and should be verified against a primary spectrophotometric source before formal examination use. [Confidence C for the full dispersion table]"
+      - name: Read (2014)
+        description: "Gemmology (3rd ed.). Butterworth-Heinemann/Routledge. DOI: 10.4324/9780080507224. [APPROXIMATE — chapter confirmed; page references not independently verified] — Primary source for dispersion mechanism and B–G values. No single DOI-verified comprehensive dispersion table paper was located in the source research session; values are textbook-consensus and should be verified against a primary spectrophotometric source before formal examination use. [Confidence C for the full dispersion table]"
       - name: Nassau (2001)
-        description: "The Physics and Chemistry of Color (2nd ed.). Wiley-Interscience. No DOI retrieved. [UNVERIFIED] – Conceptual support for dispersion mechanism."
+        description: "The Physics and Chemistry of Color (2nd ed.). Wiley-Interscience. ISBN: 978-0-471-39106-7. [✓] — Conceptual support for dispersion mechanism."
