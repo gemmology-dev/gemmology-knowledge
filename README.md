@@ -205,6 +205,82 @@ Create a pull request with your new module. Ensure:
 - [ ] Tables are properly formatted
 - [ ] Examples are accurate and helpful
 
+## Learn Content (YAML)
+
+The `docs/learn/` tree contains 138 YAML articles consumed by [gemmology.dev](https://gemmology.dev) and structured as Astro content collections. Each file follows a typed schema (sections, callouts, tables, comparisons, subsections) and, since **v1.2.0**, carries structured citations.
+
+### References block
+
+Every article that makes factual claims declares its sources in a top-level `references:` array:
+
+```yaml
+references:
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "Peter G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann / Routledge"
+    year: 2014
+    doi: "10.4324/9780080507224"
+
+  - id: palke-2019-origin-ruby
+    kind: journal
+    authors:
+      - family: "Palke"
+        given: "Aaron C."
+    title: "Geographic origin determination of ruby"
+    journal: "Gems & Gemology"
+    year: 2019
+    volume: 55
+    issue: 4
+    pages: "580–613"
+    doi: "10.5741/gems.55.4.580"
+```
+
+| Field | Type | Required for kinds | Notes |
+|-------|------|-------------------|-------|
+| `id` | string (`/^[a-z0-9][a-z0-9-]*$/`) | all | Stable slug used by inline markers |
+| `kind` | `book \| journal \| web \| standard` | all | No other values accepted |
+| `authors` | `{ family, given }[]` | all except `web` | CSL-JSON-inspired |
+| `title` | string | all | Source title |
+| `year` | integer | all except `standard` | Publication year |
+| `journal` | string | `journal` | Periodical name |
+| `volume` / `issue` | int or string | `journal` (optional) | String accepted for compound issues (e.g. `"1–4"`) |
+| `pages` | string | `journal` (optional) | Page range |
+| `doi` | string | `book`, `journal` (optional) | Resolves via `doi.org/{value}` |
+| `isbn` | string | `book` (optional) | Digits-only normalised |
+| `publisher` / `edition` | string | `book` (optional) | |
+| `url` | URL string | `web` (required), others (optional) | |
+| `organization` | string | `standard` (optional) | E.g. `"ISO"`, `"LMHC"`, `"CIBJO"` |
+
+### Inline `{cite:id}` markers
+
+Cite a reference from anywhere inside a section, callout, item, subsection, or table caption using the `{cite:id}` syntax:
+
+```yaml
+sections:
+  - title: Diagnostic Inclusions
+    content: |
+      Marble-hosted Burmese ruby characteristically shows short, dense rutile
+      silk inclusions oriented along the three crystallographic axes
+      {cite:hughes-2017-ruby-sapphire}. Mong Hsu material instead shows
+      blue-cored colour zoning indicative of high-iron primary growth
+      {cite:hanni-1990-kashmir}.
+```
+
+The website pipeline resolves each marker to a numbered superscript (`<sup>[1]</sup>`) that backlinks to the bibliography section at the article footer. Dangling ids (a marker pointing at no `references:` entry) are a build-time error.
+
+### Current scope (v1.2.0)
+
+- 138 articles annotated across 8 categories
+- 623 inline `{cite:id}` markers
+- Top sources: Read (2014) *Gemmology*, Hughes (2017) *Ruby & Sapphire*, Palke et al. (2019) origin trilogy, Nassau (2001) *Color*, Gübelin & Koivula *Photoatlas* v1 & v2
+
+Release notes: https://github.com/gemmology-dev/gemmology-knowledge/releases/tag/v1.2.0
+
 ## Integration with gemmology-plugin
 
 The knowledge modules in this repository integrate with the [gemmology-plugin](https://github.com/gemmology-dev/gemmology-plugin) Claude Code plugin to provide:
