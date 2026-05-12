@@ -1,4 +1,4 @@
-title: Montana Sapphire – Yogo Gulch, Rock Creek, Missouri River
+title: Montana Sapphire — Yogo Gulch, Rock Creek, Missouri River
 description: Yogo Gulch steely-blue lamprophyre sapphire (no heat needed), Rock Creek and Missouri River alluvial pastels; distinct Fe/Ti/Mg trace element chemistry; US commercial significance.
 order: 2
 category: origin
@@ -26,11 +26,11 @@ sections:
     content: |
       Montana is the principal sapphire state in the USA, with three distinct deposit
       types producing gemstones of different character. Yogo Gulch, discovered in 1895,
-      produces the most distinctive sapphires – a steely to cornflower blue that rarely
+      produces the most distinctive sapphires — a steely to cornflower blue that rarely
       requires heat treatment. Rock Creek and the Missouri River deposits supply a broader
       colour range, most of which is heat-treated for commercial blue.
 
-  - title: Yogo Gulch – The Defining Montana Deposit
+  - title: Yogo Gulch — The Defining Montana Deposit
     content: |
       Yogo Gulch sapphire characteristics:
     subsections:
@@ -41,42 +41,42 @@ sections:
           - Palke, Renfro, and Berg (2016) investigated the lamprophyre host and melt
             inclusions: Yogo is geologically related to subduction-related alkalic magmatism
           - Palke et al. (2018) documented a geochemical link: "A common origin for
-            Thai/Cambodian rubies and blue and violet sapphires from Yogo Gulch, Montana";
-            both derive from subduction-related alkalic magmas, though Yogo's chemistry
-            differs in detail
+            Thai/Cambodian rubies and blue and violet sapphires from Yogo Gulch, Montana"
+            — both derive from subduction-related alkalic magmas, though Yogo's chemistry
+            differs in detail {cite:palke-2018-yogo-origin}
 
       - title: Colour
         content: |
-          - **Steely blue to violet-blue**: Uniform, even saturation throughout – rarely
+          - **Steely blue to violet-blue**: Uniform, even saturation throughout — rarely
             shows colour zoning
           - Compared to Kashmir: steelier, less "velvety"; more uniform but less silky
           - No colour change; no parti-colour
           - **Distinctive uniformity**: Renfro et al. (2018) noted that "virtually all
-            of the material produced has a desirable even blue to violet or purple"
+            of the material produced has a desirable even blue to violet or purple" {cite:renfro-2018-yogo}
 
       - title: Size and Heat Treatment
         content: |
           - Almost never exceeds 2 ct faceted; the vast majority are ≤0.5 ct
-          - Flat, tabular crystal habit gives very low cutting yield – explains rarity
+          - Flat, tabular crystal habit gives very low cutting yield — explains rarity
             of larger stones
           - **No heat treatment needed**: Low Fe content means little silk or rutile
-            to dissolve; Yogo stones appear similar heated or unheated – historically
+            to dissolve; Yogo stones appear similar heated or unheated — historically
             treated as unnecessary and rarely performed
           - This "naturally heat-treatment-free" quality is unusual for a sapphire
             with any basaltic/lamprophyre association
 
       - title: Trace Element Chemistry
         content: |
-          - **Relatively low Fe** compared to Thai/Cambodian basaltic sapphire – 
+          - **Relatively low Fe** compared to Thai/Cambodian basaltic sapphire —
             explains the clear blue rather than dark greenish-blue inky tone
-          - **Low Cr** – no Cr lines; pure Fe-Ti coloration
+          - **Low Cr** — no Cr lines; pure Fe-Ti coloration
           - Krebs et al. (2020) demonstrated that Montana sapphires can be separated
             from Asian basaltic sapphires using Ga/Mg, Fe/Ti, and Cr/Ga ratios; Yogo
-            shows distinctively low Fe and low Cr/Ga
+            shows distinctively low Fe and low Cr/Ga {cite:krebs-2020-sapphire-origin}
 
       - title: Inclusions
         content: |
-          - Few inclusions; characteristic lack of silk (rutile needles) – unusual
+          - Few inclusions; characteristic lack of silk (rutile needles) — unusual
             for a basalt/lamprophyre associated sapphire
           - Irregular liquid-filled cavities; two-phase inclusions
           - No marble-suite inclusions
@@ -128,3 +128,54 @@ sources:
     citation: "Palke et al. (2018) Common origin for Thai/Cambodian rubies and Yogo Gulch sapphires. American Mineralogist."
   - doi: "10.3390/min10050447"
     citation: "Krebs et al. (2020) Expanded trace element suite plus Sr-Pb isotopes for ruby and sapphire origin. Minerals."
+
+references:
+  - id: renfro-2018-yogo
+    kind: article
+    authors:
+      - family: "Renfro"
+        given: "Nathan D."
+      - family: "Palke"
+        given: "Aaron C."
+      - family: "Berg"
+        given: "Robert B."
+    title: "Gemological Characterization of Sapphires from Yogo Gulch, Montana, USA"
+    journal: "Gems & Gemology"
+    year: 2018
+    volume: 54
+    issue: 2
+    pages: "184–202"
+    doi: "10.5741/gems.54.2.184"
+
+  - id: palke-2018-yogo-origin
+    kind: article
+    authors:
+      - family: "Palke"
+        given: "Aaron C."
+      - family: "Renfro"
+        given: "Nathan D."
+      - family: "Berg"
+        given: "Robert B."
+    title: "A common origin for Thai/Cambodian rubies and blue and violet sapphires from Yogo Gulch, Montana, USA"
+    journal: "American Mineralogist"
+    year: 2018
+    doi: "10.2138/am-2018-6164"
+
+  - id: krebs-2020-sapphire-origin
+    kind: article
+    authors:
+      - family: "Krebs"
+        given: "Margaret Y."
+      - family: "Pearson"
+        given: "D. Graham"
+      - family: "Stern"
+        given: "Richard A."
+      - family: "Böttcher"
+        given: "Michael E."
+    title: "An expanded trace element and Sr–Pb isotope study of ruby and sapphire geographic origins"
+    journal: "Minerals"
+    year: 2020
+    volume: 10
+    issue: 5
+    pages: "447"
+    doi: "10.3390/min10050447"

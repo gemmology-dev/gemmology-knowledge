@@ -1,5 +1,5 @@
-title: Utah Red Beryl – Wah Wah Mountains
-description: World's only commercial red beryl source – Mn³⁺-coloured beryl in Eocene topaz rhyolite, Wah Wah Mountains, Utah; properties, inclusions, market rarity.
+title: Utah Red Beryl — Wah Wah Mountains
+description: World's only commercial red beryl source — Mn³⁺-coloured beryl in Eocene topaz rhyolite, Wah Wah Mountains, Utah; properties, inclusions, market rarity.
 order: 3
 category: origin
 subcategory: usa
@@ -21,18 +21,18 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Red beryl – commercially known as "bixbite" (though this trade name overlaps with
-      the manganese oxide mineral bixbyite, causing confusion) – is arguably the rarest
+      Red beryl — commercially known as "bixbite" (though this trade name overlaps with
+      the manganese oxide mineral bixbyite, causing confusion) — is arguably the rarest
       gem-quality beryl variety. Commercial production occurs at essentially one location
       in the world: the Wah Wah Mountains of Beaver County, Utah. Shigley and Foord (1984)
       provided the definitive characterisation: stones occupy "vugs and fractures in a
-      topaz rhyolite" – a uniquely volcanic gem beryl occurrence.
+      topaz rhyolite" — a uniquely volcanic gem beryl occurrence. {cite:shigley-foord-1984-red-beryl}
 
   - title: Geological Setting
     content: |
       Wah Wah Mountains red beryl geology:
 
-      - **Host rock**: Topaz rhyolite – a silica-rich, F-bearing volcanic flow – of
+      - **Host rock**: Topaz rhyolite — a silica-rich, F-bearing volcanic flow — of
         Eocene age (~20–19 Ma), formed during Basin and Range extensional tectonics
       - **Formation mechanism**: Beryl crystallises from an F-rich hydrothermal/vapour
         phase generated during cooling of the rhyolitic magma; this vapour phase
@@ -51,7 +51,7 @@ sections:
         consistent but saturation varies
       - **Chromophore**: Mn³⁺ substituting Al³⁺ in the beryl structure
       - Mn³⁺ absorption band in the ~490–560 nm region gives the red colour by
-        absorbing blue-green light – the complement of red
+        absorbing blue-green light — the complement of red {cite:shigley-foord-1984-red-beryl}
       - This is fundamentally different from the Cr³⁺ colouring of ruby or emerald
 
   - title: Properties
@@ -75,7 +75,7 @@ sections:
 
       - **Two-phase inclusions**: Liquid + gas
       - **Growth tubes**: Parallel to the c-axis
-      - **Topaz crystals**: From the same rhyolitic host – geologically associate
+      - **Topaz crystals**: From the same rhyolitic host — geologically associate
       - **Bixbyite crystals**: Iron-manganese oxide; small black cuboids
       - **Hematite**: Iron oxide
       - **Needle-like inclusions**: Occasionally present
@@ -88,7 +88,7 @@ sections:
         content: |
           - Red spinel is isotropic (cubic); red beryl is uniaxial negative (hexagonal)
           - On polariscope: spinel SR, red beryl DR
-          - SG differs: spinel ~3.60; red beryl ~2.67 – major difference
+          - SG differs: spinel ~3.60; red beryl ~2.67 — major difference
           - RI differs: spinel 1.712–1.736; red beryl 1.564–1.590
 
       - title: From Rubellite (Red Tourmaline)
@@ -102,7 +102,7 @@ sections:
 
       - title: From Red Glass
         content: |
-          - Glass is isotropic; red beryl is doubly refractive – polariscope separation
+          - Glass is isotropic; red beryl is doubly refractive — polariscope separation
           - SG of glass varies but usually 2.3–4.5; red beryl SG is characteristic
           - Chelsea filter and spectrum may help confirm beryl species
 
@@ -112,7 +112,7 @@ sections:
       title: Extreme Rarity
       text: |
         Red beryl is sometimes cited as approximately 1,000 times rarer than emerald
-        by weight mined. The extremely small crystal size means faceted stones are almost
+        by weight mined. {cite:shigley-foord-1984-red-beryl} The extremely small crystal size means faceted stones are almost
         always under 1 ct; stones above 3 ct are collector rarities commanding exceptional
         prices.
 
@@ -126,3 +126,19 @@ sources:
     citation: "Shigley & Foord (1984) Red Beryl from the Wah Wah Mountains, Utah. Gems & Gemology."
   - doi: "10.15506/jog.1993.23.7.409"
     citation: "Journal of Gemmology (1993) Red beryl crystal morphology observations."
+
+references:
+  - id: shigley-foord-1984-red-beryl
+    kind: article
+    authors:
+      - family: "Shigley"
+        given: "James E."
+      - family: "Foord"
+        given: "Eugene E."
+    title: "Gem-Quality Red Beryl from the Wah Wah Mountains, Utah"
+    journal: "Gems & Gemology"
+    year: 1984
+    volume: 20
+    issue: 4
+    pages: "208–221"
+    doi: "10.5741/gems.20.4.208"
