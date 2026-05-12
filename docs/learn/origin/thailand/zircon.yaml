@@ -78,7 +78,7 @@ sections:
       title: The Doubling Diagnostic
       text: |
         High birefringence in blue zircon causes STRONG DOUBLING of back facets when
-        viewed through the table at 10× magnification. This is one of the most reliable
+        viewed through the table at 10× magnification. {cite:read-2014-gemmology} This is one of the most reliable
         field-level diagnostics for zircon and distinguishes it from aquamarine (low DR),
         blue topaz (low DR), and tanzanite (moderate DR but different appearance).
 
@@ -103,3 +103,28 @@ sources:
     citation: "Keller (1982) The Chanthaburi-Trat Gem Field, Thailand. Gems & Gemology."
   - doi: "10.5741/gems.45.4.236"
     citation: "Shor & Weldon (2009) Ruby and Sapphire Production and Distribution: A Quarter Century of Change. Gems & Gemology."
+
+references:
+  - id: keller-1982-chanthaburi
+    kind: article
+    authors:
+      - family: "Keller"
+        given: "Peter C."
+    title: "The Chanthaburi-Trat Gem Field, Thailand"
+    journal: "Gems & Gemology"
+    year: 1982
+    volume: 18
+    issue: 4
+    pages: "186–196"
+    doi: "10.5741/gems.18.4.186"
+
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "Peter G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann"
+    year: 2014
+    doi: "10.4324/9780080507224"

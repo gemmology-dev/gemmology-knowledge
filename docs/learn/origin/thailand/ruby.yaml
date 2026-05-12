@@ -56,7 +56,7 @@ sections:
       title: Diagnostic UV-Vis Feature
       text: |
         The single most important spectroscopic diagnostic for Thai and Cambodian basaltic
-        ruby is the IRON ABSORPTION TRIPLET at approximately 451, 460, and 470 nm.
+        ruby is the IRON ABSORPTION TRIPLET at approximately 451, 460, and 470 nm. {cite:palke-2019-ruby-origin}
 
         These three closely spaced bands in the blue-violet region arise from Fe²⁺–Ti⁴⁺
         intervalence charge transfer and Fe–Fe interactions in the high-iron corundum lattice.
@@ -142,7 +142,7 @@ sections:
       - **Unheated Thai ruby**: Uncommon; little premium (basaltic character remains diagnostic)
       - **Market position**: Below Mogok, Mozambique primary; valued for volume supply
       - **Trade history**: Bo Rai deposits largely exhausted by 1990s; most "Thai ruby"
-        in trade today originates from Cambodia, Vietnam, or East Africa, heated in Thailand
+        in trade today originates from Cambodia, Vietnam, or East Africa, heated in Thailand {cite:shor-weldon-2009-ruby-sapphire}
 
 sources:
   - doi: "10.5741/gems.55.3.354"
@@ -155,3 +155,51 @@ sources:
     citation: "Sutthirat et al. (2018) Mantle and deep crustal xenoliths in basalts, Bo Rai ruby deposit. Journal of Asian Earth Sciences."
   - doi: "10.5741/gems.55.4.536"
     citation: "Palke et al. (2019) Geographic Origin Determination of Blue Sapphire. Gems & Gemology."
+
+references:
+  - id: palke-2019-ruby-origin
+    kind: article
+    authors:
+      - family: "Palke"
+        given: "Aaron C."
+      - family: "Renfro"
+        given: "Nathan D."
+      - family: "Berg"
+        given: "Robert B."
+    title: "Geographic Origin Determination of Ruby"
+    journal: "Gems & Gemology"
+    year: 2019
+    volume: 55
+    issue: 4
+    pages: "580–613"
+    doi: "10.5741/gems.55.4.580"
+
+  - id: shor-weldon-2009-ruby-sapphire
+    kind: article
+    authors:
+      - family: "Shor"
+        given: "Russell"
+      - family: "Weldon"
+        given: "Robert"
+    title: "Ruby and Sapphire Production and Distribution: A Quarter Century of Change"
+    journal: "Gems & Gemology"
+    year: 2009
+    volume: 45
+    issue: 4
+    pages: "236–259"
+    doi: "10.5741/gems.45.4.236"
+
+  - id: promwongnan-2019-bo-welu
+    kind: article
+    authors:
+      - family: "Promwongnan"
+        given: "Siriwan"
+      - family: "Sutthirat"
+        given: "Chakkaphan"
+    title: "Mineral Inclusions in Ruby from Bo Welu, Chanthaburi, Thailand"
+    journal: "Gems & Gemology"
+    year: 2019
+    volume: 55
+    issue: 3
+    pages: "354–371"
+    doi: "10.5741/gems.55.3.354"

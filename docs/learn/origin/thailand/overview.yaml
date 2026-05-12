@@ -75,7 +75,7 @@ sections:
           - 1970s–1980s: Thailand became the world's dominant ruby source after Mogok
             production declined; Keller (1982) noted Thailand had become "the world's
             major source of gem ruby" following "the recent drastic decline in production
-            from the classic ruby mines of Burma"
+            from the classic ruby mines of Burma" {cite:keller-1982-chanthaburi}
           - Bo Rai ruby production peaked in the 1970s–1980s; now essentially exhausted
 
       - title: Treatment and Trading Hub
@@ -83,7 +83,7 @@ sections:
           - Bangkok and Chanthaburi developed into the world's dominant ruby and sapphire
             heat-treatment and trading centres
           - Thailand pioneered the technology of heating Thai and Burmese rough to dissolve
-            silk and improve colour
+            silk and improve colour {cite:shor-weldon-2009-ruby-sapphire}
           - Material from Thailand, Cambodia, Vietnam, Burma, and East Africa is routinely
             treated and traded through Chanthaburi
 
@@ -93,7 +93,7 @@ sections:
 
       - Cambodian and Vietnamese zircon rough is imported to Chanthaburi and Bangkok
       - Heat treatment in oxidising conditions at 900–1000°C converts brownish rough
-        to the prized "blue zircon" colour
+        to the prized "blue zircon" colour {cite:read-2014-gemmology}
       - Thailand exports the majority of the world's faceted blue zircon
 
   - title: Basaltic vs Marble-Hosted Corundum
@@ -120,3 +120,43 @@ sources:
     citation: "Sutthirat et al. (2019) Multistages of sapphire formation, Bo Phloi. Journal of Asian Earth Sciences."
   - doi: "10.5741/gems.45.4.236"
     citation: "Shor & Weldon (2009) Ruby and Sapphire Production and Distribution. Gems & Gemology."
+
+references:
+  - id: keller-1982-chanthaburi
+    kind: article
+    authors:
+      - family: "Keller"
+        given: "Peter C."
+    title: "The Chanthaburi-Trat Gem Field, Thailand"
+    journal: "Gems & Gemology"
+    year: 1982
+    volume: 18
+    issue: 4
+    pages: "186–196"
+    doi: "10.5741/gems.18.4.186"
+
+  - id: shor-weldon-2009-ruby-sapphire
+    kind: article
+    authors:
+      - family: "Shor"
+        given: "Russell"
+      - family: "Weldon"
+        given: "Robert"
+    title: "Ruby and Sapphire Production and Distribution: A Quarter Century of Change"
+    journal: "Gems & Gemology"
+    year: 2009
+    volume: 45
+    issue: 4
+    pages: "236–259"
+    doi: "10.5741/gems.45.4.236"
+
+  - id: read-2014-gemmology
+    kind: book
+    authors:
+      - family: "Read"
+        given: "Peter G."
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann"
+    year: 2014
+    doi: "10.4324/9780080507224"
