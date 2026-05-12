@@ -51,7 +51,7 @@ sections:
           - Chrysoberyl (BeAl₂O₄) occurs in acidic pegmatites intruding khondalites
             (metamorphic granulites) of the Eastern Ghats mobile belt
           - Kasipathi (1996) confirmed: "Chrysoberyl occurs in the acidic pegmatite
-            intrusive into the khondalite of the Eastern Ghats of north coastal Andhra Pradesh"
+            intrusive into the khondalite of the Eastern Ghats of north coastal Andhra Pradesh" {cite:kasipathi-1996-chrysoberyl}
           - The pegmatite supplies Be and Al; the ultramafic country rock or metamorphic
             khondalite supplies Cr for alexandrite variety formation
 
@@ -79,7 +79,7 @@ sections:
       - title: Geology
         content: |
           - Panna Diamond Belt, Madhya Pradesh: kimberlite pipes (Majhgawan and Hinota,
-            ~1100 Ma) emplaced in the Baghain Sandstone of the Vindhyan Supergroup
+            ~1100 Ma) emplaced in the Baghain Sandstone of the Vindhyan Supergroup {cite:rau-2007-panna}
           - The basement Bundelkhand granitoids underlie the Vindhyan sedimentary cover;
             diamonds occur both in the primary kimberlite and in secondary alluvial
             and conglomerate deposits derived from kimberlite erosion
@@ -93,7 +93,7 @@ sections:
           - This attribution is TRADITIONALLY ACKNOWLEDGED in historical and gem trade
             literature; it is NOT confirmed by modern gemmological peer-reviewed analysis
           - The Rau (2007) paper on the Panna Diamond Belt confirms the geological
-            framework but does not attribute any specific famous diamond to Panna
+            framework but does not attribute any specific famous diamond to Panna {cite:rau-2007-panna}
           - For examination purposes: state that famous historic diamonds including
             the Koh-i-Noor are "traditionally attributed to" the Golconda/Panna
             alluvial region of India – not that their Indian origin is a confirmed fact
@@ -133,7 +133,7 @@ sections:
       - Pyrope and almandine garnet from Proterozoic metamorphic and Archaean basement
         of Odisha; artisanal production
       - Tamil Nadu produces 4-rayed and 6-rayed star garnet (almandine-pyrope with
-        rutile asterism inclusions); India is a significant source of star garnet
+        rutile asterism inclusions); India is a significant source of star garnet {cite:shigley-2010-gem-localities}
       - No diagnostic origin-determination criteria specific to Indian garnet at the
         bench level; provenance documentation required
 
@@ -144,3 +144,41 @@ sources:
     citation: "Rau (2007) Panna Diamond Belt, Madhya Pradesh – A Critical Review. Journal of the Geological Society of India."
   - doi: "10.5741/gems.46.3.188"
     citation: "Shigley et al. (2010) Gem Localities of the 2000s. Gems & Gemology."
+
+references:
+  - id: kasipathi-1996-chrysoberyl
+    kind: journal
+    authors:
+      - family: Kasipathi
+        given: P.
+    title: "Chrysoberyl from Visakhapatnam and East Godavari Districts, Andhra Pradesh"
+    journal: "Journal of the Geological Society of India"
+    volume: 48
+    issue: 4
+    year: 1996
+    doi: "10.17491/jgsi/1996/480412"
+
+  - id: rau-2007-panna
+    kind: journal
+    authors:
+      - family: Rau
+        given: H.
+    title: "Panna Diamond Belt, Madhya Pradesh — A Critical Review"
+    journal: "Journal of the Geological Society of India"
+    volume: 69
+    issue: 3
+    year: 2007
+    doi: "10.17491/jgsi/2007/690306"
+
+  - id: shigley-2010-gem-localities
+    kind: journal
+    authors:
+      - family: Shigley
+        given: J.E.
+    title: "Gem Localities of the 2000s"
+    journal: "Gems & Gemology"
+    volume: 46
+    issue: 3
+    pages: "188–216"
+    year: 2010
+    doi: "10.5741/gems.46.3.188"

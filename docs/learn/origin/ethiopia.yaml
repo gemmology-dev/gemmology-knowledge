@@ -1,5 +1,5 @@
-title: Ethiopia – Wollo Opal and Shakiso Emerald
-description: Wollo (Welo) hydrophane opal – volcanic host, water-absorbing, distinct from Australian; Shakiso mica-schist emerald; Tigray sapphire [CITATION NEEDED].
+title: Ethiopia — Wollo Opal and Shakiso Emerald
+description: Wollo (Welo) hydrophane opal — volcanic host, water-absorbing, distinct from Australian; Shakiso mica-schist emerald; Tigray sapphire [CITATION NEEDED].
 order: 22
 category: origin
 difficulty: advanced
@@ -27,13 +27,13 @@ sections:
   - title: Introduction
     content: |
       Ethiopia has emerged as a major gem-producing country with two internationally
-      significant deposits: Wollo (Welo) opal – discovered 2008, characterised 2010 – 
+      significant deposits: Wollo (Welo) opal — discovered 2008, characterised 2010 —
       which challenged the assumption that gem opal was primarily Australian; and Shakiso
-      emerald (Guji Zone, southern Ethiopia) – discovered around 2016 and immediately
+      emerald (Guji Zone, southern Ethiopia) — discovered around 2016 and immediately
       noted for fine colour. Ethiopia's gem geology reflects both Cenozoic volcanic
       activity (opal) and Pan-African metamorphic basement (emerald).
 
-  - title: Wollo (Welo) Opal – Discovery and Geology
+  - title: Wollo (Welo) Opal — Discovery and Geology
     content: |
       The Ethiopian opal revolution:
     subsections:
@@ -42,7 +42,7 @@ sections:
           - Play-of-colour opal from the Wollo Province (specifically near Wegel Tena)
             first reported to scientific literature in 2010
           - Rondeau et al. (2010) provided the foundational study: "Play-of-Color Opal
-            from Wegel Tena, Wollo Province, Ethiopia" – API-confirmed [VERIFIED]
+            from Wegel Tena, Wollo Province, Ethiopia" — API-confirmed [VERIFIED] {cite:rondeau-2010-welo-opal}
           - The study established deposit characteristics and began scientific distinction
             from Australian opal
 
@@ -55,14 +55,14 @@ sections:
           - Geologically distinct from Australian opal: Australia is sedimentary
             (Cretaceous marine sediments); Ethiopia is volcanic (Tertiary rhyolite)
 
-  - title: Hydrophane – The Critical Diagnostic
+  - title: Hydrophane — The Critical Diagnostic
     content: |
       The defining property of Ethiopian opal:
     subsections:
       - title: What Is Hydrophane?
         content: |
-          - Ethiopian opal (especially Wollo material) is characteristically **hydrophane**:
-            it absorbs water, and its optical properties change measurably with hydration
+          - Ethiopian opal (especially Wollo material) is characteristically **hydrophane**
+            — it absorbs water, and its optical properties change measurably with hydration
           - This porous character results from the volcanic host environment and the
             way silica was deposited in the vugs
 
@@ -70,16 +70,16 @@ sections:
         content: |
           - **Transparency**: Dry Ethiopian opal is often white/milky to semi-transparent;
             upon absorbing water it becomes more transparent and play of colour intensifies
-          - **RI**: Increases measurably as water is absorbed (~1.37 dry → ~1.42 when wet)
+          - **RI**: Increases measurably as water is absorbed (~1.37 dry → ~1.42 when wet) {cite:rondeau-2010-welo-opal}
           - **Weight**: Increases measurably when wet (3–10% weight gain in <1 hour)
-          - **SG**: Appears different when measured wet vs dry – hydrostatic SG measurement
+          - **SG**: Appears different when measured wet vs dry — hydrostatic SG measurement
             should NOT be performed on hydrophane opal
           - **Play of colour**: May change direction or intensity with hydration state
 
       - title: Reversible Colour Change with Humidity
         content: |
           - A subset of Wollo stones shows a reversible change in appearance linked to
-            ambient humidity – more vivid/transparent in humid conditions, more milky
+            ambient humidity — more vivid/transparent in humid conditions, more milky
             in dry conditions
           - This is a physical property change (water content), NOT a gem-quality optical
             colour change (such as the alexandrite effect)
@@ -92,10 +92,10 @@ sections:
       title: Treatment Absorption Risk
       text: |
         Hydrophane porosity creates a significant vulnerability: treatments (dyes, smoke
-        blackening, sugar-acid carbonisation) can be absorbed into the opal when wet.
+        blackening, sugar-acid carbonisation) can be absorbed into the opal when wet. {cite:rondeau-2010-welo-opal}
 
         - SMOKE TREATMENT: Exposing wet hydrophane opal to smoke deposits carbon
-          particles that darken the body tone, simulating black opal – partially reversible
+          particles that darken the body tone, simulating black opal — partially reversible
         - DYE IMPREGNATION: Wet opal absorbs dye solutions; detection by FTIR or
           UV examination
         - CLEANING: Ethiopian opal should NOT be cleaned ultrasonically or left in water
@@ -111,7 +111,7 @@ sections:
         - Australian (Coober Pedy/Lightning Ridge)
       rows:
         - ["Host rock", "Tertiary rhyolitic volcanic tuff", "Cretaceous marine sediments"]
-        - ["Hydrophane", "Yes – typically strong", "No (non-porous in boulder opal)"]
+        - ["Hydrophane", "Yes — typically strong", "No (non-porous in boulder opal)"]
         - ["RI (dry)", "~1.37", "~1.42–1.43"]
         - ["SG", "~1.95–2.05 (varies with hydration)", "~2.05–2.10 (more stable)"]
         - ["Body tone", "White to crystal (transparent when wet)", "White (Coober Pedy); dark (Lightning Ridge black)"]
@@ -130,13 +130,13 @@ sections:
             the contact between mica schist and **serpentinised peridotite** (ultramafic)
           - Genesis analogous to Sandawana (Zimbabwe) and Ural (Russia): schist-belt type
           - Nicol et al. (2022) confirmed P-T conditions: ~1.5–3 kbar and 300–430°C;
-            NaCl-dominated saline brine + CO₂-bearing fluids
+            NaCl-dominated saline brine + CO₂-bearing fluids {cite:nicol-2022-shakiso}
 
       - title: Properties and Comparison
         content: |
           - **Chromophores**: Cr³⁺ + V³⁺; similar Cr/V profile to Ural and Sandawana;
             differs from high-V Brazilian Itabira and low-Cr/high-V Zambian material
-          - **Fe content**: Low – contributes to good colour purity and moderate-strong
+          - **Fe content**: Low — contributes to good colour purity and moderate-strong
             red LWUV fluorescence
           - **Inclusions**: Phlogopite mica (more than Sandawana); tremolite needles;
             chlorite; two-phase fluid inclusions; apatite
@@ -158,19 +158,19 @@ sections:
         - ["Crystal size", "Small–medium", "Very small", "Medium–large"]
         - ["LWUV fluorescence", "Moderate–strong red", "Very strong red", "Moderate–strong red"]
 
-  - title: Tigray Sapphire – Citation Note
+  - title: Tigray Sapphire — Citation Note
     callout:
       type: warning
-      title: CITATION NEEDED – Tigray Sapphire
+      title: CITATION NEEDED — Tigray Sapphire
       text: |
         Corundum (sapphire) finds in the Tigray Region (northern Ethiopia) have been
         reported intermittently. These appear to be high-Fe basalt-hosted sapphires
-        associated with Cenozoic alkalic volcanism – consistent with the high-Fe basaltic
+        associated with Cenozoic alkalic volcanism — consistent with the high-Fe basaltic
         sapphire family (Thailand, Cambodia, eastern Australia), tending toward dark,
         steely blue with weak fluorescence.
 
         However, no peer-reviewed gemmological characterisation paper was retrieved for
-        Tigray sapphire – this locality is [CITATION NEEDED] / [UNVERIFIED] per
+        Tigray sapphire — this locality is [CITATION NEEDED] / [UNVERIFIED] per
         VERIFIED.md (D-01). Specific gemmological diagnostics cannot be stated as fact;
         this note flags the gap for a targeted research pass.
 
@@ -181,3 +181,43 @@ sources:
     citation: "Nicol et al. (2022) Pressure-temperature-fluid constraints for Halo-Shakiso Emerald Deposit, Ethiopia. The Canadian Mineralogist."
   - doi: "10.3390/min9090561"
     citation: "Karampelas et al. (2019) Emeralds from the Most Important Occurrences. Minerals."
+
+references:
+  - id: rondeau-2010-welo-opal
+    kind: journal
+    authors:
+      - family: Rondeau
+        given: B.
+      - family: Fritsch
+        given: E.
+      - family: Mazzero
+        given: F.
+      - family: Gauthier
+        given: J.P.
+      - family: Ayalew
+        given: D.
+    title: "Play-of-Color Opal from Wegel Tena, Wollo Province, Ethiopia"
+    journal: "Gems & Gemology"
+    volume: 46
+    issue: 2
+    pages: "90–105"
+    year: 2010
+    doi: "10.5741/gems.46.2.90"
+    note: "[VERIFIED — Crossref 2026-05-12]"
+
+  - id: nicol-2022-shakiso
+    kind: journal
+    authors:
+      - family: Nicol
+        given: L.
+      - family: Giuliani
+        given: G.
+      - family: Ulianov
+        given: A.
+    title: "Pressure-Temperature-Fluid Constraints for the Halo-Shakiso Emerald Deposit, Ethiopia"
+    journal: "The Canadian Mineralogist"
+    volume: 60
+    issue: 3
+    pages: "417–438"
+    year: 2022
+    doi: "10.3749/canmin.2000069"

@@ -1,5 +1,5 @@
-title: Mozambique – Montepuez Ruby and Paraíba Tourmaline
-description: Montepuez ruby (Cabo Delgado) – two-type amphibolite-hosted and alluvial; Mavuco Paraíba-type Cu-bearing tourmaline; LA-ICP-MS origin discrimination.
+title: Mozambique — Montepuez Ruby and Paraíba Tourmaline
+description: Montepuez ruby (Cabo Delgado) — two-type amphibolite-hosted and alluvial; Mavuco Paraíba-type Cu-bearing tourmaline; LA-ICP-MS origin discrimination.
 order: 20
 category: origin
 difficulty: advanced
@@ -26,16 +26,16 @@ sections:
   - title: Introduction
     content: |
       Mozambique has emerged since approximately 2009 as the world's largest ruby producer
-      by volume. The Montepuez deposit in Cabo Delgado Province (northern Mozambique)
-      is operated by Gemfields PLC and has transformed the global ruby supply. Additionally,
-      the Mavuco deposit (Nampula Province) is one of the world's major sources of Paraíba-
-      type copper-bearing elbaite tourmaline. Both deposits are part of the Pan-African
-      metamorphic basement of Mozambique.
+      by volume. {cite:chapin-2015-mozambique}{cite:vertriest-2019-mozambique} The Montepuez deposit in Cabo Delgado Province
+      (northern Mozambique) is operated by Gemfields PLC and has transformed the global
+      ruby supply. Additionally, the Mavuco deposit (Nampula Province) is one of the
+      world's major sources of Paraíba-type copper-bearing elbaite tourmaline. Both
+      deposits are part of the Pan-African metamorphic basement of Mozambique.
 
       Note: The east-africa/ files cover Mozambique briefly in the regional context;
       this file provides the Mozambique-specific depth.
 
-  - title: Montepuez Ruby – Discovery and Geology
+  - title: Montepuez Ruby — Discovery and Geology
     content: |
       Montepuez deposit background:
     subsections:
@@ -43,24 +43,24 @@ sections:
         content: |
           - Discovered approximately 2009; Gemfields PLC commenced commercial production
             and began selling rough through sealed-bid auctions in 2014
-          - Chapin, Pardieu, and Lucas (2015) documented the initial findings
+          - Chapin, Pardieu, and Lucas (2015) documented the initial findings {cite:chapin-2015-mozambique}
           - Located in the Cabo Delgado nappe complex (northern Mozambique); metamorphic
             basement rocks of ~550–630 Ma (East African Orogen)
 
       - title: Two Genetically Distinct Ruby Types
         content: |
           - Vertriest and Saeseaw (2019) demonstrated that Montepuez hosts two genetically
-            and chemically distinct ruby populations; this "two-type" classification is
-            the key gemmological framework for this deposit
+            and chemically distinct ruby populations; {cite:vertriest-2019-mozambique} this "two-type"
+            classification is the key gemmological framework for this deposit
 
-  - title: Type A – Primary (Amphibolite-Hosted) Ruby
+  - title: Type A — Primary (Amphibolite-Hosted) Ruby
     content: |
       Low-Fe primary ruby from in-situ metamorphic host:
     subsections:
       - title: Geology
         content: |
           - Found in situ in amphibolite and marble-amphibolite lithologies; the host
-            geology is debated – some literature refers to "amphibolite-hosted," others
+            geology is debated — some literature refers to "amphibolite-hosted," others
             to serpentinite alteration of the amphibolite
           - Metamorphic basement representing exhumed lower crustal rocks
 
@@ -70,10 +70,10 @@ sections:
           - This places Type A Mozambique ruby chemically closer to marble-hosted Mogok
             (Burma) than to high-Fe basaltic rubies (Thailand, Cambodia)
           - **Challenge**: Some Type A Mozambique rubies OVERLAP with Burmese rubies in
-            trace element space; Palke et al. (2019) identified this explicitly – origin
-            discrimination requires multiple overlapping data sets
+            trace element space; {cite:palke-2019-ruby-origin} Palke et al. (2019) identified this explicitly —
+            origin discrimination requires multiple overlapping data sets
 
-  - title: Type B – Alluvial (Secondary) Ruby
+  - title: Type B — Alluvial (Secondary) Ruby
     content: |
       Higher-Fe secondary ruby from gravel pockets:
 
@@ -91,8 +91,8 @@ sections:
       - title: Mineral Inclusions
         content: |
           - **Amphibole needles** (hornblende/pargasite): Elongated, greenish-black,
-            often in clusters – from the amphibolite metamorphic assemblage
-          - **Apatite crystals**: Rounded to hexagonal prisms – very diagnostic for the
+            often in clusters — from the amphibolite metamorphic assemblage
+          - **Apatite crystals**: Rounded to hexagonal prisms — very diagnostic for the
             Montepuez metamorphic assemblage
           - **Mica (phlogopite/biotite) platelets**
           - **Zircon with halos**: Metamict; tension fracture corona
@@ -112,7 +112,7 @@ sections:
       text: |
         The combination of APATITE crystals (hexagonal prisms) and AMPHIBOLE needles
         (greenish-black, elongated) in a ruby is strongly associated with the Montepuez
-        metamorphic assemblage. This pairing reflects the amphibolite host rock – 
+        metamorphic assemblage. This pairing reflects the amphibolite host rock —
         unlike the calcite + silk of Mogok, or the zircon + ilmenite of Thai basaltic ruby.
 
   - title: LA-ICP-MS Origin Determination
@@ -126,11 +126,11 @@ sections:
             V vs (Cr+V) (separates low-V Mogok from higher-V Mozambique)
           - **Sr and Pb isotopes**: Krebs et al. (2020) demonstrated that isotope
             ratios "significantly improved the discrimination" between geologically
-            similar settings
+            similar settings {cite:krebs-2020-ruby-isotopes}
 
       - title: Mogok Overlap Challenge
         content: |
-          - Type A Mozambique rubies can share low-Fe, high-Cr chemistry with Mogok;
+          - Type A Mozambique rubies can share low-Fe, high-Cr chemistry with Mogok; {cite:palke-2019-ruby-origin}
             multi-parameter analysis is mandatory for reliable origin determination
           - No single test separates Mozambique from Mogok; the laboratory applies
             a combination of chemical, spectroscopic, inclusion, and fluorescence data
@@ -141,7 +141,7 @@ sections:
     subsections:
       - title: Deposit
         content: |
-          - **Mavuco** deposit, Nampula Province, northern Mozambique – distinct from
+          - **Mavuco** deposit, Nampula Province, northern Mozambique — distinct from
             the Montepuez ruby district (different province)
           - Cu-bearing elbaite (Na(Li,Al)₃Al₆(Si₆O₁₈)(BO₃)₃(OH)₄) producing the
             characteristic neon blue-green Paraíba colour
@@ -156,7 +156,7 @@ sections:
           - Mozambique: Generally higher Mn relative to Cu; Mn/Cu > ~0.3 tends to
             indicate African provenance (Nigeria or Mozambique)
           - Katsurada et al. (2019): "A combination of chemical, spectroscopic, and
-            gemological characteristics" required – Cu alone is insufficient
+            gemological characteristics" required — Cu alone is insufficient {cite:katsurada-2019-paraiba}
 
       - title: Properties
         content: |
@@ -165,9 +165,9 @@ sections:
           - **Cu²⁺**: Produces intense blue-green absorption band near 700 nm
           - **RI**: 1.614–1.679 (uniaxial negative); birefringence ~0.016
           - **SG**: 3.01–3.06; Hardness: 7–7.5
-          - Market premium: Brazilian Paraíba still commands higher premiums than
-            Mozambican/Nigerian by 100–300% – origin certification is commercially
-            critical
+          - Brazilian Paraíba commands substantially higher premiums than African origin
+            material; laboratory origin certification is commercially essential for all
+            Cu-bearing tourmaline.
 
   - title: Market Position
     content: |
@@ -193,3 +193,80 @@ sources:
     citation: "Abduriyim et al. (2006) Paraíba tourmaline Mn/Cu origin fingerprinting. Gems & Gemology."
   - doi: "10.5741/gems.55.4.648"
     citation: "Katsurada et al. (2019) Geographic origin determination of Paraíba-type tourmaline. Gems & Gemology."
+
+references:
+  - id: chapin-2015-mozambique
+    kind: journal
+    authors:
+      - family: Chapin
+        given: M.
+      - family: Pardieu
+        given: V.
+      - family: Lucas
+        given: A.
+    title: "Mozambique: A Ruby Discovery for the 21st Century"
+    journal: "Gems & Gemology"
+    volume: 51
+    issue: 1
+    pages: "44–54"
+    year: 2015
+    doi: "10.5741/gems.51.1.44"
+
+  - id: vertriest-2019-mozambique
+    kind: journal
+    authors:
+      - family: Vertriest
+        given: W.
+      - family: Saeseaw
+        given: S.
+    title: "A Comprehensive Review of the Ruby Deposits of Mozambique"
+    journal: "Gems & Gemology"
+    volume: 55
+    issue: 2
+    pages: "162–185"
+    year: 2019
+    doi: "10.5741/gems.55.2.162"
+
+  - id: palke-2019-ruby-origin
+    kind: journal
+    authors:
+      - family: Palke
+        given: A.C.
+      - family: Renfro
+        given: N.D.
+      - family: Berg
+        given: R.B.
+    title: "Geographic Origin Determination of Ruby"
+    journal: "Gems & Gemology"
+    volume: 55
+    issue: 4
+    pages: "580–612"
+    year: 2019
+    doi: "10.5741/gems.55.4.580"
+    note: "[VERIFIED — Crossref 2026-05-12]"
+
+  - id: krebs-2020-ruby-isotopes
+    kind: journal
+    authors:
+      - family: Krebs
+        given: M.Y.
+    title: "Expanding the Trace Element Suite for Ruby Origin Determination"
+    journal: "Minerals"
+    volume: 10
+    issue: 5
+    pages: "447"
+    year: 2020
+    doi: "10.3390/min10050447"
+
+  - id: katsurada-2019-paraiba
+    kind: journal
+    authors:
+      - family: Katsurada
+        given: Y.
+    title: "Geographic Origin Determination of Paraíba-Type Tourmaline"
+    journal: "Gems & Gemology"
+    volume: 55
+    issue: 4
+    pages: "648–659"
+    year: 2019
+    doi: "10.5741/gems.55.4.648"

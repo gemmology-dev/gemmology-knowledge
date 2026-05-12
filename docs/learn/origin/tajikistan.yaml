@@ -29,8 +29,8 @@ sections:
       was distinguished from ruby as a separate species – it supplied the gem courts of
       the Islamic world, Persia, and Mughal India. The Black Prince's Ruby (set in the
       Imperial State Crown of the United Kingdom) and the Timur Ruby are both Kuh-i-Lal
-      red spinels. The deposit lies in the same Himalayan orogenic belt as Mogok (Burma)
-      and Luc Yen (Vietnam).
+      red spinels. {cite:royal-collection-black-princes-ruby}{cite:hughes-ruby-sapphire} The deposit lies in the same
+      Himalayan orogenic belt as Mogok (Burma) and Luc Yen (Vietnam).
 
   - title: Geological Context
     content: |
@@ -43,7 +43,7 @@ sections:
           - Part of the marble-hosted gem spinel belt extending from Mogok (Myanmar)
             through Luc Yen (Vietnam) to Kuh-i-Lal; Malsy and Klemm (2010) stated
             "Gem spinel deposits in Myanmar, Vietnam and Tajikistan have their formation
-            in association with Himalayan orogenesis"
+            in association with Himalayan orogenesis" {cite:malsy-2010-spinels}
           - All are marble-hosted in regionally metamorphosed carbonate sequences
 
       - title: Mining
@@ -64,7 +64,7 @@ sections:
             red spinel from this deposit set the standard for red spinel globally
           - Colour caused by Cr³⁺ substituting Mg²⁺ in the spinel structure
           - Liu et al. (2022) confirmed the Cr³⁺ colouring mechanism for Kuh-i-Lal
-            material through UV-Vis spectroscopy
+            material through UV-Vis spectroscopy {cite:liu-2022-kuh-i-lal}
 
       - title: Inclusion Suite
         content: |
@@ -85,7 +85,7 @@ sections:
       - title: Key Chemical Differences
         content: |
           - Malsy and Klemm (2010) showed that trace element differences exist: "Ti, Fe,
-            Ni, Zn, Zr and Sn differ slightly in spinels from the sources investigated"
+            Ni, Zn, Zr and Sn differ slightly in spinels from the sources investigated" {cite:malsy-2010-spinels}
           - Kuh-i-Lal spinels differ in **Ni, Zn, Sn** profiles from Luc Yen and Mogok
 
       - title: Diagnostic Table
@@ -126,7 +126,7 @@ sections:
         referred to red stones from the Kuh-i-Lal region – most of which are spinel.
 
         Famous "rubies" in royal collections worldwide were later identified as Kuh-i-Lal
-        spinel:
+        spinel: {cite:royal-collection-black-princes-ruby}
         - **Black Prince's Ruby** (Imperial State Crown, UK): A 170-carat red spinel
         - **Timur Ruby** (Royal Collection Trust, UK): An historic red spinel inscribed
           with names of its Mughal owners
@@ -139,3 +139,52 @@ sources:
     citation: "Malsy & Klemm (2010) Distinction of Gem Spinels from the Himalayan Mountain Belt. CHIMIA International Journal for Chemistry."
   - doi: "10.5741/gems.58.3.338"
     citation: "Liu et al. (2022) Color Mechanism and Spectroscopic Thermal Variation of Pink Spinel from Kuh-i-Lal, Tajikistan. Gems & Gemology."
+
+references:
+  - id: hughes-ruby-sapphire
+    kind: book
+    authors:
+      - family: Hughes
+        given: R.W.
+    title: "Ruby & Sapphire: A Gemologist's Guide"
+    publisher: "Lotus Publishing"
+    year: 2017
+    isbn: "978-0-9645097-6-4"
+
+  - id: royal-collection-black-princes-ruby
+    kind: web
+    authors:
+      - family: "Royal Collection Trust"
+    title: "The Black Prince's Ruby — Imperial State Crown"
+    publisher: "Royal Collection Trust"
+    year: 2023
+    url: "https://www.rct.uk/collection/31726/imperial-state-crown"
+    accessed: "2026-05-12"
+
+  - id: malsy-2010-spinels
+    kind: journal
+    authors:
+      - family: Malsy
+        given: A.K.
+      - family: Klemm
+        given: L.
+    title: "Distinction of Gem Spinels from the Himalayan Mountain Belt"
+    journal: "CHIMIA International Journal for Chemistry"
+    volume: 64
+    issue: 10
+    pages: "741–745"
+    year: 2010
+    doi: "10.2533/chimia.2010.741"
+
+  - id: liu-2022-kuh-i-lal
+    kind: journal
+    authors:
+      - family: Liu
+        given: Y.
+    title: "Color Mechanism and Spectroscopic Thermal Variation of Pink Spinel from Kuh-i-Lal, Tajikistan"
+    journal: "Gems & Gemology"
+    volume: 58
+    issue: 3
+    pages: "338–354"
+    year: 2022
+    doi: "10.5741/gems.58.3.338"

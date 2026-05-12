@@ -31,14 +31,14 @@ sections:
     subsections:
       - title: Discovery
         content: |
-          - **1881**: Landslide exposed sapphires at ~15,000 ft elevation
+          - **1881**: Landslide exposed sapphires at ~15,000 ft elevation {cite:hughes-ruby-sapphire}{cite:bauer-precious-stones}
           - **Location**: Sumjam, Zanskar range, Jammu & Kashmir
           - **Initial finds**: Large crystals; exceptional quality
           - **Peak production**: 1881-1887
 
       - title: Decline
         content: |
-          - Primary deposit quickly exhausted
+          - Primary deposit quickly exhausted {cite:hughes-ruby-sapphire}{cite:shor-weldon-2009}
           - Sporadic production since
           - Modern mining attempts largely unsuccessful
           - Most Kashmir sapphires are antique or estate pieces
@@ -49,7 +49,7 @@ sections:
     subsections:
       - title: The Velvety Effect
         content: |
-          - **Velvety lustre**: Soft, sleepy appearance from micro-inclusions
+          - **Velvety lustre**: Soft, sleepy appearance from micro-inclusions {cite:gubelin-photoatlas-v1}{cite:schmetzer-1990-kashmir}
           - **Cornflower blue**: Medium-toned, slightly violet-blue
           - **Haze**: Fine particulate inclusions scatter light internally
           - **Effect**: Colours appear to glow from within
@@ -94,8 +94,8 @@ sections:
       title: Key Identifier
       text: |
         Black tourmaline (schorl) crystals are one of the most diagnostic
-        inclusions for Kashmir origin. These prismatic crystals are rarely
-        seen in sapphires from other locations.
+        inclusions for Kashmir origin. {cite:schmetzer-1990-kashmir}{cite:palke-2019-sapphire-origin}
+        These prismatic crystals are rarely seen in sapphires from other locations.
 
         Combined with the characteristic velvety appearance and other
         inclusions, tourmaline helps confirm Kashmir origin.
@@ -106,10 +106,8 @@ sections:
     subsections:
       - title: Value Premium
         content: |
-          - Premiums of 50-100%+ over comparable Ceylon sapphires
-          - Fine stones: $100,000-200,000+ per carat at auction
-          - Record prices regularly broken
-          - Demand exceeds available supply
+          Kashmir origin commands the highest premiums of any blue sapphire source;
+          auction records confirm exceptional values for fine unheated examples.
 
       - title: Certification Importance
         content: |
@@ -139,3 +137,88 @@ sections:
 
         Heat treatment can reduce or eliminate the characteristic
         velvety appearance, potentially reducing both beauty and value.
+
+references:
+  - id: hughes-ruby-sapphire
+    kind: book
+    authors:
+      - family: Hughes
+        given: R.W.
+    title: "Ruby & Sapphire: A Gemologist's Guide"
+    publisher: "Lotus Publishing"
+    year: 2017
+    isbn: "978-0-9645097-6-4"
+
+  - id: schmetzer-1990-kashmir
+    kind: journal
+    authors:
+      - family: Schmetzer
+        given: K.
+      - family: Berge
+        given: A.
+    title: "Sapphires from Kashmir — A Review"
+    journal: "Gems & Gemology"
+    volume: 26
+    issue: 4
+    pages: "275–289"
+    year: 1990
+    doi: "10.5741/gems.26.4.275"
+
+  - id: palke-2019-sapphire-origin
+    kind: journal
+    authors:
+      - family: Palke
+        given: A.C.
+      - family: Saeseaw
+        given: S.
+      - family: Renfro
+        given: N.D.
+      - family: Sun
+        given: Z.
+      - family: McClure
+        given: S.F.
+    title: "Geographic Origin Determination of Blue Sapphire"
+    journal: "Gems & Gemology"
+    volume: 55
+    issue: 4
+    pages: "536–579"
+    year: 2019
+    doi: "10.5741/gems.55.4.536"
+
+  - id: shor-weldon-2009
+    kind: journal
+    authors:
+      - family: Shor
+        given: R.
+      - family: Weldon
+        given: R.
+    title: "Ruby and Sapphire Production and Distribution: A Quarter Century of Change"
+    journal: "Gems & Gemology"
+    volume: 45
+    issue: 4
+    pages: "236–259"
+    year: 2009
+    doi: "10.5741/gems.45.4.236"
+
+  - id: bauer-precious-stones
+    kind: book
+    authors:
+      - family: Bauer
+        given: M.
+    title: "Precious Stones"
+    publisher: "Charles Griffin & Co."
+    year: 1904
+    note: "Translation of Edelsteinkunde (1896); Dover reprint 1968"
+
+  - id: gubelin-photoatlas-v1
+    kind: book
+    authors:
+      - family: Gübelin
+        given: E.J.
+      - family: Koivula
+        given: J.I.
+    title: "Photoatlas of Inclusions in Gemstones"
+    edition: "1"
+    publisher: "ABC Edition"
+    year: 1986
+    isbn: "978-3-85504-024-2"

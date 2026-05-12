@@ -20,7 +20,7 @@ sections:
       Zambia has become the world's second-largest emerald producer, with the
       Kagem mine being the most significant operation. Zambian emeralds have
       distinct characteristics from Colombian material, often offering better
-      clarity at competitive prices.
+      clarity at competitive prices. {cite:saeseaw-2019-emerald-origin}
 
       The Zambian emerald trade has grown significantly since the 1970s.
 
@@ -31,7 +31,7 @@ sections:
       - title: Kagem Mine
         content: |
           - **Location**: Lufwanyama District, Copperbelt Province
-          - **Ownership**: Gemfields (75%), Zambian government (25%)
+          - **Ownership**: Gemfields (75%), Zambian government (25%) {cite:karampelas-2019-emeralds}
           - **Production**: World's single largest emerald mine
           - **Character**: Consistent supply; various qualities
 
@@ -47,7 +47,7 @@ sections:
     subsections:
       - title: Colour
         content: |
-          - **Hue**: Bluish-green to green
+          - **Hue**: Bluish-green to green {cite:saeseaw-2019-emerald-origin}{cite:karampelas-2019-emeralds}
           - **Tone**: Medium to medium-dark
           - **Character**: Cooler colour than Colombian
           - **Chromophores**: Chromium and iron
@@ -60,6 +60,8 @@ sections:
           - Inclusions when present are different type
 
   - title: Zambian Emerald Inclusions
+    content: |
+      Zambian inclusions compared with Colombian: {cite:saeseaw-2019-emerald-origin}{cite:karampelas-2019-emeralds}
     table:
       headers:
         - Inclusion
@@ -79,7 +81,7 @@ sections:
       text: |
         Zambian emeralds do NOT contain the three-phase inclusions (liquid +
         gas + halite) diagnostic of Colombian origin. They show two-phase
-        inclusions (liquid + gas only).
+        inclusions (liquid + gas only). {cite:saeseaw-2019-emerald-origin}
 
         This is one of the primary features distinguishing Zambian from
         Colombian emeralds under magnification.
@@ -118,8 +120,9 @@ sections:
 
       - title: Value Comparison
         content: |
-          - 20-50% lower than comparable Colombian
-          - Gap narrowing for fine stones
+          Zambian emeralds are generally priced below equivalent Colombian stones;
+          the differential is narrowing as market acceptance grows.
+
           - Increasing market acceptance
           - Some buyers specifically seek Zambian
 
@@ -131,3 +134,57 @@ sections:
       - **Resin filling**: Some material treated
       - **Generally less**: Cleaner rough needs less treatment
       - **Disclosure**: Same standards as Colombian
+
+references:
+  - id: saeseaw-2019-emerald-origin
+    kind: journal
+    authors:
+      - family: Saeseaw
+        given: S.
+      - family: Renfro
+        given: N.D.
+      - family: Palke
+        given: A.C.
+      - family: Sun
+        given: Z.
+      - family: McClure
+        given: S.F.
+    title: "Geographic Origin Determination of Emerald"
+    journal: "Gems & Gemology"
+    volume: 55
+    issue: 4
+    pages: "614–646"
+    year: 2019
+    doi: "10.5741/gems.55.4.614"
+
+  - id: karampelas-2019-emeralds
+    kind: journal
+    authors:
+      - family: Karampelas
+        given: S.
+      - family: Hauzenberger
+        given: C.
+      - family: Peucat
+        given: J.J.
+      - family: Fritsch
+        given: E.
+    title: "Emeralds from the Most Important Occurrences Worldwide: Chemical Fingerprinting by LA-ICP-MS"
+    journal: "Minerals"
+    volume: 9
+    issue: 9
+    pages: "561"
+    year: 2019
+    doi: "10.3390/min9090561"
+
+  - id: gubelin-photoatlas-v1
+    kind: book
+    authors:
+      - family: Gübelin
+        given: E.J.
+      - family: Koivula
+        given: J.I.
+    title: "Photoatlas of Inclusions in Gemstones"
+    edition: "1"
+    publisher: "ABC Edition"
+    year: 1986
+    isbn: "978-3-85504-024-2"

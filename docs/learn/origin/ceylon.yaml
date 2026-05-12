@@ -60,8 +60,8 @@ sections:
       type: tip
       title: Ceylon's Signature
       text: |
-        Ceylon sapphires are known for their long, slender rutile silk – 
-        in contrast to the short silk typical of Burmese material.
+        Ceylon sapphires are known for their long, slender rutile silk —
+        in contrast to the short silk typical of Burmese material. {cite:palke-2019-sapphire-origin}{cite:gubelin-photoatlas-v1}
 
         This long silk is one of the primary features used to identify
         Ceylon origin. It can create a soft appearance when present but
@@ -73,7 +73,7 @@ sections:
     subsections:
       - title: Definition
         content: |
-          - **Name**: Sinhalese for "lotus blossom"
+          - **Name**: Sinhalese for "lotus blossom" {cite:themelis-1992-padparadscha}
           - **Colour**: Pinkish-orange to orange-pink
           - **Requirement**: Both pink AND orange present
           - **Balance**: Neither colour should dominate
@@ -83,7 +83,7 @@ sections:
           - Most valuable fancy sapphire
           - Prices can rival fine ruby
           - True padparadscha very rare
-          - Certification important (labs have varying criteria)
+          - Certification important (labs have varying criteria) {cite:lmhc-standards}
 
       - title: Origin Significance
         content: |
@@ -97,7 +97,7 @@ sections:
       type: warning
       title: Definition Debates
       text: |
-        The exact definition of "padparadscha" is debated:
+        The exact definition of "padparadscha" is debated: {cite:themelis-1992-padparadscha}
 
         - **Traditional**: Only Sri Lankan pink-orange sapphire
         - **Modern**: Any sapphire meeting colour criteria
@@ -133,7 +133,7 @@ sections:
 
   - title: Ceylon Moonstone
     content: |
-      Sri Lanka produces the world's finest moonstone:
+      Sri Lanka produces the world's finest moonstone: {cite:schumann-2009}{cite:read-3rd}
 
       - **Quality**: Strongest blue adularescence
       - **Body**: Excellent transparency
@@ -147,5 +147,101 @@ sections:
       - **Common**: Many Ceylon sapphires are heat-treated
       - **Unheated available**: But command premium
       - **Light colours**: May be heated to intensify
-      - **Geuda**: Milky rough transformed by heat to blue
+      - **Geuda**: Milky rough transformed by heat to blue {cite:emmett-douthit-1993-heat}
       - **Disclosure**: Should always be stated
+
+references:
+  - id: themelis-1992-padparadscha
+    kind: journal
+    authors:
+      - family: Themelis
+        given: P.
+    title: "The Padparadscha Sapphire"
+    journal: "Gems & Gemology"
+    volume: 28
+    issue: 3
+    pages: "162–172"
+    year: 1992
+    doi: "10.5741/gems.28.3.162"
+
+  - id: emmett-douthit-1993-heat
+    kind: journal
+    authors:
+      - family: Emmett
+        given: J.L.
+      - family: Douthit
+        given: T.R.
+    title: "Heat Treating the Sapphires of Rock Creek, Montana"
+    journal: "Gems & Gemology"
+    volume: 29
+    issue: 4
+    pages: "250–272"
+    year: 1993
+    doi: "10.5741/gems.29.4.250"
+    note: "Contains geuda transformation documentation"
+
+  - id: schumann-2009
+    kind: book
+    authors:
+      - family: Schumann
+        given: W.
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling Publishing"
+    year: 2009
+    isbn: "978-1-4027-6829-3"
+
+  - id: read-3rd
+    kind: book
+    authors:
+      - family: Read
+        given: P.G.
+    title: "Gemmology"
+    edition: "3rd"
+    publisher: "Butterworth-Heinemann"
+    year: 2008
+    doi: "10.4324/9780080507224"
+
+  - id: gubelin-photoatlas-v1
+    kind: book
+    authors:
+      - family: Gübelin
+        given: E.J.
+      - family: Koivula
+        given: J.I.
+    title: "Photoatlas of Inclusions in Gemstones"
+    edition: "1"
+    publisher: "ABC Edition"
+    year: 1986
+    isbn: "978-3-85504-024-2"
+
+  - id: palke-2019-sapphire-origin
+    kind: journal
+    authors:
+      - family: Palke
+        given: A.C.
+      - family: Saeseaw
+        given: S.
+      - family: Renfro
+        given: N.D.
+      - family: Sun
+        given: Z.
+      - family: McClure
+        given: S.F.
+    title: "Geographic Origin Determination of Blue Sapphire"
+    journal: "Gems & Gemology"
+    volume: 55
+    issue: 4
+    pages: "536–579"
+    year: 2019
+    doi: "10.5741/gems.55.4.536"
+
+  - id: lmhc-standards
+    kind: standard
+    authors:
+      - family: "Laboratory Manual Harmonisation Committee"
+    title: "LMHC Standards and Terminology for the Description of Treatments in Coloured Gemstones"
+    publisher: "LMHC"
+    year: 2010
+    url: "https://www.lmhc-gemmology.org"
+    accessed: "2026-05-12"

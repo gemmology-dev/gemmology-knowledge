@@ -23,8 +23,8 @@ sections:
       is historically the most celebrated turquoise in the world – the deposit that defined
       the colour "turquoise" as a colour category for Western culture and trade. Production
       has continued for at least 2,000 years, making Neyshabur one of the world's longest-
-      continuously-operating gem sources. Shirdam et al. (2021) provided a comprehensive
-      review in Gems & Gemology.
+      continuously-operating gem sources. {cite:shirdam-2021-turquoise} Shirdam et al. (2021) provided a
+      comprehensive review in Gems & Gemology.
 
   - title: Geological Context
     content: |
@@ -42,11 +42,13 @@ sections:
 
       - title: Formula
         content: |
-          - Turquoise formula: CuAl₆(PO₄)₄(OH)₈·4H₂O
+          - Turquoise formula: CuAl₆(PO₄)₄(OH)₈·4H₂O {cite:shirdam-2021-turquoise}
           - Colour depends on Cu/Fe ratio: higher Fe shifts colour toward green
           - The finest "robah" grade (see below) has the highest Cu relative to Fe
 
   - title: Quality Grades
+    content: |
+      Persian quality grades documented by Shirdam et al. (2021): {cite:shirdam-2021-turquoise}
     table:
       headers:
         - Grade
@@ -80,7 +82,7 @@ sections:
       - title: Analytical Methods
         content: |
           - **Trace element geochemistry** (LA-ICP-MS or EDXRF): Cu, Al, Fe, Zn ratios;
-            Persian material has characteristic signatures documented by Shirdam et al. (2021)
+            Persian material has characteristic signatures documented by Shirdam et al. (2021) {cite:shirdam-2021-turquoise}
           - **Raman spectroscopy**: Confirms turquoise mineral species (vs dyed howlite,
             magnesite, or stabilised materials)
           - **FTIR**: Identifies stabilising resin/wax treatment (phosphate vs polymer
@@ -101,7 +103,7 @@ sections:
       text: |
         Much of the commercial Neyshabur output is STABILISED – impregnated with wax,
         resin, or plastic to improve durability, surface finish, and colour. This is
-        accepted trade practice but reduces value relative to untreated natural turquoise.
+        accepted trade practice but reduces value relative to untreated natural turquoise. {cite:shirdam-2021-turquoise}
 
         FTIR spectroscopy distinguishes:
         - Untreated natural turquoise: Clean phosphate absorption pattern
@@ -128,3 +130,35 @@ sections:
 sources:
   - doi: "10.5741/gems.57.3.240"
     citation: "Shirdam et al. (2021) Persian Turquoise: The Ancient Treasure of Neyshabur. Gems & Gemology."
+
+references:
+  - id: shirdam-2021-turquoise
+    kind: journal
+    authors:
+      - family: Shirdam
+        given: R.
+      - family: Sadeghi
+        given: S.M.
+      - family: Malekzadeh Shafaroudi
+        given: A.
+      - family: Etminan
+        given: H.
+    title: "Persian Turquoise: The Ancient Treasure of Neyshabur"
+    journal: "Gems & Gemology"
+    volume: 57
+    issue: 3
+    pages: "240–265"
+    year: 2021
+    doi: "10.5741/gems.57.3.240"
+    note: "[VERIFIED — Crossref 2026-05-12]"
+
+  - id: schumann-2009
+    kind: book
+    authors:
+      - family: Schumann
+        given: W.
+    title: "Gemstones of the World"
+    edition: "4th"
+    publisher: "Sterling Publishing"
+    year: 2009
+    isbn: "978-1-4027-6829-3"

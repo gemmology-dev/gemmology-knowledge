@@ -1,4 +1,4 @@
-title: Cambodia – Pailin Sapphire and Battambang Ruby
+title: Cambodia — Pailin Sapphire and Battambang Ruby
 description: Cambodian gem deposits from Pailin (basaltic sapphire and ruby) and Battambang (marble-hosted ruby); Khmer Rouge era hiatus; distinction from Thai material.
 order: 10
 category: origin
@@ -33,18 +33,18 @@ sections:
     content: |
       Two corundum-forming environments in Cambodia:
     subsections:
-      - title: Pailin – Basaltic Province
+      - title: Pailin — Basaltic Province
         content: |
           - Cenozoic intraplate alkali basalt field; same Southeast Asian province as
             Chanthaburi-Trat (Thailand) and Ratanakiri (also Cambodia, for zircon)
           - Corundum transported to surface in basalt; concentrated in alluvial placers
-          - High-Fe, low-Cr geochemical environment – same signature as Thai basaltic material
+          - High-Fe, low-Cr geochemical environment — same signature as Thai basaltic material
           - Adjacent to Bo Rai (Thailand); material from both sides historically mixed
 
-      - title: Battambang – Marble-Hosted Ruby
+      - title: Battambang — Marble-Hosted Ruby
         content: |
-          - Small-scale occurrence of marble-hosted ruby – geologically analogous to
-            Mogok and Vietnam marble-type deposits
+          - Small-scale occurrence of marble-hosted ruby — geologically analogous to
+            Mogok and Vietnam marble-type deposits {cite:giuliani-2015-fluid-inclusions}
           - Low-Fe environment; strong fluorescence expected
           - Much smaller production volume than Pailin
           - Geologically distinct from the Pailin basaltic deposits
@@ -55,14 +55,14 @@ sections:
       title: Conflict and Gem Production
       text: |
         The Pailin gem field lay within a Khmer Rouge-controlled zone from 1975 through
-        the 1990s, effectively halting international trade access for over two decades.
+        the 1990s, effectively halting international trade access for over two decades. {cite:shor-weldon-2009}{cite:global-witness-1995}
         Production resumed after the end of conflict in the early 2000s but at lower
         intensity than during the peak 1970s activity.
 
         Pailin's gem trade was historically significant as a Khmer Rouge revenue source;
         ethical sourcing considerations applied to Cambodian gems through the 1990s.
 
-  - title: Pailin Sapphire and Ruby – Diagnostic Features
+  - title: Pailin Sapphire and Ruby — Diagnostic Features
     content: |
       Characteristics of Pailin basaltic corundum:
     subsections:
@@ -75,7 +75,7 @@ sections:
 
       - title: Chemistry and Spectroscopy
         content: |
-          - **High Fe**: Basaltic geochemical profile – >600 ppm Fe typical
+          - **High Fe**: Basaltic geochemical profile — >600 ppm Fe typical {cite:palke-2019-sapphire-origin}{cite:keller-1982-chanthaburi}
           - **Strong 450/460/470 nm triplet**: Fe-related absorption in UV-Vis spectra,
             similar to Thai material
           - **LWUV fluorescence**: Weak; iron quenches chromium signal
@@ -84,7 +84,7 @@ sections:
       - title: Inclusions
         content: |
           - Basalt-suite minerals: zircon (with halos), feldspar, iron oxides (ilmenite)
-          - Consistent with basaltic parentage – same mineral family as Thai material
+          - Consistent with basaltic parentage — same mineral family as Thai material
           - No marble-hosted inclusions (no calcite, apatite, sphene)
 
   - title: Pailin vs Thai Distinction
@@ -93,7 +93,7 @@ sections:
 
       - **Historical difficulty**: Pailin and Bo Rai (Thailand) material was historically
         traded together through Chanthaburi and often mixed; laboratory separation was
-        not routine
+        not routine {cite:shor-weldon-2009}
       - **Modern LA-ICP-MS**: Trace element ratio patterns (Ga/Mg, Fe/Ti, Cr/Ga) and
         oxygen isotope analysis can discriminate Pailin from Chanthaburi with some
         confidence; the separation is a laboratory-level task
@@ -106,12 +106,13 @@ sections:
       title: Marble-Hosted in a Basaltic Province
       text: |
         The Battambang marble-hosted ruby occurrence is geologically anomalous in a
-        province dominated by basaltic deposits. Marble-hosted ruby characteristics
-        (low Fe, strong fluorescence, calcite inclusions) apply – similar in principle
-        to Vietnamese marble ruby from Luc Yen, though at much smaller production scale.
+        province dominated by basaltic deposits. {cite:giuliani-2015-fluid-inclusions} Marble-hosted ruby
+        characteristics (low Fe, strong fluorescence, calcite inclusions) apply —
+        similar in principle to Vietnamese marble ruby from Luc Yen, though at much
+        smaller production scale.
 
-        If marble-type inclusions are identified in a Cambodian-provenance ruby, Battambang
-        origin should be considered.
+        If marble-type inclusions are identified in a Cambodian-provenance ruby,
+        Battambang origin should be considered.
 
 sources:
   - doi: "10.5741/gems.18.4.186"
@@ -122,3 +123,73 @@ sources:
     citation: "Shor & Weldon (2009) Ruby and Sapphire Production and Distribution. Gems & Gemology."
   - doi: "10.1127/ejm/2015/0027-2442"
     citation: "Giuliani et al. (2015) Fluid inclusions in ruby from Asian marble deposits. European Journal of Mineralogy."
+
+references:
+  - id: global-witness-1995
+    kind: report
+    authors:
+      - family: "Global Witness"
+    title: "Rough Trade: The Role of Companies and Governments in the Angolan Conflict"
+    publisher: "Global Witness Ltd."
+    year: 1995
+    note: "Includes documentation of Khmer Rouge gem-revenue dependency in Pailin"
+    url: "https://www.globalwitness.org"
+
+  - id: keller-1982-chanthaburi
+    kind: journal
+    authors:
+      - family: Keller
+        given: P.C.
+    title: "The Chanthaburi-Trat Gem Field, Thailand"
+    journal: "Gems & Gemology"
+    volume: 18
+    issue: 4
+    pages: "186–196"
+    year: 1982
+    doi: "10.5741/gems.18.4.186"
+
+  - id: palke-2019-sapphire-origin
+    kind: journal
+    authors:
+      - family: Palke
+        given: A.C.
+      - family: Saeseaw
+        given: S.
+      - family: Renfro
+        given: N.D.
+      - family: Sun
+        given: Z.
+      - family: McClure
+        given: S.F.
+    title: "Geographic Origin Determination of Blue Sapphire"
+    journal: "Gems & Gemology"
+    volume: 55
+    issue: 4
+    pages: "536–579"
+    year: 2019
+    doi: "10.5741/gems.55.4.536"
+
+  - id: shor-weldon-2009
+    kind: journal
+    authors:
+      - family: Shor
+        given: R.
+      - family: Weldon
+        given: R.
+    title: "Ruby and Sapphire Production and Distribution: A Quarter Century of Change"
+    journal: "Gems & Gemology"
+    volume: 45
+    issue: 4
+    pages: "236–259"
+    year: 2009
+    doi: "10.5741/gems.45.4.236"
+
+  - id: giuliani-2015-fluid-inclusions
+    kind: journal
+    authors:
+      - family: Giuliani
+        given: G.
+    title: "Fluid inclusions in ruby from Asian marble deposits"
+    journal: "European Journal of Mineralogy"
+    year: 2015
+    doi: "10.1127/ejm/2015/0027-2442"

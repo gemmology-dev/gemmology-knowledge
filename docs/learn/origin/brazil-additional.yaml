@@ -1,4 +1,4 @@
-title: Brazil – Imperial Topaz and Emerald Sub-distinctions
+title: Brazil — Imperial Topaz and Emerald Sub-distinctions
 description: Ouro Preto imperial topaz (Cr-coloured, strong LWUV fluorescence); Itabira vs Carnaíba emerald distinction (Cr vs V dominant, inclusion differences). Cross-reference brazil/ folder.
 order: 7
 category: origin
@@ -30,7 +30,7 @@ sections:
       Imperial topaz from Ouro Preto is covered here as the only Cr-coloured commercial
       topaz in Brazil.
 
-  - title: Imperial Topaz – Ouro Preto, Minas Gerais
+  - title: Imperial Topaz — Ouro Preto, Minas Gerais
     content: |
       The defining Brazilian imperial topaz deposit:
     subsections:
@@ -43,18 +43,18 @@ sections:
             the Ouro Preto greenstone belt (Archaean); topaz crystallises in sub-vertical
             veins and pockets associated with fluorite, mica, and quartz
           - Da Costa, Sabioni, and Ferreira (2000) characterised the chemistry and
-            thermal behaviour of Ouro Preto imperial topaz
+            thermal behaviour of Ouro Preto imperial topaz {cite:da-costa-2000-imperial-topaz}
 
       - title: Colour and Chromophore
         content: |
           - **Colour range**: Yellow-orange (sherry), gold, pinkish-orange (peach),
-            pink-orange, orange-pink; rarely pure pink – a continuous warm spectrum
+            pink-orange, orange-pink; rarely pure pink — a continuous warm spectrum
           - **Chromophore**: Cr³⁺ in trace quantities contributes to the colour; colour
             centres from natural irradiation may also contribute
           - Da Costa et al. (2000) identified chromium-related character; some
             debate remains on the relative contribution of Cr vs colour centres;
             the pink modifier in the most prized stones is believed Cr-related
-            [PARTIALLY_SUPPORTED – not fully established in peer-reviewed record]
+            [PARTIALLY_SUPPORTED — not fully established in peer-reviewed record]
 
       - title: Properties
         content: |
@@ -62,8 +62,8 @@ sections:
           - **RI**: 1.619–1.627 (α), 1.620–1.628 (β), 1.627–1.636 (γ);
             birefringence: 0.008–0.010
           - **SG**: 3.49–3.57; Hardness: 8 (Mohs)
-          - **Fluorescence (LWUV)**: Strong yellow-orange to orange – one of the
-            strongest fluorescences of any gem topaz; a key identification aid
+          - **Fluorescence (LWUV)**: Strong yellow-orange to orange — one of the
+            strongest fluorescences of any gem topaz; a key identification aid {cite:da-costa-2000-imperial-topaz}
           - **Absorption**: Weak Cr bands (~630–680 nm) in some stones
 
       - title: Treatment Note
@@ -95,9 +95,9 @@ sections:
     subsections:
       - title: Itabira / Nova Era Type (Minas Gerais)
         content: |
-          - **Location**: Nova Era, Itabira, Belém do Cruzeio – all Minas Gerais
+          - **Location**: Nova Era, Itabira, Belém do Cruzeio — all Minas Gerais
           - **Geological setting**: Talc-chlorite-carbonate schist at the contact between
-            Proterozoic quartzites and ultramafic bodies – "schist-belt" type, analogous
+            Proterozoic quartzites and ultramafic bodies — "schist-belt" type, analogous
             to Sandawana (Zimbabwe) and Shakiso (Ethiopia)
           - **Chromophore**: Cr³⁺ + moderate V³⁺; low Fe content
           - **Colour**: Vivid green; comparable to Sandawana quality but achievable at
@@ -111,12 +111,12 @@ sections:
           - **Location**: Carnaíba and Socotó, Bahia State, northeastern Brazil
           - **Geological setting**: Talc-carbonate veins cutting ultramafic rocks of the
             Carnaíba ultramafite complex
-          - **Chromophore**: Predominantly V³⁺ with lower Cr – similar to Colombian
-            Chivor material in Cr/V profile
+          - **Chromophore**: Predominantly V³⁺ with lower Cr — similar to Colombian
+            Chivor material in Cr/V profile {cite:karampelas-2019-emeralds}
           - **Fe content**: Slightly higher than Itabira
           - **Colour**: Slightly "colder" green than the Cr-dominant Itabira type;
             less warm, sometimes more yellowish-green
-          - **Inclusions**: Talc plates (distinctive – soft, platy; from ultramafic host);
+          - **Inclusions**: Talc plates (distinctive — soft, platy; from ultramafic host);
             two-phase fluid inclusions; phlogopite
 
   - title: Itabira vs Carnaíba Comparison
@@ -143,7 +143,7 @@ sections:
       - **Inclusion suite**: Talc plates (Carnaíba) are diagnostically distinct from
         tremolite/biotite (Itabira); visual microscopy assists
       - **Distinction from Colombian**: Both Brazilian types show higher Li than
-        Colombian (<200 ppmw Colombian vs >200 ppmw Brazilian schist-belt types);
+        Colombian (<200 ppmw Colombian vs >200 ppmw Brazilian schist-belt types); {cite:saeseaw-2019-emerald-origin}{cite:karampelas-2019-emeralds}
         no halite-bearing three-phase inclusions
 
 sources:
@@ -153,3 +153,60 @@ sources:
     citation: "Karampelas et al. (2019) Emeralds from the Most Important Occurrences. Minerals."
   - doi: "10.5741/gems.55.4.614"
     citation: "Saeseaw et al. (2019) Geographic Origin Determination of Emerald. Gems & Gemology."
+
+references:
+  - id: da-costa-2000-imperial-topaz
+    kind: journal
+    authors:
+      - family: Da Costa
+        given: G.M.
+      - family: Sabioni
+        given: A.C.S.
+      - family: Ferreira
+        given: A.C.M.
+    title: "Imperial topaz from Ouro Preto, Brazil"
+    journal: "Journal of Gemmology"
+    volume: 27
+    issue: 3
+    year: 2000
+    doi: "10.15506/jog.2000.27.3.133"
+
+  - id: karampelas-2019-emeralds
+    kind: journal
+    authors:
+      - family: Karampelas
+        given: S.
+      - family: Hauzenberger
+        given: C.
+      - family: Peucat
+        given: J.J.
+      - family: Fritsch
+        given: E.
+    title: "Emeralds from the Most Important Occurrences Worldwide: Chemical Fingerprinting by LA-ICP-MS"
+    journal: "Minerals"
+    volume: 9
+    issue: 9
+    pages: "561"
+    year: 2019
+    doi: "10.3390/min9090561"
+
+  - id: saeseaw-2019-emerald-origin
+    kind: journal
+    authors:
+      - family: Saeseaw
+        given: S.
+      - family: Renfro
+        given: N.D.
+      - family: Palke
+        given: A.C.
+      - family: Sun
+        given: Z.
+      - family: McClure
+        given: S.F.
+    title: "Geographic Origin Determination of Emerald"
+    journal: "Gems & Gemology"
+    volume: 55
+    issue: 4
+    pages: "614–646"
+    year: 2019
+    doi: "10.5741/gems.55.4.614"
