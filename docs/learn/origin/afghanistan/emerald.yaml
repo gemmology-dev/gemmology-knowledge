@@ -51,7 +51,7 @@ sections:
         content: |
           - Medium to deep green; highly saturated fine material is available
           - "Pronounced iron-related bands" in UV-Vis spectroscopy characterise Afghan
-            emeralds and distinguish them from Colombian (Fe-poor) material
+            emeralds and distinguish them from Colombian (Fe-poor) material {cite:karampelas-2019-emerald-chemistry}
           - Fluorescence: Red LWUV (Cr³⁺ dominant) but intensity varies with Fe content;
             lower than Colombian or Sandawana due to Fe quenching
 
@@ -69,7 +69,7 @@ sections:
         content: |
           - **Li < 200 ppmw**: Shared with Colombian, Swat (Pakistan), and some Brazilian
             deposits; distinguishes from Zambian, Zimbabwean, Ethiopian material which
-            show higher Li
+            show higher Li {cite:saeseaw-2019-emerald-origin}
           - This signature reflects a non-pegmatitic heritage
 
       - title: Separation from Colombian
@@ -82,7 +82,7 @@ sections:
             patterns provide further discrimination; laboratory LA-ICP-MS required
           - **Three-phase vs Colombian three-phase**: Both have three-phase inclusions
             but Colombian includes diagnostic halite cubes and parisite; Panjshir
-            lacks both of these
+            lacks both of these {cite:bowersox-1991-panjshir}{cite:saeseaw-2019-emerald-origin}
 
   - title: Diagnostic Inclusions
     content: |
@@ -129,3 +129,55 @@ sources:
     citation: "Karampelas et al. (2019) Emeralds from the Most Important Occurrences: Chemical and Spectroscopic Data. Minerals."
   - doi: "10.5741/gems.55.4.614"
     citation: "Saeseaw et al. (2019) Geographic Origin Determination of Emerald. Gems & Gemology."
+
+references:
+  - id: karampelas-2019-emerald-chemistry
+    kind: article
+    authors:
+      - family: "Karampelas"
+        given: "Stefanos"
+      - family: "Al-Shaybani"
+        given: "Basma"
+      - family: "Mohamed"
+        given: "Fahad"
+    title: "Emeralds from the Most Important Occurrences: Chemical and Spectroscopic Data"
+    journal: "Minerals"
+    year: 2019
+    volume: 9
+    issue: 9
+    pages: "561"
+    doi: "10.3390/min9090561"
+
+  - id: saeseaw-2019-emerald-origin
+    kind: article
+    authors:
+      - family: "Saeseaw"
+        given: "Sudarat"
+      - family: "Renfro"
+        given: "Nathan D."
+      - family: "Palke"
+        given: "Aaron C."
+    title: "Geographic Origin Determination of Emerald"
+    journal: "Gems & Gemology"
+    year: 2019
+    volume: 55
+    issue: 4
+    pages: "614–646"
+    doi: "10.5741/gems.55.4.614"
+
+  - id: bowersox-1991-panjshir
+    kind: article
+    authors:
+      - family: "Bowersox"
+        given: "Gary W."
+      - family: "Foord"
+        given: "Eugene E."
+      - family: "Laurs"
+        given: "Brendan M."
+    title: "Emeralds of the Panjshir Valley, Afghanistan"
+    journal: "Gems & Gemology"
+    year: 1991
+    volume: 27
+    issue: 1
+    pages: "26–39"
+    doi: "10.5741/gems.27.1.26"
