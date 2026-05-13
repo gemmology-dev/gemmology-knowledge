@@ -57,11 +57,20 @@ references:
 sections:
   - title: Introduction
     content: |
-      The Chelsea Colour Filter (CCF) is a compact hand-held optical filter used as a rapid
-      chromophore discriminator. Developed by the Chelsea School of Art (London) in the 1930s and
-      documented in the Journal of Gemmology in 1949 {cite:ccf-1949-jog}, it remains
-      a standard part of the gemmologist's toolkit because it can separate chromium-coloured stones
-      from iron-coloured ones in a matter of seconds.
+      The Chelsea Colour Filter (CCF) is a compact hand-held optical filter that acts as a rapid
+      chromophore discriminator, separating chromium-coloured gems from iron-coloured ones in
+      seconds. Developed at the Chelsea School of Art (London) in the 1930s and documented in the
+      Journal of Gemmology in 1949 {cite:ccf-1949-jog}, it transmits two narrow windows — around
+      570–580 nm (yellow-green) and 620–700 nm (red) — while absorbing the intervening wavelengths.
+
+      Chromium-bearing stones absorb yellow-green and transmit red, appearing pink or red; iron-
+      dominated stones appear greenish or inert. Anderson (1966) established the key limitation:
+      the filter detects chromium, not natural or synthetic origin. {cite:anderson-1966-ccf}
+      Colombian emerald (strong Cr³⁺) appears strong red; Zambian emerald (elevated Fe) may
+      appear only weakly red to inert. Cobalt-coloured synthetic spinel and cobalt glass both
+      appear strong red — a diagnostic for those simulants. The CCF must always be used under
+      incandescent (tungsten) light; LED sources shift the colour balance and produce unreliable
+      results. It is a screening clue only, never a definitive identification.
 
   - title: Optical Principle
     content: |
@@ -77,7 +86,7 @@ sections:
 
       A chromophore that absorbs yellow-green but transmits red will make the stone appear
       **red or pink** through the filter. A chromophore that transmits yellow-green but absorbs
-      red will make the stone appear **greenish**.
+      red will make the stone appear **greenish**. {cite:nassau-2001-color}
 
       This makes the CCF a practical **chromium (Cr³⁺) versus iron (Fe²⁺/Fe³⁺) discriminator**:
       chromium-coloured stones tend to appear red or pink; iron-coloured stones appear greenish or

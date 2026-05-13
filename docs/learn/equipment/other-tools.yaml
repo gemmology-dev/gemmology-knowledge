@@ -45,12 +45,21 @@ references:
 sections:
   - title: Introduction
     content: |
-      Beyond the core gemmological instruments, several supporting tools provide
-      valuable identification assistance. These range from quick screening devices
-      to precise measurement equipment.
+      Beyond the core optical instruments, a complete gemmological toolkit includes several
+      supporting tools that provide rapid screening and precise physical measurement. Each
+      occupies a distinct role: the Chelsea filter gives a chromophore clue in seconds; the
+      thermal conductivity probe distinguishes diamond from most simulants at the trade counter;
+      the hydrostatic balance measures specific gravity to confirm identification where RI is
+      insufficient or unmeasurable; and the 10× loupe remains the universal field instrument.
 
-      Each tool has specific applications where it excels, contributing to the
-      comprehensive approach needed for accurate gem identification.
+      Heavy liquids extend SG measurement to rapid qualitative bracketing — bromoform (SG 2.89)
+      separates beryl and quartz from denser species; di-iodomethane (SG 3.32) places peridot
+      (SG 3.32–3.37) on the boundary and sinks corundum (SG 3.99–4.05) and diamond (3.52).
+      {cite:read-2014-gemmology} The dual thermal-plus-electrical tester addresses the moissanite
+      problem: synthetic moissanite triggers most single-probe thermal testers but is an electrical
+      semiconductor, while most natural diamonds are insulators. {cite:henn-2021-moissanite} No
+      single supporting tool is diagnostic on its own; results must be correlated with RI, optic
+      character, and spectral data. {cite:anderson-1990-gem-testing}
 
   - title: The Chelsea Filter
     content: |

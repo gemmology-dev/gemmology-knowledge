@@ -48,22 +48,24 @@ references:
     pages: "202–207"
     year: 2011
     doi: "10.5741/gems.47.3.202"
-  - id: anderson-1990-gem-testing
-    kind: book
-    authors: [{family: Anderson, given: B.W.}]
-    title: "Gem Testing"
-    publisher: Butterworth-Heinemann
-    year: 1990
-    edition: 10
-
 sections:
   - title: Introduction
     content: |
-      Diamonds require dedicated screening instruments because their refractive index (2.417) and
-      specific gravity (3.52) exceed the range of the standard gemmological refractometer and are
-      therefore not directly confirmable by the standard tool set. The instruments on this page
-      address that gap – from rapid in-trade thermal probes through to laboratory-grade UV imaging
-      systems used to detect synthetic growth patterns.
+      Dedicated screening instruments are essential for diamond because its refractive index
+      (2.417) and specific gravity (3.52) exceed the upper limits of standard gemmological
+      tools and cannot be confirmed by refractometer alone. Four instrument types address this
+      gap: thermal conductivity probes, combined thermal-plus-electrical conductivity testers,
+      deep-UV fluorescence imagers (DiamondView), and the 415.5 nm spectral screener
+      (DiamondSure).
+
+      Thermal probes exploit diamond's exceptional thermal conductivity of 2000–2200 W·m⁻¹·K⁻¹,
+      the highest of any natural substance, to give a positive result in under two seconds.
+      However, synthetic moissanite (SiC, ~490 W·m⁻¹·K⁻¹) also triggers most thermal probes,
+      making an electrical conductivity overlay essential: moissanite is a semiconductor whereas
+      most natural diamonds are insulators. {cite:henn-2021-moissanite} None of these instruments
+      can distinguish natural from synthetic diamond — HPHT and CVD synthetic diamonds test
+      positive on all probe testers. Laboratory referral (DiamondView or PL at 77 K) is required
+      for high-value or suspect stones.
 
   - title: Thermal Conductivity Probe
     content: |
