@@ -2,8 +2,9 @@
 
 Hardness, specific gravity, cleavage, fracture, and lustre.
 
-!!! tip "Interactive Version"
-    For detailed data tables and interactive content, visit [gemmology.dev/learn/physical-properties](https://gemmology.dev/learn/physical-properties).
+!!! tip "Interactive version"
+    Read this module with diagrams, cross-references, and a 3-question pretest at
+    [gemmology.dev/learn/fundamentals/physical-properties](https://gemmology.dev/learn/fundamentals/physical-properties/).
 
 ## Hardness
 

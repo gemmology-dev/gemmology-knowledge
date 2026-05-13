@@ -2,8 +2,9 @@
 
 The seven crystal systems and their characteristic symmetry elements.
 
-!!! tip "Interactive Version"
-    For interactive crystal visualizations and detailed data tables, visit [gemmology.dev/learn/crystal-systems](https://gemmology.dev/learn/crystal-systems).
+!!! tip "Interactive version"
+    Read this module with diagrams, cross-references, and a 3-question pretest at
+    [gemmology.dev/learn/fundamentals/crystal-systems](https://gemmology.dev/learn/fundamentals/crystal-systems/).
 
 ## Overview
 

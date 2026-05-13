@@ -2,8 +2,9 @@
 
 Synthetic gem production methods and detection techniques.
 
-!!! tip "Interactive Version"
-    For detailed data tables and interactive content, visit [gemmology.dev/learn/synthetics](https://gemmology.dev/learn/synthetics).
+!!! tip "Interactive version"
+    Read this module with diagrams, cross-references, and a 3-question pretest at
+    [gemmology.dev/learn/identification/synthetics](https://gemmology.dev/learn/identification/synthetics/).
 
 !!! info "Terminology"
     - **Synthetic** - Same composition as natural (lab ruby = synthetic corundum)
