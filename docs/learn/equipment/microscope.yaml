@@ -42,12 +42,21 @@ references:
 sections:
   - title: Introduction
     content: |
-      The gemmological microscope is essential for studying inclusions, growth features,
-      and signs of treatment. Magnifications from 10× to 60× are typically used, with
-      various illumination techniques revealing different internal features.
+      The gemmological microscope is the primary tool for studying inclusions, growth features,
+      and signs of treatment, and is essential for separating natural from synthetic gems and
+      detecting many enhancements. A binocular stereo microscope with variable magnification of
+      10×–45× is the standard configuration; darkfield illumination — light entering from the sides
+      against a dark background — is used for most inclusion observation, while brightfield
+      (transmitted) illumination reveals colour zoning and growth patterns.
 
-      Microscopy skills are fundamental to separating natural from synthetic gems and
-      detecting many treatments.
+      Magnifications of 30×–40× cover most routine work. At 10× (loupe equivalent), overall
+      clarity and obvious inclusions are assessed; at 60×, fine surface features and micro-inclusions
+      become visible. Immersion in a liquid of similar RI to the stone eliminates surface
+      reflections and greatly improves the visibility of internal features: benzyl benzoate
+      (RI 1.57) suits quartz and beryl; di-iodomethane (RI 1.74) suits corundum and spinel.
+      {cite:read-2014-gemmology} Synthetic ruby produced by the Verneuil (flame-fusion) method
+      is identified by curved growth striae and spherical gas bubbles visible at 30×–40×, features
+      absent from natural ruby.
 
   - title: Microscope Types
     content: |

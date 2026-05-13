@@ -58,12 +58,20 @@ references:
 sections:
   - title: Introduction
     content: |
-      The spectroscope displays the absorption spectrum of a gem, showing which wavelengths
-      of light are absorbed. Certain absorption patterns are diagnostic for specific gems
-      and treatments, making this an essential identification tool.
+      The spectroscope displays the absorption spectrum of a gem by dispersing transmitted
+      or reflected light through a prism or diffraction grating, revealing which wavelengths
+      are absorbed by the stone's chromophores. Sharp lines and broad bands at characteristic
+      positions identify both the colouring element and, in many cases, the gem species.
 
-      While requiring more skill than basic instruments, the spectroscope provides
-      information unavailable from any other portable tool.
+      The instrument is positioned between the eye and a strong white light transmitted through
+      the stone; after 30–60 seconds of dark adaptation, absorption features appear as dark lines
+      or bands against the coloured spectrum. Chromium produces a diagnostic close doublet at
+      692.8 and 694.2 nm in ruby — the most recognisable pattern in the portable spectroscope —
+      while the iron triplet at 504, 520, and 573 nm is virtually diagnostic for almandine garnet.
+      Cape-series diamonds show a sharp line at 415.5 nm (N3 nitrogen centre). {cite:breeding-2009-diamond-type}
+      {cite:fritsch-1987-chromophores} The hand spectroscope is the fastest portable chromophore
+      tool available; laboratory UV-Vis-NIR instruments provide quantitative data at higher
+      resolution. {cite:read-2014-gemmology}
 
   - title: Types of Spectroscope
     content: |

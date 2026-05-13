@@ -39,11 +39,21 @@ sections:
   - title: Introduction
     content: |
       Gemmological testing relies on a suite of standard instruments that measure optical and
-      physical properties. Mastering these tools is fundamental to gem identification and
+      physical properties to identify gem species, detect treatments, and distinguish natural
+      from synthetic materials. Mastering these tools is fundamental to gem identification and
       forms the core practical skills tested in the FGA Foundation examination.
 
-      A systematic approach using multiple instruments provides the most reliable identification.
-      No single test is definitive – results should be correlated across several methods.
+      The primary instruments are the refractometer (measures refractive index, range 1.35–1.81),
+      polariscope (determines optic character — singly or doubly refractive), dichroscope (reveals
+      pleochroism in coloured anisotropic gems), spectroscope (displays absorption spectra),
+      UV lamp (records fluorescence under 365 nm and 254 nm), and gemmological microscope
+      (examines inclusions and growth features at 10×–60×). The specific gravity balance and
+      Chelsea filter provide supporting physical and optical data. {cite:read-2014-gemmology}
+
+      A systematic approach using multiple instruments provides the most reliable identification —
+      no single test is definitive. Stones with RI above 1.81 (diamond, high zircon, demantoid)
+      exceed the refractometer's range and require specific gravity, thermal probe, or spectroscope
+      as the primary identification route. {cite:anderson-1990-gem-testing}
 
   - title: The Gemmological Toolkit
     content: |

@@ -49,13 +49,20 @@ references:
 sections:
   - title: Introduction
     content: |
-      The conoscope converts the polariscope into a device for examining **interference figures** – 
-      patterns produced by convergent polarised light passing through an anisotropic gemstone. These
-      figures reveal whether a stone is uniaxial or biaxial and, with an accessory plate, allow
-      determination of the optic sign.
+      The conoscope converts the polariscope into a device for examining interference figures —
+      patterns produced by convergent polarised light passing through an anisotropic gemstone.
+      These figures reveal whether a stone is uniaxial or biaxial and, with a lambda-plate
+      accessory, allow determination of the optic sign.
 
-      Conoscopic observation is a Diploma-level skill; it requires a well-polished, reasonably large
-      stone oriented with its optic axis approximately perpendicular to a flat facet.
+      A converging lens placed above or below the stone focuses a strongly convergent cone of
+      polarised light within the gem; the interference figure is observed through a Bertrand lens
+      or hand lens above the analyser. Uniaxial stones (trigonal, tetragonal, hexagonal systems)
+      show a stationary dark cross with concentric isochromatic rings; biaxial stones (orthorhombic,
+      monoclinic, triclinic) show two melatopes with curved isogyres. Corundum (trigonal, optic
+      sign negative, birefringence 0.008) gives a clean uniaxial cross with few rings; topaz
+      (orthorhombic, positive, 2V ≈ 65°) gives a well-separated biaxial figure. Conoscopic
+      observation is a Diploma-level skill; minimum useful stone size is approximately 3 mm
+      diameter. {cite:sturman-2010-optic-sign}
 
   - title: Relationship to the Polariscope
     content: |
@@ -220,6 +227,7 @@ sections:
           synthetic spinel) can give confusing partial patterns that do not show a clear figure.
         - **2V measurement:** Estimating 2V from a simple polariscope stage is approximate at best;
           precise measurement requires a petrographic microscope with a calibrated stage.
+          {cite:read-2014-gemmology}
 
   - title: Sources
     content: |

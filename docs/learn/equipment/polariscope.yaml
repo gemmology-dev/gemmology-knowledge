@@ -43,12 +43,20 @@ references:
 sections:
   - title: Introduction
     content: |
-      The polariscope uses two polarising filters to determine a gem's optical character
-      (isotropic vs. anisotropic) and can reveal strain, twinning, and anomalous double
-      refraction (ADR).
+      The polariscope uses two polarising filters — a fixed lower polariser and a rotatable
+      upper analyser — to determine a gem's optic character and reveal strain, twinning, and
+      anomalous double refraction (ADR). With the filters at 90° (crossed polars), the field
+      appears dark; an anisotropic gem placed in this field allows polarised light to pass through
+      in orientations governed by its crystal system.
 
-      This simple but powerful instrument quickly sorts gems into fundamental optical
-      categories, guiding further testing.
+      Rotating the stone through 360° gives the fundamental result: a gem remaining dark is
+      isotropic (cubic or amorphous); one blinking light and dark four times per rotation is
+      doubly refractive. {cite:nassau-2001-color} Isotropic stones showing patchy irregular
+      light — tabby extinction — display anomalous double refraction (ADR) from internal strain;
+      garnet and synthetic spinel are common examples. {cite:read-2014-gemmology} A stone
+      remaining bright throughout is a microcrystalline aggregate such as jadeite or chalcedony.
+      The polariscope result guides all subsequent instrument choice, making it the natural
+      first optical test after visual examination. {cite:anderson-1990-gem-testing}
 
   - title: Components and Setup
     content: |

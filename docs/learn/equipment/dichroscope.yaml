@@ -43,12 +43,21 @@ references:
 sections:
   - title: Introduction
     content: |
-      The dichroscope reveals pleochroism by showing two polarised images side by side.
-      It's essential for identifying coloured anisotropic gems and can help distinguish
-      natural from synthetic materials.
+      The dichroscope is a compact hand-held instrument that reveals pleochroism — the property
+      of anisotropic gems to display different colours when viewed along different crystallographic
+      directions — by splitting transmitted light into two polarised beams shown side by side.
+      {cite:read-2014-gemmology}
 
-      Pleochroism—the property of showing different colours in different crystallographic
-      directions—is diagnostic for many coloured gemstones. {cite:read-2014-gemmology}
+      Uniaxial gems (trigonal, tetragonal, hexagonal) are dichroic and show two pleochroic colours;
+      biaxial gems (orthorhombic, monoclinic, triclinic) are trichroic and can show three. Isotropic
+      materials (cubic gems and glass) show identical colour in both windows throughout rotation.
+      The dichroscope is most valuable for strongly pleochroic species: tanzanite shows violet-blue,
+      blue, and red-brown in its three principal directions and must be cut to show the finest blue
+      face-up; iolite's dramatic trichroism (violet-blue, pale blue, yellowish) is virtually
+      diagnostic. Ruby (trigonal) shows purplish red in the ordinary-ray direction and orange-red
+      in the extraordinary direction, helping separate it from red garnets, which are isotropic and
+      show no pleochroism. A calcite dichroscope gives the clearest colour separation; a polaroid
+      type is more durable for field use.
 
   - title: Types of Dichroscope
     content: |

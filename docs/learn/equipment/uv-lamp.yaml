@@ -55,12 +55,21 @@ references:
 sections:
   - title: Introduction
     content: |
-      Ultraviolet fluorescence can be diagnostic for certain gems and treatments.
-      Two wavelengths are used: long-wave (LWUV, 365nm) and short-wave (SWUV, 254nm).
-      Different gems may react differently to each wavelength.
+      The UV lamp excites fluorescence in gemstones by irradiating them with ultraviolet light
+      at two standard wavelengths: long-wave (LWUV, 365 nm) and short-wave (SWUV, 254 nm).
+      Fluorescence is the immediate emission of visible light while UV is applied; phosphorescence
+      is the afterglow that persists after the source is removed.
 
-      While rarely definitive alone, UV testing provides valuable supporting evidence
-      for identification.
+      Testing with both wavelengths is essential because some gems react differently to each:
+      most natural diamonds fluoresce blue under LWUV but show little or no reaction to SWUV,
+      whereas CVD synthetic diamonds often display orange fluorescence under LWUV — a useful
+      screening indicator. {cite:willems-2011-cvd} Diamond type also affects fluorescence:
+      Type IIa diamonds (nitrogen-free) often show unusual or inert LWUV reactions, prompting
+      referral for FTIR or PL testing. {cite:breeding-2009-diamond-type} Emeralds provide a
+      useful contrast: natural emeralds are usually inert under both wavelengths, while many
+      synthetic emeralds fluoresce red. UV testing is rapid, non-contact, and non-destructive,
+      but results vary within species and should always be correlated with RI, spectroscope, and
+      microscope data. {cite:read-2014-gemmology}
 
   - title: LWUV vs SWUV
     content: |
@@ -112,7 +121,7 @@ sections:
 
       - title: Describing Fluorescence
         content: |
-          Record fluorescence systematically:
+          Record fluorescence systematically: {cite:anderson-1990-gem-testing}
 
           - **Colour**: Blue, red, yellow, green, orange, white
           - **Intensity**: Inert, weak, moderate, strong, very strong

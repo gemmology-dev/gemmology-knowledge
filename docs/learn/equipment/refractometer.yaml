@@ -45,12 +45,19 @@ references:
 sections:
   - title: Introduction
     content: |
-      The refractometer is the most important gemmological instrument. It measures refractive
-      index (RI) by observing the critical angle of total internal reflection at the
-      gem-to-glass interface.
+      The gemmological refractometer measures refractive index by observing the critical angle
+      of total internal reflection at the gem-to-glass interface. A polished facet is placed
+      on the high-RI glass hemisphere using a single drop of contact liquid (RI ≈ 1.81). The
+      shadow edge on the scale indicates the gem's RI. For anisotropic gems, rotating the stone
+      90° produces two readings whose difference is the birefringence.
 
-      Refractive index is a fundamental property that helps identify gem species and can
-      distinguish between similar-looking materials.
+      The scale covers RI 1.35–1.81; gems with higher RI (zircon RI 1.93–1.98, demantoid garnet,
+      sphene) require the Hanneman–Hodgkinson spot method or a heavy liquid comparison. Common
+      sources of error include too much contact liquid (blurs the shadow edge), a dirty hemisphere
+      (shifts the reading), and using polychromatic light rather than sodium yellow (589 nm),
+      which broadens the edge and reduces accuracy to ±0.005. Quartz (RI 1.544–1.553) is a
+      convenient calibration standard; ruby and sapphire (1.762–1.770) demonstrate the two-reading
+      technique for uniaxial stones.
 
   - title: How It Works
     content: |
@@ -123,7 +130,7 @@ sections:
           - Less accurate than faceted readings (+/- 0.01)
           - Useful for rough assessment of cabochons and beads
           - Cannot measure birefringence accurately
-          - Best for isotropic materials or quick screening
+          - Best for isotropic materials or quick screening {cite:anderson-1990-gem-testing}
 
   - title: "Sturman's Seven Refractometer Patterns"
     content: |

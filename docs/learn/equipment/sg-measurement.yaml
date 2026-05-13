@@ -48,12 +48,18 @@ references:
 sections:
   - title: Introduction
     content: |
-      Specific gravity (SG) – also called relative density – is the ratio of a substance's weight
-      to the weight of an equal volume of water. It is a fundamental physical property that helps
-      identify gem species, particularly when refractive index and optical tests are inconclusive.
+      Specific gravity (SG) is the ratio of a gem's weight in air to the weight of an equal
+      volume of water at 4 °C. It is measured by hydrostatic weighing: the gem is weighed in air
+      (W_air), then suspended in water (W_water), and SG = W_air ÷ (W_air − W_water), corrected
+      for water temperature. SG is density-dependent and therefore characteristic of chemical
+      composition, making it a reliable secondary confirmation after refractive index.
 
-      SG measurement is a Foundation-required skill (Gem-A FS5) and a standard part of any
-      complete gemstone identification sequence.
+      Diamond (3.52), corundum (3.99–4.05), and zircon (3.93–4.73) each have distinctive values.
+      Errors arise from air bubbles adhering to the stone during water weighing — these increase
+      the apparent buoyancy, giving a falsely high reading — and from fracture-filled stones where
+      the filler material alters the effective density. The tolerance for most gem species is
+      approximately ±0.02–0.03. SG measurement is a Foundation-required skill (Gem-A FS5) and a
+      standard part of any complete gemstone identification sequence. {cite:farrimond-1994-sg}
 
   - title: Hydrostatic Balance Principle
     content: |
@@ -167,7 +173,7 @@ sections:
   - title: SG Reference Values
     content: |
       These SG values are used to evaluate hydrostatic results and to predict sink/float behaviour
-      in heavy liquids. Values from the Gem-A Foundation constants table.
+      in heavy liquids. Values from the Gem-A Foundation constants table. {cite:read-2014-gemmology}
     table:
       caption: Common Gem Species SG Reference Values
       headers:

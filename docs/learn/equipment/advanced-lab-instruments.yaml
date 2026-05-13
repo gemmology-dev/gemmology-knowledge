@@ -74,13 +74,20 @@ references:
 sections:
   - title: Introduction
     content: |
-      This page covers the five principal advanced laboratory instruments encountered at Diploma
-      level. Students need awareness-depth knowledge only: what each instrument detects, its key
-      gemmological applications, and its cost and availability constraints. Operational training
-      is outside the scope of the FGA examination.
+      Advanced laboratory instruments extend gem analysis far beyond the portable toolkit, enabling
+      treatment detection, synthetic identification, and geographic origin determination that no
+      hand instrument can provide. Five techniques are covered at Diploma level: FTIR spectroscopy,
+      UV-Vis-NIR spectrophotometry, Raman spectroscopy, EDXRF and LA-ICP-MS trace element analysis,
+      and photoluminescence (PL) at 77 K.
 
-      These instruments are available at major gem laboratories (GIA, Gübelin, SSEF, Gem-A
-      Laboratory, AGL) and increasingly at larger trade houses. They are not field instruments.
+      Students require awareness-depth knowledge only — what each instrument detects and its key
+      gemmological applications — not operational proficiency; laboratory training is outside the
+      FGA examination scope. FTIR is the primary tool for detecting emerald filler substances
+      and diamond nitrogen type; LA-ICP-MS provides ultra-trace element data to ppb levels and
+      is the only technique that can routinely detect beryllium (atomic number 4), making it
+      definitive for Be-diffusion treatment in sapphire. {cite:emmett-2003-be-diffusion} These instruments are
+      available at major gem laboratories (GIA, Gübelin, SSEF, Gem-A Laboratory) and are not
+      field instruments.
 
   - title: FTIR Spectroscopy
     content: |
@@ -175,7 +182,7 @@ sections:
             (calcite, apatite, rutile, zircon, pyrite) inside a gemstone can be measured through the
             host stone using a confocal Raman micro-probe. Nassau (1981) was among the earliest to
             demonstrate "Raman Spectroscopy as a Gemstone Test": Journal of Gemmology 17(5), 306–320
-            (DOI: 10.15506/jog.1981.17.5.306) [VERIFIED].
+            (DOI: 10.15506/jog.1981.17.5.306) [VERIFIED]. {cite:nassau-1981-raman}
 
           - **Filler identification in emerald:** Kiefert et al. (2000) used both IR and Raman to
             identify filler substances in emeralds; Raman provides complementary data to FTIR for
@@ -260,6 +267,7 @@ sections:
             **575 nm NV⁻ centre** (negatively charged NV). Lim et al. (2010) demonstrated
             discrimination between natural and HPHT-treated Type IIa diamonds using PL: Diamond and
             Related Materials 19(10), 1254–1258 (DOI: 10.1016/j.diamond.2010.06.007) [VERIFIED].
+            {cite:lim-2010-pl-hpht}
 
           - **CVD synthetic diamond:** Willems et al. (2011) explored luminescent regions in CVD
             synthetic diamond using PL — CVD diamonds show characteristically different luminescence
