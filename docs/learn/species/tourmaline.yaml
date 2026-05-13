@@ -65,11 +65,20 @@ references:
 sections:
   - title: Introduction
     content: |
-      Tourmaline is a boron silicate mineral group occurring in more colours than any other
-      gemstone. Its complex chemistry allows for virtually every colour in the spectrum,
-      from colourless to black, often in the same crystal.
-
-      The name comes from the Sinhalese "turmali," meaning mixed coloured stones.
+      Tourmaline is a complex boron cyclosilicate group (general formula XY₃Z₆(BO₃)₃Si₆O₁₈(OH)₄)
+      crystallising in the trigonal system, producing more colour variety than any other gem
+      species — its multiple substitution sites accommodate lithium, manganese, iron, chromium,
+      copper, and other elements simultaneously. Key gem species is elbaite (lithium-aluminium).
+      RI is 1.620–1.640 (uniaxial negative), birefringence 0.018–0.020 (moderately high —
+      visible doubling in larger stones), SG 3.01–3.11, and hardness 7–7.5 Mohs. {cite:read-3rd}
+      Strong pleochroism — often dark to light of the same hue along and across the c-axis —
+      governs faceting orientation: dark stones are cut table-perpendicular to the c-axis to
+      reduce saturation, lighter stones parallel to it to deepen colour. {cite:fritsch-rossman-1987}
+      The most valuable variety is Paraíba tourmaline: copper-bearing (Cu²⁺) elbaite from the
+      Paraíba state of Brazil, discovered in 1989, displaying unique neon blue-green to violet
+      colours at concentrations so high they appear luminescent. Fine Brazilian Paraíba can
+      exceed $50,000 per carat; Nigerian and Mozambican copper tourmaline, chemically similar
+      but geochemically distinct, trades substantially lower. {cite:abduriyim-2006}
 
   - title: Mineralogy
     subsections:

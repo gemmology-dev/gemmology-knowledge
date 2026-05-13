@@ -30,13 +30,19 @@ references:
 sections:
   - title: Introduction
     content: |
-      Zircon (ZrSiO₄) is a zirconium silicate with exceptional brilliance and
-      dispersion. Often confused with cubic zirconia (CZ), natural zircon is a
-      completely different material—one of the oldest minerals on Earth, with
-      specimens dating back 4.4 billion years. {cite:read-3rd}
-
-      The December birthstone in its blue form, zircon offers diamond-like
-      sparkle at a fraction of the price.
+      Zircon (ZrSiO₄) is a zirconium nesosilicate crystallising in the tetragonal system —
+      one of Earth's oldest minerals, with Australian Jack Hills specimens dated at 4.4 billion
+      years. {cite:read-3rd} Despite name confusion with synthetic cubic zirconia, natural
+      zircon is an entirely distinct geological material. High-type (fully crystalline) zircon
+      has RI 1.925–1.984 — often over the refractometer limit, read as a shadow edge —
+      birefringence 0.059 (producing visible back-facet doubling under a loupe), SG 4.6–4.7,
+      hardness 7.5 Mohs, and dispersion 0.039 approaching diamond's 0.044. Internal radiation
+      damage from trace uranium and thorium produces metamict (low-type) zircon with reduced
+      RI (~1.78–1.85), lower SG (~3.9–4.1), and subdued birefringence; heat treatment at
+      ~1,000 °C restores crystallinity and produces the blue colour of Cambodian Ratanakiri
+      material — practically all blue zircon on the market is heated brown zircon. {cite:read-3rd}
+      The characteristic uranium absorption lines visible throughout the spectrum are diagnostic
+      for natural zircon, separating it from CZ, moissanite, and diamond.
 
   - title: Mineralogy
     subsections:

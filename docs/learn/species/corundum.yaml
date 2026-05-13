@@ -205,11 +205,18 @@ references:
 sections:
   - title: Introduction
     content: |
-      Corundum (Al₂O₃) is one of the most important gem minerals, second only to diamond
-      in hardness. It produces the world's most valuable coloured stones: ruby and sapphire.
-
-      All corundum shares the same crystal structure and fundamental properties, with colour
-      variations caused by trace element substitutions in the aluminium oxide lattice.
+      Corundum is aluminium oxide (Al₂O₃) crystallising in the trigonal system, the second-
+      hardest natural mineral at Mohs 9. As a gemstone it appears in two named forms: red
+      corundum is ruby, all other colours are sapphire. RI is 1.762–1.770 with birefringence
+      0.008 — easy to read on a standard refractometer and diagnostic against same-colour
+      spinel (singly refractive, RI 1.712–1.720). SG is 3.99–4.01, distinctly heavier than
+      spinel (3.58–3.61). Chromium (Cr³⁺) drives ruby's red colour and strong red fluorescence
+      under long-wave UV; iron and titanium charge transfer produces blue sapphire. {cite:fritsch-rossman-1987}
+      Most market corundum has been heat treated; unheated Mogok rubies showing intact short
+      rutile silk and strong fluorescence command significant origin premiums. {cite:palke-2019-ruby}
+      Kashmir sapphires from the 1881–1887 deposit at 15,000 feet retain the highest sapphire
+      premiums of any origin due to their velvety "sleepy" cornflower-blue and characteristic
+      silk. {cite:palke-2019-sapphire} {cite:zouboulis-1991} {cite:giuliani-groat-2019}
 
   - title: Mineralogy
     subsections:
