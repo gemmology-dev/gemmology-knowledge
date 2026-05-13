@@ -2,8 +2,9 @@
 
 Refractive index, birefringence, pleochroism, dispersion, and other optical properties.
 
-!!! tip "Interactive Version"
-    For detailed data tables and interactive content, visit [gemmology.dev/learn/optical-properties](https://gemmology.dev/learn/optical-properties).
+!!! tip "Interactive version"
+    Read this module with diagrams, cross-references, and a 3-question pretest at
+    [gemmology.dev/learn/fundamentals/optical-properties](https://gemmology.dev/learn/fundamentals/optical-properties/).
 
 ## Refractive Index (RI)
 

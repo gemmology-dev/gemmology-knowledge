@@ -2,8 +2,9 @@
 
 Heat treatment, filling, diffusion, coating, and detection methods.
 
-!!! tip "Interactive Version"
-    For detailed data tables and interactive content, visit [gemmology.dev/learn/treatments](https://gemmology.dev/learn/treatments).
+!!! tip "Interactive version"
+    Read this module with diagrams, cross-references, and a 3-question pretest at
+    [gemmology.dev/learn/identification/treatments](https://gemmology.dev/learn/identification/treatments/).
 
 !!! warning "Disclosure Requirement"
     All gemstone treatments must be disclosed at the point of sale. Undisclosed treatments are considered fraudulent.
