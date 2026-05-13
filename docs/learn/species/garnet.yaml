@@ -87,12 +87,20 @@ references:
 sections:
   - title: Introduction
     content: |
-      Garnets are a group of silicate minerals sharing a common crystal structure but
-      varying in chemical composition. The group produces gems in virtually every colour
-      except blue, from the common red almandine to the rare and valuable demantoid.
-
-      Understanding garnet requires recognizing it as a mineral group, not a single species.
-      Most gem garnets are solid solutions between end-member compositions.
+      Garnets are a group of nesosilicate minerals sharing the cubic crystal system but varying
+      in chemical composition across two main series — pyralspite (aluminium garnets: pyrope,
+      almandine, spessartine) and ugrandite (calcium garnets: uvarovite, grossular, andradite).
+      All are singly refractive (isotropic), with no pleochroism, and RI ranging from 1.73 for
+      pyrope to 1.89 for andradite — values that reliably distinguish garnets from birefringent
+      species such as tourmaline or peridot. Hardness is 6.5–7.5 Mohs and SG 3.50–4.30
+      depending on species. {cite:read-3rd} The group covers virtually every colour except blue,
+      though rare pyrope-spessartine colour-change garnets exist. Commercial importance ranges
+      from ubiquitous red almandine (Fe²⁺, RI ~1.79) to exceptional demantoid andradite —
+      the "king of garnets" — whose dispersion of 0.057 exceeds diamond's 0.044 and whose
+      Russian Ural specimens with diagnostic "horsetail" byssolite inclusions command prices
+      rivalling fine emerald. {cite:phillips-talantsev-1996} Vanadium-chromium grossular
+      (tsavorite) from Kenya and Tanzania offers an intense green that rivals emerald without
+      the need for fracture-filling treatments. {cite:belley-2024} {cite:fritsch-rossman-1987}
 
   - title: The Garnet Group
     content: |

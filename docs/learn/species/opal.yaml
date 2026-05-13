@@ -46,13 +46,19 @@ references:
 sections:
   - title: Introduction
     content: |
-      Opal (SiO₂·nH₂O) is a hydrated silica that produces one of nature's most
-      spectacular optical phenomena: play of colour. Unlike crystalline gems,
-      opal is amorphous, composed of orderly stacked silica spheres that
-      diffract light into spectral colours.
-
-      Australia dominates world opal production, producing over 90% of
-      precious opal. {cite:read-3rd}
+      Opal (SiO₂·nH₂O) is hydrated amorphous silica — no crystal system — containing
+      3–21% water by weight (typically 6–10%), with hardness 5.5–6.5 Mohs, SG 1.98–2.25,
+      and RI 1.37–1.47 (spot, singly refractive). {cite:read-3rd} Play of colour — opal's
+      defining feature — is produced when uniformly sized silica spheres (150–400 nm diameter)
+      stack in regular three-dimensional arrays and diffract visible light; larger spheres
+      produce red, smaller spheres produce blue and violet. {cite:zhao-bai-2020} Australia
+      supplies over 90% of precious opal; Lightning Ridge, New South Wales, produces black
+      opal — the most valuable type — where a dark body tone maximises colour display. A fine
+      Lightning Ridge black opal with harlequin pattern (large angular mosaic patches) can sell
+      for hundreds of thousands of dollars. Ethiopian Welo opal is often hydrophane (absorbs
+      water, becomes transparent when wet), requires care in testing, and trades below
+      comparable Australian material. The water content makes all opals sensitive to
+      dehydration and temperature shock. {cite:zhao-bai-2020}
 
   - title: Mineralogy
     subsections:

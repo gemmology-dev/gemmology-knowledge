@@ -85,12 +85,20 @@ references:
 sections:
   - title: Introduction
     content: |
-      Beryl (Be₃Al₂Si₆O₁₈) is a beryllium aluminium silicate that produces several
-      important gem varieties. Emerald and aquamarine are the most significant, but
-      morganite, heliodor, and red beryl also have strong market positions.
-
-      Despite sharing the same basic chemistry and structure, beryl varieties differ
-      dramatically in value based on colour, clarity, and origin.
+      Beryl (Be₃Al₂Si₆O₁₈) is a beryllium aluminium cyclosilicate crystallising in the
+      hexagonal system, producing a wider range of named gem varieties than almost any other
+      mineral species. Emerald, aquamarine, morganite, heliodor, goshenite, and red beryl all
+      share RI 1.577–1.583 (uniaxial negative, birefringence 0.005–0.009), SG 2.67–2.78, and
+      Mohs hardness 7.5–8. The low birefringence means faceted beryl shows clean, undoubled
+      facet edges unlike peridot or zircon. Colour is controlled entirely by trace element
+      substitutions: chromium or vanadium for emerald's green, iron for aquamarine's blue and
+      heliodor's yellow, manganese for morganite's pink, and no chromophore in colourless
+      goshenite. {cite:fritsch-rossman-1987} Fine Colombian emerald from the Muzo or Chivor
+      mines — coloured by chromium and hosting the diagnostic three-phase inclusions (liquid,
+      gas bubble, and halite cube) — represents the highest-value beryl, with top specimens
+      exceeding ruby prices per carat. {cite:giuliani-groat-2019} The Dom Pedro aquamarine,
+      a 10,363 ct obelisk in the Smithsonian, illustrates the exceptional sizes beryl can reach
+      compared to corundum or diamond. {cite:read-3rd}
 
   - title: Mineralogy
     subsections:

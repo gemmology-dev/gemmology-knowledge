@@ -45,13 +45,19 @@ references:
 sections:
   - title: Introduction
     content: |
-      Spinel (MgAl₂O₄) is a magnesium aluminium oxide that produces gems in nearly every
-      colour. Historically confused with ruby and sapphire, spinel has emerged as a
-      prized gem in its own right, with fine red and cobalt-blue specimens commanding
-      exceptional prices.
-
-      The "great impostors" of history—the Black Prince's Ruby and Timur Ruby—are
-      both red spinels, testament to their beauty rivaling ruby.
+      Spinel (MgAl₂O₄) is a magnesium aluminium oxide crystallising in the cubic system —
+      both the 170 ct Black Prince's "Ruby" in the British Imperial State Crown and the
+      352 ct Timur "Ruby" are red spinels, confused with corundum until modern gemmology.
+      {cite:read-3rd} Being isotropic, spinel is singly refractive: RI 1.712–1.720 (single
+      reading, no birefringence), no pleochroism, and no silk inclusions — three immediate
+      tests separating it from ruby (RI 1.762–1.770, birefringence 0.008, distinct pleochroism).
+      SG 3.58–3.61, hardness 8 Mohs. {cite:fritsch-rossman-1987} Colour spans chromium-red,
+      chromium-pink, iron-blue, and cobalt-blue; true cobalt-blue spinel confirmed by its
+      characteristic absorption spectrum is among the most valuable coloured stones. {cite:read-3rd}
+      Spinel is largely free of treatments — heat treatment is rare, oiling and diffusion
+      are not practised — making it a benchmark for natural untreated colour. Mahenge,
+      Tanzania, has emerged as the premier modern source for vivid neon-pink and red
+      specimens rivalling Mogok material in saturation.
 
   - title: Mineralogy
     subsections:
