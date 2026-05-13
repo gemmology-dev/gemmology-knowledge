@@ -18,18 +18,20 @@ tags:
 sections:
   - title: Process and Conditions
     content: |
-      High Pressure High Temperature (HPHT) annealing subjects natural diamonds to conditions
-      of 5–6 GPa pressure and 1700–2100 °C — replicating diamond formation conditions. The
-      mechanism differs by diamond type. Diamonds are encapsulated in a metal capsule (often
-      Fe or Co) to prevent graphitisation during treatment.
-
-      Results from spectroscopic analyses of GE POL HPHT-annealed nominally type IIa diamonds
-      reveal that any yellow coloration in such stones is due to low concentrations of single
-      nitrogen, not observed in untreated diamonds of similar appearance {cite:fisher-spits-2000}.
-
-      With increasing availability of treated and synthetic diamonds, gemologists benefit from
-      a complete understanding of the type system and what this information holds for
-      identification {cite:breeding-shigley-2009}.
+      High Pressure High Temperature (HPHT) annealing subjects natural diamonds to
+      5–6 GPa and 1700–2100 °C, replicating mantle formation conditions. Diamonds are
+      encapsulated in a metal capsule (typically Fe or Co alloy) to prevent graphitisation,
+      and the treatment modifies nitrogen defect centres in ways that depend on diamond type.
+      The commercially most important application is decolourising brown Type IIa diamonds
+      to near-colourless (D–H range): Type IIa stones lack the N3 nitrogen aggregates
+      responsible for the blue LWUV fluorescence seen in ~80% of gem-quality natural
+      diamonds, so absence of that blue glow is the primary screening trigger for HPHT
+      treatment {cite:fisher-spits-2000}. Spectroscopic analysis of GE POL HPHT-annealed
+      Type IIa stones shows that any residual yellow tint results from low concentrations
+      of single nitrogen not seen in untreated diamonds {cite:fisher-spits-2000}. Definitive
+      identification requires FTIR, photoluminescence spectroscopy at 77 K, and DiamondView
+      imaging; standard gem-testing instruments alone are insufficient. A thorough grasp of
+      the diamond type system is essential for interpreting these results {cite:breeding-shigley-2009}.
     callout:
       type: info
       title: Laboratory Testing Always Required

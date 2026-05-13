@@ -23,9 +23,20 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Most coloured gemstones on the market today have undergone some form of treatment
-      to enhance their appearance. Understanding treatments is essential for accurate
-      identification and proper disclosure.
+      A gemstone treatment is any deliberate human intervention beyond cutting and polishing
+      that alters a stone's appearance, durability, or apparent quality. The majority of
+      coloured gemstones reaching the market today have been treated: industry surveys suggest
+      that over 95% of ruby and more than 90% of blue sapphire are heated before sale.
+      Treatments span heat, fracture filling, surface diffusion, lattice diffusion,
+      irradiation, and coating — each with distinct diagnostic signatures, stability profiles,
+      and disclosure obligations. Heat treatment of corundum dissolves rutile silk and creates
+      discoid stress fractures around zircon inclusions above 1400 °C, evidence readable under
+      darkfield microscopy at 40–60×. At the other extreme, beryllium lattice diffusion
+      produces intense orange or padparadscha colours that look entirely natural yet require
+      LA-ICP-MS to detect. Understanding which instrument reveals which treatment, and what
+      degree of enhancement must be disclosed, is fundamental to professional gemmological
+      practice. All treatments must be disclosed under CIBJO, AGTA, and Gem-A guidelines;
+      undisclosed treatments constitute fraud in most jurisdictions.
     callout:
       type: warning
       title: Disclosure Requirement

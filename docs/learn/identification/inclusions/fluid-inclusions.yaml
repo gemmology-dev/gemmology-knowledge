@@ -19,9 +19,19 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Fluid inclusions are cavities containing liquids, gases, or combinations trapped
-      during crystal growth. They provide crucial information about the conditions under
-      which the gem formed and are often diagnostic for origin determination.
+      Fluid inclusions are cavities containing liquid, gas, or combinations trapped within
+      a growing crystal, preserving a sample of the mineralising fluid at the moment of
+      enclosure. Their composition, phase proportions, and daughter crystals directly
+      reflect the geological origin of the host gem, making them among the most powerful
+      diagnostic features in the discipline. Single-phase inclusions contain only liquid
+      or gas; two-phase inclusions hold liquid with a mobile gas bubble that shifts
+      visibly when the stone is tilted; three-phase inclusions add a solid daughter mineral
+      within the fluid cavity. The three-phase inclusion of Colombian emerald — a jagged
+      cavity containing saline brine, a CO₂ bubble, and a cubic halite crystal — is
+      virtually proof of Colombian origin and natural growth {cite:gubelin-koivula-photoatlas-v1}.
+      Intact, well-formed fluid inclusions of any type are also strong evidence of no
+      high-temperature heat treatment, since heating above ~800 °C typically decrepitates
+      such inclusions, leaving only residual "snowflake" halos of shattered cavity walls.
 
   - title: Types of Fluid Inclusions
     subsections:
