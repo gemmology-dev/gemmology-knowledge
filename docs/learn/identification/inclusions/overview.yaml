@@ -18,13 +18,20 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Inclusions are internal features that provide valuable information about a gem's
-      identity, origin, and natural vs. synthetic status. They are a gem's "fingerprint"
-      {cite:gubelin-koivula-photoatlas-v1}.
-
-      Understanding inclusions is fundamental to gemmological identification. Each gemstone
-      species, and often each geographic origin, exhibits characteristic inclusion patterns
-      that aid in accurate identification.
+      An inclusion is any internal feature — solid, liquid, gaseous, or structural — formed
+      or trapped within a gemstone during or after its growth. Gübelin and Koivula described
+      inclusions as a gem's "fingerprint" {cite:gubelin-koivula-photoatlas-v1}: no two stones
+      carry exactly the same internal record, and that record encodes species identity,
+      geographic origin, and treatment history that no surface measurement can provide. The
+      three principal classes are solid inclusions (crystals of other minerals), fluid
+      inclusions (trapped liquids, gases, or multi-phase cavities), and growth features
+      (zoning, twinning, and structural patterns intrinsic to crystallisation). Timing
+      also matters: protogenetic inclusions pre-date the host crystal; syngenetic features
+      formed simultaneously; epigenetic features developed afterwards — such as the discoid
+      stress fractures that radiate from zircon crystals in heat-treated corundum, created
+      when thermal expansion of the zircon exceeded the surrounding sapphire's tolerance
+      above 1600 °C. Reading inclusions at 40–60× under darkfield illumination is the
+      first and most informative step in any identification workflow {cite:read-gemmology-3ed}.
 
   - title: Classification of Inclusions
     content: |

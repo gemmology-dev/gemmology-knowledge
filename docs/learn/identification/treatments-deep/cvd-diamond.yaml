@@ -19,21 +19,19 @@ sections:
   - title: CVD Growth Process
     content: |
       Chemical Vapour Deposition (CVD) grows diamond from a carbon-bearing gas plasma
-      (typically CH₄/H₂) at low pressure (~100 torr) and ~700–1000 °C substrate temperature.
-      Growth proceeds in columnar layers (step-flow mechanism), producing a characteristic
-      striated internal structure.
-
-      CVD diamonds are typically Type IIa (near-nitrogen-free as grown) and colourless to
-      light brown. They may undergo a secondary HPHT annealing step to remove residual brown
-      colour, which can suppress some CVD markers and complicate detection.
-
-      Single-crystal CVD synthetic diamond is clearly distinguishable from natural diamond by
-      absorption, photoluminescence, and cathodoluminescence spectra showing impurity-related
-      features not seen in natural diamonds {cite:martineau-2004-cvd}.
-
-      DiamondView indicates strong luminescence at 637 nm (NV⁻ centre) with orange-red
-      phosphorescence accompanied by striations due to step-flow growth (threads and bundles
-      on the surface) {cite:zhang-2024-diamondview}.
+      (typically CH₄/H₂) at low pressure (~100 torr) and ~700–1000 °C, building up the
+      crystal in columnar striated layers rather than the octahedral sectors of natural
+      diamond formation. CVD diamonds are typically Type IIa (near-nitrogen-free) and
+      colourless to light brown; residual brown colour is often removed by a secondary
+      HPHT annealing step, which can suppress certain CVD markers and complicate detection.
+      The key diagnostic instruments are DiamondView (225 nm SW UV imaging) and
+      photoluminescence spectroscopy at 77 K: DiamondView reveals characteristic orange-red
+      phosphorescence and columnar growth threads absent from natural and HPHT synthetic
+      diamonds {cite:zhang-2024-diamondview}, while PL at 77 K detects the silicon-vacancy
+      (SiV⁻) doublet at 736.9/736.6 nm — a growth-chamber artefact absent in natural stones
+      {cite:eaton-magana-2017}. CVD diamond is clearly distinguishable by absorption,
+      photoluminescence, and cathodoluminescence spectra {cite:martineau-2004-cvd}.
+      Disclosure as "synthetic diamond" is mandatory under all governing standards.
     callout:
       type: info
       title: F-03 Flag Resolved

@@ -19,21 +19,21 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Solid inclusions are crystals of other minerals trapped during the host gem's growth.
-      The textbook classifies inclusions into three temporal categories:
-
-      - **Protogenetic**: Formed before the host crystal grew. These are pre-existing mineral
-        particles that became engulfed during growth (e.g. pyrite in emerald).
-      - **Syngenetic**: Formed at the same time as the host material. Most liquid and gaseous
-        inclusions are syngenetic, but solids can also be syngenetic (e.g. calcite in emerald).
-        These give information about the growing environment of the host.
-      - **Epigenetic**: Formed after the host crystal stopped growing. These include minerals
-        that fill fractures, stress cracks caused by heat treatment, and alteration products
-        of existing inclusions (e.g. fractures around zircon crystals in heat-treated
-        sapphire) {cite:nassau-1981-heat-treat} {cite:kane-1990-diffusion}.
-
-      These mineral "guests" provide crucial evidence for identification and
-      origin determination.
+      Solid inclusions are crystals of other minerals enclosed within a host gemstone
+      during growth, constituting the most information-rich inclusion category for species
+      identification and geographic origin determination. Their timing is classified as
+      protogenetic (pre-existing particles engulfed during growth, such as pyrite cubes
+      in Colombian emerald), syngenetic (crystallised simultaneously, such as calcite
+      rhombs in Burmese ruby), or epigenetic (formed after growth, such as discoid stress
+      fractures radiating from zircon crystals in heat-treated sapphire above 1600 °C)
+      {cite:nassau-1981-heat-treat}. Because each geological environment has a characteristic
+      mineral assemblage, the solid-inclusion suite often pinpoints a gem's origin with
+      remarkable precision: a Colombian emerald carrying calcite rhombs, albite, and pyrite
+      cubes is identified by its mineral guests as reliably as by spectroscopy
+      {cite:gubelin-koivula-photoatlas-v1}. Finding a single natural mineral inclusion —
+      garnet in diamond, byssolite horsetails in Russian demantoid — is often sufficient
+      to confirm natural origin, since no synthetic growth method introduces a realistic
+      geological mineral suite.
 
   - title: Common Solid Inclusions by Host Gem
     table:

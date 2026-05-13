@@ -19,9 +19,20 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Growth features are internal patterns formed during crystallization. Unlike solid
-      or fluid inclusions which are "foreign" material, growth features are intrinsic
-      to the crystal's development and reflect changing conditions during formation.
+      Growth features are internal patterns formed during crystallisation that are intrinsic
+      to a crystal's own development, rather than foreign material enclosed during growth.
+      They include colour zoning, growth tubes, twinning lamellae, phantom outlines,
+      internal graining, and strain patterns — each reflecting conditions that shifted while
+      the crystal formed. Their diagnostic power is considerable: hexagonal angular colour
+      zoning in corundum is a reliable natural-origin marker, since no synthetic method
+      replicates the irregular, face-controlled banding that develops over geological time.
+      Conversely, curved striae in flame-fusion synthetic corundum and chevron (zigzag)
+      zoning in hydrothermal synthetic emerald are unambiguous indicators of laboratory
+      origin {cite:gubelin-koivula-photoatlas-v2}. Zoning patterns also aid provenance:
+      Sri Lankan blue sapphire typically shows wide hexagonal bands, while Burmese ruby
+      often displays irregular swirls {cite:hughes-ruby-sapphire}. Observing growth
+      features effectively requires brightfield illumination, immersion to reduce surface
+      reflections, and polarised light to reveal twinning and strain.
 
   - title: Colour Zoning
     content: |

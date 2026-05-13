@@ -17,18 +17,19 @@ tags:
 sections:
   - title: Process and Composition
     content: |
-      Heavily fractured, near-gem to sub-gem quality corundum is placed in a high-lead silicate
-      glass melt (PbO content typically 70–95% by weight) at temperatures of 900–1000 °C.
-      The low-viscosity, high-RI Pb-glass (RI ~1.74–1.78) flows into open fractures by
-      capillary action over multiple fill cycles (flux-and-fill).
-
-      In early 2004, the GAAJ laboratory in Japan issued a lab alert about rubies with large
-      numbers of fractures filled with high-lead-content glass, which made them appear very
-      transparent. Clarity enhancement of ruby by lead glass filling was one of the most
-      significant developments of the 2000s {cite:mcclure-2006-glass-ruby}.
-
-      Glass composition: PbO 70–95%; SiO₂, Al₂O₃; variable TiO₂, CaO; some formulations
-      include cobalt oxide to add blue tinting to mask brownish or orange body tones.
+      Lead glass-filled ruby is a composite material, not a conventionally treated ruby:
+      heavily fractured, near-gem quality corundum is placed in a high-lead silicate glass
+      melt (PbO 70–95% by weight) at 900–1000 °C. The low-viscosity lead glass (RI ~1.74–1.78,
+      close to ruby's own 1.762–1.770) flows into open fractures by capillary action over
+      multiple fill cycles, dramatically improving apparent transparency. In early 2004, the
+      GAAJ laboratory in Japan issued the first lab alert describing what became one of the
+      most significant trade developments of the decade {cite:mcclure-2006-glass-ruby}. The
+      most reliable indicator is the blue/orange flash effect under darkfield microscopy at
+      40–60×: a vivid blue flash tilted one way and orange the other, produced by thin-film
+      interference at the glass–corundum interface. Spherical gas bubbles — absent from
+      natural growth features — and flow structures confirm glass fill, while EDXRF provides
+      non-destructive confirmation via the elevated lead signal. Specific gravity is depressed
+      from natural ruby (~4.00) to as low as 3.60–3.80 depending on glass volume.
     callout:
       type: error
       title: Composite Ruby — Not a Treated Ruby

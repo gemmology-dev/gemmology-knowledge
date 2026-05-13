@@ -20,9 +20,20 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Silk refers to fine, needle-like inclusions that create a silky lustre in gemstones.
-      Most commonly composed of rutile (TiO2) in corundum, silk is one of the most
-      important diagnostic features for both identification and origin determination.
+      Silk refers to fine, needle-like inclusions of rutile (TiO₂) that exsolve from the
+      corundum lattice during cooling, orienting along the crystal's three equivalent
+      directions to intersect at 60°. In sufficient density they scatter light and produce
+      the characteristic silky sheen that gives the feature its name; when the needles are
+      perfectly oriented and the stone is cut en cabochon perpendicular to the c-axis, the
+      three sets combine to create a sharp six-rayed star. Silk is diagnostically important
+      for two reasons: its morphology varies with geographic origin — short, fine needles
+      indicate Burmese provenance, longer needles at 60° characterise Sri Lankan material,
+      and dense networks are typical of Thai and Cambodian stones {cite:hughes-ruby-sapphire}
+      — and its condition signals heat treatment. Above 1200 °C needles dissolve inward
+      to produce "dotted" trails; above 1400 °C titanium re-enters the lattice entirely,
+      leaving a cleaner but depleted stone {cite:nassau-1981-heat-treat}. Intact, sharp
+      silk at 40× is therefore among the most compelling evidence that a corundum has
+      not been heat-treated.
 
   - title: Rutile Silk in Corundum
     content: |

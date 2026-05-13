@@ -19,9 +19,21 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Synthetic gems have the same chemical composition, crystal structure, and physical
-      properties as their natural counterparts. They are created in laboratories using
-      various growth methods.
+      A synthetic gemstone shares the same chemical composition, crystal structure, and
+      physical properties as its natural counterpart — grown in a laboratory rather than
+      the Earth. This distinguishes synthetics from simulants, which merely resemble
+      another gem without matching its composition. Four growth methods are commercially
+      significant: flame fusion (Verneuil, 1902) produces synthetic ruby and sapphire
+      characterised by diagnostic curved striae and spherical gas bubbles; flux growth
+      yields corundum and alexandrite whose wispy flux veils and platinum platelets can
+      mimic natural fingerprints; hydrothermal growth, used for emerald and quartz, leaves
+      seed plates and chevron zoning; and CVD or HPHT synthesis grows laboratory diamonds
+      requiring photoluminescence spectroscopy or DiamondView imaging for definitive
+      separation. A Chatham flux-grown ruby tests at the same refractive index (1.762–1.770)
+      and specific gravity (~4.00) as a Burmese stone, yet microscopy reveals flux
+      inclusions and metallic platelets absent from any natural ruby. Advanced laboratory
+      testing is essential before issuing any identification report for high-value
+      synthetic material.
     callout:
       type: info
       title: Terminology
