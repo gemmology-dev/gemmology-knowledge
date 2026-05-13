@@ -22,15 +22,17 @@ sections:
       Fluorescence is the immediate emission of photons of longer wavelength (lower energy) than
       the exciting radiation when a gemstone absorbs ultraviolet, visible, or X-ray radiation.
       Emission ceases essentially instantaneously (lifetime < 10⁻⁸ s) when the excitation source
-      is removed.
+      is removed. The energy lost between absorption and emission — the Stokes shift — means
+      emitted light is always redder than the exciting radiation: a 365 nm LWUV source induces
+      visible-wavelength emission. Phosphorescence is the delayed afterglow persisting after the
+      source is removed, produced by metastable electronic trap states; CVD synthetic diamonds
+      characteristically show orange-red phosphorescence under SWUV (254 nm) persisting 30 s to
+      several minutes — a highly diagnostic indicator absent in nearly all natural diamonds.
 
-      Phosphorescence is the delayed emission of light persisting measurably after the excitation
-      source is removed; it results from metastable electronic states in which excited electrons
-      are temporarily trapped before returning to ground state, producing an afterglow lasting
-      from milliseconds to minutes.
-
-      Both are distinct from the gem-testing instrument context (UV lamp selection, geometry,
-      box design) covered separately under equipment.
+      Both are powerful gemmological tools: the contrast between natural Colombian emerald
+      (inert to very weak red under LWUV) and flux-grown synthetic emerald (strong red LWUV
+      and SWUV) is one of the most reliable rapid separations available. Both are distinct
+      from the UV lamp instrument context covered separately under equipment.
 
   - title: Mechanism – Stokes Shift
     content: |

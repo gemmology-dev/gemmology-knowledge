@@ -53,12 +53,20 @@ references:
 sections:
   - title: Introduction
     content: |
-      Asterism is the appearance of a star pattern on the surface of a cabochon-cut gem.
-      It is caused by light reflecting from oriented needle-like inclusions (usually
-      rutile silk) arranged parallel to crystallographic directions. {cite:read-2014-gemmology}
+      Asterism is the star-shaped pattern of concentrated light that appears on the
+      domed surface of a correctly cut cabochon when held under a point light source.
+      It is caused by reflection from two or more sets of parallel needle-like
+      inclusions — most commonly rutile (TiO₂) silk — oriented along crystallographic
+      axes within the host mineral. {cite:read-2014-gemmology}
 
-      Star rubies and star sapphires are the most important asteriated gems, though
-      stars also occur in garnet, diopside, quartz, and other minerals.
+      Each set of needles reflects light along a single axis, producing one bright ray;
+      multiple intersecting sets produce multiple rays. Trigonal corundum hosts three
+      sets of rutile needles at 120° to one another, generating the classic six-ray
+      star of star ruby and star sapphire. The stone must be cut with its base parallel
+      to the plane of the needles and a sufficiently high dome; poor orientation shifts
+      the star off-centre or destroys it entirely. Star rubies from Mogok, Burma, and
+      star sapphires from Sri Lanka are the most prized examples, though asterism also
+      occurs in garnet, diopside, quartz, and rose quartz. {cite:keller-1983-rubies-burma}{cite:schumann-2009-gemstones}
 
   - title: How Stars Form
     content: |

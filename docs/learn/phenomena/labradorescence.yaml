@@ -57,13 +57,21 @@ references:
 sections:
   - title: Introduction
     content: |
-      Labradorescence is the striking play of colours seen in labradorite feldspar.
-      Unlike the soft single-colour glow of adularescence, labradorescence displays
-      a full spectrum of colours including blue, green, gold, orange, and purple
-      in distinct flashes.
+      Labradorescence is the striking polychromatic colour play seen in labradorite
+      feldspar — broad, directional flashes of blue, green, gold, orange, and purple
+      that appear and vanish as the stone is tilted. First identified in specimens
+      from Labrador, Canada in 1770, {cite:schumann-2009-gemstones} it is wholly
+      distinct from the soft single-colour glow of adularescence.
 
-      First identified in specimens from Labrador, Canada in 1770, {cite:schumann-2009-gemstones}
-      this phenomenon creates some of the most visually dramatic effects in the gem world.
+      The cause is thin-film interference within the Bøggild intergrowth: repeated
+      lamellae of two plagioclase compositions (approximately An47–An58) form during
+      slow cooling, creating a periodic lamellar structure whose spacing is comparable
+      to visible wavelengths. Different lamella thicknesses selectively reflect
+      different wavelengths, producing spectral colours in distinct patches rather
+      than the uniform scattered glow of moonstone schiller. {cite:miura-1975-labradorescence}
+      Finnish spectrolite — labradorite with an unusually complete colour range from
+      violet through red — shows all spectral colours in a single specimen and
+      commands premium prices among collectors. {cite:read-2014-gemmology}
 
   - title: Mechanism
     content: |

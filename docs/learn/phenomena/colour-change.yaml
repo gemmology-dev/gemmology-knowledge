@@ -55,13 +55,22 @@ references:
 sections:
   - title: Introduction
     content: |
-      Colour-change gems display different colours under different light sources
-      (typically daylight vs incandescent). The most famous is alexandrite, which
-      appears green in daylight and red in incandescent light, often described as
-      "emerald by day, ruby by night." {cite:read-2014-gemmology}
+      Colour-change gems display a different dominant hue depending on the spectral
+      composition of the illuminant — most famously shifting between daylight and
+      incandescent light. The benchmark example is alexandrite (colour-change
+      chrysoberyl), described as "emerald by day, ruby by night": it appears green
+      to teal under daylight or fluorescent light (~6500 K) and red to purplish-red
+      under incandescent tungsten (~2700 K). {cite:read-2014-gemmology}
 
-      This phenomenon results from the gem's absorption spectrum interacting
-      differently with various light sources.
+      The mechanism requires a dual transmission window in the gem's absorption
+      spectrum: the stone transmits both red (~650–700 nm) and blue-green
+      (~450–510 nm) wavelengths simultaneously. Which colour the eye perceives
+      as dominant is determined by the spectral power distribution of the light
+      source in those two regions. In alexandrite this is caused by Cr³⁺ in the
+      chrysoberyl crystal field; in colour-change garnets (pyrope-spessartine
+      composition) it involves both Cr³⁺ and V³⁺. {cite:qiu-guo-2021-colour-change-garnet}
+      The degree of change — from weak (<50%) to complete (100%) — is the primary
+      quality criterion. {cite:schumann-2009-gemstones}
 
   - title: Mechanism
     content: |
