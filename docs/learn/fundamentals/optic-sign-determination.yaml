@@ -30,17 +30,6 @@ references:
     year: 2014
     doi: 10.4324/9780080507224
 
-  - id: schumann-2013-gemstones
-    kind: book
-    authors:
-      - family: Schumann
-        given: W.
-    title: Gemstones of the World
-    edition: 5th
-    publisher: Sterling Publishing
-    year: 2013
-    isbn: 978-1-4027-6829-3
-
 related:
   - fundamentals/optical-properties
   - fundamentals/optical-properties-advanced

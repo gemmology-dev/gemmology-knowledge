@@ -202,13 +202,3 @@ references:
     year: 2009
     isbn: "978-1-4027-6829-3"
     confidence: "✓"
-  - id: kane-1990-diffusion
-    kind: journal
-    authors: [{family: Kane, given: Robert E.}]
-    title: "Sapphire from Chanthaburi/Trat, Thailand"
-    journal: "Gems & Gemology"
-    volume: 26
-    issue: 2
-    year: 1990
-    doi: "10.5741/gems.26.2.115"
-    confidence: "✓✓"

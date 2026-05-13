@@ -16,16 +16,6 @@ references:
     url: "https://cibjo.org/download/cibjo-standards/"
     accessed: "2026-05-11"
 
-  - id: lmhc-standards
-    kind: standard
-    authors:
-      - family: "Laboratory Manual Harmonisation Committee"
-    title: "LMHC Standards and Terminology for the Description of Treatments in Coloured Gemstones"
-    publisher: "LMHC"
-    year: 2010
-    url: "https://www.lmhc-gemmology.org"
-    accessed: "2026-05-11"
-
   - id: ftc-jewelry-guides-2018
     kind: standard
     authors:
