@@ -176,12 +176,18 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Understanding gemstone durability is essential for recommending appropriate settings,
-      cleaning methods, and care instructions. Durability encompasses three factors:
-      hardness, toughness, and stability.
-
-      A gem suitable for everyday ring wear must score well in all three areas. Many
-      beautiful gems are better suited for occasional wear or protected settings.
+      Gemstone durability is the practical measure of how well a gem withstands everyday
+      wear, cleaning, and storage. It encompasses three distinct factors — hardness,
+      toughness, and stability — and a gem suited to daily ring wear must score adequately
+      on all three. Hardness alone is insufficient: tanzanite reaches Mohs 6.5 yet its
+      perfect cleavage on {010} makes it highly vulnerable during setting, while jade at
+      Mohs 6–7 is among the toughest gem materials owing to its interlocking fibrous
+      microstructure. Chemical and thermal stability add a further dimension: opal contains
+      3–21 % water and can craze irreversibly on dehydration; pearls at Mohs 2.5–4.5
+      dissolve in mild acid; and the fracture-filling resin present in most emeralds
+      exudes under the heat of a jeweller's torch. Matching the correct cleaning method
+      and setting type to each species is therefore a core professional competency, not an
+      afterthought. {cite:read-3rd}
 
   - title: The Three Durability Factors
     comparison:
@@ -323,7 +329,8 @@ sections:
 
       - title: Ultrasonic Cleaning Safety
         content: |
-          Ultrasonic cleaners use vibration to remove dirt but can cause damage to:
+          Ultrasonic cleaners use high-frequency sound waves to agitate a cleaning solution,
+          but this same cavitation energy can cause damage to: {cite:mason-1999-ultrasonic}
 
           - **Filled gems**: Can remove or damage fillers (emerald, ruby) {cite:kammerling-1991}
           - **Gems with cleavage**: Vibration can propagate fractures

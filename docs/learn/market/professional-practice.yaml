@@ -151,13 +151,21 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Professional gemmology extends beyond identification skills to encompass ethical
-      practice, accurate communication, and legal responsibilities. A professional
-      gemmologist must balance technical accuracy with clear communication, maintaining
-      integrity while serving clients, trade, and public trust.
-
-      This module covers the professional standards, documentation practices, and
-      ethical frameworks that define quality gemmological practice.
+      Professional gemmological practice is defined not only by technical competence but
+      by the ethical and legal obligations that govern how findings are communicated and
+      how conflicts of interest are managed. A gemmologist valuing a stone for a client
+      who is simultaneously a potential buyer must disclose that commercial relationship;
+      failure to do so breaches Gem-A's Code of Ethics and may constitute fraud under
+      consumer-protection legislation in multiple jurisdictions. {cite:gem-a-code-ethics}
+      {cite:ftc-jewelry-guides-2018} The distinction between identification (a technical
+      finding) and valuation (a market opinion) is equally critical: each carries its
+      own liability exposure, documentation standard, and scope of competence. CIBJO
+      nomenclature provides the international baseline for report language, ensuring that
+      terms such as "natural", "synthetic", and "treated" carry consistent meanings across
+      borders. {cite:cibjo-gemstone-book-2020} For an FGA member, the practical
+      implication is clear: every report issued should state its purpose, scope, and
+      limitations, and any commission relationship between the gemmologist and a buyer or
+      seller must be disclosed in writing before the report is relied upon.
 
   - title: Report Writing
     content: |

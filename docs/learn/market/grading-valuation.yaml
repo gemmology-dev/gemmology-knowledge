@@ -97,13 +97,20 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Grading coloured gemstones is more complex than grading diamonds because there is no
-      universal standard system. The "4 Cs" (Colour, Clarity, Cut, Carat weight) apply, but
-      colour is overwhelmingly the most important factor – often accounting for 50-70% of
-      a coloured stone's value.
-
-      Professional grading requires controlled lighting conditions, master stones for
-      comparison (where available), and extensive experience with each gem species.
+      Grading a coloured gemstone means assessing it against four criteria — colour,
+      clarity, cut, and carat weight — in the knowledge that colour alone typically
+      accounts for 50–70 % of a stone's market value. Unlike diamonds, coloured stones
+      have no single universal grading standard: the GIA Gem Reference Guide provides
+      clarity types by species, {cite:gia-colored-stones-ref} while trade bodies such as Gem-A
+      and the ICA set nomenclature conventions rather than numeric grades.
+      {cite:gem-a-fp-notes} The commercial stakes of accurate grading are substantial: a
+      Kashmir cornflower-blue sapphire of 5 ct commands a 3–5× premium over a
+      geochemically similar Burmese stone of identical colour grade, which itself
+      commands a 2–3× premium over an equivalent Sri Lankan stone — premiums that
+      collapse entirely if heating is detected. {cite:hughes-ruby-sapphire} Professional
+      grading therefore requires standardised D65 daylight illumination, mastery of hue,
+      tone, and saturation vocabulary, and a clear understanding of how treatment status
+      and origin interact with the colour grade to determine final value.
 
   - title: Colour Grading
     content: |

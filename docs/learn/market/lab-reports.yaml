@@ -149,12 +149,20 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Laboratory reports provide independent verification of a gemstone's identity,
-      natural or synthetic origin, treatments, and sometimes geographic origin.
-      Understanding lab reports is essential for trade and high-value purchases.
-
-      Different laboratories have varying strengths, methodologies, and market
-      recognition. Report quality directly affects gem value and confidence.
+      A gemological laboratory report is an independent technical document confirming a
+      stone's species identity, natural or synthetic origin, treatment status, and — for
+      premium material — geographic provenance. Its commercial role is to convert
+      subjective seller claims into verifiable, insured facts. The leading laboratories
+      for coloured stones are Gübelin Gem Lab and SSEF in Switzerland, both of which set
+      the international benchmark for ruby and sapphire origin determination;
+      {cite:gubelin-photoatlas-v1}{cite:ssef-institutional} GIA reports are the dominant
+      standard for diamonds and carry broad global recognition since the institute's
+      founding in 1931. {cite:gia-history-institutional} GRS popularised the descriptive
+      colour designations "pigeon's blood" and "royal blue", which now appear as premium
+      qualifiers on trade invoices and auction catalogues. {cite:grs-pigeonblood-criteria}
+      Because counterfeit reports circulate, every report should be verified through the
+      issuing laboratory's online portal before a purchase is completed.
+      {cite:gia-report-verification}
 
   - title: Purpose of Lab Reports
     content: |
@@ -304,7 +312,7 @@ sections:
 
       - title: Other Treatments
         content: |
-          - **Beryllium diffusion**: Adds element to change colour
+          - **Beryllium diffusion**: Adds element to change colour {cite:emmett-2003-be-diffusion}
           - **Glass/lead filling**: Fracture filling (major disclosure)
           - **Coating**: Surface treatment (typically unacceptable)
           - **Irradiation**: Colour modification by radiation
