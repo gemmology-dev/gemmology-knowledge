@@ -20,10 +20,22 @@ tags:
 sections:
   - title: Introduction
     content: |
-      East Africa has emerged as a significant ruby source, with Mozambique's
-      Montepuez region now ranking among the world's major producers. Kenya's
-      John Saul Mine adds smaller but notable production. These sources are
-      filling gaps created by supply constraints from traditional origins.
+      East Africa now supplies the majority of the world's commercial ruby by volume,
+      principally from Mozambique's Montepuez deposit (Cabo Delgado Province), which
+      Gemfields PLC began auctioning in 2014 after its discovery in 2009. The deposit
+      sits within Pan-African amphibolite-marble metamorphic basement (~550 Ma) and
+      produces two chemically distinct ruby populations: primary low-Fe material with
+      elevated Cr and V, whose chemistry can overlap with Mogok in trace-element space,
+      and secondary higher-Fe alluvial ruby resembling Thai basaltic material.
+      Diagnostic inclusions of the primary type are apatite (hexagonal prisms) and
+      amphibole needles from the amphibolite host, often combined with a blue-grey
+      core. Kenya's John Saul Mine (Mangare area) provides smaller volumes of fine
+      red corundum with strong fluorescence.
+
+      Fine, unheated Montepuez pigeon-blood quality ruby achieves significant prices
+      but generally below Mogok premiums; the Gemfields auction system has increased
+      market transparency. Beryllium diffusion treatment has been reported in some
+      East African ruby and requires laboratory detection. {cite:palke-2019-ruby-origin}
 
   - title: Mozambican Ruby
     content: |
@@ -106,7 +118,7 @@ sections:
 
   - title: Comparison with Burmese Ruby
     content: |
-      Key differences from the benchmark source:
+      Key differences from the benchmark source: {cite:hughes-2017-ruby-sapphire}
 
       - **Fluorescence**: Generally weaker due to higher iron
       - **Colour character**: Can match Burmese but often slightly different hue

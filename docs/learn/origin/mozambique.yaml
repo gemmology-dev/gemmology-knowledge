@@ -26,14 +26,21 @@ sections:
   - title: Introduction
     content: |
       Mozambique has emerged since approximately 2009 as the world's largest ruby producer
-      by volume. {cite:chapin-2015-mozambique}{cite:vertriest-2019-mozambique} The Montepuez deposit in Cabo Delgado Province
-      (northern Mozambique) is operated by Gemfields PLC and has transformed the global
-      ruby supply. Additionally, the Mavuco deposit (Nampula Province) is one of the
-      world's major sources of Paraíba-type copper-bearing elbaite tourmaline. Both
-      deposits are part of the Pan-African metamorphic basement of Mozambique.
+      by volume. The Montepuez deposit in Cabo Delgado Province (northern Mozambique)
+      — operated by Gemfields PLC, which began sealed-bid auctions in 2014 — sits within
+      the Cabo Delgado nappe complex of the Pan-African East African Orogen (~550–630 Ma).
+      It produces two genetically distinct ruby populations, as demonstrated by Vertriest
+      and Saeseaw (2019): Type A, primary amphibolite-hosted ruby with low Fe (<3,000–5,000
+      ppm), elevated Cr and V, and chemistry that can overlap with Mogok (Burma) in trace
+      element space; and Type B, secondary alluvial ruby with higher Fe, resembling
+      Thai/Cambodian basaltic material. Diagnostic inclusions of the primary type include
+      apatite crystals (hexagonal prisms) and amphibole needles — reflecting the amphibolite
+      host — together with occasional blue-grey cores.
 
-      Note: The east-africa/ files cover Mozambique briefly in the regional context;
-      this file provides the Mozambique-specific depth.
+      Additionally, the Mavuco deposit (Nampula Province) is one of the world's leading
+      sources of Paraíba-type Cu-bearing elbaite tourmaline, distinguishable from Brazilian
+      material by a higher Mn/Cu ratio detectable by LA-ICP-MS.
+      {cite:chapin-2015-mozambique}{cite:vertriest-2019-mozambique}
 
   - title: Montepuez Ruby — Discovery and Geology
     content: |

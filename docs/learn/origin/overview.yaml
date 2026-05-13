@@ -18,12 +18,21 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Geographic origin determination identifies the locality where a gemstone formed.
-      Origin can significantly affect value, with certain sources commanding substantial
-      premiums due to historical significance, quality associations, or rarity.
+      Geographic origin determination identifies the locality where a gemstone formed,
+      assigning provenance to a named deposit or country. Origin can dramatically affect
+      commercial value: Kashmir sapphires, Burmese rubies, and Colombian emeralds each
+      command multiples of the price for equivalent material from other sources due to
+      historical prestige, consistent quality associations, and scarcity of supply.
 
-      Origin is determined through careful analysis of inclusion suites, trace element
-      chemistry, and growth characteristics. {cite:palke-2019-ruby-origin}{cite:gubelin-photoatlas-v1}
+      Laboratories determine origin by integrating three evidence streams. Inclusion
+      analysis identifies diagnostic mineral and fluid inclusions unique to specific
+      geological environments — for example, three-phase halite-bearing inclusions in
+      Colombian emerald, or tourmaline crystals in Kashmir sapphire. Trace-element
+      chemistry via LA-ICP-MS measures element ratios (Fe, Ti, Ga, V, Cr) that vary
+      between deposits. Spectroscopic features — UV-Vis-NIR absorption bands and
+      photoluminescence patterns — provide additional discrimination. No single test
+      is definitive; the Palke et al. (2019) origin trilogy demonstrated that
+      multi-parameter analysis is mandatory for reliable determination. {cite:palke-2019-ruby-origin}{cite:gubelin-photoatlas-v1}
 
   - title: Why Origin Matters
     comparison:
@@ -77,7 +86,7 @@ sections:
       Certain origins command substantial premiums over equivalent stones from other
       sources; the extent varies by quality, treatment status, and market conditions.
       A fine stone from a less-celebrated origin will always be worth more than a
-      poor stone from a premium locality. Origin alone does not guarantee value.
+      poor stone from a premium locality. Origin alone does not guarantee value. {cite:hughes-ruby-sapphire}
 
   - title: Premium Variability
     callout:

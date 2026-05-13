@@ -22,12 +22,21 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Cambodia produces two geologically distinct types of corundum: basaltic sapphire
-      and ruby from Pailin Province (northwestern Cambodia), and small-scale marble-hosted
-      ruby from the Battambang area. The Pailin field sits in the same Southeast Asian
-      alkali basalt province as Thailand's Chanthaburi-Trat deposits, just across the
-      border. Production was severely disrupted during the Khmer Rouge era (1975–1979)
-      and the subsequent civil conflict, interrupting supply for two decades.
+      Cambodia produces two geologically distinct corundum types. The Pailin Province
+      field in northwestern Cambodia sits within the same Cenozoic alkali-basalt province
+      as Thailand's Chanthaburi-Trat deposits, separated only by the Thai-Cambodian
+      border, and yields high-iron basaltic sapphires and ruby with the hallmark
+      Fe-rich geochemical signature: >600 ppm Fe, strong 450–470 nm triplet absorption,
+      and weak LWUV fluorescence due to iron quenching chromium. A second, geologically
+      distinct occurrence of marble-hosted ruby exists near Battambang, analogous in
+      principle to Mogok and Luc Yen, with low Fe and stronger fluorescence.
+
+      Pailin gem production was severely disrupted during the Khmer Rouge era (1975–1979)
+      and subsequent civil conflict, halting international trade access for two decades;
+      material from that period was documented as a Khmer Rouge revenue source. Modern
+      laboratory separation of Pailin from the adjacent Thai Bo Rai deposits requires
+      LA-ICP-MS trace-element analysis of Ga/Mg, Fe/Ti, and Cr/Ga ratios alongside
+      oxygen isotope data. {cite:palke-2019-sapphire-origin}{cite:keller-1982-chanthaburi}
 
   - title: Geological Settings
     content: |

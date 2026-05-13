@@ -24,12 +24,22 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Afghanistan sits at the convergence of the Hindu Kush, Pamir, and Karakoram ranges
-      and hosts some of the world's most historically significant gem deposits. {cite:shigley-2010-gem-localities}
-      The Sar-e-Sang lapis lazuli mines in Badakhshan are the canonical ancient-world lapis
-      source — mined continuously for more than 7,000 years and supplying Egypt, Mesopotamia,
-      and the Indus Valley civilisations. Panjshir Valley emerald and Nuristan kunzite complete
-      a portfolio that makes Afghanistan a geologically extraordinary gem province.
+      Afghanistan sits at the convergence of the Hindu Kush, Pamir, and Karakoram mountain
+      ranges and hosts some of the world's most historically significant gem deposits.
+      Four distinct geological settings yield different gem types: the Sar-e-Sang contact-
+      metasomatic marble in Badakhshan has supplied lapis lazuli for more than 7,000 years
+      — the canonical ancient-world source confirmed by Lo Giudice et al. (2016) as the
+      origin of lapis in Egyptian pharaonic artefacts; the Panjshir Valley hosts
+      hydrothermally deposited emerald in black shales without associated igneous rocks;
+      marble-hosted corundum at Jagdalak (Kabul Province) represents a marble-ruby
+      occurrence within the broader Asian marble belt; and LCT granitic pegmatites of
+      Nuristan and Kunar provinces yield large, saturated kunzite crystals, tourmaline,
+      aquamarine, and rubellite.
+
+      Four decades of armed conflict — Soviet invasion (1979), civil war (1992–1996),
+      Taliban era (1996–2001), and post-2001 insurgency — severely disrupted the gem
+      sector, though artisanal mining persisted throughout. Chain-of-custody documentation
+      is recommended for high-value Afghan gems. {cite:shigley-2010-gem-localities}{cite:giuliani-2015-marble-ruby}
 
   - title: Geological Settings
     table:
