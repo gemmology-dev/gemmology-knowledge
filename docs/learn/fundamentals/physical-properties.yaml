@@ -109,9 +109,18 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Physical properties are essential for gem identification and determining
-      suitability for different types of jewellery. These properties depend on
-      the crystal structure and chemical composition.
+      Physical properties — hardness, specific gravity, cleavage, fracture, lustre,
+      and tenacity — are fundamental to gem identification and to assessing suitability
+      for different jewellery applications. Hardness, measured on the Mohs scale (1–10),
+      indicates resistance to scratching; specific gravity (SG) is the ratio of a gem's
+      weight in air to the weight of an equal volume of water, measured by hydrostatic
+      weighing as SG = W_air ÷ (W_air − W_water). Both properties depend on chemical
+      composition and crystal structure, making them species-characteristic. Diamond
+      (H 10, SG 3.52) and corundum (H 9, SG 3.99–4.01) are distinguished from each
+      other and from simulants by these values alone. Cleavage and fracture describe
+      how a gem breaks: topaz has perfect cleavage parallel to {001}, which must be
+      considered when setting or cutting. Knowing the physical profile of a gem guides
+      safe handling, appropriate settings, and care recommendations. {cite:read-2014-gemmology}
 
   - title: Hardness
     content: |
@@ -145,7 +154,8 @@ sections:
     content: |
       Specific gravity is the ratio of a gem's density to that of water. It's a
       diagnostic property that can be measured without damaging the stone using
-      hydrostatic weighing.
+      hydrostatic weighing. Reference SG values for all major gem species are
+      tabulated in standard gemmological references. {cite:schumann-2013-gemstones}
 
       **Formula:** `SG = Weight in air / (Weight in air - Weight in water)`
     table:
@@ -394,6 +404,9 @@ sections:
     content: |
       Thermal conductivity measures how quickly heat flows through a material. This
       property is particularly useful for diamond testing and identification.
+      Diamond (2000+ W/m·K) far exceeds all natural gem simulants and is detected
+      by a thermal probe; moissanite (490 W/m·K) may also trigger a positive result
+      and requires electrical conductivity testing to distinguish. {cite:gem-a-fp-notes}
     subsections:
       - title: Diamond vs Simulants
         citations: [gem-a-fp-notes]

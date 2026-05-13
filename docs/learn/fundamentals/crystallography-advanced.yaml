@@ -54,13 +54,21 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Advanced crystallography builds on the foundation of crystal systems to explore
-      how crystals grow, twin, and develop their characteristic forms. Understanding
-      these concepts is essential for interpreting inclusion patterns, growth features,
-      and crystal morphology.
-
-      The FGA Diploma requires ability to draw common crystal habits and understand
-      twinning patterns – these visual skills are tested in examinations.
+      Advanced crystallography extends the seven-systems framework to explain how
+      crystals actually grow, what forms they develop, and why they twin — knowledge
+      that directly supports the identification of inclusions, growth features, and
+      crystal morphology in gem testing. Miller indices describe every crystal face
+      and cleavage plane; four-index (Bravais–Miller) notation is required for
+      trigonal and hexagonal systems where three equivalent horizontal axes meet at
+      120°, with the closure relation i = −(h+k) ensuring symmetry equivalence is
+      explicit. Twinning — the intergrowth of two or more orientations sharing lattice
+      points — produces diagnostic habits: chrysoberyl trillings form the pseudohexagonal
+      star shape characteristic of the species, while polysynthetic twinning in labradorite
+      causes labradorescence. Growth features such as curved striae, chevron zoning, and
+      phantom crystals distinguish natural from synthetic gems under microscopy. The FGA
+      Diploma requires the ability to draw common habits and identify twin laws by name;
+      these visual skills are examined in both the written and practical papers.
+      {cite:read-2014-gemmology}
 
   - title: Miller Indices
     content: |

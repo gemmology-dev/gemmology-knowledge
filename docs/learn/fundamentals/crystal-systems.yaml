@@ -57,13 +57,20 @@ tags:
 sections:
   - title: Overview
     content: |
-      All crystals belong to one of seven crystal systems, classified by their unit cell
-      geometry and symmetry elements. Understanding these systems is fundamental to
-      crystallography and gem identification.
-
-      Crystal systems are defined by the relationship between crystallographic axes
-      (a, b, c) and the angles between them (α, β, γ). Each system has characteristic
-      symmetry elements that determine possible crystal forms.
+      All crystals belong to one of seven systems: cubic, tetragonal, orthorhombic,
+      hexagonal, trigonal, monoclinic, and triclinic. Each system is defined by the
+      geometry of its unit cell — the relationship between three crystallographic axes
+      (a, b, c) and the angles between them (α, β, γ). The cubic system, with three
+      equal axes at 90°, has the highest symmetry and produces isotropic gems such as
+      diamond (RI 2.417), spinel, and garnet that show a single refractive index. The
+      triclinic system, with no equal axes and no right angles, has the lowest symmetry.
+      Identifying the crystal system of an unknown gem from morphology and symmetry
+      narrows the list of possible species, because each system constrains which optical
+      characters, cleavage directions, and crystal forms are possible. The system also
+      predicts optic character: cubic gems are isotropic; trigonal, tetragonal, and
+      hexagonal gems are uniaxial; orthorhombic, monoclinic, and triclinic gems are
+      biaxial. Crystal systems are therefore the foundation of systematic gem
+      identification. {cite:read-2014-gemmology}
 
   - title: Symmetry Elements
     items:

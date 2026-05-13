@@ -62,12 +62,20 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Understanding gem chemistry explains why gems have their colours, what makes
-      one variety of a species different from another, and how treatments work.
-      Chemical composition determines many physical and optical properties.
-
-      The study of chromophores (colour-causing agents) is particularly important
-      for gem identification, treatment detection, and understanding colour stability.
+      Chemical composition determines gem colour, optical properties, hardness, and
+      response to treatments — making gem chemistry central to identification and
+      quality assessment. Colour arises from chromophores: transition metal ions,
+      charge transfer, colour centres, or physical optics. A gem may be allochromatic
+      (coloured by trace impurities — corundum is colourless when pure, red as ruby with
+      Cr³⁺, blue as sapphire with Fe²⁺/Ti⁴⁺ charge transfer) or idiochromatic (colour
+      is intrinsic to the formula — peridot is always greenish because Fe²⁺ is part of
+      (Mg,Fe)₂SiO₄). The spectroscope connects chemistry to identification: the 694 nm
+      chromium doublet in ruby's absorption spectrum is a direct fingerprint of Cr³⁺ in
+      the Al₂O₃ host lattice. Trace element ratios measured by LA-ICP-MS extend this
+      further: the Ga/Fe ratio distinguishes sapphire origins; copper concentration above
+      0.1 wt% identifies Paraíba tourmaline. Understanding what causes colour also
+      predicts stability — colour centres in Maxixe beryl fade in light, while Cr-coloured
+      ruby is stable. {cite:nassau-2001-color}{cite:gem-a-fp-notes}
 
   - title: Allochromatic vs Idiochromatic Minerals
     content: |
