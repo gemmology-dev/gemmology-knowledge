@@ -21,12 +21,23 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Red beryl — commercially known as "bixbite" (though this trade name overlaps with
-      the manganese oxide mineral bixbyite, causing confusion) — is arguably the rarest
-      gem-quality beryl variety. Commercial production occurs at essentially one location
-      in the world: the Wah Wah Mountains of Beaver County, Utah. Shigley and Foord (1984)
-      provided the definitive characterisation: stones occupy "vugs and fractures in a
-      topaz rhyolite" — a uniquely volcanic gem beryl occurrence. {cite:shigley-foord-1984-red-beryl}
+      Red beryl — commercially known as "bixbite," though the trade name creates
+      confusion with the manganese oxide mineral bixbyite — is arguably the rarest
+      gem-quality beryl variety. Commercial production is restricted to a single location:
+      the Wah Wah Mountains of Beaver County, Utah, where the Violet Claims mine operates
+      in Eocene topaz rhyolite of approximately 19–20 Ma age, formed during Basin and
+      Range extensional tectonics. {cite:shigley-foord-1984-red-beryl}
+
+      Diagnostic significance rests on chromophore and geological host. Mn³⁺ substituting
+      Al³⁺ absorbs strongly across 490–560 nm, transmitting red — entirely different from
+      the Cr³⁺ of ruby or emerald. {cite:shigley-foord-1984-red-beryl} The volcanic rhyolitic
+      host is unique; almost all other gem beryl forms in pegmatites. Deposit-specific
+      inclusions — small black bixbyite cuboids, topaz crystals from the same host, growth
+      tubes parallel to the c-axis — confirm provenance.
+
+      Crystal size is extremely limited (typically under 0.5 ct; above 3 ct exceptional).
+      Combined with geographic uniqueness, red beryl is sometimes cited as 1,000 times rarer
+      than emerald by weight mined.
 
   - title: Geological Setting
     content: |
