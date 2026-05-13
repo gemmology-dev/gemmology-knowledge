@@ -2,7 +2,10 @@
 
 **FGA Curriculum Documentation** - Comprehensive reference materials for coloured gemstone expertise aligned with the Gemmological Association of Great Britain (Gem-A) Foundation and Diploma curriculum.
 
-Part of the [Gemmology Project](https://gemmology.dev).
+!!! tip "Interactive companion"
+    Take a [Practice Quiz](https://gemmology.dev/quiz/) on this material,
+    browse 96+ rendered presets in the [Crystal Gallery](https://gemmology.dev/gallery/),
+    or explore the full [Learn (FGA)](https://gemmology.dev/learn/) section.
 
 ## Overview
 
