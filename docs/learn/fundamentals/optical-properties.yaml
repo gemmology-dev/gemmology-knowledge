@@ -65,9 +65,20 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Optical properties are the most important diagnostic features for gem identification.
-      The refractometer, polariscope, and dichroscope are essential tools for measuring
-      these properties.
+      Optical properties are the primary diagnostic features used in gemmological
+      identification: refractive index (RI), birefringence, optic character, pleochroism,
+      dispersion, and absorption spectrum together form the fingerprint of each gem
+      species. Birefringence — the difference between the maximum and minimum RI of
+      an anisotropic gemstone — is calculated as BR = RI_max − RI_min. All gems except
+      those in the cubic system and amorphous materials (glass, opal) are anisotropic
+      and therefore birefringent. High birefringence (above 0.020) is visible as
+      doubling of back facets when viewed through a 10× loupe: zircon (0.059) and
+      calcite (0.172) show dramatic doubling, while quartz (0.009) and beryl (0.006)
+      show minimal doubling. A standard gemmological refractometer measures both RI and
+      birefringence directly by rotating the stone 90° and reading both shadow-edge
+      positions on a scale of 1.35–1.81. A measured value outside the published range
+      for a suspected species immediately excludes that identification, making optical
+      properties the first line of testing. {cite:read-2014-gemmology}
 
   - title: Refractive Index (RI)
     content: |
@@ -76,7 +87,8 @@ sections:
 
       A standard gemmological refractometer can measure RI values from approximately
       1.35 to 1.81 (limited by the contact liquid). Gems with higher RI require
-      alternative methods.
+      alternative methods. Reference RI ranges for each species are documented in
+      standard gemmological tables. {cite:schumann-2013-gemstones}
     table:
       caption: Optical Properties of Common Gem Materials
       citations: [read-2014-gemmology, schumann-2013-gemstones]

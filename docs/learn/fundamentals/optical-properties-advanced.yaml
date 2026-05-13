@@ -67,12 +67,21 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Advanced optical properties go beyond basic RI and birefringence measurements to
-      provide detailed information about crystal orientation, optic character, and
-      diagnostic spectroscopic features.
-
-      These techniques are essential for accurate gem identification, particularly when
-      standard tests give ambiguous results or when working with unusual specimens.
+      Advanced optical testing goes beyond refractometer RI and birefringence to
+      determine optic character, optic sign, absorption spectra, and luminescence —
+      properties that resolve identifications where standard tests give ambiguous
+      results. Interference figures, obtained with a polariscope and conoscope, reveal
+      uniaxial from biaxial character: uniaxial gems (trigonal, hexagonal, tetragonal
+      systems) show a centred black cross with concentric isochromatic rings; biaxial
+      gems (orthorhombic, monoclinic, triclinic) show two melatopes and curved isogyres
+      whose separation indicates the 2V angle. Optic sign is confirmed by inserting a
+      compensator plate: corundum is uniaxial negative (ε < ω), topaz biaxial positive
+      (β closer to α). The absorption spectrum adds further discrimination — the 694 nm
+      chromium doublet identifies ruby; the 450/460/470 nm iron–titanium charge-transfer
+      bands identify blue sapphire. Anomalous double refraction (ADR) in garnets and
+      spinel arises from internal strain rather than crystal structure and must not be
+      mistaken for true anisotropy. A combined sequence of all six tests delivers a
+      complete optical characterisation. {cite:read-2014-gemmology}
 
   - title: Interference Figures
     content: |
