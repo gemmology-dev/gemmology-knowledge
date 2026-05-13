@@ -160,14 +160,3 @@ references:
     issue: 4
     pages: "580–612"
     doi: "10.5741/gems.55.4.580"
-
-  - id: read-2014-gemmology
-    kind: book
-    authors:
-      - family: "Read"
-        given: "Peter G."
-    title: "Gemmology"
-    edition: "3rd"
-    publisher: "Butterworth-Heinemann"
-    year: 2014
-    doi: "10.4324/9780080507224"

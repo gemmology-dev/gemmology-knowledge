@@ -64,17 +64,6 @@ references:
     year: 2001
     isbn: 978-0-471-39106-7
 
-  - id: schumann-2013-gemstones
-    kind: book
-    authors:
-      - family: Schumann
-        given: W.
-    title: Gemstones of the World
-    edition: 5th
-    publisher: Sterling Publishing
-    year: 2013
-    isbn: 978-1-4027-6829-3
-
 sections:
   - title: What is Twinning?
     content: |

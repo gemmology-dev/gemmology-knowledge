@@ -59,23 +59,6 @@ references:
     url: "https://www.lmhc-gemmology.org"
     accessed: "2026-05-11"
 
-  - id: kammerling-1991-emerald
-    kind: journal
-    authors:
-      - family: Kammerling
-        given: R.C.
-      - family: Koivula
-        given: J.I.
-      - family: Johnson
-        given: M.L.
-    title: "An Update on the Identification of Colombian Emerald Clarity Enhancements"
-    journal: "Gems & Gemology"
-    volume: 27
-    issue: 2
-    pages: "70–85"
-    year: 1991
-    doi: "10.5741/gems.27.2.70"
-
   - id: emmett-2003-be-diffusion
     kind: journal
     authors:

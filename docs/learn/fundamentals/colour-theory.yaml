@@ -78,18 +78,6 @@ references:
     year: 2012
     doi: 10.5741/gems.48.4.252
 
-  - id: dubey-2023-libs
-    kind: journal
-    authors:
-      - family: Dubey
-        given: S.
-      - family: Rai
-        given: A.K.
-    title: "Mineralogical application of LIBS: Elemental characterization of idiochromatic, allochromatic and pseudochromatic stones"
-    journal: Journal of Optics
-    year: 2023
-    doi: 10.1007/s12596-022-00870-8
-
 related:
   - fundamentals/optical-properties
   - fundamentals/chemical-properties
