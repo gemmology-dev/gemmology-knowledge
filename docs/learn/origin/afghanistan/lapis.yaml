@@ -21,12 +21,19 @@ sections:
   - title: Introduction
     content: |
       The Sar-e-Sang deposit in the Kokcha River Valley of Badakhshan Province, Afghanistan,
-      is the world's oldest continuously operated gem mine — mined for more than 7,000 years
-      without interruption. {cite:lo-giudice-2016-lapis-provenance} It supplied lapis lazuli
-      to the pharaohs of Egypt, the scribes of Mesopotamia, and the craftspeople of the Indus
-      Valley civilisation. Lo Giudice et al. (2016) demonstrated through geochemical provenance
-      protocols that ancient artefacts from Egyptian museums were of "Afghan origin" —
-      confirming the singular historical primacy of this deposit. {cite:lo-giudice-2016-lapis-provenance}
+      is the world's oldest continuously operated gem mine — mined for more than 7,000 years.
+      Lo Giudice et al. (2016) confirmed through geochemical provenance protocols that
+      ancient artefacts from Egyptian museums were of "Afghan origin." {cite:lo-giudice-2016-lapis-provenance}
+
+      Lapis lazuli is a rock, not a single mineral: the blue colour arises from lazurite
+      (sodalite-group, S₃⁻ trisulfide chromophore), accompanied by white calcite and
+      characteristic gold pyrite flecks. Afghan Sar-e-Sang material is distinguished from
+      Chilean lapis (Ovalle deposit) by sulfur isotope (δ³⁴S) values and trace-element
+      profiles. The finest "Sara" grade is deep ultramarine blue with minimal calcite and
+      evenly distributed fine pyrite; heavy calcite mottling without pyrite more typically
+      indicates Chilean origin. Common treatments include dyeing of porous material
+      (detectable by cotton-swab test or FTIR) and wax impregnation for stabilisation.
+      {cite:lo-giudice-2016-lapis-provenance}{cite:read-2014-gemmology}
 
   - title: Mineralogy of Lapis Lazuli
     content: |
@@ -152,13 +159,3 @@ references:
     year: 2014
     doi: "10.4324/9780080507224"
 
-  - id: schumann-2009-gemstones
-    kind: book
-    authors:
-      - family: "Schumann"
-        given: "Walter"
-    title: "Gemstones of the World"
-    edition: "4th"
-    publisher: "Sterling Publishing"
-    year: 2009
-    isbn: "978-1-4027-6829-3"

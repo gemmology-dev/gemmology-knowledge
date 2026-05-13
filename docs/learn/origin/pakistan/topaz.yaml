@@ -19,12 +19,21 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Pink topaz from the Katlang deposit in the Mardan district of Khyber Pakhtunkhwa
-      is exceptional among topaz varieties worldwide: its pink to pinkish-orange colour
-      is caused by trace chromium (Cr³⁺) — an extremely rare colouring mechanism for
-      topaz. Most pink topaz on the market is either irradiation-induced pink (colourless
-      topaz irradiated and heat-treated) or Mn-coloured. Katlang material is genuinely
-      Cr-coloured, making it diagnostically distinct and scientifically noteworthy.
+      Pink topaz from the Katlang deposit (Mardan district, Khyber Pakhtunkhwa) is
+      exceptional among topaz varieties worldwide: its pink to pinkish-orange colour is
+      caused by trace chromium (Cr³⁺) substituting into the topaz lattice —
+      an extremely rare colouring mechanism for a species typically coloured by colour
+      centres (irradiation), Fe, or Mn. Gübelin, Graziani, and Kazmi (1986) confirmed
+      the chromium chromophore in this deposit, hosted in narrow calcite veins within
+      recrystallised limestone. The Cr³⁺ absorption at ~550 nm and ~670 nm, detectable
+      by UV-Vis spectroscopy and producing a weak reddish response on the Chelsea colour
+      filter, distinguishes Katlang material from irradiation-induced pink topaz (different
+      band pattern, unstable colour) and from Mn-coloured topaz.
+
+      This Cr-colouring means Katlang topaz will not fade under normal wearing conditions
+      — a practical advantage over irradiated pink topaz, which may bleach in strong
+      light or heat. Pakistan is the only major commercial source of Cr-coloured topaz.
+      {cite:gubelin-1986-pink-topaz}{cite:spengler-1985-katlang}
 
   - title: Geological Setting
     content: |

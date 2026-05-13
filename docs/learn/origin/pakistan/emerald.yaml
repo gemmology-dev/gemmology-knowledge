@@ -24,10 +24,22 @@ sections:
   - title: Introduction
     content: |
       The Swat Valley (Mingora area) of Khyber Pakhtunkhwa Province hosts one of the
-      world's significant emerald deposits, distinguished by its unique geological setting:
-      chromium-rich hydrothermal fluids from ophiolitic ultramafic rocks produced emerald
-      in talc-carbonate fracture systems along the Indus suture zone. Swat material is
-      noted for small stones with high colour saturation.
+      world's notable emerald deposits, distinguished by a unique geological setting:
+      chromium from ophiolitic chromite in the Indus suture zone produced Cr-rich
+      hydrothermal emerald in talc-carbonate fracture systems of serpentinised peridotite.
+      This ophiolite-hosted type is distinct from the Colombian black-shale model and from
+      schist-belt types (Zambia, Zimbabwe). Swat material is characterised by small stones
+      with high colour saturation; estimated reserves of ~70 million carats are mostly
+      small crystal size.
+
+      Guo et al. (2020) provided the first systematic documentation of Swat emerald
+      inclusions: three-phase fluid inclusions (liquid + gas + solid) consistent with
+      the high-salinity ophiolitic hydrothermal system, and chromian muscovite (chrome
+      mica) — tabular brownish-green platelets very diagnostic for ophiolite-belt genesis
+      and rare in emeralds from other deposit types. Additional inclusions include
+      actinolite needles and talc. Li content is <200 ppmw (shared with Colombian and
+      Afghan material), while the Cr-dominant chromophore and UV-Vis spectral profile
+      assist in separation from other low-Li origins. {cite:guo-2020-swat-emerald}{cite:arif-moon-2007-muscovite}
 
   - title: Geological Setting
     content: |

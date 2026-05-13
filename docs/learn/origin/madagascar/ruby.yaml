@@ -19,10 +19,22 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Madagascar ruby production has grown significantly, with deposits at
-      Andilamena, Vatomandry, and other locations. While quality varies
-      considerably, Madagascar helps fill the gap from declining Burmese
-      supply, though treatment disclosure remains an important consideration.
+      Madagascar ruby is produced from several geographically distinct deposits across
+      the island, principally Andilamena (northern Madagascar) and Vatomandry (eastern
+      coast). Quality is highly variable: some Andilamena material achieves good colour
+      saturation and, where iron content is low enough, moderate LWUV fluorescence;
+      the majority of production is commercial-grade, often heavily included or
+      requiring heat treatment.
+
+      Treatment disclosure is a particularly important issue for Madagascar ruby:
+      low-temperature heat treatment is common and generally accepted if disclosed;
+      however, beryllium diffusion treatment — which uses trace elements diffused
+      at high temperature to alter colour throughout the stone — has also been
+      recorded, and its detection requires LA-ICP-MS testing. Laboratory certification
+      is strongly recommended for any significant Madagascar ruby purchase. Madagascar
+      plays an increasing role as a secondary ruby source filling supply gaps from
+      Myanmar; it is generally priced below Mozambique for comparable quality.
+      {cite:palke-2019-ruby-origin}
 
   - title: Sources
     content: |

@@ -24,13 +24,21 @@ tags:
 sections:
   - title: Introduction
     content: |
-      This file provides mine-level sub-distinctions for Colombian emerald beyond the
-      origin-level overview in colombia.yaml. All Colombian deposits share the
-      "black shale" or sedimentary-hosted hydrothermal model: Cretaceous black shales
-      (Villeta Formation) host emerald-forming brines without associated igneous rocks.
-      All three major mines share the diagnostic Colombian three-phase inclusion (liquid +
-      gas + halite cube) — the halite being unique to Colombian emerald worldwide. The
-      mine-level distinctions below allow laboratory sub-classification.
+      All Colombian emerald mines share the sediment-hosted hydrothermal model: Cretaceous
+      black shales (Villeta Formation) in Boyacá Department host NaCl-saturated brines that
+      deposited emerald without igneous involvement. The diagnostic Colombian three-phase
+      inclusion — liquid brine + gas bubble + cubic halite (NaCl) crystal — is present in
+      all three major mines and is unique to Colombian emerald worldwide.
+
+      Mine-level sub-classification rests on two primary visual criteria: parisite
+      (yellow-orange hexagonal calcium rare-earth fluorocarbonate) is present at Muzo
+      and Coscuez but absent at Chivor; cubic pyrite is abundant at Chivor but minor at
+      Muzo. Muzo material is Cr-dominant with a warm, pure green tone; Chivor is more
+      V-dominant with a cooler, sometimes bluish-green character. The trapiche growth
+      pattern — six emerald sectors separated by inclusion-rich inter-sector zones —
+      is associated specifically with Coscuez and Peñas Blancas. Li content is <200 ppmw
+      across all Colombian mines, shared with Afghan and Pakistani emerald.
+      {cite:saeseaw-2019-emerald-origin}{cite:karampelas-2019-emeralds}
 
   - title: Colombian Deposit Type — The Black Shale Model
     content: |

@@ -17,12 +17,22 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Zambia has become the world's second-largest emerald producer, with the
-      Kagem mine being the most significant operation. Zambian emeralds have
-      distinct characteristics from Colombian material, often offering better
-      clarity at competitive prices. {cite:saeseaw-2019-emerald-origin}
+      Zambia is the world's second-largest emerald producer, with the Kagem mine in
+      Lufwanyama District (Copperbelt Province) — majority-owned by Gemfields PLC and
+      the Zambian government — the single largest emerald mine globally. Zambian emeralds
+      are hosted in schist-belt metamorphic rocks, a different genesis from the Colombian
+      black-shale model, and are distinguished by a bluish-green colour (cooler than
+      Colombian), with Cr and Fe as the primary chromophores; elevated Fe relative to
+      Colombian material produces the cooler hue and moderates LWUV fluorescence.
 
-      The Zambian emerald trade has grown significantly since the 1970s.
+      The primary diagnostic criterion distinguishing Zambian from Colombian emerald is
+      the absence of three-phase halite-bearing inclusions: Zambian material contains
+      only two-phase (liquid + gas) fluid inclusions, with no trapped halite crystals.
+      Mineral inclusions include actinolite needles, phlogopite mica platelets, and
+      magnetite — reflecting the schist-belt metamorphic assemblage. Li content is
+      >200 ppmw — contrasting with Colombian, Afghan, and Pakistani emerald — and is
+      a laboratory-level chemical discriminator. The Zambian emerald trade grew
+      significantly from the 1970s onwards. {cite:saeseaw-2019-emerald-origin}{cite:karampelas-2019-emeralds}
 
   - title: Major Sources
     content: |
@@ -61,7 +71,7 @@ sections:
 
   - title: Zambian Emerald Inclusions
     content: |
-      Zambian inclusions compared with Colombian: {cite:saeseaw-2019-emerald-origin}{cite:karampelas-2019-emeralds}
+      Zambian inclusions compared with Colombian: {cite:saeseaw-2019-emerald-origin}{cite:karampelas-2019-emeralds}{cite:gubelin-photoatlas-v1}
     table:
       headers:
         - Inclusion

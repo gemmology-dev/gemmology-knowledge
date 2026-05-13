@@ -23,14 +23,22 @@ tags:
 sections:
   - title: Introduction
     content: |
-      The Kuh-i-Lal deposit in the Gorno-Badakhshan Autonomous Region of Tajikistan is
-      the world's most historically celebrated red spinel locality. Known for centuries
-      as the source of "Balas ruby" – a Persian trade name for red spinel before spinel
-      was distinguished from ruby as a separate species – it supplied the gem courts of
-      the Islamic world, Persia, and Mughal India. The Black Prince's Ruby (set in the
-      Imperial State Crown of the United Kingdom) and the Timur Ruby are both Kuh-i-Lal
-      red spinels. {cite:royal-collection-black-princes-ruby}{cite:hughes-ruby-sapphire} The deposit lies in the same
-      Himalayan orogenic belt as Mogok (Burma) and Luc Yen (Vietnam).
+      The Kuh-i-Lal deposit in Gorno-Badakhshan Autonomous Region, Tajikistan, is the
+      world's most historically celebrated red spinel locality. For centuries it supplied
+      what medieval trade called "Balas ruby" — a Persian name for red stones from
+      Balascia (Badakhshan) before spinel was distinguished from ruby as a separate
+      mineral species. The Black Prince's Ruby (set in the Imperial State Crown of the
+      United Kingdom) and the Timur Ruby are both Kuh-i-Lal red spinels, identified
+      in the 19th century. The deposit lies in marble-hosted metamorphic rocks of the
+      Himalayan orogenic belt, geologically affiliated with Mogok (Myanmar) and Luc Yen
+      (Vietnam). Colour is caused by Cr³⁺ substituting Mg²⁺ in the spinel structure,
+      confirmed by UV-Vis spectroscopy. Strong red LWUV fluorescence reflects the
+      Cr-dominant, low-Fe marble chemistry.
+
+      Laboratory separation of Kuh-i-Lal from Mogok and Luc Yen spinels relies on
+      Ni, Zn, and Sn trace-element profiles by LA-ICP-MS; the absence of titanite
+      inclusions (diagnostic for Luc Yen) and Co-blue colour variety also assist
+      discrimination. {cite:royal-collection-black-princes-ruby}{cite:malsy-2010-spinels}
 
   - title: Geological Context
     content: |
@@ -126,7 +134,7 @@ sections:
         referred to red stones from the Kuh-i-Lal region – most of which are spinel.
 
         Famous "rubies" in royal collections worldwide were later identified as Kuh-i-Lal
-        spinel: {cite:royal-collection-black-princes-ruby}
+        spinel: {cite:royal-collection-black-princes-ruby}{cite:hughes-ruby-sapphire}
         - **Black Prince's Ruby** (Imperial State Crown, UK): A 170-carat red spinel
         - **Timur Ruby** (Royal Collection Trust, UK): An historic red spinel inscribed
           with names of its Mughal owners

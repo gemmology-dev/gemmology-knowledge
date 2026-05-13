@@ -24,11 +24,19 @@ tags:
 sections:
   - title: Introduction
     content: |
-      This file provides additional depth on two Brazilian gem topics not covered in
-      the existing brazil/ folder files. Cross-reference origin/brazil/emerald for the
-      broad Brazilian emerald overview; this file adds the Itabira vs Carnaíba distinction.
-      Imperial topaz from Ouro Preto is covered here as the only Cr-coloured commercial
-      topaz in Brazil.
+      Brazil's Minas Gerais state hosts two geologically distinct gem topics examined
+      here as sub-distinctions to the broader Brazil files. The Ouro Preto area produces
+      imperial topaz — the only commercial topaz in Brazil coloured by trace chromium
+      (Cr³⁺) — mined from hydrothermally altered quartzite veins in the Archaean
+      greenstone belt since the 18th century. Its defining diagnostic is an exceptionally
+      strong yellow-orange LWUV fluorescence, one of the strongest exhibited by any gem
+      topaz. The second topic covers the Itabira (Nova Era) versus Carnaíba (Bahia)
+      emerald distinction: both are Brazilian but geologically separate, with Itabira
+      producing Cr-dominant, warmer-green emerald in schist-belt contact settings and
+      Carnaíba producing V-dominant, cooler-green material from talc-carbonate veins in
+      ultramafite. Laboratory separation of these types relies on the V/Cr ratio by
+      UV-Vis or EDXRF, together with the presence of distinctive talc inclusions in
+      Carnaíba material. {cite:da-costa-2000-imperial-topaz}{cite:karampelas-2019-emeralds}
 
   - title: Imperial Topaz — Ouro Preto, Minas Gerais
     content: |

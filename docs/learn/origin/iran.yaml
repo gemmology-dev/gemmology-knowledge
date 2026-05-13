@@ -19,12 +19,22 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Persian turquoise from the Neyshabur (Nishapur) district of Khorasan-e Razavi Province
-      is historically the most celebrated turquoise in the world – the deposit that defined
-      the colour "turquoise" as a colour category for Western culture and trade. Production
-      has continued for at least 2,000 years, making Neyshabur one of the world's longest-
-      continuously-operating gem sources. {cite:shirdam-2021-turquoise} Shirdam et al. (2021) provided a
-      comprehensive review in Gems & Gemology.
+      Persian turquoise from the Neyshabur (Nishapur) district of Khorasan-e Razavi
+      Province, Iran, is the world's most historically celebrated turquoise — the deposit
+      that defined the colour "turquoise" as a colour category for Western culture and trade.
+      Production has continued for at least 2,000 years, placing Neyshabur among the
+      world's longest-continuously-operated gem sources. The deposit is hosted in
+      hydrothermally altered Tertiary rhyolitic volcanic tuffs; copper-bearing fluids
+      precipitated secondary CuAl₆(PO₄)₄(OH)₈·4H₂O (turquoise) in veins, fractures,
+      and nodules.
+
+      The finest grade, "robah" (fox-hole), is an even sky blue with maximum colour
+      saturation and minimal matrix; the characteristic spider-web matrix of brown limonite
+      veins is typical of mid-grade Neyshabur material and commercially prized in some
+      markets. Colour depends on the Cu/Fe ratio: higher Fe shifts the stone toward green.
+      The primary analytical issue is treatment: much commercial Neyshabur output is
+      stabilised with wax, resin, or polymer, detected by FTIR. Laboratory-certified
+      natural, untreated Neyshabur turquoise carries a premium. {cite:shirdam-2021-turquoise}
 
   - title: Geological Context
     content: |
@@ -152,13 +162,3 @@ references:
     doi: "10.5741/gems.57.3.240"
     note: "[VERIFIED — Crossref 2026-05-12]"
 
-  - id: schumann-2009
-    kind: book
-    authors:
-      - family: Schumann
-        given: W.
-    title: "Gemstones of the World"
-    edition: "4th"
-    publisher: "Sterling Publishing"
-    year: 2009
-    isbn: "978-1-4027-6829-3"

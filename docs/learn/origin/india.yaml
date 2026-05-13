@@ -23,11 +23,21 @@ tags:
 sections:
   - title: Introduction
     content: |
-      India's gem deposits reflect the country's diverse Precambrian and Proterozoic
-      geology. Significant production areas include Andhra Pradesh (chrysoberyl and
-      alexandrite in Eastern Ghats pegmatites), Madhya Pradesh (diamond in Panna
-      kimberlites), and Orissa (garnet). Kashmir sapphire, though commercially exhausted,
-      remains India's most famous gem locality and is covered separately.
+      India's gem production reflects its ancient and diverse Precambrian geology.
+      Andhra Pradesh (Visakhapatnam and East Godavari districts) hosts chrysoberyl and
+      alexandrite in acidic pegmatites intruding Eastern Ghats khondalites; chromium from
+      the metamorphic country rock produces the Cr³⁺ colour-change effect. Madhya Pradesh's
+      Panna Diamond Belt contains the country's only significant primary diamond source:
+      the Majhgawan and Hinota kimberlite pipes (~1100 Ma), which supply both in-situ and
+      alluvial diamond recovered by NMDC. Famous historical diamonds including the Koh-i-Noor
+      are traditionally attributed to the Golconda-Panna alluvial region, though this
+      attribution is historical tradition rather than confirmed by modern gemmological
+      peer-reviewed analysis. Orissa (Odisha) and Tamil Nadu yield almandine-pyrope garnet
+      from Proterozoic metamorphic basement; Tamil Nadu also produces star garnet with
+      4- and 6-rayed asterism from rutile inclusions.
+
+      Kashmir sapphire, India's most celebrated gem locality, is covered in a dedicated
+      file. {cite:kasipathi-1996-chrysoberyl}{cite:rau-2007-panna}
 
   - title: Geological Settings
     table:

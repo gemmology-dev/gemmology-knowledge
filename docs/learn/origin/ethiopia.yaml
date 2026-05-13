@@ -26,12 +26,21 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Ethiopia has emerged as a major gem-producing country with two internationally
-      significant deposits: Wollo (Welo) opal — discovered 2008, characterised 2010 —
-      which challenged the assumption that gem opal was primarily Australian; and Shakiso
-      emerald (Guji Zone, southern Ethiopia) — discovered around 2016 and immediately
-      noted for fine colour. Ethiopia's gem geology reflects both Cenozoic volcanic
-      activity (opal) and Pan-African metamorphic basement (emerald).
+      Ethiopia hosts two internationally significant gem deposits. Wollo (Welo) opal from
+      the Wegel Tena area of Wollo Province was first reported by Rondeau et al. in 2010;
+      it is hosted in Tertiary rhyolitic volcanic rocks — geologically distinct from
+      Australian sediment-hosted opal — and is characteristically hydrophane: it absorbs
+      water, its refractive index rises measurably (~1.37 dry to ~1.42 wet), and this
+      porosity creates vulnerability to dye and smoke treatments. Hydrophane character is
+      the primary diagnostic criterion separating Ethiopian from Australian opal.
+
+      Shakiso emerald, from the Halo-Shakiso district of Guji Zone (Oromia Region), came
+      to commercial attention around 2016 and is hosted in Pan-African mica schist at the
+      contact with serpentinised peridotite — a schist-belt genesis analogous to Sandawana
+      (Zimbabwe). Nicol et al. (2022) confirmed formation at ~1.5–3 kbar and 300–430 °C.
+      The emerald shows Cr³⁺ + V³⁺ chromophore with low Fe, moderate-to-strong red LWUV
+      fluorescence, and inclusions of phlogopite mica, tremolite, and apatite.
+      {cite:rondeau-2010-welo-opal}{cite:nicol-2022-shakiso}
 
   - title: Wollo (Welo) Opal — Discovery and Geology
     content: |
