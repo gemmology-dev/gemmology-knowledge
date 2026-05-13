@@ -23,9 +23,16 @@ sections:
       the variation of refractive index with wavelength — and is enhanced by facet geometry and
       viewing conditions.
 
+      Dispersion is quantified as the difference in refractive index between Fraunhofer lines
+      B (686.7 nm, deep red) and G (430.8 nm, violet): the larger the B–G value, the greater
+      the potential fire. Diamond's B–G value of 0.044 is the standard reference; demantoid
+      garnet (0.057) and cubic zirconia (0.060) both exceed it and show conspicuously more fire.
+      Synthetic moissanite (0.104) produces more than twice diamond's fire, and its doubling of
+      back facets under magnification immediately distinguishes it from diamond.
+
       Fire is not the same as play-of-colour (opal) or labradorescence: those spectral effects
-      arise from diffraction or thin-film interference. Fire results from differential refraction
-      at every facet interface.
+      arise from diffraction or thin-film interference at periodic structures. Fire results from
+      differential refraction at every facet interface — a bulk optical property of the material.
 
   - title: Mechanism
     content: |

@@ -51,12 +51,22 @@ references:
 sections:
   - title: Introduction
     content: |
-      Iridescence is a display of spectral colours caused by light interference from
-      thin layers or structures near the surface. Unlike opal's play of colour
-      (diffraction from spheres), iridescence results from thin-film interference,
-      the same phenomenon that creates colours in soap bubbles and oil slicks. {cite:nassau-2001-color}
+      Iridescence is a display of spectral colours caused by thin-film light
+      interference at or near a gem's surface. When white light strikes a thin
+      transparent layer, it reflects from both the top and bottom surfaces; the two
+      reflected waves interfere constructively or destructively depending on layer
+      thickness and viewing angle, selectively reinforcing certain wavelengths.
+      The result is a shifting rainbow of colour that changes as the stone is tilted.
+      {cite:nassau-2001-color}
 
-      Iridescence appears as rainbow sequences of colour that shift with viewing angle.
+      Unlike opal's play of colour — which arises from diffraction by a three-
+      dimensional array of ~200 nm silica spheres — iridescence is an interference
+      effect at planar or near-planar layer boundaries. Natural iridescence in gems
+      occurs when thin iron oxide layers form over a botryoidal chalcedony surface
+      (fire agate), or when fossil nacre layers are preserved in ammonite shell
+      (ammolite from Alberta's Bearpaw Formation). Surface coatings such as titanium
+      vapour deposition on topaz ("mystic topaz") produce the same optical effect
+      artificially and must be disclosed as a treatment. {cite:read-2014-gemmology}{cite:schumann-2009-gemstones}
 
   - title: Mechanism
     content: |

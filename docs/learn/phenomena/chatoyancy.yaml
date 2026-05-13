@@ -51,12 +51,20 @@ references:
 sections:
   - title: Introduction
     content: |
-      Chatoyancy is a single band of light that moves across a cabochon surface,
-      resembling a cat's eye. It requires parallel needle or tube inclusions
-      oriented in one direction, creating reflection along a single axis.
+      Chatoyancy (the cat's eye effect) is a single band of light that appears to
+      glide across a cabochon surface when the stone is rotated under a point light
+      source. It requires two conditions: a high concentration of parallel fibrous,
+      tubular, or needle-like inclusions oriented in one direction, and a cabochon
+      cut perpendicular to that inclusion direction. Light reflects from the sides
+      of the inclusions and concentrates along one axis, creating the band.
+      {cite:read-2014-gemmology}
 
-      Chrysoberyl cat's eye produces the finest chatoyancy of any gem and is
-      the only gem that may be called simply "cat's eye" without qualification.
+      Chrysoberyl cat's eye produces the strongest chatoyancy of any gem and is
+      the only variety that may be called simply "cat's eye" without qualification;
+      all other chatoyant gems must be named (e.g., "quartz cat's eye",
+      "tourmaline cat's eye"). The finest specimens show the "milk and honey"
+      effect: one half of the stone appears milky white, the other honey-gold.
+      {cite:nassau-2001-color}{cite:schumann-2009-gemstones}
 
   - title: Mechanism
     content: |

@@ -51,14 +51,23 @@ references:
 sections:
   - title: Introduction
     content: |
-      Play of colour is the flashing spectral colours seen in precious opal. It is
-      opal's defining characteristic and distinguishes precious opal from common
-      opal (potch). The effect results from light diffraction by regularly arranged
-      silica spheres within the opal structure.
+      Play of colour is the shifting display of pure spectral colours that
+      distinguishes precious opal from colourless or single-hue common opal
+      (potch). It is produced by diffraction: the opal structure consists of
+      uniform silica spheres (SiO₂) between 150 and 400 nm in diameter, stacked
+      in a close-packed three-dimensional array. This periodic lattice acts as a
+      diffraction grating for visible light, selectively reflecting wavelengths
+      determined by sphere size. {cite:nassau-2001-color}
 
-      Unlike interference effects (adularescence, labradorescence), play of colour
-      is a diffraction phenomenon, producing pure spectral colours that shift
-      with viewing angle.
+      Larger spheres (~350 nm) diffract red light — the rarest and most valuable
+      colour in opal; smaller spheres (~150 nm) produce blue or violet.
+      Uniformity of sphere size and regularity of stacking determine the
+      brightness of the effect; disorder in either produces potch rather than
+      precious opal. The pattern name — harlequin (angular mosaic patches),
+      rolling flash, pinfire — and colour range both influence value substantially.
+      {cite:read-2014-gemmology} Black-body opal, in which a dark background
+      maximises colour contrast, consistently commands the highest prices.
+      {cite:schumann-2009-gemstones}
 
   - title: Cause
     content: |
