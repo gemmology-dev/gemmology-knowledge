@@ -25,11 +25,23 @@ tags:
 sections:
   - title: Introduction
     content: |
-      The United States hosts geologically diverse gem deposits with no single dominant
-      orogenic province. Major deposits include: Montana sapphire (lamprophyre and
-      alluvial), Utah red beryl (rhyolitic volcanic), Arizona peridot (basaltic xenocyrst),
-      and California/Maine tourmaline (LCT pegmatite). Each deposit reflects a distinct
-      geological setting; no common chemical or inclusion fingerprint links them.
+      The United States hosts geologically diverse gem deposits across unrelated provinces,
+      each reflecting a distinct geological setting: Montana sapphire in a lamprophyre dike
+      and alluvial placers, Utah red beryl in Eocene topaz rhyolite, Arizona peridot as
+      mantle xenocrysts in Quaternary alkali basalt, and California and Maine tourmaline
+      in LCT pegmatites.
+
+      Diagnostic significance is deposit-specific. Yogo Gulch sapphire is identifiable by
+      its low Cr/Ga ratio, low iron relative to Asian basaltic sources, natural untreated
+      blue, and flat tabular crystal habit. Utah red beryl is identified by Mn³⁺ as the
+      sole chromophore — fundamentally different from the Cr³⁺ of ruby or emerald — and
+      by bixbyite and topaz inclusions from its rhyolitic host. Arizona peridot from the
+      San Carlos Apache Reservation carries chromite inclusions with characteristic lily-pad
+      tension halos; San Carlos supplies an estimated 80–95% of world commercial peridot
+      by volume. {cite:koivula-1981-san-carlos}
+
+      No single fingerprint connects the US deposits to each other; each must be assessed
+      on its own gemmological criteria. {cite:schumann-2009-gemstones}
 
   - title: Major US Gem Deposits
     table:

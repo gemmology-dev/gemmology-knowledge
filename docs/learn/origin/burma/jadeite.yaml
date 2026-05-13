@@ -18,10 +18,23 @@ tags:
 sections:
   - title: Introduction
     content: |
-      Myanmar produces the world's finest jadeite, particularly the legendary
-      "Imperial jade" prized in Asian cultures. {cite:schumann-2009-gemstones}
-      The Hpakant region in Kachin State dominates the high-end jadeite market,
-      with exceptional pieces commanding prices that exceed even the finest emeralds.
+      Myanmar's Hpakant (Phakant) region in Kachin State is the world's primary source of
+      gem-quality jadeite, mined for centuries and today supplying the vast majority of the
+      high-end jade market centred on Greater China. {cite:schumann-2009-gemstones} Jadeite
+      is a sodium aluminium pyroxene (NaAlSi₂O₆) that formed under high-pressure, low-
+      temperature metamorphic conditions at the subduction margin; it is geologically and
+      compositionally distinct from nephrite.
+
+      Diagnostic significance is defined by treatment type. Type A jadeite is natural —
+      washed and waxed, colour intact — and commands the highest values. Type B has been
+      acid-bleached and polymer-impregnated; Type C is dyed. {cite:read-2014-gemmology}
+      Infrared absorption near 2,900 cm⁻¹ identifies polymer impregnation; dye banding
+      confirms Type C. Imperial jade — vivid chromium green, semi-transparent, fine-grained
+      — is the apex of Type A quality; a matched bangle set has realised tens of millions
+      of US dollars at Hong Kong auction.
+
+      Supply-chain ethics and sanctions compliance are active considerations for buyers in
+      regulated markets; provenance documentation is increasingly expected.
 
   - title: Imperial Jade
     content: |
