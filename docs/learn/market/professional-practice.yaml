@@ -160,12 +160,12 @@ sections:
   - title: Report Writing
     content: |
       Gemmological reports must be accurate, clear, and legally defensible. Whether
-      a brief identification note or comprehensive laboratory report, certain standards
+      a brief identification note or a full laboratory report, certain standards
       apply.
     subsections:
       - title: Report Structure
         content: |
-          A comprehensive gemmological report typically includes:
+          A full gemmological report typically includes:
 
           1. **Header**: Laboratory name, report number, date
           2. **Item description**: Weight, dimensions, shape, cut

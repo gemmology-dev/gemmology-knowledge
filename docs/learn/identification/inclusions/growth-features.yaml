@@ -22,7 +22,7 @@ sections:
       Growth features are internal patterns formed during crystallisation that are intrinsic
       to a crystal's own development, rather than foreign material enclosed during growth.
       They include colour zoning, growth tubes, twinning lamellae, phantom outlines,
-      internal graining, and strain patterns — each reflecting conditions that shifted while
+      internal graining, and strain patterns, each reflecting conditions that shifted while
       the crystal formed. Their diagnostic power is considerable: hexagonal angular colour
       zoning in corundum is a reliable natural-origin marker, since no synthetic method
       replicates the irregular, face-controlled banding that develops over geological time.
@@ -173,7 +173,7 @@ sections:
           variant: warning
           points:
             - Curved striae (flame fusion)
-            - Chevron/zigzag zoning (hydrothermal synthetic emerald) — diagnostic {cite:gubelin-koivula-photoatlas-v2}
+            - Chevron/zigzag zoning (hydrothermal synthetic emerald; diagnostic) {cite:gubelin-koivula-photoatlas-v2}
             - Very regular spacing
             - Uninterrupted patterns
             - May follow seed plate

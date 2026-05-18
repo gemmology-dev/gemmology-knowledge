@@ -43,9 +43,9 @@ references:
 sections:
   - title: Introduction
     content: |
-      The dichroscope is a compact hand-held instrument that reveals pleochroism — the property
+      The dichroscope is a compact hand-held instrument that reveals pleochroism (the property
       of anisotropic gems to display different colours when viewed along different crystallographic
-      directions — by splitting transmitted light into two polarised beams shown side by side.
+      directions) by splitting transmitted light into two polarised beams shown side by side.
       {cite:read-2014-gemmology}
 
       Uniaxial gems (trigonal, tetragonal, hexagonal) are dichroic and show two pleochroic colours;
@@ -83,7 +83,7 @@ sections:
 
   - title: Usage Technique
     content: |
-      Proper technique is essential for accurate results:
+      Proper technique is required for accurate results:
     subsections:
       - title: Basic Procedure
         content: |
@@ -145,10 +145,10 @@ sections:
         - ["Ruby", "Trigonal", "Strong", "O-ray: purplish red / E-ray: orange-red", "Best seen in thick stones"]
         - ["Blue sapphire", "Trigonal", "Strong", "O-ray: deep blue / E-ray: greenish-blue", "Varies with saturation"]
         - ["Emerald", "Hexagonal", "Distinct", "O-ray: blue-green / E-ray: yellow-green", "More visible in darker stones"]
-        - ["Tanzanite", "Orthorhombic", "Very strong", "α: blue / β: violet / γ: purple-red", "Trichroic — heat treated shows 2 colours"]
+        - ["Tanzanite", "Orthorhombic", "Very strong", "α: blue / β: violet / γ: purple-red", "Trichroic; heat treated shows 2 colours"]
         - ["Alexandrite", "Orthorhombic", "Very strong", "α: green / β: orange / γ: red-purple", "Colour change + strong pleochroism"]
         - ["Andalusite", "Orthorhombic", "Very strong", "α: yellow-green / β: brown-green / γ: red-brown", "Distinctive multicolour effect"]
-        - ["Iolite", "Orthorhombic", "Very strong", "α: violet-blue / β: blue / γ: pale yellow", "Water sapphire — dramatic colours"]
+        - ["Iolite", "Orthorhombic", "Very strong", "α: violet-blue / β: blue / γ: pale yellow", "Water sapphire; dramatic colour contrast"]
         - ["Kunzite", "Monoclinic", "Distinct", "α: colourless / β: pink / γ: violet", "Fades in light over time"]
         - ["Tourmaline (green)", "Trigonal", "Strong", "O-ray: dark green / E-ray: light green", "Best viewed down c-axis"]
         - ["Tourmaline (pink)", "Trigonal", "Strong", "O-ray: dark pink / E-ray: light pink", "Orientation important for cutting"]

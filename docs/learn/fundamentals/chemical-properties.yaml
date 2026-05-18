@@ -63,18 +63,18 @@ sections:
   - title: Introduction
     content: |
       Chemical composition determines gem colour, optical properties, hardness, and
-      response to treatments — making gem chemistry central to identification and
+      response to treatments, making gem chemistry central to identification and
       quality assessment. Colour arises from chromophores: transition metal ions,
       charge transfer, colour centres, or physical optics. A gem may be allochromatic
-      (coloured by trace impurities — corundum is colourless when pure, red as ruby with
+      (coloured by trace impurities; corundum is colourless when pure, red as ruby with
       Cr³⁺, blue as sapphire with Fe²⁺/Ti⁴⁺ charge transfer) or idiochromatic (colour
-      is intrinsic to the formula — peridot is always greenish because Fe²⁺ is part of
+      is intrinsic to the formula; peridot is always greenish because Fe²⁺ is part of
       (Mg,Fe)₂SiO₄). The spectroscope connects chemistry to identification: the 694 nm
       chromium doublet in ruby's absorption spectrum is a direct fingerprint of Cr³⁺ in
       the Al₂O₃ host lattice. Trace element ratios measured by LA-ICP-MS extend this
       further: the Ga/Fe ratio distinguishes sapphire origins; copper concentration above
       0.1 wt% identifies Paraíba tourmaline. Understanding what causes colour also
-      predicts stability — colour centres in Maxixe beryl fade in light, while Cr-coloured
+      predicts stability: colour centres in Maxixe beryl fade in light, while Cr-coloured
       ruby is stable. {cite:nassau-2001-color}{cite:gem-a-fp-notes}
 
   - title: Allochromatic vs Idiochromatic Minerals
@@ -269,7 +269,7 @@ sections:
         - Diagnostic Notes
       rows:
         - ["Chrysoberyl", "Fe", "Band centred at 444 nm", "Distinguishes yellow/greenish/brown chrysoberyl from sapphire; useful for cat's eyes in settings"]
-        - ["Alexandrite", "Cr", "Lines in red; broad band in yellow-green", "Pleochroic variation visible — spectrum shifts between daylight and tungsten light"]
+        - ["Alexandrite", "Cr", "Lines in red; broad band in yellow-green", "Pleochroic variation visible; spectrum shifts between daylight and tungsten light"]
         - ["Synthetic colour-change sapphire", "V + Cr", "Sharp fine line at 475 nm", "Diagnostic for vanadium in corundum; line may be faint"]
         - ["Jadeite (pale specimens)", "Fe", "Fine line at 437 nm", "Seen in pale specimens of various colours; green stones may also show Cr lines in red"]
         - ["Dyed jadeite", "Fe + Cr-dye", "Weak band(s) in red + 437 nm line", "Chromium-green dye gives additional band(s) in red; diagnostic for dye detection"]
@@ -333,7 +333,7 @@ sections:
       electrons can move throughout the crystal structure at a higher energy level than
       those bound within atomic orbitals. The gap between the atom-bound "valence band"
       electrons and the wandering "conduction band" electrons is the electron energy band
-      gap — a "forbidden" zone whose width greatly influences optical properties.
+      gap (a "forbidden" zone) whose width greatly influences optical properties.
     subsections:
       - title: Three Material Types
         content: |
@@ -342,13 +342,14 @@ sections:
           1. **Large band gap** (wider than visible light range): Even violet light cannot
              excite electrons across the gap. No visible light is absorbed, so the material
              appears transparent and colourless when pure. Most gemstones fall into this
-             category — pure diamond, corundum, quartz, and topaz.
+             category: pure diamond, corundum, quartz, and topaz.
 
           2. **Small band gap** (narrower than red light energy): All visible light interacts
              with electrons and is absorbed, making the material opaque.
 
           3. **Overlapping band gap**: The gap energy partially overlaps the visible spectrum,
              causing selective absorption and a residual colour.
+
 
       - title: Diamond Band Gap Colour
         content: |
@@ -365,7 +366,7 @@ sections:
           extending into lower-energy visible light. Higher-energy blue and violet light is
           transmitted, producing blue colour. Because the boron level is close to the valence
           band, electrons can be thermally excited at room temperature, leaving "holes" that
-          allow electrical current — boron-containing diamonds conduct electricity. {cite:nassau-2001-color}
+          allow electrical current; boron-containing diamonds conduct electricity. {cite:nassau-2001-color}
 
   - title: Physical Optics Colour
     content: |
@@ -398,14 +399,14 @@ sections:
           thin films, layers of differing composition, or thin-film cavities such as cracks.
           When two reflected rays travel in the same direction and their wave peaks coincide
           ("in phase"), they reinforce each other. When peak meets trough ("out of phase"),
-          they cancel — this is interference.
+          they cancel; this is interference.
 
           Examples in gemmology:
           - **Labradorite**: iridescent colours from interference at thin compositional layers
           - **Pearl nacre**: lustre from diffraction at overlapping platy aragonite crystals
             combined with interference from thin nacre layers
           - **Crack iridescence**: colours from thin films of air in cracks (as in topaz,
-            glass, or quartz) — similar to oil films on water
+            glass, or quartz), similar to oil films on water
 
       - title: Scattering
         content: |
@@ -417,7 +418,7 @@ sections:
           where scattering is caused by submicroscopic particles of albite feldspar.
 
           As particles get larger, other colours such as red and green may be seen at certain
-          angles. Larger particles still produce a whitish effect called opalescence — seen in
+          angles. Larger particles still produce a whitish effect called opalescence, seen in
           materials such as common opal and milky quartz. This should not be confused with the
           play-of-colour effect in precious opal.
 

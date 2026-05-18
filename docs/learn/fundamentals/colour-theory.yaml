@@ -1,5 +1,5 @@
 title: Colour Theory in Gemmology
-description: The physics and chemistry of gem colour — crystal field theory, charge transfer, colour centres, allochromatic and idiochromatic minerals, and band-gap colouration.
+description: "The physics and chemistry of gem colour: crystal field theory, charge transfer, colour centres, allochromatic and idiochromatic minerals, and band-gap colouration."
 order: 3.2
 category: fundamentals
 difficulty: advanced
@@ -92,18 +92,18 @@ tags:
   - allochromatic
 
 sections:
-  - title: Overview — The Four Main Causes of Colour
+  - title: "Overview: The Four Main Causes of Colour"
     content: |
       Kurt Nassau's classification (Nassau, *The Physics and Chemistry of Color*, 2nd ed., 2001)
       identifies fifteen mechanisms of colour in minerals, of which four are central to gemmology:
 
-      1. **Crystal field theory (d–d transitions)** — the dominant mechanism for chromophore transition
+      1. **Crystal field theory (d–d transitions):** the dominant mechanism for chromophore transition
          metals in most coloured gem species (Cr³⁺ in ruby and emerald, Fe²⁺ in peridot).
-      2. **Charge transfer** — electron transfer between adjacent ions; responsible for blue sapphire
+      2. **Charge transfer:** electron transfer between adjacent ions; responsible for blue sapphire
          and aquamarine colour.
-      3. **Colour centres** — defects in the crystal lattice that trap electrons or holes and absorb
+      3. **Colour centres:** defects in the crystal lattice that trap electrons or holes and absorb
          visible light; responsible for smoky quartz, amethyst, blue topaz, and coloured diamond.
-      4. **Band-gap (semiconductor) absorption** — the entire conduction band absorbs photons above
+      4. **Band-gap (semiconductor) absorption:** the entire conduction band absorbs photons above
          the gap energy; explains the pure colourlessness of type IIa diamond and the vivid red of
          cinnabar.
 
@@ -120,7 +120,7 @@ sections:
       **Mechanism:**
       - In an octahedral coordination site (6 O²⁻ ligands), the d-orbitals split into a lower set
         (t₂g) and a higher set (eɡ), separated by the crystal field splitting energy Δ_oct.
-      - In a tetrahedral site (4 ligands), the splitting Δ_tet ≈ 4/9 Δ_oct — smaller, producing
+      - In a tetrahedral site (4 ligands), the splitting Δ_tet ≈ 4/9 Δ_oct, smaller, producing
         weaker colour.
       - The energy Δ determines the absorbed wavelength (E = hc/λ); a larger Δ absorbs shorter,
         higher-energy wavelengths.
@@ -135,7 +135,7 @@ sections:
 
       {cite:nassau-2001-color}{cite:read-2014-gemmology}
     subsections:
-      - title: Ruby — Cr³⁺ in corundum (Al₂O₃)
+      - title: "Ruby: Cr³⁺ in corundum (Al₂O₃)"
         content: |
           Al³⁺ octahedral sites are comparatively small; the strong field around Cr³⁺ gives Δ_oct
           large enough to produce broad absorption at ~410 nm (violet–blue) and ~560 nm (yellow–green),
@@ -147,7 +147,7 @@ sections:
 
           **Chelsea Colour Filter reaction:** strongly red (Cr³⁺ transmits deep red and absorbs green).
 
-      - title: Emerald — Cr³⁺ in beryl (Be₃Al₂Si₆O₁₈)
+      - title: "Emerald: Cr³⁺ in beryl (Be₃Al₂Si₆O₁₈)"
         content: |
           The same Cr³⁺ ion sits in a slightly larger Al³⁺ octahedral site in beryl compared with
           corundum, shifting Δ to smaller values. The absorption bands move to slightly longer
@@ -158,10 +158,10 @@ sections:
           identical d–d mechanism. Chrome emeralds appear red through the Chelsea Colour Filter;
           vanadium emeralds may appear red–orange or inert depending on V concentration.
 
-      - title: Alexandrite — dual transmission window
+      - title: "Alexandrite: dual transmission window"
         content: |
           Alexandrite (Cr³⁺ in chrysoberyl, BeAl₂O₄) is the classic example of the alexandrite
-          effect. The Cr³⁺ crystal field in chrysoberyl produces two transmission windows —
+          effect. The Cr³⁺ crystal field in chrysoberyl produces two transmission windows:
           one in the red (~680 nm) and a narrower one in the blue–green (~580 nm region excluded
           and ~470–490 nm transmitted).
 
@@ -170,23 +170,23 @@ sections:
           dominates → red–purple. The colour change depends on which window the illuminant's
           spectral peak falls nearest. {cite:nassau-2001-color}
 
-      - title: Peridot — Fe²⁺ in olivine
+      - title: "Peridot: Fe²⁺ in olivine"
         content: |
           Fe²⁺ in the M1 and M2 octahedral sites of olivine (Mg₂SiO₄) produces three distinct
-          absorption bands at approximately 493 nm, 473 nm, and 453 nm — the classic three-banded
-          iron spectrum visible in the spectroscope. The yellow-green colour results from this
+          absorption bands at approximately 493 nm, 473 nm, and 453 nm (the classic three-banded
+          iron spectrum visible in the spectroscope). The yellow-green colour results from this
           triplet absorbing blue and leaving yellow-green transmitted.
 
           The relatively weak crystal field around Fe²⁺ in olivine results in smaller Δ values
           compared with Cr³⁺ in corundum, which is why the colour is yellow-green rather than red.
 
-          **Peridot is idiochromatic** — Fe²⁺ is an essential constituent of gem-quality olivine. {cite:nassau-2001-color}
+          **Peridot is idiochromatic**: Fe²⁺ is an essential constituent of gem-quality olivine. {cite:nassau-2001-color}
 
   - title: Charge-Transfer Colouration
     content: |
-      Charge transfer (CT) colour arises when an electron is transferred between two adjacent ions
-      — either between two metal ions (intervalence charge transfer, IVCT) or from oxygen to a
-      metal (ligand-to-metal charge transfer, LMCT) — rather than remaining on a single ion as
+      Charge transfer (CT) colour arises when an electron is transferred between two adjacent ions,
+      either between two metal ions (intervalence charge transfer, IVCT) or from oxygen to a
+      metal (ligand-to-metal charge transfer, LMCT), rather than remaining on a single ion as
       in d–d transitions.
 
       **Mechanism:**
@@ -204,17 +204,17 @@ sections:
 
       {cite:nassau-2001-color}{cite:dubinsky-2020-corundum}
     subsections:
-      - title: Blue sapphire — Fe²⁺–Ti⁴⁺ IVCT in corundum
+      - title: "Blue sapphire: Fe²⁺–Ti⁴⁺ IVCT in corundum"
         content: |
           Nassau's canonical IVCT example. The Fe–Ti pair on alternating face-sharing octahedral
           sites absorbs strongly in the yellow–red (peaking ~550–700 nm), leaving blue–violet
           transmitted. Spectroscope shows three broad, unresolved bands at approximately 450 nm,
-          460 nm, and 470 nm — the diagnostic blue sapphire triplet.
+          460 nm, and 470 nm (the diagnostic blue sapphire triplet).
 
           No sharp Cr fluorescence lines; no red CCF reaction (no Cr³⁺ unless the sapphire is
           deliberately Cr-bearing, as in some Sri Lanka padparadscha). {cite:dubinsky-2020-corundum}
 
-      - title: Aquamarine — Fe²⁺–Fe³⁺ IVCT in beryl
+      - title: "Aquamarine: Fe²⁺–Fe³⁺ IVCT in beryl"
         content: |
           Fe²⁺ and Fe³⁺ on adjacent sites in the beryl channel structure produce a broad
           absorption band in the yellow–red, leaving blue transmitted. The spectroscope shows
@@ -223,13 +223,13 @@ sections:
           Indicolite tourmaline (blue) carries a similar Fe²⁺–Fe³⁺ IVCT colour. Kyanite blue
           is also attributed to this IVCT mechanism.
 
-      - title: Yellow sapphire — Fe³⁺ LMCT
+      - title: "Yellow sapphire: Fe³⁺ LMCT"
         content: |
           Fe³⁺ alone (without Ti⁴⁺ to form IVCT pairs) absorbs in the UV, with the absorption
           tail cutting into the blue end of the visible, leaving yellow–orange transmitted.
           Some orange sapphires combine Fe³⁺ LMCT with Cr³⁺ d–d bands.
 
-      - title: Diagnostic contrast — CT vs d–d
+      - title: "Diagnostic contrast: CT vs d–d"
         content: |
           A gemmologist can distinguish CT-coloured stones from d–d-coloured stones by:
 
@@ -241,9 +241,9 @@ sections:
 
   - title: Colour Centres
     content: |
-      A colour centre is a localised lattice defect — typically an electron (F-centre) or a hole
+      A colour centre is a localised lattice defect, typically an electron (F-centre) or a hole
       (h-centre) trapped at a structural imperfection such as an anion vacancy or adjacent to a
-      substitutional impurity — that absorbs visible light and creates colour in an otherwise
+      substitutional impurity, that absorbs visible light and creates colour in an otherwise
       colourless material.
 
       **Mechanism:**
@@ -251,7 +251,7 @@ sections:
         trapped electron absorbs photons to move between energy levels of the defect potential.
       - **Hole centre:** an unpaired electron hole trapped adjacent to a substitutional cation.
         In quartz, Al³⁺ substituting for Si⁴⁺ creates a charge imbalance; irradiation leaves an
-        AlO₄ unit with a trapped hole — the [AlO₄]⁰ centre.
+        AlO₄ unit with a trapped hole (the [AlO₄]⁰ centre).
       - **Irradiation** (natural γ/α/β or artificial neutron/electron beam) creates centres by
         displacing atoms and generating vacancies. The stability of the centre determines whether
         colour is permanent or fades.
@@ -261,7 +261,7 @@ sections:
 
       {cite:nassau-2001-color}{cite:nassau-prescott-1977}
     subsections:
-      - title: Smoky quartz — Al–O hole centre
+      - title: "Smoky quartz: Al–O hole centre"
         content: |
           Al³⁺ substituting for Si⁴⁺ in quartz, combined with natural or artificial irradiation,
           produces a hole trapped at the AlO₄ unit (the [AlO₄]⁰ centre). Nassau & Prescott (1977)
@@ -269,16 +269,16 @@ sections:
 
           Heating above 300–380 °C bleaches the centre, converting smoky quartz to colourless. {cite:nassau-prescott-1977}
 
-      - title: Amethyst — Fe⁴⁺ hole centre
+      - title: "Amethyst: Fe⁴⁺ hole centre"
         content: |
           Fe³⁺ substituting for Si⁴⁺ in quartz, under irradiation, produces an [FeO₄]⁰ centre
-          (Fe⁴⁺ — a hole localised on iron). This centre absorbs at ~520 nm (green), transmitting
+          (Fe⁴⁺, a hole localised on iron). This centre absorbs at ~520 nm (green), transmitting
           purple-violet.
 
           Heating above ~450 °C converts Fe⁴⁺ back to Fe³⁺, producing yellow citrine. This
           transformation is exploited commercially to produce heat-treated citrine from amethyst.
 
-      - title: Blue topaz — irradiation-induced colour centres
+      - title: "Blue topaz: irradiation-induced colour centres"
         content: |
           Natural blue topaz is rare. Commercial blue topaz is produced by neutron or electron
           irradiation of colourless topaz, creating colour centres that absorb in the yellow–red
@@ -287,13 +287,13 @@ sections:
           The irradiated origin must be disclosed in trade (treated material). The colour mechanism
           distinguishes blue topaz (colour centre, heat-sensitive) from aquamarine (Fe IVCT, stable).
 
-      - title: Diamond colour centres — N3, NV, H3
+      - title: "Diamond colour centres: N3, NV, H3"
         content: |
           Nitrogen defects in diamond create several named optical centres:
 
           - **N3 centre** (three N atoms + vacancy): responsible for Cape blue-white fluorescence
             under LWUV and the 415 nm absorption line (Cape series). Characteristic of type Ia
-            diamond — the most common natural diamond type. Spectroscopic literature gives 415.5 nm
+            diamond (the most common natural diamond type). Spectroscopic literature gives 415.5 nm
             for the zero-phonon line.
           - **NV⁻ centre** (nitrogen–vacancy pair, negative charge): zero-phonon line at 637 nm;
             produces pink to red photoluminescence. Found in pink diamonds and exploited in
@@ -304,16 +304,16 @@ sections:
             diamonds. Detected by photoluminescence at 77 K.
 
           HPHT treatment of brown type IIa diamond anneals out vacancy-related brown centres,
-          destroying N3 characteristic fluorescence — detectable by FTIR and DiamondView. {cite:hainschwang-2012-diamond}{cite:nassau-2001-color}
+          destroying N3 characteristic fluorescence, detectable by FTIR and DiamondView. {cite:hainschwang-2012-diamond}{cite:nassau-2001-color}
 
-      - title: Maxixe beryl — unstable colour centre
+      - title: "Maxixe beryl: unstable colour centre"
         content: |
           Deep blue beryl from the Maxixe mine, Minas Gerais, Brazil, owes its colour to an
           irradiation-induced colour centre (involving NO₃⁻ or CO₃²⁻ radical anions substituting
-          in the beryl channel — the precise identity remains under study).
+          in the beryl channel; the precise identity remains under study).
 
           The centre is unstable in ambient light and fades to pale pink or colourless over months
-          of daylight exposure — the gemmological standard case of light-bleachable colour.
+          of daylight exposure (the gemmological standard case of light-bleachable colour).
           This distinguishes maxixe beryl from aquamarine (Fe IVCT, stable) and irradiated blue
           topaz (different centre, stable at room temperature).
 
@@ -337,7 +337,7 @@ sections:
       - **Idiochromatic:** the colouring element is a required component of the mineral formula.
         Even an ideal, pure crystal will be coloured. The colour range is narrow.
       - **Pseudochromatic:** colour-like effects produced by light interference, diffraction, or
-        scattering — not electronic absorption. No chromophore is involved; the apparent colour
+        scattering, not electronic absorption. No chromophore is involved; the apparent colour
         changes with viewing angle or disappears when the specimen is oriented edge-on.
 
       {cite:nassau-2001-color}
@@ -377,7 +377,7 @@ sections:
 
   - title: Band-Gap Colouration
     content: |
-      In crystalline solids with a band structure, colour arises when the band gap (Eg — the energy
+      In crystalline solids with a band structure, colour arises when the band gap (Eg, the energy
       difference between the valence band and the conduction band) falls within or near the visible
       range. Photons with energy > Eg are absorbed; those with energy < Eg are transmitted.
 

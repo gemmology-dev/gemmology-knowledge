@@ -55,14 +55,14 @@ sections:
   - title: Introduction
     content: |
       Advanced crystallography extends the seven-systems framework to explain how
-      crystals actually grow, what forms they develop, and why they twin — knowledge
-      that directly supports the identification of inclusions, growth features, and
+      crystals actually grow, what forms they develop, and why they twin. This knowledge
+      directly supports the identification of inclusions, growth features, and
       crystal morphology in gem testing. Miller indices describe every crystal face
       and cleavage plane; four-index (Bravais–Miller) notation is required for
       trigonal and hexagonal systems where three equivalent horizontal axes meet at
       120°, with the closure relation i = −(h+k) ensuring symmetry equivalence is
-      explicit. Twinning — the intergrowth of two or more orientations sharing lattice
-      points — produces diagnostic habits: chrysoberyl trillings form the pseudohexagonal
+      explicit. Twinning (the intergrowth of two or more orientations sharing lattice
+      points) produces diagnostic habits: chrysoberyl trillings form the pseudohexagonal
       star shape characteristic of the species, while polysynthetic twinning in labradorite
       causes labradorescence. Growth features such as curved striae, chevron zoning, and
       phantom crystals distinguish natural from synthetic gems under microscopy. The FGA

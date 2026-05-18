@@ -68,7 +68,7 @@ sections:
   - title: Introduction
     content: |
       Chrysoberyl (BeAl₂O₄) is a beryllium aluminium oxide crystallising in the orthorhombic
-      system — chemically distinct from beryl despite the shared name. With hardness 8.5 Mohs,
+      system, chemically distinct from beryl despite the shared name. With hardness 8.5 Mohs,
       SG 3.71–3.75, and RI 1.746–1.755 (biaxial positive, birefringence 0.008–0.010), it
       is one of the harder gem species, ranking between corundum and topaz on the Mohs scale.
       The species produces two phenomena-bearing varieties of extraordinary value: alexandrite
@@ -76,7 +76,7 @@ sections:
       light {cite:fritsch-rossman-1987}, and cymophane (cat's eye chrysoberyl) shows the
       sharpest chatoyancy of any gem material due to dense parallel silk inclusions. Classic
       Russian Ural alexandrite, essentially unavailable today, defined the benchmark colour
-      change — emerald green to raspberry red — and stones with documented Ural origin command
+      change (emerald green to raspberry red) and stones with documented Ural origin command
       extraordinary auction premiums. {cite:sun-2019-alexandrite} Fine cat's eye chrysoberyl
       with honey-yellow body colour and the "milk and honey" side-lit effect is similarly prized;
       only chrysoberyl may legally be called simply "cat's eye" without further qualification. {cite:read-3rd}
@@ -213,7 +213,7 @@ sections:
 
       - title: Nomenclature
         content: |
-          Only chrysoberyl may be called simply "cat's eye"—all other
+          Only chrysoberyl may be called simply "cat's eye"; all other
           chatoyant gems require qualification: {cite:read-3rd}
 
           - "Cat's eye" = chrysoberyl cat's eye

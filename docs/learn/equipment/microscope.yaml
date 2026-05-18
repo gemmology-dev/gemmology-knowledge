@@ -43,10 +43,10 @@ sections:
   - title: Introduction
     content: |
       The gemmological microscope is the primary tool for studying inclusions, growth features,
-      and signs of treatment, and is essential for separating natural from synthetic gems and
-      detecting many enhancements. A binocular stereo microscope with variable magnification of
-      10×–45× is the standard configuration; darkfield illumination — light entering from the sides
-      against a dark background — is used for most inclusion observation, while brightfield
+      and signs of treatment, and is the standard instrument for separating natural from synthetic
+      gems and detecting many enhancements. A binocular stereo microscope with variable magnification
+      of 10×–45× is the standard configuration; darkfield illumination (light entering from the
+      sides against a dark background) is used for most inclusion observation, while brightfield
       (transmitted) illumination reveals colour zoning and growth patterns.
 
       Magnifications of 30×–40× cover most routine work. At 10× (loupe equivalent), overall
@@ -233,7 +233,7 @@ sections:
 
   - title: Treatment Detection
     content: |
-      The microscope is essential for treatment detection:
+      The microscope is the primary tool for treatment detection:
 
       - **Heat treatment**: Altered silk, stress fractures, melted inclusions
       - **Fracture filling**: Flash effect, gas bubbles in filler

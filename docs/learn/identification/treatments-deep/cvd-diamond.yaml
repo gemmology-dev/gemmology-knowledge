@@ -1,4 +1,4 @@
-title: CVD Diamond Detection — Deep Diagnostic Reference
+title: "CVD Diamond Detection: Deep Diagnostic Reference"
 description: Full detection protocol for CVD synthetic diamonds, distinguishing from natural and HPHT-treated stones using DiamondView, FTIR, and photoluminescence.
 order: 4
 category: identification
@@ -28,7 +28,7 @@ sections:
       photoluminescence spectroscopy at 77 K: DiamondView reveals characteristic orange-red
       phosphorescence and columnar growth threads absent from natural and HPHT synthetic
       diamonds {cite:zhang-2024-diamondview}, while PL at 77 K detects the silicon-vacancy
-      (SiV⁻) doublet at 736.9/736.6 nm — a growth-chamber artefact absent in natural stones
+      (SiV⁻) doublet at 736.9/736.6 nm, a growth-chamber artefact absent in natural stones
       {cite:eaton-magana-2017}. CVD diamond is clearly distinguishable by absorption,
       photoluminescence, and cathodoluminescence spectra {cite:martineau-2004-cvd}.
       Disclosure as "synthetic diamond" is mandatory under all governing standards.
@@ -43,20 +43,20 @@ sections:
 
   - title: Key CVD Growth Features
     table:
-      caption: CVD Diamond — Characteristic Diagnostic Features
+      caption: "CVD Diamond: Characteristic Diagnostic Features"
       headers:
         - Feature
         - Description
         - Origin
       rows:
-        - ["SiV⁻ doublet at 736.9/736.6 nm (PL)", "Silicon-vacancy centre from Si contamination in growth chamber; seen in PL at 77 K {cite:eaton-magana-2017}", "Growth artifact — trace Si in plasma"]
+        - ["SiV⁻ doublet at 736.9/736.6 nm (PL)", "Silicon-vacancy centre from Si contamination in growth chamber; seen in PL at 77 K {cite:eaton-magana-2017}", "Growth artifact (trace Si in plasma)"]
         - ["Columnar/striated growth pattern (DiamondView)", "Threads and bundles perpendicular to growth direction; step-flow mechanism produces layered striae", "CVD layer growth architecture"]
         - ["Orange-red phosphorescence (DiamondView, 225 nm)", "Characteristic phosphorescence not seen in natural diamond or HPHT synthetics (Zhang et al. 2024)", "NV⁻ related; step-flow growth contribution"]
         - ["NV centres NV⁻ (637 nm) / NV⁰ (575 nm)", "Present in most CVD stones; ratio may differ from HPHT-treated natural diamonds", "N-vacancy pairs in Type IIa lattice"]
         - ["Type IIa FTIR signature", "No N absorption >5 ppm; NV-H (NVH⁰) at 3123 cm⁻¹ in some samples", "Near-nitrogen-free growth environment"]
         - ["Anomalous birefringence", "Uniform or banded strain from columnar growth; distinct from natural plastic deformation patterns", "Growth stress in CVD layers"]
 
-  - title: Detection Methods — Full Protocol
+  - title: "Detection Methods: Full Protocol"
     table:
       caption: CVD Diamond Detection (simplest to most advanced)
       headers:
@@ -65,14 +65,14 @@ sections:
         - Reliability
         - Notes
       rows:
-        - ["LWUV fluorescence (365 nm)", "Variable — inert, orange, or blue depending on post-growth HPHT annealing; anomalous uniformity across the stone", "Preliminary screening", "Cannot confirm CVD alone; triggers lab testing"]
+        - ["LWUV fluorescence (365 nm)", "Variable: inert, orange, or blue depending on post-growth HPHT annealing; anomalous uniformity across the stone", "Preliminary screening", "Cannot confirm CVD alone; triggers lab testing"]
         - ["SWUV fluorescence", "Often strong and uniform; lacks the sector fluorescence pattern of HPHT natural diamonds", "Indicative", "Supports but does not confirm CVD"]
-        - ["DiamondView (225 nm SW UV imaging)", "Orange-red phosphorescence (diagnostic when present); columnar/striated growth — no octahedral sectors; distinct from HPHT cross-hatched sectors", "Most diagnostic single test", "Zhang et al. 2024 is the primary reference for the phosphorescence claim"]
-        - ["FTIR", "Type IIa signature (N <5 ppm); NV-H absorption at 3123 cm⁻¹ in some CVD samples with N doping", "Instrument test", "Distinguishes Type IIa — necessary but not sufficient for CVD identification alone"]
-        - ["Photoluminescence at 77 K", "SiV⁻ doublet at 736.9/736.6 nm — characteristic of CVD origin; rarely in natural or HPHT-treated stones; NV⁰ (575 nm) and NV⁻ (637 nm) also present", "Gold-standard lab test", "SiV⁻ doublet is the most specific CVD marker in PL"]
+        - ["DiamondView (225 nm SW UV imaging)", "Orange-red phosphorescence (diagnostic when present); columnar/striated growth with no octahedral sectors; distinct from HPHT cross-hatched sectors", "Most diagnostic single test", "Zhang et al. 2024 is the primary reference for the phosphorescence claim"]
+        - ["FTIR", "Type IIa signature (N <5 ppm); NV-H absorption at 3123 cm⁻¹ in some CVD samples with N doping", "Instrument test", "Distinguishes Type IIa; necessary but not sufficient for CVD identification alone"]
+        - ["Photoluminescence at 77 K", "SiV⁻ doublet at 736.9/736.6 nm, characteristic of CVD origin; rarely in natural or HPHT-treated stones; NV⁰ (575 nm) and NV⁻ (637 nm) also present", "Gold-standard lab test", "SiV⁻ doublet is the most specific CVD marker in PL"]
         - ["UV-Vis absorption", "Type IIa spectrum; possible 270 nm band if N-doped during growth", "Supporting", "Consistent with Type IIa; not CVD-specific"]
 
-  - title: CVD vs HPHT Synthetic vs Natural — Comparison
+  - title: "CVD vs HPHT Synthetic vs Natural: Comparison"
     table:
       caption: Diamond Type Comparison for Identification
       headers:

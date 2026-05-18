@@ -68,15 +68,15 @@ sections:
   - title: Introduction
     content: |
       Advanced optical testing goes beyond refractometer RI and birefringence to
-      determine optic character, optic sign, absorption spectra, and luminescence —
-      properties that resolve identifications where standard tests give ambiguous
+      determine optic character, optic sign, absorption spectra, and luminescence;
+      these properties resolve identifications where standard tests give ambiguous
       results. Interference figures, obtained with a polariscope and conoscope, reveal
       uniaxial from biaxial character: uniaxial gems (trigonal, hexagonal, tetragonal
       systems) show a centred black cross with concentric isochromatic rings; biaxial
       gems (orthorhombic, monoclinic, triclinic) show two melatopes and curved isogyres
       whose separation indicates the 2V angle. Optic sign is confirmed by inserting a
       compensator plate: corundum is uniaxial negative (ε < ω), topaz biaxial positive
-      (β closer to α). The absorption spectrum adds further discrimination — the 694 nm
+      (β closer to α). The absorption spectrum adds further discrimination: the 694 nm
       chromium doublet identifies ruby; the 450/460/470 nm iron–titanium charge-transfer
       bands identify blue sapphire. Anomalous double refraction (ADR) in garnets and
       spinel arises from internal strain rather than crystal structure and must not be

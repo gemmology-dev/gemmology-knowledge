@@ -47,13 +47,13 @@ sections:
       Olivine is an iron-magnesium nesosilicate ((Mg,Fe)₂SiO₄) crystallising in the
       orthorhombic system; its gem variety is peridot, one of the few gemstones occurring in
       only a single colour family. RI 1.654–1.690 (biaxial positive) with birefringence
-      0.035–0.038 causes visible back-facet doubling under a loupe — a reliable feature
+      0.035–0.038 causes visible back-facet doubling under a loupe, a reliable feature
       absent in singly-refractive simulants such as demantoid garnet. SG 3.27–3.37, hardness
       6.5–7 Mohs. {cite:read-3rd} Colour is entirely iron-driven (Fe²⁺) with no heat treatment
       available to alter it {cite:fritsch-rossman-1987}; vivid lime-green without yellow or
       brown is ideal. The three-line iron absorption spectrum at 493, 473, and 453 nm is
-      characteristic, as are "lily pad" inclusions — disc-shaped stress fractures around
-      chromite crystals — virtually diagnostic for peridot. The historic source at Zabargad
+      characteristic, as are "lily pad" inclusions (disc-shaped stress fractures around
+      chromite crystals), virtually diagnostic for peridot. The historic source at Zabargad
       Island (St. John's Island) in the Red Sea supplied peridot for over 3,500 years; today
       Pakistan's Kohistan district and China's Changbai Mountains are the principal producers,
       with Myanmar's Mogok valley yielding the finest colour.
@@ -100,7 +100,7 @@ sections:
       type: info
       title: Diagnostic Inclusion
       text: |
-        Peridot is famous for "lily pad" inclusions—disc-shaped stress fractures
+        Peridot is famous for "lily pad" inclusions: disc-shaped stress fractures
         surrounding tiny chromite crystals. {cite:read-3rd} These appear as small round
         "explosions" when viewed under magnification.
 
@@ -131,7 +131,7 @@ sections:
         it "the gem of the sun." The mines are now exhausted.
 
         Interestingly, "Topazios," the Greek name for this island, is where
-        the word "topaz" originated—though the island produced peridot, not topaz.
+        the word "topaz" originated, though the island produced peridot, not topaz.
 
   - title: Characteristic Inclusions
     content: |

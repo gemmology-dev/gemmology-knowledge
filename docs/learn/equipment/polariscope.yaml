@@ -43,8 +43,8 @@ references:
 sections:
   - title: Introduction
     content: |
-      The polariscope uses two polarising filters — a fixed lower polariser and a rotatable
-      upper analyser — to determine a gem's optic character and reveal strain, twinning, and
+      The polariscope uses two polarising filters (a fixed lower polariser and a rotatable
+      upper analyser) to determine a gem's optic character and reveal strain, twinning, and
       anomalous double refraction (ADR). With the filters at 90° (crossed polars), the field
       appears dark; an anisotropic gem placed in this field allows polarised light to pass through
       in orientations governed by its crystal system.
@@ -52,7 +52,7 @@ sections:
       Rotating the stone through 360° gives the fundamental result: a gem remaining dark is
       isotropic (cubic or amorphous); one blinking light and dark four times per rotation is
       doubly refractive. {cite:nassau-2001-color} Isotropic stones showing patchy irregular
-      light — tabby extinction — display anomalous double refraction (ADR) from internal strain;
+      light (tabby extinction) display anomalous double refraction (ADR) from internal strain;
       garnet and synthetic spinel are common examples. {cite:read-2014-gemmology} A stone
       remaining bright throughout is a microcrystalline aggregate such as jadeite or chalcedony.
       The polariscope result guides all subsequent instrument choice, making it the natural
@@ -72,7 +72,7 @@ sections:
       - title: Crossed Polars Position
         content: |
           When the polariser and analyser are at 90° to each other, light cannot
-          pass through—the field appears dark. This is the "crossed polars" position
+          pass through; the field appears dark. This is the "crossed polars" position
           used for most tests. {cite:nassau-2001-color}
 
           When aligned parallel, maximum light passes through (bright field).

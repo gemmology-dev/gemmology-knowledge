@@ -20,7 +20,7 @@ sections:
   - title: Introduction
     content: |
       A synthetic gemstone shares the same chemical composition, crystal structure, and
-      physical properties as its natural counterpart — grown in a laboratory rather than
+      physical properties as its natural counterpart, grown in a laboratory rather than
       the Earth. This distinguishes synthetics from simulants, which merely resemble
       another gem without matching its composition. Four growth methods are commercially
       significant: flame fusion (Verneuil, 1902) produces synthetic ruby and sapphire
@@ -32,7 +32,7 @@ sections:
       separation. A Chatham flux-grown ruby tests at the same refractive index (1.762–1.770)
       and specific gravity (~4.00) as a Burmese stone, yet microscopy reveals flux
       inclusions and metallic platelets absent from any natural ruby. Advanced laboratory
-      testing is essential before issuing any identification report for high-value
+      testing is required before issuing any identification report for high-value
       synthetic material.
     callout:
       type: info

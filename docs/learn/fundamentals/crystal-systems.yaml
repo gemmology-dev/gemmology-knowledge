@@ -59,7 +59,7 @@ sections:
     content: |
       All crystals belong to one of seven systems: cubic, tetragonal, orthorhombic,
       hexagonal, trigonal, monoclinic, and triclinic. Each system is defined by the
-      geometry of its unit cell — the relationship between three crystallographic axes
+      geometry of its unit cell, defined by three crystallographic axes
       (a, b, c) and the angles between them (α, β, γ). The cubic system, with three
       equal axes at 90°, has the highest symmetry and produces isotropic gems such as
       diamond (RI 2.417), spinel, and garnet that show a single refractive index. The
@@ -322,7 +322,7 @@ sections:
         - ["Orthorhombic", "mmm", "Holohedral", "Topaz; peridot/olivine; tanzanite/zoisite; andalusite; danburite"]
         - ["Trigonal", "3", "Polar, enantiomorphic", "—"]
         - ["Trigonal", "3̄", "Centrosymmetric", "—"]
-        - ["Trigonal", "32", "Enantiomorphic", "Quartz (explains optical activity — left/right handed)"]
+        - ["Trigonal", "32", "Enantiomorphic", "Quartz (explains optical activity, left/right handed)"]
         - ["Trigonal", "3m", "Polar", "Tourmaline (piezoelectric/pyroelectric); calcite group"]
         - ["Trigonal", "3̄m", "Holohedral", "Corundum (ruby, sapphire); hematite"]
         - ["Hexagonal", "6", "Polar, enantiomorphic", "—"]
@@ -347,7 +347,7 @@ sections:
         and shows the Brazil and Dauphiné twin laws. No centre of inversion → piezoelectric.
       - **Tourmaline (point group 3m):** polar axis along c responsible for piezoelectricity and
         pyroelectricity. The polar nature also produces pyroelectric discharge when temperature
-        changes — tourmaline crystals attract dust. {cite:read-2014-gemmology}
+        changes; tourmaline crystals attract dust. {cite:read-2014-gemmology}
       - **Corundum (point group 3̄m):** has a centre of inversion (the 3̄ inversion axis);
         therefore neither piezoelectric nor optically active. Uniaxial negative with pleochroism
         oriented along the c-axis.
@@ -360,30 +360,30 @@ sections:
       type: info
       title: Point Group vs Crystal System
       text: |
-        Each crystal system contains multiple point groups — not a single one. A crystal system
+        Each crystal system contains multiple point groups, not a single one. A crystal system
         defines the axial geometry; the point group specifies the exact symmetry elements present.
-        For example, the trigonal system contains point groups 3, 3̄, 32, 3m, and 3̄m — each
+        For example, the trigonal system contains point groups 3, 3̄, 32, 3m, and 3̄m, each
         giving different physical properties (optical activity, piezoelectricity, centrosymmetry).
 
-  - title: Miller Indices — 3-Index and 4-Index Notation
+  - title: "Miller Indices: 3-Index and 4-Index Notation"
     content: |
       Miller indices {hkl} describe the orientation of a crystal face or plane by the reciprocals
       of its fractional intercepts on the crystallographic axes.
 
-      **Three-index notation {hkl}** — used for cubic, tetragonal, orthorhombic, monoclinic, and
+      **Three-index notation {hkl}** is used for cubic, tetragonal, orthorhombic, monoclinic, and
       triclinic systems (three axes: a, b, c):
       - {100}: intercepts a at 1, parallel to b and c.
-      - {111}: intercepts all three axes equally — the octahedral face in cubic.
-      - {110}: intercepts a and b at 1, parallel to c — the dodecahedral face in cubic.
+      - {111}: intercepts all three axes equally (the octahedral face in cubic).
+      - {110}: intercepts a and b at 1, parallel to c (the dodecahedral face in cubic).
 
-      **Four-index (Bravais–Miller) notation {hkil}** — required for trigonal and hexagonal
+      **Four-index (Bravais–Miller) notation {hkil}** is required for trigonal and hexagonal
       systems, which have three equivalent horizontal axes (a₁, a₂, a₃) at 120° and one vertical
       c-axis:
       - The **closure relation** i = −(h+k) always holds; i is not an independent variable but
         makes the symmetry equivalence of faces explicit in the notation.
       - {10-10}: the hexagonal prism face. i = -(1+0) = -1, confirming h + k + i = 0.
-      - {0001}: the basal pinacoid — perpendicular to the c-axis; the "table" of a hexagonal crystal.
-      - {10-11}: the rhombohedral face in trigonal — the twin and parting plane of corundum.
+      - {0001}: the basal pinacoid, perpendicular to the c-axis; the "table" of a hexagonal crystal.
+      - {10-11}: the rhombohedral face in trigonal, the twin and parting plane of corundum.
 
       **Why the redundant index?** In a 6-fold-symmetric hexagonal crystal there are six
       equivalent prism faces. The 4-index notation makes this equivalence explicit: {10-10},
@@ -410,7 +410,7 @@ sections:
           Diploma level. The only formula to remember is: **i = −(h+k)**.
 
           Understanding this relation explains why trigonal/hexagonal crystals have 6-fold or
-          3-fold equivalence of side faces — each set of equivalent faces has the same set of
+          3-fold equivalence of side faces; each set of equivalent faces has the same set of
           |h|, |k|, |i| values in different permutations.
 
   - title: Parting (False Cleavage)
@@ -420,9 +420,9 @@ sections:
       repeated twinning lamellae or by exsolution of a second phase along a crystallographic plane.
 
       **Distinction from cleavage:**
-      - **Cleavage** is universal — every crystal of the species will cleave along the same planes,
+      - **Cleavage** is universal: every crystal of the species will cleave along the same planes,
         because the planes reflect inherently weak bonds in the crystal structure.
-      - **Parting** is contingent — only crystals that happen to be twinned or to have undergone
+      - **Parting** is contingent: only crystals that happen to be twinned or to have undergone
         exsolution show parting. It may be restricted to parts of the crystal and is not universal
         across all specimens of the species. {cite:read-2014-gemmology}{cite:pignatelli-2024}
     subsections:
@@ -431,10 +431,10 @@ sections:
           Corundum (ruby and sapphire) has no true cleavage. It shows two parting directions from
           polysynthetic twinning:
 
-          - **{10-11} rhombohedral parting** — the most prominent; arises from repeated polysynthetic
+          - **{10-11} rhombohedral parting**: the most prominent; arises from repeated polysynthetic
             twinning on the rhombohedral plane. Visible as parallel flat steps on broken corundum
             rough, and as iridescent flat internal planes in faceted stones.
-          - **{0001} basal parting** — from twinning on the basal pinacoid; less consistent.
+          - **{0001} basal parting**: from twinning on the basal pinacoid; less consistent.
 
           A common Diploma examination error is stating "corundum has perfect basal cleavage."
           The correct answer is: corundum has **no cleavage**; the flat surfaces observed are

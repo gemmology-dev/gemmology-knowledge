@@ -1,4 +1,4 @@
-title: Swat Valley Emerald — Pakistan
+title: "Swat Valley Emerald: Pakistan"
 description: Ophiolite-hosted Cr-rich emerald from Mingora, Swat Valley; three-phase fluid inclusions, chromian muscovite, low Li chemistry, talc-carbonate paragenesis.
 order: 2
 category: origin
@@ -35,7 +35,7 @@ sections:
       Guo et al. (2020) provided the first systematic documentation of Swat emerald
       inclusions: three-phase fluid inclusions (liquid + gas + solid) consistent with
       the high-salinity ophiolitic hydrothermal system, and chromian muscovite (chrome
-      mica) — tabular brownish-green platelets very diagnostic for ophiolite-belt genesis
+      mica): tabular brownish-green platelets very diagnostic for ophiolite-belt genesis
       and rare in emeralds from other deposit types. Additional inclusions include
       actinolite needles and talc. Li content is <200 ppmw (shared with Colombian and
       Afghan material), while the Cr-dominant chromophore and UV-Vis spectral profile
@@ -45,7 +45,7 @@ sections:
     content: |
       Swat Valley emerald genesis:
     subsections:
-      - title: Host Rock — Ophiolite Belt
+      - title: "Host Rock: Ophiolite Belt"
         content: |
           - Hosted in carbonatised ultramafic rocks (ophiolite belt) of the Indus suture
             zone, in the Mingora area of Swat Valley
@@ -61,8 +61,8 @@ sections:
             interaction with the peridotite/serpentinite country rock
           - Arif and Moon (2007) documented chromian muscovite and tourmaline in
             emerald-bearing quartz veins: the muscovite shows "high Mg/Fe ratios (4–9)
-            and variable Ni" — geochemical evidence linking Cr directly to the ophiolitic
-            ultramafic host {cite:arif-moon-2007-muscovite}
+            and variable Ni" (geochemical evidence linking Cr directly to the ophiolitic
+            ultramafic host) {cite:arif-moon-2007-muscovite}
 
   - title: Properties and Appearance
     content: |
@@ -83,7 +83,7 @@ sections:
     subsections:
       - title: Fluid Inclusions
         content: |
-          - **Three-phase fluid inclusions**: Liquid + gas + solid phases — documented
+          - **Three-phase fluid inclusions**: Liquid + gas + solid phases, documented
             for the first time in Swat emeralds by Guo et al. (2020); diagnostic for
             the high-salinity, high-temperature ophiolitic hydrothermal system {cite:guo-2020-swat-emerald}
 
@@ -123,7 +123,7 @@ sections:
       title: Talc-Carbonate (Ophiolite-Belt) Type
       text: |
         Swat Valley emerald belongs to the "talc-carbonate" or "ophiolite-hosted" deposit
-        type — distinct from:
+        type, distinct from:
 
         - SCHIST-BELT type (Zambia, Zimbabwe, Russia, Ethiopia): schist host at
           granite-ultramafic contact

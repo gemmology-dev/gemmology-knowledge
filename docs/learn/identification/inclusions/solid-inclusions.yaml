@@ -30,8 +30,8 @@ sections:
       mineral assemblage, the solid-inclusion suite often pinpoints a gem's origin with
       remarkable precision: a Colombian emerald carrying calcite rhombs, albite, and pyrite
       cubes is identified by its mineral guests as reliably as by spectroscopy
-      {cite:gubelin-koivula-photoatlas-v1}. Finding a single natural mineral inclusion —
-      garnet in diamond, byssolite horsetails in Russian demantoid — is often sufficient
+      {cite:gubelin-koivula-photoatlas-v1}. Finding a single natural mineral inclusion
+      (garnet in diamond, byssolite horsetails in Russian demantoid) is often sufficient
       to confirm natural origin, since no synthetic growth method introduces a realistic
       geological mineral suite.
 
@@ -85,7 +85,7 @@ sections:
         - Origin
         - Characteristic Crystals
       rows:
-        - ["Colombia", "Calcite rhombs, pyrite cubes, albite — origin-diagnostic {cite:gubelin-koivula-photoatlas-v1}"]
+        - ["Colombia", "Calcite rhombs, pyrite cubes, albite (origin-diagnostic) {cite:gubelin-koivula-photoatlas-v1}"]
         - ["Zambia", "Black mica flakes, amphibole needles, blocky crystals"]
         - ["Brazil", "Biotite mica, pyrite, chromite"]
         - ["Afghanistan", "Mica books, actinolite needles"]
@@ -102,7 +102,7 @@ sections:
         - Appearance
         - Significance
       rows:
-        - ["Garnet (pyrope)", "Red or orange crystals", "Peridotitic environment — mantle origin proof {cite:schumann-gemstones-world}"]
+        - ["Garnet (pyrope)", "Red or orange crystals", "Peridotitic environment; mantle origin proof {cite:schumann-gemstones-world}"]
         - ["Olivine", "Green crystals", "Common mantle mineral"]
         - ["Chrome diopside", "Green crystals", "Eclogitic environment"]
         - ["Chromite", "Black, opaque", "Very common"]
