@@ -88,15 +88,14 @@ sections:
   - title: Introduction
     content: |
       Garnets are a group of nesosilicate minerals sharing the cubic crystal system but varying
-      in chemical composition across two main series — pyralspite (aluminium garnets: pyrope,
+      in chemical composition across two main series: pyralspite (aluminium garnets: pyrope,
       almandine, spessartine) and ugrandite (calcium garnets: uvarovite, grossular, andradite).
       All are singly refractive (isotropic), with no pleochroism, and RI ranging from 1.73 for
-      pyrope to 1.89 for andradite — values that reliably distinguish garnets from birefringent
+      pyrope to 1.89 for andradite; values that reliably distinguish garnets from birefringent
       species such as tourmaline or peridot. Hardness is 6.5–7.5 Mohs and SG 3.50–4.30
       depending on species. {cite:read-3rd} The group covers virtually every colour except blue,
       though rare pyrope-spessartine colour-change garnets exist. Commercial importance ranges
-      from ubiquitous red almandine (Fe²⁺, RI ~1.79) to exceptional demantoid andradite —
-      the "king of garnets" — whose dispersion of 0.057 exceeds diamond's 0.044 and whose
+      from ubiquitous red almandine (Fe²⁺, RI ~1.79) to exceptional demantoid andradite (the "king of garnets") whose dispersion of 0.057 exceeds diamond's 0.044 and whose
       Russian Ural specimens with diagnostic "horsetail" byssolite inclusions command prices
       rivalling fine emerald. {cite:phillips-talantsev-1996} Vanadium-chromium grossular
       (tsavorite) from Kenya and Tanzania offers an intense green that rivals emerald without
@@ -244,7 +243,7 @@ sections:
           - **RI**: ~1.88; **SG**: ~3.85
           - **Dispersion**: 0.057 (higher than diamond!) {cite:phillips-talantsev-1996}
           - **Spectrum**: Cr line at 443nm ("horse line") {cite:phillips-talantsev-1996}
-          - **Sources**: Russia (Ural — finest), Namibia, Madagascar
+          - **Sources**: Russia (Ural, finest), Namibia, Madagascar
 
       - title: Horsetail Inclusions
         content: |

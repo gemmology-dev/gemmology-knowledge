@@ -95,15 +95,14 @@ sections:
       Diamond is pure carbon (C) crystallising in the cubic system, the hardest natural
       material at Mohs 10 and the only gem composed of a single element. Its exceptionally
       high refractive index of approximately 2.417 (singly refractive, isotropic) and
-      dispersion of 0.044 — the highest of any common transparent gem — produce the
+      dispersion of 0.044 (the highest of any common transparent gem) produce the
       brilliance and fire for which it is valued above all other species. SG is 3.52.
       Diamonds are classified by nitrogen content into types: Type Ia (aggregated nitrogen,
       ~98% of naturals) through Type IIb (boron-bearing, blue, electrically conductive and
       very rare). {cite:breeding-shigley-2009} Type classification determines colour origin and
-      treatment susceptibility — Type IIa brown diamonds can be HPHT-treated to colourless.
+      treatment susceptibility: Type IIa brown diamonds can be HPHT-treated to colourless.
       {cite:fisher-spits-2000} The GIA 4Cs system (colour D–Z, clarity FL–I3, cut Excellent–Poor,
-      and carat weight) is the universal grading standard. Lab-grown diamonds — both HPHT and
-      CVD — are now prevalent; the 45.52 ct Hope Diamond (Type IIb, blue, in the Smithsonian)
+      and carat weight) is the universal grading standard. Lab-grown diamonds (both HPHT and CVD) are now prevalent; the 45.52 ct Hope Diamond (Type IIb, blue, in the Smithsonian)
       and the 3,106 ct rough Cullinan remain the most famous natural specimens. {cite:read-3rd}
 
   - title: Diamond Type Classification
@@ -151,7 +150,7 @@ sections:
   - title: The 4Cs for Diamond
     content: |
       The GIA 4Cs system (Colour, Clarity, Cut, Carat weight) is the universal standard
-      for diamond grading. Understanding this system is essential for any gemmologist.
+      for diamond grading. Any gemmologist needs to understand this system.
 
   - title: Colour Grading
     subsections:

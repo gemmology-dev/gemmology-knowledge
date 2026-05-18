@@ -46,14 +46,14 @@ references:
 sections:
   - title: Introduction
     content: |
-      Opal (SiO₂·nH₂O) is hydrated amorphous silica — no crystal system — containing
+      Opal (SiO₂·nH₂O) is hydrated amorphous silica (no crystal system) containing
       3–21% water by weight (typically 6–10%), with hardness 5.5–6.5 Mohs, SG 1.98–2.25,
-      and RI 1.37–1.47 (spot, singly refractive). {cite:read-3rd} Play of colour — opal's
-      defining feature — is produced when uniformly sized silica spheres (150–400 nm diameter)
+      and RI 1.37–1.47 (spot, singly refractive). {cite:read-3rd} Play of colour, opal's
+      defining feature, is produced when uniformly sized silica spheres (150–400 nm diameter)
       stack in regular three-dimensional arrays and diffract visible light; larger spheres
       produce red, smaller spheres produce blue and violet. {cite:zhao-bai-2020} Australia
       supplies over 90% of precious opal; Lightning Ridge, New South Wales, produces black
-      opal — the most valuable type — where a dark body tone maximises colour display. A fine
+      opal (the most valuable type), where a dark body tone maximises colour display. A fine
       Lightning Ridge black opal with harlequin pattern (large angular mosaic patches) can sell
       for hundreds of thousands of dollars. Ethiopian Welo opal is often hydrophane (absorbs
       water, becomes transparent when wet), requires care in testing, and trades below
@@ -87,7 +87,7 @@ sections:
 
   - title: Play of Colour
     content: |
-      Play of colour is opal's defining phenomenon—flashing spectral colours
+      Play of colour is opal's defining phenomenon: flashing spectral colours
       that shift as the stone moves.
     subsections:
       - title: Cause
@@ -166,7 +166,7 @@ sections:
       type: info
       title: Most Prized Pattern
       text: |
-        Harlequin pattern—angular, mosaic-like patches of colour—is the most
+        Harlequin pattern (angular, mosaic-like patches of colour) is the most
         valuable opal pattern. {cite:read-3rd} A true harlequin black opal can command
         extraordinary prices, with exceptional examples selling for hundreds
         of thousands of dollars.
@@ -193,7 +193,7 @@ sections:
       type: warning
       title: Hydrophane Behaviour
       text: |
-        Ethiopian opal is often hydrophane—it absorbs water, becoming more
+        Ethiopian opal is often hydrophane: it absorbs water, becoming more
         transparent when wet and returning to original appearance when dry. {cite:zhao-bai-2020}
 
         Concerns include:

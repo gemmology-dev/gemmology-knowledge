@@ -56,7 +56,7 @@ sections:
   - title: Introduction
     content: |
       Colour-change gems display a different dominant hue depending on the spectral
-      composition of the illuminant — most famously shifting between daylight and
+      composition of the illuminant, most famously shifting between daylight and
       incandescent light. The benchmark example is alexandrite (colour-change
       chrysoberyl), described as "emerald by day, ruby by night": it appears green
       to teal under daylight or fluorescent light (~6500 K) and red to purplish-red
@@ -69,7 +69,7 @@ sections:
       source in those two regions. In alexandrite this is caused by Cr³⁺ in the
       chrysoberyl crystal field; in colour-change garnets (pyrope-spessartine
       composition) it involves both Cr³⁺ and V³⁺. {cite:qiu-guo-2021-colour-change-garnet}
-      The degree of change — from weak (<50%) to complete (100%) — is the primary
+      The degree of change, from weak (<50%) to complete (100%), is the primary
       quality criterion. {cite:schumann-2009-gemstones}
 
   - title: Mechanism
@@ -92,7 +92,7 @@ sections:
 
   - title: Alexandrite
     content: |
-      Alexandrite is colour-change chrysoberyl—the most famous and valuable
+      Alexandrite is colour-change chrysoberyl, the most famous and valuable
       colour-change gem.
     subsections:
       - title: The Colour Change

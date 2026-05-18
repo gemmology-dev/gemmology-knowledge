@@ -208,7 +208,7 @@ sections:
       Corundum is aluminium oxide (Al₂O₃) crystallising in the trigonal system, the second-
       hardest natural mineral at Mohs 9. As a gemstone it appears in two named forms: red
       corundum is ruby, all other colours are sapphire. RI is 1.762–1.770 with birefringence
-      0.008 — easy to read on a standard refractometer and diagnostic against same-colour
+      0.008, easy to read on a standard refractometer and diagnostic against same-colour
       spinel (singly refractive, RI 1.712–1.720). SG is 3.99–4.01, distinctly heavier than
       spinel (3.58–3.61). Chromium (Cr³⁺) drives ruby's red colour and strong red fluorescence
       under long-wave UV; iron and titanium charge transfer produces blue sapphire. {cite:fritsch-rossman-1987}
@@ -251,7 +251,7 @@ sections:
       - title: Colour and Chromophores
         content: |
           - **Colour cause**: Chromium (Cr³⁺) substituting for aluminium {cite:fritsch-rossman-1987}
-          - **Ideal colour**: "Pigeon blood" — vivid red with slight blue modifier
+          - **Ideal colour**: "Pigeon blood": vivid red with slight blue modifier
           - **Range**: Pinkish-red to purplish-red to orangey-red
           - **Fluorescence**: Strong red under UV (due to Cr)
 

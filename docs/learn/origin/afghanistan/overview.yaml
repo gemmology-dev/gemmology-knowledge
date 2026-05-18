@@ -1,5 +1,5 @@
-title: Afghanistan — Gem Origins Overview
-description: Hindu Kush gem province — lapis lazuli (Sar-e-Sang), Panjshir emerald, Nuristan kunzite; multiple geological settings; conflict and artisanal mining context.
+title: "Afghanistan: Gem Origins Overview"
+description: "Hindu Kush gem province: lapis lazuli (Sar-e-Sang), Panjshir emerald, Nuristan kunzite; multiple geological settings; conflict and artisanal mining context."
 order: 1
 category: origin
 subcategory: afghanistan
@@ -28,16 +28,16 @@ sections:
       ranges and hosts some of the world's most historically significant gem deposits.
       Four distinct geological settings yield different gem types: the Sar-e-Sang contact-
       metasomatic marble in Badakhshan has supplied lapis lazuli for more than 7,000 years
-      — the canonical ancient-world source confirmed by Lo Giudice et al. (2016) as the
-      origin of lapis in Egyptian pharaonic artefacts; the Panjshir Valley hosts
+      (the canonical ancient-world source confirmed by Lo Giudice et al. (2016) as the
+      origin of lapis in Egyptian pharaonic artefacts); the Panjshir Valley hosts
       hydrothermally deposited emerald in black shales without associated igneous rocks;
       marble-hosted corundum at Jagdalak (Kabul Province) represents a marble-ruby
       occurrence within the broader Asian marble belt; and LCT granitic pegmatites of
       Nuristan and Kunar provinces yield large, saturated kunzite crystals, tourmaline,
       aquamarine, and rubellite.
 
-      Four decades of armed conflict — Soviet invasion (1979), civil war (1992–1996),
-      Taliban era (1996–2001), and post-2001 insurgency — severely disrupted the gem
+      Four decades of armed conflict (Soviet invasion 1979, civil war 1992–1996,
+      Taliban era 1996–2001, and post-2001 insurgency) severely disrupted the gem
       sector, though artisanal mining persisted throughout. Chain-of-custody documentation
       is recommended for high-value Afghan gems. {cite:shigley-2010-gem-localities}{cite:giuliani-2015-marble-ruby}
 
@@ -50,7 +50,7 @@ sections:
       rows:
         - ["Sar-e-Sang, Badakhshan", "Contact-metasomatic marble (ancient plutonic belt)", "Lapis lazuli"]
         - ["Panjshir Valley", "Hydrothermal veins in black shales/phyllites", "Emerald"]
-        - ["Jagdalak, Kabul Province", "Marble-hosted corundum", "Ruby [CITATION NEEDED — see note]"]
+        - ["Jagdalak, Kabul Province", "Marble-hosted corundum", "Ruby [CITATION NEEDED; see note]"]
         - ["Nuristan / Kunar", "LCT granite pegmatites", "Kunzite, tourmaline, aquamarine"]
 
   - title: Mining Under Conflict
@@ -67,7 +67,7 @@ sections:
         fragmented. International gem laboratories increasingly receive Afghan-origin
         material for origin certification, requiring careful chain-of-custody documentation.
 
-  - title: Nuristan — Kunzite and Pegmatite Gems
+  - title: "Nuristan: Kunzite and Pegmatite Gems"
     content: |
       Nuristan Province and adjacent Kunar Province host one of the world's finest
       sources of gem kunzite (pink-lilac spodumene, LiAlSi₂O₆, Mn-coloured) in
@@ -76,13 +76,13 @@ sections:
       - Green tourmaline (elbaite)
       - Aquamarine (blue-green beryl)
       - Rubellite (red tourmaline)
-      - Hiddenite (green spodumene — rare)
+      - Hiddenite (green spodumene; rare)
 
       Afghan kunzite crystals are among the largest and most saturated in the trade.
       No dedicated origin-determination paper for Nuristan kunzite specifically was
       retrieved; this material is identified by physical properties and geological provenance.
 
-  - title: Jagdalak Ruby — Citation Note
+  - title: "Jagdalak Ruby: Citation Note"
     callout:
       type: warning
       title: CITATION NEEDED

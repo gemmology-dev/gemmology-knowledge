@@ -47,12 +47,12 @@ sections:
           - Cenozoic intraplate alkali basalt field; same Southeast Asian province as
             Chanthaburi-Trat (Thailand) and Ratanakiri (also Cambodia, for zircon)
           - Corundum transported to surface in basalt; concentrated in alluvial placers
-          - High-Fe, low-Cr geochemical environment — same signature as Thai basaltic material
+          - High-Fe, low-Cr geochemical environment; same signature as Thai basaltic material
           - Adjacent to Bo Rai (Thailand); material from both sides historically mixed
 
       - title: Battambang — Marble-Hosted Ruby
         content: |
-          - Small-scale occurrence of marble-hosted ruby — geologically analogous to
+          - Small-scale occurrence of marble-hosted ruby, geologically analogous to
             Mogok and Vietnam marble-type deposits {cite:giuliani-2015-fluid-inclusions}
           - Low-Fe environment; strong fluorescence expected
           - Much smaller production volume than Pailin
@@ -84,7 +84,7 @@ sections:
 
       - title: Chemistry and Spectroscopy
         content: |
-          - **High Fe**: Basaltic geochemical profile — >600 ppm Fe typical {cite:palke-2019-sapphire-origin}{cite:keller-1982-chanthaburi}
+          - **High Fe**: Basaltic geochemical profile; >600 ppm Fe typical {cite:palke-2019-sapphire-origin}{cite:keller-1982-chanthaburi}
           - **Strong 450/460/470 nm triplet**: Fe-related absorption in UV-Vis spectra,
             similar to Thai material
           - **LWUV fluorescence**: Weak; iron quenches chromium signal
@@ -93,7 +93,7 @@ sections:
       - title: Inclusions
         content: |
           - Basalt-suite minerals: zircon (with halos), feldspar, iron oxides (ilmenite)
-          - Consistent with basaltic parentage — same mineral family as Thai material
+          - Consistent with basaltic parentage; same mineral family as Thai material
           - No marble-hosted inclusions (no calcite, apatite, sphene)
 
   - title: Pailin vs Thai Distinction
@@ -116,7 +116,7 @@ sections:
       text: |
         The Battambang marble-hosted ruby occurrence is geologically anomalous in a
         province dominated by basaltic deposits. {cite:giuliani-2015-fluid-inclusions} Marble-hosted ruby
-        characteristics (low Fe, strong fluorescence, calcite inclusions) apply —
+        characteristics (low Fe, strong fluorescence, calcite inclusions) apply,
         similar in principle to Vietnamese marble ruby from Luc Yen, though at much
         smaller production scale.
 

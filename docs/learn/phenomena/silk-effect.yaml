@@ -1,5 +1,5 @@
 title: Silk Effect
-description: The silk effect in Kashmir sapphire and Burmese ruby — velvety appearance from rutile-needle clouds, mechanism, distinction from asterism, and diagnostic significance for origin and heat-treatment detection.
+description: "The silk effect in Kashmir sapphire and Burmese ruby: velvety appearance from rutile-needle clouds, mechanism, distinction from asterism, and diagnostic significance for origin and heat-treatment detection."
 order: 11
 category: phenomena
 difficulty: intermediate
@@ -20,17 +20,17 @@ sections:
   - title: Definition
     content: |
       The silk effect is the soft, velvety diffuse glow visible in the body of fine Kashmir sapphires
-      and some Burmese rubies. It is caused by dense clouds of fine rutile (TiO₂) needles —
-      typically less than 5 µm long and under 1 µm in diameter — scattering incident light
+      and some Burmese rubies. It is caused by dense clouds of fine rutile (TiO₂) needles,
+      typically less than 5 µm long and under 1 µm in diameter, scattering incident light
       internally, giving the stone an appearance likened to crushed velvet or a "sleepy" quality.
       Preferential scattering of shorter wavelengths by sub-micron particles imparts a cool hazy
       blue depth; Hänni (1990) identified this "veil-like" inclusion cloud as diagnostic for
-      unheated Kashmir sapphire — absent or disrupted in heated material.
+      unheated Kashmir sapphire, absent or disrupted in heated material.
 
       Silk is entirely distinct from asterism: asterism requires long, perfectly oriented needles
       that concentrate light into a star; silk involves shorter, less-oriented needles at higher
       density, producing body haziness rather than a localised star. Heating above ~1200 °C
-      dissolves the rutile back into the corundum lattice — its absence is therefore a primary
+      dissolves the rutile back into the corundum lattice; its absence is therefore a primary
       microscopic indicator of heat treatment and a key element in laboratory origin determination.
 
   - title: Mechanism
@@ -51,7 +51,7 @@ sections:
           preferentially. This diffuses light throughout the stone and reduces the windowing effect
           that makes some sapphires appear dark from certain angles.
 
-          The result is the characteristic cool, hazy blue body appearance of Kashmir sapphire —
+          The result is the characteristic cool, hazy blue body appearance of Kashmir sapphire;
           the stone appears illuminated from within.
 
           Note: The Rayleigh/Mie scattering assignment is consistent with standard optics for
@@ -64,7 +64,7 @@ sections:
           Heating above approximately 1200 °C dissolves the rutile needles back into the corundum
           lattice. Loss of silk is therefore one of the primary microscopic indicators of heat
           treatment in sapphire. Hänni (1990) documented that the characteristic veil-like inclusions
-          of Kashmir sapphire — which produce its "sleepy or velvety appearance" — are absent or
+          of Kashmir sapphire, which produce its "sleepy or velvety appearance," are absent or
           disrupted in heated material.
 
   - title: Named Species
@@ -108,8 +108,8 @@ sections:
 
       - title: Heat Treatment Indicator
         content: |
-          Absence of silk in a sapphire or ruby that would be expected to carry it — particularly
-          Kashmir and Mogok material — is strong evidence of heat treatment. Labs also look for
+          Absence of silk in a sapphire or ruby that would be expected to carry it, particularly
+          Kashmir and Mogok material, is strong evidence of heat treatment. Labs also look for
           healed fingerprints and absence of needles in stones whose other properties (colour zone,
           SG, RI) suggest a high-quality natural origin.
 
@@ -126,10 +126,10 @@ sections:
   - title: Sources
     items:
       - name: Hänni (1990)
-        description: "A contribution to the distinguishing characteristics of sapphire from Kashmir. The Journal of Gemmology 22(2), 67–75. DOI: 10.15506/jog.1990.22.2.67. [VERIFIED] — Primary peer-reviewed reference for Kashmir silk inclusions and velvety appearance."
+        description: "A contribution to the distinguishing characteristics of sapphire from Kashmir. The Journal of Gemmology 22(2), 67–75. DOI: 10.15506/jog.1990.22.2.67. [VERIFIED] Primary peer-reviewed reference for Kashmir silk inclusions and velvety appearance."
       - name: Keller (1983)
-        description: "The Rubies of Burma: A Review of the Mogok Stone Tract. Gems & Gemology 19(4), 209–219. DOI: 10.5741/gems.19.4.209. [VERIFIED] — Documents inclusion types including silk in Mogok ruby."
+        description: "The Rubies of Burma: A Review of the Mogok Stone Tract. Gems & Gemology 19(4), 209–219. DOI: 10.5741/gems.19.4.209. [VERIFIED] Documents inclusion types including silk in Mogok ruby."
       - name: Nassau (2001)
-        description: "The Physics and Chemistry of Color (2nd ed.). Wiley-Interscience. ISBN: 978-0-471-39106-7. [✓] — Mie/Rayleigh scattering by sub-micron particles; conceptual support for the silk scattering mechanism. [PARTIALLY_SUPPORTED — no dedicated peer-reviewed paper on this specific mechanism in Kashmir silk was retrieved]"
+        description: "The Physics and Chemistry of Color (2nd ed.). Wiley-Interscience. ISBN: 978-0-471-39106-7. [✓] Mie/Rayleigh scattering by sub-micron particles; conceptual support for the silk scattering mechanism. [PARTIALLY_SUPPORTED; no dedicated peer-reviewed paper on this specific mechanism in Kashmir silk was retrieved]"
       - name: Read (2014)
-        description: "Gemmology (3rd ed.). Butterworth-Heinemann/Routledge. DOI: 10.4324/9780080507224. [APPROXIMATE] — Chapter 'Colour, Lustre and Sheen'; silk terminology and heat treatment effects."
+        description: "Gemmology (3rd ed.). Butterworth-Heinemann/Routledge. DOI: 10.4324/9780080507224. [APPROXIMATE] Chapter 'Colour, Lustre and Sheen'; silk terminology and heat treatment effects."

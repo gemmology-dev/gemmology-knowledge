@@ -51,7 +51,7 @@ references:
 sections:
   - title: Introduction
     content: |
-      Dedicated screening instruments are essential for diamond because its refractive index
+      Dedicated screening instruments are required for diamond because its refractive index
       (2.417) and specific gravity (3.52) exceed the upper limits of standard gemmological
       tools and cannot be confirmed by refractometer alone. Four instrument types address this
       gap: thermal conductivity probes, combined thermal-plus-electrical conductivity testers,
@@ -61,9 +61,9 @@ sections:
       Thermal probes exploit diamond's exceptional thermal conductivity of 2000–2200 W·m⁻¹·K⁻¹,
       the highest of any natural substance, to give a positive result in under two seconds.
       However, synthetic moissanite (SiC, ~490 W·m⁻¹·K⁻¹) also triggers most thermal probes,
-      making an electrical conductivity overlay essential: moissanite is a semiconductor whereas
+      so an electrical conductivity overlay is required: moissanite is a semiconductor whereas
       most natural diamonds are insulators. {cite:henn-2021-moissanite} None of these instruments
-      can distinguish natural from synthetic diamond — HPHT and CVD synthetic diamonds test
+      can distinguish natural from synthetic diamond; HPHT and CVD synthetic diamonds test
       positive on all probe testers. Laboratory referral (DiamondView or PL at 77 K) is required
       for high-value or suspect stones.
 
