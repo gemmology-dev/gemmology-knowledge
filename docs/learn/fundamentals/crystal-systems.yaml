@@ -78,7 +78,7 @@ sections:
         description: 2-fold, 3-fold, 4-fold, 6-fold rotational symmetry
       - name: Mirror Planes
         description: Reflection symmetry planes
-      - name: Center of Symmetry
+      - name: Centre of Symmetry
         description: Inversion through a point
 
   - title: The Seven Systems
