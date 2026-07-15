@@ -1,170 +1,608 @@
 title: Gem Care and Durability
-description: Gemstone stability, cleaning methods, setting recommendations, storage guidelines, and jewellery suitability for different gem species.
+description: Gemstone stability, cleaning methods, treatment-specific care, storage guidelines, and jewellery suitability for different gem species, referenced against GIA consumer guidance and peer-reviewed gemmological research.
 order: 11
 category: care
 difficulty: beginner
 icon: shield
 
 references:
-  - id: read-3rd
+  # GIA "Care and Cleaning" consumer-education pages
+  - id: gia-diamond-care-cleaning
+    kind: web
+    title: "Diamond Care and Cleaning Guide"
+    publisher: "Gemological Institute of America (GIA)"
+    url: "https://www.gia.edu/diamond-care-cleaning"
+    accessed: "2026-07-15"
+
+  - id: gia-ruby-care-cleaning
+    kind: web
+    title: "Ruby Care and Cleaning Guide"
+    publisher: "Gemological Institute of America (GIA)"
+    url: "https://www.gia.edu/ruby-care-cleaning"
+    accessed: "2026-07-15"
+
+  - id: gia-sapphire-care-cleaning
+    kind: web
+    title: "Sapphire Care and Cleaning Guide"
+    publisher: "Gemological Institute of America (GIA)"
+    url: "https://www.gia.edu/sapphire-care-cleaning"
+    accessed: "2026-07-15"
+
+  - id: gia-emerald-care-cleaning
+    kind: web
+    title: "Emerald Care and Cleaning Guide"
+    publisher: "Gemological Institute of America (GIA)"
+    url: "https://www.gia.edu/emerald-care-cleaning"
+    accessed: "2026-07-15"
+
+  - id: gia-aquamarine-care-cleaning
+    kind: web
+    title: "Aquamarine Care and Cleaning Guide"
+    publisher: "Gemological Institute of America (GIA)"
+    url: "https://www.gia.edu/aquamarine-care-cleaning"
+    accessed: "2026-07-15"
+
+  - id: gia-tanzanite-care-cleaning
+    kind: web
+    title: "Tanzanite Care and Cleaning Guide"
+    publisher: "Gemological Institute of America (GIA)"
+    url: "https://www.gia.edu/tanzanite-care-cleaning"
+    accessed: "2026-07-15"
+
+  - id: gia-tourmaline-care-cleaning
+    kind: web
+    title: "Tourmaline Care and Cleaning Guide"
+    publisher: "Gemological Institute of America (GIA)"
+    url: "https://www.gia.edu/tourmaline-care-cleaning"
+    accessed: "2026-07-15"
+
+  - id: gia-opal-care-cleaning
+    kind: web
+    title: "Opal Care and Cleaning Guide"
+    publisher: "Gemological Institute of America (GIA)"
+    url: "https://www.gia.edu/opal-care-cleaning"
+    accessed: "2026-07-15"
+
+  - id: gia-pearl-care-cleaning
+    kind: web
+    title: "Pearl Care and Cleaning Guide"
+    publisher: "Gemological Institute of America (GIA)"
+    url: "https://www.gia.edu/pearl-care-cleaning"
+    accessed: "2026-07-15"
+
+  - id: gia-turquoise-care-cleaning
+    kind: web
+    title: "Turquoise Care and Cleaning Guide"
+    publisher: "Gemological Institute of America (GIA)"
+    url: "https://www.gia.edu/turquoise-care-cleaning"
+    accessed: "2026-07-15"
+
+  - id: gia-peridot-care-cleaning
+    kind: web
+    title: "Peridot Care and Cleaning Guide"
+    publisher: "Gemological Institute of America (GIA)"
+    url: "https://www.gia.edu/peridot-care-cleaning"
+    accessed: "2026-07-15"
+
+  - id: gia-topaz-care-cleaning
+    kind: web
+    title: "Topaz Care and Cleaning Guide"
+    publisher: "Gemological Institute of America (GIA)"
+    url: "https://www.gia.edu/topaz-care-cleaning"
+    accessed: "2026-07-15"
+
+  - id: gia-garnet-care-cleaning
+    kind: web
+    title: "Garnet Care and Cleaning Guide"
+    publisher: "Gemological Institute of America (GIA)"
+    url: "https://www.gia.edu/garnet-care-cleaning"
+    accessed: "2026-07-15"
+
+  - id: gia-amethyst-care-cleaning
+    kind: web
+    title: "Amethyst Care and Cleaning Guide"
+    publisher: "Gemological Institute of America (GIA)"
+    url: "https://www.gia.edu/amethyst-care-cleaning"
+    accessed: "2026-07-15"
+
+  - id: gia-spinel-care-cleaning
+    kind: web
+    title: "Spinel Care and Cleaning Guide"
+    publisher: "Gemological Institute of America (GIA)"
+    url: "https://www.gia.edu/spinel-care-cleaning"
+    accessed: "2026-07-15"
+
+  - id: gia-kunzite-care-cleaning
+    kind: web
+    title: "Kunzite Care and Cleaning"
+    publisher: "Gemological Institute of America (GIA)"
+    url: "https://www.gia.edu/kunzite-care-cleaning"
+    accessed: "2026-07-15"
+
+  - id: gia-amber-care-cleaning
+    kind: web
+    title: "Amber Care and Cleaning Guide"
+    publisher: "Gemological Institute of America (GIA)"
+    url: "https://www.gia.edu/amber-care-cleaning"
+    accessed: "2026-07-15"
+
+  - id: gia-lapis-lazuli-care-cleaning
+    kind: web
+    title: "Lapis Lazuli Care and Cleaning"
+    publisher: "Gemological Institute of America (GIA)"
+    url: "https://www.gia.edu/lapis-lazuli-care-cleaning"
+    accessed: "2026-07-15"
+
+  # Hardness, toughness and cleavage
+  - id: read-2012-gemmology
     kind: book
-    authors:
-      - family: Read
-        given: P.
+    authors: [{family: Read, given: "Peter"}]
     title: "Gemmology"
-    edition: 3rd
-    publisher: Butterworth-Heinemann
+    edition: "3rd"
+    publisher: "Routledge"
     year: 2012
-    isbn: "9780750664493"
+    isbn: "9781136000102"
     doi: "10.4324/9780080507224"
+
+  - id: read-2012-hardness-chapter
+    kind: book
+    authors: [{family: Read, given: "Peter G."}]
+    title: "Hardness"
+    edition: "3rd"
+    publisher: "Gemmology, Routledge"
+    pages: "59-64"
+    year: 2012
+    doi: "10.4324/9780080507224-11"
+
+  - id: read-2012-cleavage-chapter
+    kind: book
+    authors: [{family: Read, given: "Peter G."}]
+    title: "Cleavage, Parting and Fracture"
+    edition: "3rd"
+    publisher: "Gemmology, Routledge"
+    pages: "54-58"
+    year: 2012
+    doi: "10.4324/9780080507224-10"
+
+  - id: manutchehr-danai-cleavage-of-fluorite
+    kind: book
+    authors: [{family: "Manutchehr-Danai", given: "Mohsen"}]
+    title: "Cleavage of Fluorite"
+    publisher: "Dictionary of Gems and Gemology, Springer Berlin Heidelberg"
+    pages: "175"
+    year: 2009
+    doi: "10.1007/978-3-540-72816-0_4536"
+
+  - id: manutchehr-danai-feldspar-moonstone
+    kind: book
+    authors: [{family: "Manutchehr-Danai", given: "Mohsen"}]
+    title: "Feldspar, Moonstone"
+    publisher: "Dictionary of Gems and Gemology, Springer Berlin Heidelberg"
+    pages: "335"
+    year: 2009
+    doi: "10.1007/978-3-540-72816-0_8175"
+
+  - id: tabor-1954-mohs-hardness
+    kind: journal
+    authors: [{family: Tabor, given: "D."}]
+    title: "Mohs's Hardness Scale - A Physical Interpretation"
+    journal: "Proceedings of the Physical Society. Section B"
+    volume: "67"
+    issue: "3"
+    pages: "249-257"
+    year: 1954
+    doi: "10.1088/0370-1301/67/3/310"
+
+  - id: martin-1987-gemstone-durability
+    kind: journal
+    authors: [{family: Martin, given: "Deborah Dupont"}]
+    title: "Gemstone Durability: Design to Display"
+    journal: "Gems & Gemology"
+    volume: "23"
+    issue: "2"
+    pages: "63-77"
+    year: 1987
+    doi: "10.5741/gems.23.2.63"
+
+  - id: tarling-smith-2024-amphibole-jade
+    kind: journal
+    authors: [{family: Tarling, given: "Matthew S."}, {family: Smith, given: "Steven A. F."}]
+    title: "Amphibole interlocking into jade"
+    journal: "Nature Geoscience"
+    volume: "17"
+    issue: "2"
+    pages: "109"
+    year: 2024
+    doi: "10.1038/s41561-024-01373-w"
+
+  - id: reller-1993-jade
+    kind: journal
+    authors: [{family: Reller, given: "A."}, {family: Wilde, given: "P. M."}, {family: Wiedemann, given: "H. G."}]
+    title: "Thermal reactivity of jadeite and nephrite"
+    journal: "Journal of Thermal Analysis"
+    volume: "40"
+    issue: "1"
+    pages: "99-105"
+    year: 1993
+    doi: "10.1007/bf02546559"
+
+  - id: webster-1963-worn-edges-diamonds
+    kind: journal
+    authors: [{family: Webster, given: "R."}]
+    title: "Worn Edges on Diamonds"
+    journal: "The Journal of Gemmology"
+    volume: "9"
+    issue: "1"
+    pages: "7-8"
+    year: 1963
+    doi: "10.15506/jog.1963.9.1.7"
+
+  # Cleaning mechanisms and filled-stone durability
+  - id: chahine-2016-cavitation-bubble-collapse
+    kind: journal
+    authors: [{family: Chahine, given: "Georges L."}, {family: Kapahi, given: "Anil"}, {family: Choi, given: "Jin-Keun"}, {family: Hsiao, given: "Chao-Tsung"}]
+    title: "Modeling of surface cleaning by cavitation bubble dynamics and collapse"
+    journal: "Ultrasonics Sonochemistry"
+    volume: "29"
+    pages: "528-549"
+    year: 2016
+    doi: "10.1016/j.ultsonch.2015.04.026"
+
+  - id: mason-1999-ultrasonic
+    kind: book
+    authors: [{family: Mason, given: "Timothy J."}]
+    title: "The Ultrasonic Cleaning Bath"
+    publisher: "Sonochemistry, Oxford University Press"
+    year: 1999
+    doi: "10.1093/hesc/9780198503712.003.0002"
 
   - id: kammerling-1991
     kind: journal
-    authors:
-      - family: Kammerling
-        given: R.C.
-      - family: Koivula
-        given: J.I.
-      - family: Kane
-        given: R.E.
-      - family: Maddison
-        given: E.H.
-      - family: Shigley
-        given: J.E.
-      - family: Fritsch
-        given: E.
+    authors: [{family: Kammerling, given: "Robert C."}, {family: Koivula, given: "John I."}, {family: Kane, given: "Robert E."}, {family: Maddison, given: "Patricia"}, {family: Shigley, given: "James E."}, {family: Fritsch, given: "Emmanuel"}]
     title: "Fracture Filling of Emeralds: Opticon and Traditional \"Oils\""
     journal: "Gems & Gemology"
-    volume: 27
-    issue: 2
-    pages: "70–85"
+    volume: "27"
+    issue: "2"
+    pages: "70-85"
     year: 1991
     doi: "10.5741/gems.27.2.70"
 
-  - id: nassau-1994-emerald
+  - id: kammerling-1994
     kind: journal
-    authors:
-      - family: Nassau
-        given: K.
-    title: "More on the antiquity of emerald oiling"
-    journal: "The Journal of Gemmology"
-    volume: 24
-    issue: 2
-    pages: "109–115"
-    year: 1994
-    doi: "10.15506/jog.1994.24.2.109"
-
-  - id: johnson-1999-emerald
-    kind: journal
-    authors:
-      - family: Johnson
-        given: M.L.
-      - family: Elen
-        given: S.
-      - family: Muhlmeister
-        given: S.
-    title: "On the Identification of Various Emerald Filling Substances"
+    authors: [{family: Kammerling, given: "Robert C."}, {family: McClure, given: "Shane F."}, {family: Johnson, given: "Mary L."}, {family: Koivula, given: "John I."}, {family: Moses, given: "Thomas M."}, {family: Fritsch, given: "Emmanuel"}, {family: Shigley, given: "James E."}]
+    title: "An Update on Filled Diamonds: Identification and Durability"
     journal: "Gems & Gemology"
-    volume: 35
-    issue: 2
-    pages: "82–107"
-    year: 1999
-    doi: "10.5741/gems.35.2.82"
+    volume: "30"
+    issue: "3"
+    pages: "142-177"
+    year: 1994
+    doi: "10.5741/gems.30.3.142"
 
-  - id: nassau-1987-sapphire
+  - id: mcclure-2006-lead-glass-ruby
     kind: journal
-    authors:
-      - family: Nassau
-        given: K.
-      - family: Valente
-        given: G.K.
+    authors: [{family: McClure, given: "Shane F."}, {family: Smith, given: "Christopher P."}, {family: Wang, given: "Wuyi"}, {family: Hall, given: "Matthew"}]
+    title: "Identification and Durability of Lead Glass-Filled Rubies"
+    journal: "Gems & Gemology"
+    volume: "42"
+    issue: "1"
+    pages: "22-36"
+    year: 2006
+    doi: "10.5741/gems.42.1.22"
+
+  # Light and heat sensitivity
+  - id: claffy-1953-spodumene-tenebrescence
+    kind: journal
+    authors: [{family: Claffy, given: "Esther W."}]
+    title: "Composition, tenebrescence and luminescence of spodumene minerals"
+    journal: "American Mineralogist"
+    volume: "38"
+    pages: "919-931"
+    year: 1953
+    url: "https://pubs.geoscienceworld.org/msa/ammin/article-abstract/38/11-12/919/539312/"
+    accessed: "2026-07-15"
+
+  - id: schmitz-lehmann-1975-mn-color-centers-spodumene
+    kind: journal
+    authors: [{family: Schmitz, given: "Bernhard"}, {family: Lehmann, given: "G."}]
+    title: "Color centers of manganese in natural spodumene LiAlSi2O6"
+    journal: "Berichte der Bunsengesellschaft für physikalische Chemie"
+    volume: "79"
+    issue: "11"
+    pages: "1044-1049"
+    year: 1975
+    doi: "10.1002/bbpc.19750791125"
+
+  - id: nassau-valente-1987-yellow-sapphire
+    kind: journal
+    authors: [{family: Nassau, given: "Kurt"}, {family: Valente, given: "G. Kay"}]
     title: "The Seven Types of Yellow Sapphire and their Stability to Light"
     journal: "Gems & Gemology"
-    volume: 23
-    issue: 4
-    pages: "222–231"
+    volume: "23"
+    issue: "4"
+    pages: "222-231"
     year: 1987
     doi: "10.5741/gems.23.4.222"
 
   - id: nassau-1981-amethyst
     kind: journal
-    authors:
-      - family: Nassau
-        given: K.
+    authors: [{family: Nassau, given: "Kurt"}]
     title: "Artificially Induced Color in Amethyst-Citrine Quartz"
     journal: "Gems & Gemology"
-    volume: 17
-    issue: 1
-    pages: "37–44"
+    volume: "17"
+    issue: "1"
+    pages: "37-39"
     year: 1981
     doi: "10.5741/gems.17.1.37"
 
-  - id: banerjee-1999-opal
+  - id: cheng-guo-2020-amethyst-heat-treatment
     kind: journal
-    authors:
-      - family: Banerjee
-        given: A.
-      - family: Wenzel
-        given: T.
-    title: "Black opal from Honduras"
-    journal: "European Journal of Mineralogy"
-    volume: 11
-    issue: 2
-    pages: "401–408"
-    year: 1999
-    doi: "10.1127/ejm/11/2/0401"
+    authors: [{family: Cheng, given: "Renping"}, {family: Guo, given: "Ying"}]
+    title: "Study on the effect of heat treatment on amethyst color and the cause of coloration"
+    journal: "Scientific Reports"
+    volume: "10"
+    issue: "1"
+    year: 2020
+    doi: "10.1038/s41598-020-71786-1"
 
-  - id: herrmann-2022-crazing
+  - id: nassau-1985-altering-color-topaz
     kind: journal
-    authors:
-      - family: Herrmann
-        given: J.
-    title: "On the Origin of 'Crazing' (Cracking) in Opal"
-    journal: "SSRN Electronic Journal"
-    year: 2022
-    doi: "10.2139/ssrn.4241788"
+    authors: [{family: Nassau, given: "Kurt"}]
+    title: "Altering the Color of Topaz"
+    journal: "Gems & Gemology"
+    volume: "21"
+    issue: "1"
+    pages: "26-34"
+    year: 1985
+    doi: "10.5741/gems.21.1.26"
+
+  - id: kammerling-koivula-1989-topaz-inclusions
+    kind: journal
+    authors: [{family: Kammerling, given: "Robert C."}, {family: Koivula, given: "John I."}]
+    title: "Thermal Alteration of Inclusions in \"Rutilated\" Topaz"
+    journal: "Gems & Gemology"
+    volume: "25"
+    issue: "3"
+    pages: "165-167"
+    year: 1989
+    doi: "10.5741/gems.25.3.165"
+
+  - id: nassau-wood-1973-maxixe-beryl
+    kind: journal
+    authors: [{family: Nassau, given: "K."}, {family: Wood, given: "D. L."}]
+    title: "Examination of Maxixe-Type Blue and Green Beryl"
+    journal: "The Journal of Gemmology"
+    volume: "13"
+    issue: "8"
+    pages: "296-301"
+    year: 1973
+    doi: "10.15506/jog.1973.13.8.296"
+
+  - id: nassau-prescott-1981-nonfading-maxixe-beryl
+    kind: journal
+    authors: [{family: Nassau, given: "K."}, {family: Prescott, given: "B. E."}]
+    title: "Nonfading Maxixe-Type Beryl?"
+    journal: "Gems & Gemology"
+    volume: "17"
+    issue: "4"
+    pages: "217-219"
+    year: 1981
+    doi: "10.5741/gems.17.4.217"
+
+  - id: chauvire-2023-cracking-gem-opals
+    kind: journal
+    authors: [{family: "Chauviré", given: "Boris"}, {family: "Mollé", given: "Valentin"}, {family: Guichard, given: "Florine"}, {family: Rondeau, given: "Benjamin"}, {family: Thomas, given: "Paul Stephen"}, {family: Fritsch, given: "Emmanuel"}]
+    title: "Cracking of Gem Opals"
+    journal: "Minerals"
+    volume: "13"
+    issue: "3"
+    pages: "356"
+    year: 2023
+    doi: "10.3390/min13030356"
+
+  - id: pluthametwisute-2020-tanzanite-heat-treatment
+    kind: journal
+    authors: [{family: Pluthametwisute, given: "Teerarat"}, {family: Wanthanachaisaeng, given: "Bhuwadol"}, {family: Saiyasombat, given: "Chatree"}, {family: Sutthirat, given: "Chakkaphan"}]
+    title: "Cause of Color Modification in Tanzanite after Heat Treatment"
+    journal: "Molecules"
+    volume: "25"
+    issue: "16"
+    pages: "3743"
+    year: 2020
+    doi: "10.3390/molecules25163743"
+
+  - id: thongnopkun-2018-tanzanite-heat
+    kind: journal
+    authors: [{family: Thongnopkun, given: "Pimthong"}, {family: Chanwanitsakun, given: "P."}]
+    title: "Effect of heat treatment on spectroscopic properties of tanzanite"
+    journal: "Journal of Physics: Conference Series"
+    volume: "1144"
+    pages: "012183"
+    year: 2018
+    doi: "10.1088/1742-6596/1144/1/012183"
 
   - id: newton-1965-zoisite
     kind: journal
-    authors:
-      - family: Newton
-        given: R.C.
+    authors: [{family: Newton, given: "Robert C."}]
     title: "The Thermal Stability of Zoisite"
     journal: "The Journal of Geology"
-    volume: 73
-    issue: 3
+    volume: "73"
+    issue: "3"
+    pages: "431-441"
     year: 1965
     doi: "10.1086/627075"
 
-  - id: reller-1993-jade
+  # Chemicals, metals and storage
+  - id: rapson-1996-gold-alloy-corrosion
     kind: journal
-    authors:
-      - family: Reller
-        given: A.
-      - family: Wilde
-        given: W.
-      - family: Wiedemann
-        given: H.G.
-    title: "Thermal reactivity of jadeite and nephrite"
-    journal: "Journal of Thermal Analysis"
-    volume: 40
-    year: 1993
-    doi: "10.1007/bf02546559"
+    authors: [{family: Rapson, given: "W. S."}]
+    title: "Tarnish resistance, corrosion and stress corrosion cracking of gold alloys"
+    journal: "Gold Bulletin"
+    volume: "29"
+    issue: "2"
+    pages: "61-69"
+    year: 1996
+    doi: "10.1007/bf03215466"
 
-  - id: mason-1999-ultrasonic
-    kind: book
-    authors:
-      - family: Mason
-        given: T.J.
-    title: "Sonochemistry"
-    publisher: Oxford University Press
+  - id: ward-2013-gold-alloy-nacl-corrosion
+    kind: journal
+    authors: [{family: Ward, given: "L. P."}, {family: Chen, given: "D."}, {family: "O'Mullane", given: "A. P."}]
+    title: "The electrochemical corrosion behaviour of quaternary gold alloys when exposed to 3.5% NaCl solution"
+    journal: "Gold Bulletin"
+    volume: "46"
+    issue: "1"
+    pages: "35-45"
+    year: 2013
+    doi: "10.1007/s13404-012-0079-0"
+
+  - id: neumeyer-2009-gold-scc-screening
+    kind: journal
+    authors: [{family: Neumeyer, given: "B."}, {family: Hensler, given: "John"}, {family: "O'Mullane", given: "Anthony P."}, {family: Bhargava, given: "Suresh K."}]
+    title: "A facile chemical screening method for the detection of stress corrosion cracking in 9 carat gold alloys"
+    journal: "Gold Bulletin"
+    volume: "42"
+    issue: "3"
+    pages: "209-214"
+    year: 2009
+    doi: "10.1007/bf03214936"
+
+  - id: fritsch-1999-zachery-turquoise
+    kind: journal
+    authors: [{family: Fritsch, given: "Emmanuel"}, {family: McClure, given: "Shane F."}, {family: Ostrooumov, given: "Mikhail"}, {family: Andres, given: "Yves"}, {family: Moses, given: "Thomas"}, {family: Koivula, given: "John I."}, {family: Kammerling, given: "Robert C."}]
+    title: "The Identification of Zachery-Treated Turquoise"
+    journal: "Gems & Gemology"
+    volume: "35"
+    issue: "1"
+    pages: "4-16"
     year: 1999
-    doi: "10.1093/hesc/9780198503712.003.0002"
+    doi: "10.5741/gems.35.1.4"
+
+  - id: grillo-1993-coral-skeleton
+    kind: journal
+    authors: [{family: Grillo, given: "M.-C."}, {family: Goldberg, given: "W. M."}, {family: Allemand, given: "D."}]
+    title: "Skeleton and sclerite formation in the precious red coral Corallium rubrum"
+    journal: "Marine Biology"
+    volume: "117"
+    issue: "1"
+    pages: "119-128"
+    year: 1993
+    doi: "10.1007/bf00346433"
+
+  - id: perchiazzi-merlino-2006-malachite
+    kind: journal
+    authors: [{family: Perchiazzi, given: "Natale"}, {family: Merlino, given: "Stefano"}]
+    title: "The malachite-rosasite group: crystal structures of glaukosphaerite and pokrovskite"
+    journal: "European Journal of Mineralogy"
+    volume: "18"
+    issue: "6"
+    pages: "787-792"
+    year: 2006
+    doi: "10.1127/0935-1221/2006/0018-0787"
+
+  - id: halbwachs-2020-amber-solvent
+    kind: journal
+    authors: [{family: Halbwachs, given: "Hans"}]
+    title: "Detecting fungal spores and other palynomorphs in amber and copal by solvent treatment"
+    journal: "Palynology"
+    volume: "44"
+    issue: "3"
+    pages: "521-528"
+    year: 2020
+    doi: "10.1080/01916122.2019.1633436"
+
+  - id: rondeau-2010-ethiopia-opal
+    kind: journal
+    authors: [{family: Rondeau, given: "Benjamin"}, {family: Fritsch, given: "Emmanuel"}, {family: Mazzero, given: "Francesco"}, {family: Gauthier, given: "Jean-Pierre"}, {family: "Cenki-Tok", given: "Bénédicte"}, {family: Bekele, given: "Eyassu"}, {family: Gaillou, given: "Éloïse"}]
+    title: "Play-of-Color Opal from Wegel Tena, Wollo Province, Ethiopia"
+    journal: "Gems & Gemology"
+    volume: "46"
+    issue: "2"
+    pages: "90-105"
+    year: 2010
+    doi: "10.5741/gems.46.2.90"
+
+  # Treatment-specific durability studies
+  - id: johnson-2007-durability-filled-emeralds
+    kind: journal
+    authors: [{family: Johnson, given: "Mary L."}]
+    title: "Durability Testing of Filled Emeralds"
+    journal: "Gems & Gemology"
+    volume: "43"
+    issue: "2"
+    pages: "120-137"
+    year: 2007
+    doi: "10.5741/gems.43.2.120"
+
+  - id: nassau-1994-emerald
+    kind: journal
+    authors: [{family: Nassau, given: "Kurt"}]
+    title: "More on the antiquity of emerald oiling"
+    journal: "The Journal of Gemmology"
+    volume: "24"
+    issue: "2"
+    pages: "109-110"
+    year: 1994
+    doi: "10.15506/jog.1994.24.2.109"
+
+  - id: johnson-1999-emerald
+    kind: journal
+    authors: [{family: Johnson, given: "Mary L."}, {family: Elen, given: "Shane"}, {family: Muhlmeister, given: "Sam"}]
+    title: "On the Identification of Various Emerald Filling Substances"
+    journal: "Gems & Gemology"
+    volume: "35"
+    issue: "2"
+    pages: "82-107"
+    year: 1999
+    doi: "10.5741/gems.35.2.82"
+
+  - id: koivula-1989-filled-diamonds
+    kind: journal
+    authors: [{family: Koivula, given: "John I."}, {family: Kammerling, given: "Robert C."}, {family: Fritsch, given: "Emmanuel"}, {family: Fryer, given: "C. W."}, {family: Hargett, given: "David"}, {family: Kane, given: "Robert E."}]
+    title: "The Characteristics and Identification of Filled Diamonds"
+    journal: "Gems & Gemology"
+    volume: "25"
+    issue: "2"
+    pages: "68-83"
+    year: 1989
+    doi: "10.5741/gems.25.2.68"
+
+  - id: emmett-2003-beryllium-diffusion
+    kind: journal
+    authors: [{family: Emmett, given: "John L."}, {family: Scarratt, given: "Kenneth"}, {family: McClure, given: "Shane F."}, {family: Moses, given: "Thomas"}, {family: Douthit, given: "Troy R."}, {family: Hughes, given: "Richard"}, {family: Novak, given: "Steven"}, {family: Shigley, given: "James E."}, {family: Wang, given: "Wuyi"}, {family: Bordelon, given: "Owen"}, {family: Kane, given: "Robert E."}]
+    title: "Beryllium Diffusion of Ruby and Sapphire"
+    journal: "Gems & Gemology"
+    volume: "39"
+    issue: "2"
+    pages: "84-135"
+    year: 2003
+    doi: "10.5741/gems.39.2.84"
+
+  - id: mcclure-2010-gemstone-enhancement
+    kind: journal
+    authors: [{family: McClure, given: "Shane F."}, {family: Kane, given: "Robert E."}, {family: Sturman, given: "Nicholas"}]
+    title: "Gemstone Enhancement and Its Detection in the 2000s"
+    journal: "Gems & Gemology"
+    volume: "46"
+    issue: "3"
+    pages: "218-240"
+    year: 2010
+    doi: "10.5741/gems.46.3.218"
+
+  - id: mcclure-2008-coated-tanzanite
+    kind: journal
+    authors: [{family: McClure, given: "Shane F."}, {family: Shen, given: "Andy H."}]
+    title: "Coated Tanzanite"
+    journal: "Gems & Gemology"
+    volume: "44"
+    issue: "2"
+    pages: "142-147"
+    year: 2008
+    doi: "10.5741/gems.44.2.142"
 
 related:
   - fundamentals/physical-properties
   - identification/treatments
   - market/grading-valuation
+  - market/disclosure
 tags:
   - durability
   - care
@@ -172,22 +610,30 @@ tags:
   - stability
   - settings
   - jewellery
+  - treatments
 
 sections:
   - title: Introduction
     content: |
-      Gemstone durability is the practical measure of how well a gem withstands everyday
-      wear, cleaning, and storage. It encompasses three distinct factors (hardness,
-      toughness, and stability), and a gem suited to daily ring wear must score adequately
-      on all three. Hardness alone is insufficient: tanzanite reaches Mohs 6.5 yet its
-      perfect cleavage on {010} makes it highly vulnerable during setting, while jade at
-      Mohs 6–7 is among the toughest gem materials owing to its interlocking fibrous
-      microstructure. Chemical and thermal stability add a further dimension: opal contains
-      3–21 % water and can craze irreversibly on dehydration; pearls at Mohs 2.5–4.5
-      dissolve in mild acid; and the fracture-filling resin present in most emeralds
-      exudes under the heat of a jeweller's torch. Matching the correct cleaning method
-      and setting type to each species is therefore a core professional competency, not an
-      afterthought. {cite:read-3rd}
+      Gemstone durability is the practical measure of how well a gem withstands everyday wear,
+      cleaning, and storage. It rests on three distinct factors, hardness, toughness, and
+      stability, and a gem suited to daily ring wear must perform adequately on all three, not
+      just one. Hardness alone is insufficient: tanzanite reaches Mohs 6.5 yet its perfect
+      cleavage makes it highly vulnerable during setting, while nephrite jade at Mohs 6-6.5 is
+      among the toughest gem materials owing to its interlocking fibrous microstructure
+      {cite:tarling-smith-2024-amphibole-jade}. Chemical and thermal stability add a further
+      dimension: opal is an amorphous, water-bearing form of silica that can craze on drying or
+      rapid heating {cite:gia-opal-care-cleaning}, pearls at Mohs 2.5-4.5 are attacked by mild
+      acids and many household chemicals {cite:gia-pearl-care-cleaning}, and the resin or oil
+      used to fill fractures in most commercial emeralds can exude or dry out under the heat of
+      a jeweller's torch {cite:kammerling-1991}. Matching the correct cleaning method, setting,
+      and storage regime to each species is therefore a core professional competency.
+      {cite:martin-1987-gemstone-durability}{cite:read-2012-gemmology}
+
+      This guide draws on GIA consumer-education pages and peer-reviewed gemmological research
+      throughout. A small number of claims that are widely repeated in the trade but not yet
+      documented in the literature are identified as such rather than given a citation they do
+      not deserve.
 
   - title: The Three Durability Factors
     comparison:
@@ -195,30 +641,29 @@ sections:
         - title: Hardness
           points:
             - Resistance to scratching
-            - Measured on Mohs scale (1-10)
-            - Important for wear resistance
-            - Gems below 7 scratch easily
-            - Dust contains quartz (H 7)
+            - Measured on the Mohs scale (1-10)
+            - Determines everyday wear resistance
+            - Gems below 7 pick up fine surface abrasion in normal wear
         - title: Toughness
           points:
-            - Resistance to breaking/chipping
-            - Related to crystal structure
-            - Cleavage reduces toughness
-            - Jade is tougher than diamond
-            - Important for impact resistance
+            - Resistance to breaking and chipping
+            - Governed by crystal structure and cleavage
+            - Cleavage planes reduce toughness even in hard gems
+            - Jade can be tougher than diamond despite far lower hardness
         - title: Stability
           points:
-            - Resistance to chemicals/light/heat
-            - Fading from light exposure
-            - Damage from heat or acids
-            - Some gems are temperature sensitive
-            - Important for long-term care
+            - Resistance to light, heat, and chemicals
+            - Some gems fade under prolonged light exposure
+            - Some gems are damaged by heat, acids, or cosmetics
+            - Central to long-term care and storage decisions
 
   - title: Hardness Considerations
     content: |
-      The Mohs scale is ordinal, not linear – the jump from 9 to 10 is enormous. Household
-      dust contains quartz particles (H 7), so gems below 7 will gradually accumulate
-      scratches during normal wear. {cite:read-3rd}
+      The Mohs scale is ordinal, not linear: the interval between 9 and 10 (corundum to diamond)
+      represents a far larger true hardness gap than the interval between, say, 2 and 3
+      {cite:tabor-1954-mohs-hardness}{cite:read-2012-hardness-chapter}. Quartz (Mohs 7) and
+      quartz-bearing dust are common in everyday environments, so gems softer than 7 gradually
+      pick up fine surface abrasion during ordinary wear {cite:read-2012-gemmology}.
     table:
       caption: Hardness Categories for Jewellery
       headers:
@@ -228,91 +673,63 @@ sections:
         - Examples
       rows:
         - ["Excellent", "8-10", "Daily ring wear", "Diamond, ruby, sapphire, chrysoberyl"]
-        - ["Good", "7-7.5", "Everyday with care", "Quartz, tourmaline, garnet, beryl"]
+        - ["Good", "7-7.5", "Everyday with care", "Quartz varieties, tourmaline, garnet, beryl"]
         - ["Fair", "6-7", "Occasional wear; protective settings", "Peridot, tanzanite, moonstone"]
-        - ["Poor", "5-6", "Earrings/pendants; very careful ring", "Opal, turquoise, apatite"]
-        - ["Fragile", "<5", "Display or very protected wear", "Pearl, coral, amber, fluorite"]
+        - ["Poor", "5-6", "Earrings/pendants; very careful ring use", "Opal, turquoise, apatite"]
+        - ["Fragile", "<5", "Display or very protected wear", "Pearl, coral, amber"]
 
   - title: Toughness and Cleavage
     content: |
-      Cleavage – the tendency to break along crystallographic planes – significantly affects
-      toughness. Even hard gems can be brittle.
+      Cleavage, the tendency of a crystal to break cleanly along specific crystallographic
+      planes, significantly affects toughness independent of hardness
+      {cite:read-2012-cleavage-chapter}. Even very hard gems can be brittle where cleavage is
+      present.
     subsections:
       - title: High-Risk Cleavage Gems
+        content: |
+          Diamond, topaz, kunzite, and tanzanite are the four cleavage risks documented in the
+          principal gemstone-durability review used for this table
+          {cite:martin-1987-gemstone-durability}. Fluorite and moonstone cleavage are separately
+          sourced from a gemmological reference dictionary
+          {cite:manutchehr-danai-cleavage-of-fluorite}{cite:manutchehr-danai-feldspar-moonstone},
+          since the durability review does not cover either species.
         table:
           headers:
             - Gem
             - Cleavage
             - Risk
           rows:
-            - ["Diamond", "Perfect octahedral {111}", "Can cleave with sharp blow"]
-            - ["Topaz", "Perfect basal {001}", "Very prone to chipping"]
-            - ["Kunzite", "Perfect prismatic", "Extremely fragile for setting"]
-            - ["Fluorite", "Perfect octahedral {111}", "Very brittle"]
-            - ["Tanzanite", "Perfect {010}", "Easily damaged in setting"]
-            - ["Feldspar (moonstone)", "Perfect two directions", "Prone to chipping"]
+            - ["Diamond", "Perfect octahedral {111}", "Can cleave with a sharp blow {cite:martin-1987-gemstone-durability}"]
+            - ["Topaz", "Perfect basal {001}", "Very prone to chipping in prong settings {cite:martin-1987-gemstone-durability}"]
+            - ["Kunzite", "Perfect prismatic, two directions", "Extremely fragile for ring settings {cite:martin-1987-gemstone-durability}"]
+            - ["Tanzanite", "Perfect {010}", "Easily damaged during setting {cite:martin-1987-gemstone-durability}"]
+            - ["Fluorite", "Perfect octahedral {111}", "Very brittle; cleaves with light pressure {cite:manutchehr-danai-cleavage-of-fluorite}"]
+            - ["Feldspar (moonstone)", "Perfect in two directions", "Prone to chipping along cleavage {cite:manutchehr-danai-feldspar-moonstone}"]
+
+      - title: Impact Damage
+        content: |
+          Beyond cleavage, sharp impacts can chip facet edges and girdles even on tough,
+          non-cleaving gems. Worn or abraded facet edges on older cut diamonds have been
+          documented as a recognisable long-term wear pattern
+          {cite:webster-1963-worn-edges-diamonds}. Protective settings reduce this risk for
+          daily-wear rings (see Setting Recommendations below).
 
       - title: Tough Gems
         content: |
-          Some gems have exceptional toughness despite moderate hardness:
+          Some gems have exceptional toughness despite only moderate hardness:
 
-          - **Nephrite jade** (H 6-6.5): Interlocking fibrous structure
-          - **Jadeite** (H 6.5-7): Granular interlocking structure {cite:reller-1993-jade}
-          - **Chalcedony** (H 7): Microcrystalline aggregate
+          - **Nephrite jade** (Mohs 6-6.5): interlocking fibrous amphibole structure gives
+            exceptional toughness relative to its hardness {cite:tarling-smith-2024-amphibole-jade}
+          - **Jadeite** (Mohs 6.5-7): granular interlocking pyroxene structure {cite:reller-1993-jade}
+          - **Chalcedony** (Mohs 7): microcrystalline quartz aggregate
 
-          These gems resist chipping better than single-crystal gems of higher hardness.
-
-  - title: Stability Factors
-    content: |
-      Many gems are sensitive to environmental conditions that can cause fading,
-      colour change, or physical damage.
-    subsections:
-      - title: Light Sensitivity
-        table:
-          headers:
-            - Gem
-            - Risk
-            - Notes
-          rows:
-            - ["Kunzite", "High", "Fades significantly; store in dark {cite:nassau-1987-sapphire}"]
-            - ["Amethyst", "Moderate", "Can fade with prolonged exposure {cite:nassau-1981-amethyst}"]
-            - ["Rose quartz", "Low to moderate", "May fade slightly"]
-            - ["Brown topaz", "High", "Natural brown fades; irradiated stable"]
-            - ["Chrysoprase", "Moderate", "Can fade and dry out"]
-            - ["Turquoise", "Moderate", "Can fade and dehydrate"]
-
-      - title: Heat Sensitivity
-        table:
-          headers:
-            - Gem
-            - Risk
-            - Damage Type
-          rows:
-            - ["Opal", "Very high", "Crazing from dehydration"]
-            - ["Pearl", "High", "Nacre damage, peeling"]
-            - ["Emerald (oiled)", "High", "Oil can exude"]
-            - ["Tanzanite", "High", "Colour may change; cleavage risk"]
-            - ["Tourmaline", "Moderate", "Some colours may change"]
-            - ["Kunzite", "High", "Can lose colour"]
-
-      - title: Chemical Sensitivity
-        table:
-          headers:
-            - Gem
-            - Sensitive To
-            - Effect
-          rows:
-            - ["Pearl", "Acids, perfume, hairspray", "Nacre dissolution"]
-            - ["Coral", "Acids", "Surface etching"]
-            - ["Turquoise", "Oils, cosmetics", "Discolouration"]
-            - ["Malachite", "Acids", "Surface damage"]
-            - ["Lapis lazuli", "Acids", "Pyrite tarnish, surface damage"]
-            - ["Amber", "Solvents, alcohol", "Surface damage"]
+          These polycrystalline gems resist chipping better than single-crystal gems of equal or
+          even higher hardness.
 
   - title: Cleaning Methods
     content: |
-      Different gems require different cleaning approaches. Using the wrong method can
-      cause permanent damage.
+      Different gems require different cleaning approaches. Using the wrong method can cause
+      permanent damage.
     subsections:
       - title: Safe Cleaning Methods
         table:
@@ -322,32 +739,37 @@ sections:
             - Safe For
             - Never Use For
           rows:
-            - ["Warm soapy water", "Mild dish soap, soft brush", "Most gems", "Porous gems (turquoise)"]
-            - ["Ultrasonic", "Sound waves agitate cleaning solution", "Diamond, ruby, sapphire (untreated)", "Emerald, tanzanite, opal, pearl"]
-            - ["Steam", "High-pressure steam jet", "Diamond, ruby, sapphire (untreated)", "Filled gems, porous gems, soft gems"]
-            - ["Dry brush", "Soft brush, no liquid", "Porous gems", "N/A (gentle method)"]
+            - ["Warm soapy water", "Mild dish soap, soft brush", "Most gems", "Porous gems (turquoise, lapis lazuli)"]
+            - ["Ultrasonic", "Sound waves drive cavitation in the cleaning solution", "Diamond, ruby, sapphire, garnet, spinel (untreated or heated)", "Emerald, tanzanite, opal, pearl, filled or coated stones"]
+            - ["Steam", "High-pressure steam jet", "Diamond, ruby, sapphire (untreated or heated)", "Filled gems, porous gems, organic gems, heat-sensitive gems"]
+            - ["Dry brush or soft cloth", "No liquid", "Porous and organic gems", "N/A (gentle method)"]
 
       - title: Ultrasonic Cleaning Safety
         content: |
-          Ultrasonic cleaners use high-frequency sound waves to agitate a cleaning solution,
-          but this same cavitation energy can cause damage to: {cite:mason-1999-ultrasonic}
+          Ultrasonic cleaners use high-frequency sound waves to drive cavitation, the rapid
+          formation and collapse of microscopic bubbles in the cleaning solution, which
+          dislodges surface dirt
+          {cite:chahine-2016-cavitation-bubble-collapse}{cite:mason-1999-ultrasonic}. The same
+          energy that removes dirt can also:
 
-          - **Filled gems**: Can remove or damage fillers (emerald, ruby) {cite:kammerling-1991}
-          - **Gems with cleavage**: Vibration can propagate fractures
-          - **Fragile inclusions**: Can cause expansion/damage
-          - **Organic gems**: Can damage pearl nacre, amber
-          - **Treated gems**: May affect surface treatments
+          - Strip or damage fracture-filling oils and resins in emerald {cite:kammerling-1991}
+          - Loosen glass fillers in lead-glass-filled ruby {cite:mcclure-2006-lead-glass-ruby}
+          - Dislodge fillers in clarity-enhanced diamonds {cite:kammerling-1994}
+          - Propagate existing fractures in gems with pronounced cleavage
+          - Damage organic gems such as pearl and amber
 
       - title: Steam Cleaning Safety
         content: |
-          Steam cleaning combines heat and moisture, dangerous for:
-
-          - **Oiled emeralds**: Heat can remove oil {cite:kammerling-1991}
-          - **Heat-sensitive gems**: Thermal shock risk
-          - **Filled gems**: Heat damages many fillers
-          - **Opal**: Rapid temperature change causes crazing
+          Steam cleaning combines heat and moisture and is a documented risk for oiled or
+          resin-filled emerald
+          {cite:kammerling-1991}{cite:johnson-2007-durability-filled-emeralds}, lead-glass-filled
+          ruby {cite:mcclure-2006-lead-glass-ruby}, filled diamonds {cite:kammerling-1994}, and
+          opal, where rapid temperature change can encourage crazing
+          {cite:chauvire-2023-cracking-gem-opals}.
 
   - title: Cleaning Safety Chart
+    content: |
+      The following chart follows GIA's own gem-by-gem care and cleaning guidance.
     table:
       caption: Cleaning Method Safety by Gem
       headers:
@@ -356,21 +778,162 @@ sections:
         - Ultrasonic
         - Steam
       rows:
-        - ["Diamond (natural)", "Safe", "Usually safe", "Usually safe"]
-        - ["Ruby/Sapphire (untreated)", "Safe", "Usually safe", "Usually safe"]
-        - ["Ruby/Sapphire (heated)", "Safe", "Caution", "Caution"]
-        - ["Emerald (oiled)", "Safe", "Never", "Never"]
-        - ["Aquamarine", "Safe", "Usually safe", "Usually safe"]
-        - ["Tanzanite", "Safe", "Never", "Never"]
-        - ["Tourmaline", "Safe", "Caution", "Caution"]
-        - ["Opal", "Caution", "Never", "Never"]
-        - ["Pearl", "Safe (brief)", "Never", "Never"]
-        - ["Turquoise", "Never (dry brush)", "Never", "Never"]
+        - ["Diamond (untreated)", "Safe {cite:gia-diamond-care-cleaning}", "Usually safe {cite:gia-diamond-care-cleaning}", "Usually safe {cite:gia-diamond-care-cleaning}"]
+        - ["Ruby / Sapphire (untreated or heated)", "Safe {cite:gia-ruby-care-cleaning}{cite:gia-sapphire-care-cleaning}", "Usually safe {cite:gia-ruby-care-cleaning}{cite:gia-sapphire-care-cleaning}", "Usually safe {cite:gia-ruby-care-cleaning}{cite:gia-sapphire-care-cleaning}"]
+        - ["Emerald (oiled/filled)", "Safe {cite:gia-emerald-care-cleaning}", "Never {cite:gia-emerald-care-cleaning}", "Never {cite:gia-emerald-care-cleaning}"]
+        - ["Aquamarine", "Safe {cite:gia-aquamarine-care-cleaning}", "Usually safe {cite:gia-aquamarine-care-cleaning}", "Usually safe {cite:gia-aquamarine-care-cleaning}"]
+        - ["Tanzanite", "Safe {cite:gia-tanzanite-care-cleaning}", "Never {cite:gia-tanzanite-care-cleaning}", "Never {cite:gia-tanzanite-care-cleaning}"]
+        - ["Tourmaline", "Safe {cite:gia-tourmaline-care-cleaning}", "Usually safe {cite:gia-tourmaline-care-cleaning}", "Caution {cite:gia-tourmaline-care-cleaning}"]
+        - ["Opal", "Caution {cite:gia-opal-care-cleaning}", "Never {cite:gia-opal-care-cleaning}", "Never {cite:gia-opal-care-cleaning}"]
+        - ["Pearl", "Wipe with soft cloth only {cite:gia-pearl-care-cleaning}", "Never {cite:gia-pearl-care-cleaning}", "Never {cite:gia-pearl-care-cleaning}"]
+        - ["Turquoise", "Damp soft cloth only {cite:gia-turquoise-care-cleaning}", "Never {cite:gia-turquoise-care-cleaning}", "Never {cite:gia-turquoise-care-cleaning}"]
+        - ["Peridot", "Safe {cite:gia-peridot-care-cleaning}", "Caution {cite:gia-peridot-care-cleaning}", "Never {cite:gia-peridot-care-cleaning}"]
+        - ["Topaz", "Safe {cite:gia-topaz-care-cleaning}", "Caution {cite:gia-topaz-care-cleaning}", "Never {cite:gia-topaz-care-cleaning}"]
+        - ["Garnet", "Safe {cite:gia-garnet-care-cleaning}", "Usually safe {cite:gia-garnet-care-cleaning}", "Usually safe {cite:gia-garnet-care-cleaning}"]
+        - ["Amethyst", "Safe {cite:gia-amethyst-care-cleaning}", "Usually safe {cite:gia-amethyst-care-cleaning}", "Usually safe {cite:gia-amethyst-care-cleaning}"]
+        - ["Spinel", "Safe {cite:gia-spinel-care-cleaning}", "Usually safe {cite:gia-spinel-care-cleaning}", "Usually safe {cite:gia-spinel-care-cleaning}"]
+        - ["Kunzite", "Safe {cite:gia-kunzite-care-cleaning}", "Never {cite:gia-kunzite-care-cleaning}", "Never {cite:gia-kunzite-care-cleaning}"]
+
+  - title: Light and Heat Sensitivity
+    content: |
+      Several gem species are sensitive to prolonged light exposure, heat, or both, independent
+      of their hardness or cleavage.
+    subsections:
+      - title: Kunzite
+        content: |
+          Kunzite, the pink-to-lilac variety of spodumene, owes its colour to manganese-related
+          colour centres that are documented to bleach under prolonged strong light or heat
+          {cite:claffy-1953-spodumene-tenebrescence}{cite:schmitz-lehmann-1975-mn-color-centers-spodumene}.
+          GIA's consumer guidance confirms the practical consequence: kunzite can fade with
+          extended exposure to heat or intense light {cite:gia-kunzite-care-cleaning}. Store
+          kunzite away from strong light and heat, and out of direct sun in a display case.
+
+      - title: Amethyst
+        content: |
+          Some amethyst colour can fade with prolonged exposure to intense light
+          {cite:gia-amethyst-care-cleaning}. This is a separate phenomenon from the well-studied
+          heat- and irradiation-induced colour change between the amethyst and citrine forms of
+          quartz, driven by iron-related colour centres
+          {cite:nassau-1981-amethyst}{cite:cheng-guo-2020-amethyst-heat-treatment}. Amethyst
+          should be kept away both from strong display lighting and from direct heat.
+
+      - title: Rose Quartz
+        content: |
+          Rose quartz's colour stability under normal wear is not well documented in the
+          scientific literature; as a precaution, avoid prolonged direct sun exposure and very
+          hot conditions.
+
+      - title: Brown and Irradiated Topaz
+        content: |
+          Natural brown topaz can lose colour on exposure to light and heat, a phenomenon
+          documented in early studies of colour alteration in topaz
+          {cite:nassau-1985-altering-color-topaz}; heat can also visibly alter mineral
+          inclusions within topaz {cite:kammerling-koivula-1989-topaz-inclusions}. Irradiated
+          blue topaz, the most common topaz colour on the market, is considered stable under
+          normal wear and light exposure, though as with any colour-treated stone it should
+          still be kept away from prolonged high heat during repairs (see Treatment-Specific
+          Care below).
+
+      - title: Maxixe-Type Beryl
+        content: |
+          Deep blue "Maxixe" and Maxixe-type beryl owes its saturated colour to unstable
+          radiation-induced colour centres and is strongly documented to fade on exposure to
+          light, in some cases within weeks of display
+          {cite:nassau-wood-1973-maxixe-beryl}{cite:nassau-prescott-1981-nonfading-maxixe-beryl}.
+          This material should be stored in the dark and treated as display-only.
+
+      - title: Opal
+        content: |
+          Opal is an amorphous, hydrous form of silica whose water content contributes to
+          crazing, a network of fine internal cracks {cite:gia-opal-care-cleaning}. Controlled
+          heating experiments show that opal stored in water cracks at markedly lower
+          temperatures once it later dries out than opal stored in air, and that for
+          water-stored material the cracking is linked to drying shrinkage rather than
+          superheated-water decrepitation {cite:chauvire-2023-cracking-gem-opals}. In practice
+          this means water storage does not protect opal from crazing and may make it more
+          vulnerable once it is removed from water (see Storage Guidelines below).
+
+      - title: Tanzanite
+        content: |
+          Heat measurably changes tanzanite's colour: laboratory heat treatment shifts natural
+          brownish, trichroic material toward the pure violet-to-blue dichroism seen in most
+          commercial stones, an effect attributed to vanadium as the principal colouring agent
+          {cite:pluthametwisute-2020-tanzanite-heat-treatment}{cite:thongnopkun-2018-tanzanite-heat}.
+          This colour sensitivity is distinct from the risk of physical fracture: tanzanite's
+          perfect cleavage makes sudden temperature change a plausible mechanical hazard, though
+          this specific fracture mechanism has not been directly studied. As a precaution, avoid
+          sudden temperature swings and never use ultrasonic or steam cleaning
+          {cite:gia-tanzanite-care-cleaning}. General thermal behaviour of the zoisite mineral
+          group provides supporting background {cite:newton-1965-zoisite}.
+
+      - title: Turquoise and Chrysoprase
+        content: |
+          Turquoise and chrysoprase are both sometimes reported to dull or dehydrate with age
+          and exposure to heat or dry air, but this is not well documented in peer-reviewed
+          gemmological literature. [CITATION NEEDED] Keep both away from direct heat as a
+          precaution, and see Chemicals, Cosmetics and Metal Care below for turquoise's
+          separately well-documented chemical sensitivity.
+
+  - title: Chemicals, Cosmetics and Metal Care
+    content: |
+      Many gems, and the metal alloys that hold them, are vulnerable to common household and
+      cosmetic chemicals.
+    subsections:
+      - title: Pearls
+        content: |
+          Pearl nacre can be damaged by many chemicals and all acids, including hair spray,
+          perfume, cosmetics, and even perspiration {cite:gia-pearl-care-cleaning}. Trade
+          practice accordingly recommends putting pearls on last, after cosmetics and perfume
+          have been applied, and taking them off first; this sequencing is standard trade
+          practice rather than a documented finding in its own right, but it follows directly
+          from pearls' well-documented chemical sensitivity {cite:gia-pearl-care-cleaning}. Wipe
+          pearls with a soft cloth after wearing; never clean them ultrasonically or with steam.
+
+      - title: Chlorine and Metal Alloys
+        content: |
+          Chloride ions are documented in laboratory testing to cause stress-corrosion cracking
+          in low-karat gold alloys
+          {cite:rapson-1996-gold-alloy-corrosion}{cite:ward-2013-gold-alloy-nacl-corrosion}{cite:neumeyer-2009-gold-scc-screening}.
+          Chlorinated pool and spa water is a chloride source, so although these specific
+          studies tested laboratory salt solutions rather than pool water directly, extending
+          their finding to swimming and hot-tub use is a reasonable precaution: remove gold
+          jewellery before swimming in chlorinated water.
+
+      - title: Turquoise
+        content: |
+          Turquoise is porous and can be discoloured by skin oils, cosmetics, and other
+          chemicals, and dissolves slowly in hydrochloric acid {cite:gia-turquoise-care-cleaning}.
+          Some commercial turquoise is treated to reduce this porosity and its tendency to
+          absorb discolouring agents {cite:fritsch-1999-zachery-turquoise}. Clean turquoise with
+          a soft, slightly damp cloth only, never with solvents or ultrasonic cleaning.
+
+      - title: Coral and Malachite
+        content: |
+          Coral is a calcium-carbonate skeletal material {cite:grillo-1993-coral-skeleton} and
+          malachite is a copper carbonate mineral {cite:perchiazzi-merlino-2006-malachite}; both
+          are attacked by acids, including many common household and cosmetic products, and both
+          scratch and etch easily. Clean both with a soft dry cloth only.
+
+      - title: Amber
+        content: |
+          Amber can be damaged by many chemicals, including perfume, hairspray, and cleaning
+          solvents, and the only safe cleaning method is warm soapy water
+          {cite:gia-amber-care-cleaning}. Amber's solubility in organic solvents is well enough
+          established that solvent treatment is itself used as an analytical technique to
+          recover fossil pollen and spores trapped inside it {cite:halbwachs-2020-amber-solvent},
+          illustrating how reactive the surface is.
+
+      - title: Lapis Lazuli
+        content: |
+          Lapis lazuli is often dyed to even out its colour, and this dye can be removed by
+          acetone or denatured alcohol; the wax sometimes used to seal the surface can also
+          deteriorate with heat or solvents {cite:gia-lapis-lazuli-care-cleaning}. Test any
+          cleaning method on an inconspicuous area first, and avoid solvents and prolonged heat.
 
   - title: Setting Recommendations
     content: |
-      The choice of setting can protect vulnerable gems or expose durable gems to show
-      their beauty.
+      The choice of setting can protect vulnerable gems or expose durable gems to show their
+      beauty to best effect.
     subsections:
       - title: Protective Settings
         table:
@@ -382,7 +945,7 @@ sections:
             - ["Bezel", "High", "Soft gems, cleavage-prone gems"]
             - ["Half-bezel", "Moderate", "Balance of protection and light"]
             - ["Flush/gypsy", "Very high", "Rings for active wearers"]
-            - ["Halo", "Moderate", "Central stone protected by smaller stones"]
+            - ["Halo", "Moderate", "Central stone protected by smaller surrounding stones"]
 
       - title: Exposed Settings
         table:
@@ -400,29 +963,46 @@ sections:
           **Recommended for prong settings (rings):**
           Diamond, ruby, sapphire, chrysoberyl, spinel
 
-          **Recommend bezel or protective settings:**
+          **Recommend bezel or other protective settings:**
           Emerald, tanzanite, opal, moonstone, tourmaline, peridot
 
-          **Best avoided in rings:**
-          Kunzite, fluorite, apatite, pearl (unless protective setting)
+          **Best avoided in daily-wear rings:**
+          Kunzite, fluorite, pearl (unless in a protective setting)
 
   - title: Storage Guidelines
     subsections:
       - title: Separation
         content: |
-          Store gems separately to prevent harder gems from scratching softer ones:
+          - Store gems individually, in separate soft pouches or fabric-lined compartments, not
+            loose together
+          - A diamond can scratch any other gem material, and can also scratch the precious
+            metal of another piece's setting {cite:gia-diamond-care-cleaning}
+          - Softer gems should never share a compartment with harder ones
 
-          - Individual pouches or compartments
-          - Soft fabric lining
-          - Never loose in a box together
-          - Diamond will scratch everything else
-
-      - title: Environment
+      - title: Light and Temperature
         content: |
-          - **Humidity**: Some gems need moisture (opal, pearl); others need dry (iron pyrite)
-          - **Light**: Store light-sensitive gems in dark containers
-          - **Temperature**: Avoid extreme temperatures; room temperature ideal
-          - **Air**: Some gems need ventilation; airtight can trap moisture
+          - Store light-fading gems, kunzite, amethyst, brown topaz, and Maxixe-type beryl, away
+            from strong or prolonged light
+            {cite:gia-kunzite-care-cleaning}{cite:gia-amethyst-care-cleaning}{cite:gia-topaz-care-cleaning}
+          - Avoid extreme or fluctuating temperatures; stable room temperature and humidity suit
+            most gems best
+
+      - title: Opal
+        content: |
+          Do not store opal in water or on damp cotton wool, despite this being long-standing
+          trade advice. Peer-reviewed testing shows that water-saturated opal actually cracks at
+          lower temperatures once it later dries {cite:chauvire-2023-cracking-gem-opals}, so
+          wetting opal relocates rather than removes the crazing risk. Only certain Ethiopian
+          hydrophane opal varieties genuinely absorb and release water reversibly without damage
+          {cite:rondeau-2010-ethiopia-opal}, and these should be identified by a gemmologist
+          rather than assumed. Ordinary precious opal should be stored dry, away from extreme
+          heat and rapid temperature change, and not sealed in an airtight container.
+
+      - title: Pearls
+        content: |
+          Dry strung pearls fully before wearing or storing them, since damp string encourages
+          stretching and mildew {cite:gia-pearl-care-cleaning}. Store pearls flat, away from
+          harder gems that could scratch the nacre.
 
       - title: Special Storage Needs
         table:
@@ -430,87 +1010,160 @@ sections:
             - Gem
             - Special Requirements
           rows:
-            - ["Opal", "Damp cotton nearby; avoid airtight; stable temperature"]
-            - ["Pearl", "Breathable container; occasional wear maintains moisture"]
-            - ["Amber", "Away from solvents and heat"]
-            - ["Kunzite", "Complete darkness"]
-            - ["Turquoise", "Away from oils and cosmetics"]
+            - ["Opal", "Store dry; avoid extreme heat and rapid temperature change {cite:gia-opal-care-cleaning}{cite:chauvire-2023-cracking-gem-opals}"]
+            - ["Pearl", "Dry fully before storing; lay flat, away from harder gems {cite:gia-pearl-care-cleaning}"]
+            - ["Kunzite / Amethyst / Maxixe beryl / Brown topaz", "Store away from strong or prolonged light {cite:gia-kunzite-care-cleaning}{cite:gia-amethyst-care-cleaning}"]
+            - ["Amber", "Away from solvents, perfume, and heat {cite:gia-amber-care-cleaning}"]
+            - ["Turquoise / Coral / Malachite", "Away from oils, cosmetics, and acids {cite:gia-turquoise-care-cleaning}"]
 
-  - title: Jewellery Suitability Chart
+  - title: Treatment-Specific Care
+    content: |
+      Most gems on the market today carry at least one treatment. Disclosure obligations for
+      those treatments are covered in the [treatment disclosure](/learn/market/disclosure/)
+      guide; this section focuses on the practical care consequences of the most common ones.
+    subsections:
+      - title: Oiled and Resin-Filled Emeralds
+        content: |
+          Nearly all commercial emerald is fracture-filled with oil or resin (traditionally
+          cedarwood oil, more recently synthetic resins such as Opticon) to reduce the
+          visibility of surface-reaching fractures {cite:kammerling-1991}{cite:nassau-1994-emerald}.
+          A dedicated durability study of 128 filled emeralds found that around 35% changed
+          detectably after mild exposure testing, with liquid oil fillers the most susceptible
+          to ultrasonic cleaning and to solvents such as ethanol and acetone; the study
+          recommends cleaning with soap and water only, and professional re-oiling or resealing
+          when a filler visibly degrades {cite:johnson-2007-durability-filled-emeralds}. Never
+          use ultrasonic or steam cleaning, and keep filled emeralds away from a jeweller's torch
+          and other high-heat repair work {cite:johnson-1999-emerald}.
+
+      - title: Lead-Glass-Filled Ruby
+        content: |
+          Ruby with large fractures is increasingly filled with high-lead-content glass, a
+          treatment classed by consumer-protection regulators as producing a composite stone
+          rather than ruby (see [treatment disclosure](/learn/market/disclosure/)). Lead-glass
+          filling is markedly less durable than traditional oil or resin filling in emerald: the
+          glass filler can be attacked by common household chemicals, dissolved by lemon juice
+          and other mild acids, and can even melt under the heat of a jeweller's torch during
+          routine repair work {cite:mcclure-2006-lead-glass-ruby}. Clean lead-glass-filled ruby
+          with a soft cloth and mild soap only; never use ultrasonic or steam cleaning, and warn
+          a repair jeweller before any torch work.
+
+      - title: Fracture-Filled Diamonds
+        content: |
+          Diamonds with fractures reaching the surface are sometimes filled with a
+          high-refractive-index glass to make the fracture less visible. The filler is
+          documented to be vulnerable to the heat of jewellery repair, to ultrasonic cleaning,
+          and to some jewellery-cleaning chemicals, and can visibly change or become dislodged as
+          a result {cite:koivula-1989-filled-diamonds}{cite:kammerling-1994}. Clean filled
+          diamonds with a soft cloth and mild soap only, and inform any jeweller carrying out
+          repairs or resizing that the stone is filled.
+
+      - title: Heat-Treated and Beryllium-Diffused Corundum
+        content: |
+          Heat treatment is the most widely accepted enhancement in the ruby and sapphire trade,
+          and heat-treated stones are generally considered as durable as untreated stones for
+          normal wear, cleaning, and repair
+          {cite:emmett-2003-beryllium-diffusion}{cite:gia-ruby-care-cleaning}{cite:gia-sapphire-care-cleaning}.
+          Some yellow sapphire colour types are more light- or heat-sensitive than others
+          depending on their colour origin {cite:nassau-valente-1987-yellow-sapphire}, so care
+          recommendations can vary by colour type. Beryllium-diffused corundum is the exception
+          to the "no special care" rule: the diffused colour layer is extremely thin, and
+          repolishing or recutting facets on a beryllium-diffused stone can remove the colour
+          layer entirely {cite:emmett-2003-beryllium-diffusion}.
+
+      - title: Dyed Materials
+        content: |
+          Dyed gem materials, including dyed chalcedony, jade, and pearls, are reviewed in the
+          gemmological literature primarily as an identification challenge
+          {cite:mcclure-2010-gemstone-enhancement}. Whether the dye itself fades under normal
+          light exposure is not well documented for most dyed materials. [CITATION NEEDED] As a
+          precaution, clean dyed gems with a soft cloth and mild soap only, avoid solvents, and
+          keep them out of prolonged strong light.
+
+      - title: Coated Stones
+        content: |
+          Surface coatings, used for example to enhance the blue-violet colour of some
+          tanzanite, sit on the surface of the stone rather than penetrating it, and can be
+          scratched, worn away by everyday abrasion, or removed by solvents and ultrasonic
+          cleaning {cite:mcclure-2008-coated-tanzanite}{cite:mcclure-2010-gemstone-enhancement}.
+          Clean coated stones with a soft dry cloth only, and treat any coating as cosmetic and
+          temporary rather than permanent.
+
+      - title: Irradiated and HPHT-Treated Stones
+        content: |
+          Irradiated blue topaz is considered colour-stable under normal wear and light exposure
+          once appropriately treated and settled to safe radioactivity levels; the main care
+          concern is the same cleavage-related caution that applies to all topaz (see Toughness
+          and Cleavage above). High-pressure high-temperature (HPHT) treatment of diamond is
+          reported to produce a permanent colour change under normal conditions, though the
+          original studies establishing this are not independently retrievable, so the claim
+          rests on secondary review rather than a directly checkable primary source
+          {cite:mcclure-2010-gemstone-enhancement}. As with any treated diamond, avoid
+          unnecessary exposure to extreme heat during repair work.
+
+  - title: Per-Stone Quick Reference
+    content: |
+      A single consolidated reference for wearability, cleaning method, and the single most
+      important caution for each commonly encountered gem.
     table:
-      caption: Gem Suitability by Jewellery Type
+      caption: Gem Suitability, Cleaning, and Key Cautions
       headers:
         - Gem
-        - Daily Ring
-        - Occasional Ring
-        - Earrings
-        - Pendant
-        - Bracelet
+        - Mohs
+        - Wearability
+        - Ultrasonic
+        - Steam
+        - Key Cautions
       rows:
-        - ["Diamond", "Excellent", "Excellent", "Excellent", "Excellent", "Excellent"]
-        - ["Ruby/Sapphire", "Excellent", "Excellent", "Excellent", "Excellent", "Excellent"]
-        - ["Emerald", "Caution", "Good", "Excellent", "Excellent", "Caution"]
-        - ["Aquamarine", "Good", "Excellent", "Excellent", "Excellent", "Good"]
-        - ["Tanzanite", "Poor", "Caution", "Good", "Good", "Poor"]
-        - ["Tourmaline", "Good", "Excellent", "Excellent", "Excellent", "Good"]
-        - ["Opal", "Poor", "Caution", "Good", "Good", "Poor"]
-        - ["Pearl", "Caution", "Good", "Excellent", "Excellent", "Caution"]
-        - ["Moonstone", "Caution", "Good", "Excellent", "Excellent", "Caution"]
-        - ["Peridot", "Caution", "Good", "Good", "Good", "Caution"]
-        - ["Kunzite", "Poor", "Poor", "Good", "Good", "Poor"]
-        - ["Topaz", "Good", "Excellent", "Excellent", "Excellent", "Good"]
+        - ["Diamond (untreated)", "10", "Excellent for daily ring wear", "Usually safe {cite:gia-diamond-care-cleaning}", "Usually safe {cite:gia-diamond-care-cleaning}", "Scratches other gems and metals stored alongside it {cite:gia-diamond-care-cleaning}"]
+        - ["Ruby / Sapphire (untreated or heated)", "9", "Excellent for daily ring wear", "Usually safe {cite:gia-ruby-care-cleaning}", "Usually safe {cite:gia-sapphire-care-cleaning}", "Beryllium-diffused stones lose their colour layer if repolished {cite:emmett-2003-beryllium-diffusion}"]
+        - ["Emerald (oiled/filled)", "7.5-8", "Caution for daily rings; better in pendants/earrings", "Never {cite:gia-emerald-care-cleaning}", "Never {cite:gia-emerald-care-cleaning}", "Filler can exude, dry out, or be stripped by solvents and heat {cite:johnson-2007-durability-filled-emeralds}"]
+        - ["Aquamarine", "7.5-8", "Good for most jewellery", "Usually safe {cite:gia-aquamarine-care-cleaning}", "Usually safe {cite:gia-aquamarine-care-cleaning}", "Maxixe-type blue colour can fade in light {cite:nassau-wood-1973-maxixe-beryl}"]
+        - ["Tanzanite", "6-7", "Poor for daily rings; good for earrings/pendants", "Never {cite:gia-tanzanite-care-cleaning}", "Never {cite:gia-tanzanite-care-cleaning}", "Perfect cleavage; avoid sudden temperature change {cite:gia-tanzanite-care-cleaning}"]
+        - ["Tourmaline", "7-7.5", "Good for most jewellery", "Usually safe {cite:gia-tourmaline-care-cleaning}", "Caution {cite:gia-tourmaline-care-cleaning}", "Some colours are heat-sensitive {cite:gia-tourmaline-care-cleaning}"]
+        - ["Opal", "5.5-6.5", "Poor for daily rings; good for earrings/pendants", "Never {cite:gia-opal-care-cleaning}", "Never {cite:gia-opal-care-cleaning}", "Can craze on drying or rapid heating; do not store in water {cite:chauvire-2023-cracking-gem-opals}"]
+        - ["Pearl", "2.5-4.5", "Caution for daily rings; good for earrings/pendants", "Never {cite:gia-pearl-care-cleaning}", "Never {cite:gia-pearl-care-cleaning}", "Damaged by acids, perfume, and cosmetics {cite:gia-pearl-care-cleaning}"]
+        - ["Turquoise", "5-6", "Caution; porous and relatively soft", "Never {cite:gia-turquoise-care-cleaning}", "Never {cite:gia-turquoise-care-cleaning}", "Discoloured by oils, cosmetics, and chemicals {cite:gia-turquoise-care-cleaning}"]
+        - ["Peridot", "6.5-7", "Caution for daily rings", "Caution {cite:gia-peridot-care-cleaning}", "Never {cite:gia-peridot-care-cleaning}", "Sensitive to sudden temperature change and acids {cite:gia-peridot-care-cleaning}"]
+        - ["Topaz", "8", "Good, but mind the cleavage", "Caution {cite:gia-topaz-care-cleaning}", "Never {cite:gia-topaz-care-cleaning}", "Perfect basal cleavage; brown colour can fade in light {cite:nassau-1985-altering-color-topaz}"]
+        - ["Garnet", "6.5-7.5", "Good for most jewellery", "Usually safe {cite:gia-garnet-care-cleaning}", "Usually safe {cite:gia-garnet-care-cleaning}", "Generally stable and durable {cite:gia-garnet-care-cleaning}"]
+        - ["Amethyst", "7", "Good for most jewellery", "Usually safe {cite:gia-amethyst-care-cleaning}", "Usually safe {cite:gia-amethyst-care-cleaning}", "Can fade in prolonged strong light; heat alters colour {cite:gia-amethyst-care-cleaning}{cite:cheng-guo-2020-amethyst-heat-treatment}"]
+        - ["Spinel", "8", "Excellent for daily ring wear", "Usually safe {cite:gia-spinel-care-cleaning}", "Usually safe {cite:gia-spinel-care-cleaning}", "Generally stable and durable {cite:gia-spinel-care-cleaning}"]
+        - ["Kunzite", "6.5-7", "Poor for daily rings; display or occasional wear", "Never {cite:gia-kunzite-care-cleaning}", "Never {cite:gia-kunzite-care-cleaning}", "Perfect cleavage; fades in strong light or heat {cite:gia-kunzite-care-cleaning}"]
+        - ["Amber", "2-2.5", "Poor for daily rings; display or occasional wear", "Never {cite:gia-amber-care-cleaning}", "Never {cite:gia-amber-care-cleaning}", "Damaged by many chemicals and solvents {cite:gia-amber-care-cleaning}"]
+        - ["Lapis lazuli", "5-6", "Caution; soft and porous", "Never {cite:gia-lapis-lazuli-care-cleaning}", "Never {cite:gia-lapis-lazuli-care-cleaning}", "Dye removable by solvents; wax sealer degrades with heat {cite:gia-lapis-lazuli-care-cleaning}"]
 
   - title: Special Care Gems
-    subsections:
-      - title: Opal
-        content: |
-          Opal contains 3-21% water and is prone to "crazing" (network of fine cracks) {cite:banerjee-1999-opal}{cite:herrmann-2022-crazing}:
+    content: |
+      Four species deserve particular attention because they combine several risk factors at
+      once:
 
-          - Avoid rapid temperature changes
-          - Store with damp cotton (not wet)
-          - Never use ultrasonic or steam
-          - Keep away from direct sunlight and heat
-          - Doublets and triplets are especially vulnerable to water
-
-      - title: Pearl
-        content: |
-          Pearls are sensitive to acids, cosmetics, and drying:
-
-          - Apply perfume and hairspray before putting on pearls
-          - Wipe with soft cloth after wearing
-          - Store in breathable fabric, not plastic
-          - Restring regularly (silk stretches and weakens)
-          - Occasional wearing maintains moisture balance
-
-      - title: Emerald
-        content: |
-          Nearly all emeralds are oiled to improve apparent clarity {cite:kammerling-1991}{cite:nassau-1994-emerald}:
-
-          - Oil can dry out or exude over time
-          - Avoid ultrasonic and steam cleaning
-          - Avoid heat (jeweller's torch is dangerous)
-          - May need periodic re-oiling {cite:johnson-1999-emerald}
-          - Store away from heat sources
-
-      - title: Tanzanite
-        content: |
-          Tanzanite has perfect cleavage and is heat-sensitive {cite:newton-1965-zoisite}:
-
-          - Extremely vulnerable during setting (cleavage)
-          - Never use ultrasonic or steam
-          - Avoid sudden temperature changes
-          - Not recommended for daily ring wear
-          - Excellent for earrings and pendants
+      - **Opal**: soft, water-bearing, prone to crazing; never ultrasonic or steam; store dry,
+        not in water (see Light and Heat Sensitivity, Storage Guidelines)
+      - **Pearl**: soft, acid- and chemical-sensitive, organic; wipe only, apply cosmetics before
+        putting pearls on (see Chemicals, Cosmetics and Metal Care)
+      - **Emerald**: almost always fracture-filled; never ultrasonic, steam, or torch heat;
+        expect occasional professional re-oiling (see Treatment-Specific Care)
+      - **Tanzanite**: perfect cleavage combined with heat-sensitive colour; best reserved for
+        earrings and pendants rather than daily-wear rings (see Toughness and Cleavage, Light
+        and Heat Sensitivity)
 
   - title: Care Summary
     callout:
       type: tip
       title: Universal Care Rules
       text: |
-        1. **Remove rings** during physical work, gardening, sports
-        2. **Put jewellery on last** after cosmetics, perfume, hairspray
-        3. **Remove jewellery first** before showering, swimming, sleeping
-        4. **Clean gently** with appropriate methods for each gem
-        5. **Store separately** in soft, individual compartments
-        6. **Inspect regularly** for loose settings, worn prongs
-        7. **Know your gem** and its specific vulnerabilities
+        1. **Remove rings** during physical work, gardening, and sports
+        2. **Put jewellery on last**, after cosmetics, perfume, and hairspray
+        3. **Remove jewellery first**, before showering, swimming, or sleeping
+        4. **Clean gently**, with the method appropriate to each gem
+        5. **Store separately**, in soft, individual compartments
+        6. **Inspect regularly** for loose settings and worn prongs
+        7. **Know your gem**, its treatments, and its specific vulnerabilities
+
+  - title: Caring for the Setting
+    callout:
+      type: info
+      title: Metal Care
+      text: |
+        For caring for the metal your stone is set in – silver, gold, gold-filled – see the
+        jewelry care guides at [jewlarray.ch/care](https://www.jewlarray.ch/care).
